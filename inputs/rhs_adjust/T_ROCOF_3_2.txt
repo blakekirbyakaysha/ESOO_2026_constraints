@@ -1,0 +1,313 @@
+Collection	Parent Object	Child Object	Property	Value	Data File	Units	Band	Date From	Date To	Timeslice	Action	Expression	Scenario	Memo	Category
+"Constraints"	"NEM"	"T_ROCOF_3_2"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"Grp0"	"="	"1 578.14 MUL ADD
+Var_X_TAS_INERTIA_PD{0} 100 MUL ADD
+Var_X-TAS_NATIVE_PD{0} 1.306 MUL ADD
+Var_T_ROCOF_3_2_G_4{0} -6.02 MUL ADD
+Var_T_ROCOF_3_2_G_10{0} -5.671 MUL ADD
+Var_T_ROCOF_3_2_G_16{0} -8.471 MUL ADD
+1 -439.5 MUL ADD
+0.1195 MUL
+GenLoad_CTHLWF1 -0.0337 MUL ADD
+BatDChg_7Liapootah220 -0.0337 MUL ADD
+BatChrg_7Liapootah220 0.0337 MUL ADD
+BatDChg_7Palmerston220 -0.0337 MUL ADD
+BatChrg_7Palmerston220 0.0337 MUL ADD
+BatDChg_7Waddamana110 -0.0337 MUL ADD
+BatChrg_7Waddamana110 0.0337 MUL ADD
+""BatDChg_Palmerston BESS (Akaysha)"" -0.0337 MUL ADD
+""BatChrg_Palmerston BESS (Akaysha)"" 0.0337 MUL ADD
+""GenLoad_7Liapootah220 Solar"" -0.0337 MUL ADD
+""GenLoad_7Liapootah220 Wind"" -0.0337 MUL ADD
+""GenLoad_7Palmerston220 Solar"" -0.0337 MUL ADD
+""GenLoad_7Palmerston220 Wind"" -0.0337 MUL ADD
+""GenLoad_7Waddamana110 Solar"" -0.0337 MUL ADD
+""GenLoad_7Waddamana110 Wind"" -0.0337 MUL ADD
+""GenLoad_Cellars Hill Wind Farm"" -0.0337 MUL ADD
+""GenLoad_Weasel Solar Farm"" -0.0337 MUL ADD
+"	""	""	"NetworkConstraints"
+"Constraints"	"NEM"	"T_ROCOF_3_2"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"Grp1"	"="	"1 578.14 MUL ADD
+Var_X_TAS_INERTIA_PD{0} 100 MUL ADD
+Var_X-TAS_NATIVE_PD{0} 1.306 MUL ADD
+Var_T_ROCOF_3_2_G_4{0} -6.02 MUL ADD
+Var_T_ROCOF_3_2_G_10{0} -5.671 MUL ADD
+Var_T_ROCOF_3_2_G_16{0} -8.471 MUL ADD
+1 -439.5 MUL ADD
+0.1195 MUL
+GenLoad_CTHLWF1 -0.0337 MUL ADD
+BatDChg_7Liapootah220 -0.0337 MUL ADD
+BatChrg_7Liapootah220 0.0337 MUL ADD
+BatDChg_7Palmerston220 -0.0337 MUL ADD
+BatChrg_7Palmerston220 0.0337 MUL ADD
+BatDChg_7Waddamana110 -0.0337 MUL ADD
+BatChrg_7Waddamana110 0.0337 MUL ADD
+""BatDChg_Palmerston BESS (Akaysha)"" -0.0337 MUL ADD
+""BatChrg_Palmerston BESS (Akaysha)"" 0.0337 MUL ADD
+""GenLoad_7Liapootah220 Solar"" -0.0337 MUL ADD
+""GenLoad_7Liapootah220 Wind"" -0.0337 MUL ADD
+""GenLoad_7Palmerston220 Solar"" -0.0337 MUL ADD
+""GenLoad_7Palmerston220 Wind"" -0.0337 MUL ADD
+""GenLoad_7Waddamana110 Solar"" -0.0337 MUL ADD
+""GenLoad_7Waddamana110 Wind"" -0.0337 MUL ADD
+""GenLoad_Cellars Hill Wind Farm"" -0.0337 MUL ADD
+""GenLoad_Weasel Solar Farm"" -0.0337 MUL ADD
+"	""	""	"NetworkConstraints"
+"Constraints"	"NEM"	"T_ROCOF_3_2"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"Grp10"	"="	"1 578.14 MUL ADD
+Var_X_TAS_INERTIA_PD{0} 100 MUL ADD
+Var_X-TAS_NATIVE_PD{0} 1.306 MUL ADD
+Var_T_ROCOF_3_2_G_4{0} -6.02 MUL ADD
+Var_T_ROCOF_3_2_G_10{0} -5.671 MUL ADD
+Var_T_ROCOF_3_2_G_16{0} -8.471 MUL ADD
+1 -439.5 MUL ADD
+0.1195 MUL
+GenLoad_CTHLWF1 -0.0337 MUL ADD
+BatDChg_7Liapootah220 -0.0337 MUL ADD
+BatChrg_7Liapootah220 0.0337 MUL ADD
+BatDChg_7Palmerston220 -0.0337 MUL ADD
+BatChrg_7Palmerston220 0.0337 MUL ADD
+BatDChg_7Waddamana110 -0.0337 MUL ADD
+BatChrg_7Waddamana110 0.0337 MUL ADD
+""BatDChg_Palmerston BESS (Akaysha)"" -0.0337 MUL ADD
+""BatChrg_Palmerston BESS (Akaysha)"" 0.0337 MUL ADD
+""GenLoad_7Liapootah220 Solar"" -0.0337 MUL ADD
+""GenLoad_7Liapootah220 Wind"" -0.0337 MUL ADD
+""GenLoad_7Palmerston220 Solar"" -0.0337 MUL ADD
+""GenLoad_7Palmerston220 Wind"" -0.0337 MUL ADD
+""GenLoad_7Waddamana110 Solar"" -0.0337 MUL ADD
+""GenLoad_7Waddamana110 Wind"" -0.0337 MUL ADD
+""GenLoad_Cellars Hill Wind Farm"" -0.0337 MUL ADD
+""GenLoad_Weasel Solar Farm"" -0.0337 MUL ADD
+"	""	""	"NetworkConstraints"
+"Constraints"	"NEM"	"T_ROCOF_3_2"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"Grp11"	"="	"1 578.14 MUL ADD
+Var_X_TAS_INERTIA_PD{0} 100 MUL ADD
+Var_X-TAS_NATIVE_PD{0} 1.306 MUL ADD
+Var_T_ROCOF_3_2_G_4{0} -6.02 MUL ADD
+Var_T_ROCOF_3_2_G_10{0} -5.671 MUL ADD
+Var_T_ROCOF_3_2_G_16{0} -8.471 MUL ADD
+1 -439.5 MUL ADD
+0.1195 MUL
+GenLoad_CTHLWF1 -0.0337 MUL ADD
+BatDChg_7Liapootah220 -0.0337 MUL ADD
+BatChrg_7Liapootah220 0.0337 MUL ADD
+BatDChg_7Palmerston220 -0.0337 MUL ADD
+BatChrg_7Palmerston220 0.0337 MUL ADD
+BatDChg_7Waddamana110 -0.0337 MUL ADD
+BatChrg_7Waddamana110 0.0337 MUL ADD
+""BatDChg_Palmerston BESS (Akaysha)"" -0.0337 MUL ADD
+""BatChrg_Palmerston BESS (Akaysha)"" 0.0337 MUL ADD
+""GenLoad_7Liapootah220 Solar"" -0.0337 MUL ADD
+""GenLoad_7Liapootah220 Wind"" -0.0337 MUL ADD
+""GenLoad_7Palmerston220 Solar"" -0.0337 MUL ADD
+""GenLoad_7Palmerston220 Wind"" -0.0337 MUL ADD
+""GenLoad_7Waddamana110 Solar"" -0.0337 MUL ADD
+""GenLoad_7Waddamana110 Wind"" -0.0337 MUL ADD
+""GenLoad_Cellars Hill Wind Farm"" -0.0337 MUL ADD
+""GenLoad_Weasel Solar Farm"" -0.0337 MUL ADD
+"	""	""	"NetworkConstraints"
+"Constraints"	"NEM"	"T_ROCOF_3_2"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"Grp2"	"="	"1 578.14 MUL ADD
+Var_X_TAS_INERTIA_PD{0} 100 MUL ADD
+Var_X-TAS_NATIVE_PD{0} 1.306 MUL ADD
+Var_T_ROCOF_3_2_G_4{0} -6.02 MUL ADD
+Var_T_ROCOF_3_2_G_10{0} -5.671 MUL ADD
+Var_T_ROCOF_3_2_G_16{0} -8.471 MUL ADD
+1 -439.5 MUL ADD
+0.1195 MUL
+GenLoad_CTHLWF1 -0.0337 MUL ADD
+BatDChg_7Liapootah220 -0.0337 MUL ADD
+BatChrg_7Liapootah220 0.0337 MUL ADD
+BatDChg_7Palmerston220 -0.0337 MUL ADD
+BatChrg_7Palmerston220 0.0337 MUL ADD
+BatDChg_7Waddamana110 -0.0337 MUL ADD
+BatChrg_7Waddamana110 0.0337 MUL ADD
+""BatDChg_Palmerston BESS (Akaysha)"" -0.0337 MUL ADD
+""BatChrg_Palmerston BESS (Akaysha)"" 0.0337 MUL ADD
+""GenLoad_7Liapootah220 Solar"" -0.0337 MUL ADD
+""GenLoad_7Liapootah220 Wind"" -0.0337 MUL ADD
+""GenLoad_7Palmerston220 Solar"" -0.0337 MUL ADD
+""GenLoad_7Palmerston220 Wind"" -0.0337 MUL ADD
+""GenLoad_7Waddamana110 Solar"" -0.0337 MUL ADD
+""GenLoad_7Waddamana110 Wind"" -0.0337 MUL ADD
+""GenLoad_Cellars Hill Wind Farm"" -0.0337 MUL ADD
+""GenLoad_Weasel Solar Farm"" -0.0337 MUL ADD
+"	""	""	"NetworkConstraints"
+"Constraints"	"NEM"	"T_ROCOF_3_2"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"Grp3"	"="	"1 578.14 MUL ADD
+Var_X_TAS_INERTIA_PD{0} 100 MUL ADD
+Var_X-TAS_NATIVE_PD{0} 1.306 MUL ADD
+Var_T_ROCOF_3_2_G_4{0} -6.02 MUL ADD
+Var_T_ROCOF_3_2_G_10{0} -5.671 MUL ADD
+Var_T_ROCOF_3_2_G_16{0} -8.471 MUL ADD
+1 -439.5 MUL ADD
+0.1195 MUL
+GenLoad_CTHLWF1 -0.0337 MUL ADD
+BatDChg_7Liapootah220 -0.0337 MUL ADD
+BatChrg_7Liapootah220 0.0337 MUL ADD
+BatDChg_7Palmerston220 -0.0337 MUL ADD
+BatChrg_7Palmerston220 0.0337 MUL ADD
+BatDChg_7Waddamana110 -0.0337 MUL ADD
+BatChrg_7Waddamana110 0.0337 MUL ADD
+""BatDChg_Palmerston BESS (Akaysha)"" -0.0337 MUL ADD
+""BatChrg_Palmerston BESS (Akaysha)"" 0.0337 MUL ADD
+""GenLoad_7Liapootah220 Solar"" -0.0337 MUL ADD
+""GenLoad_7Liapootah220 Wind"" -0.0337 MUL ADD
+""GenLoad_7Palmerston220 Solar"" -0.0337 MUL ADD
+""GenLoad_7Palmerston220 Wind"" -0.0337 MUL ADD
+""GenLoad_7Waddamana110 Solar"" -0.0337 MUL ADD
+""GenLoad_7Waddamana110 Wind"" -0.0337 MUL ADD
+""GenLoad_Cellars Hill Wind Farm"" -0.0337 MUL ADD
+""GenLoad_Weasel Solar Farm"" -0.0337 MUL ADD
+"	""	""	"NetworkConstraints"
+"Constraints"	"NEM"	"T_ROCOF_3_2"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"Grp4"	"="	"1 578.14 MUL ADD
+Var_X_TAS_INERTIA_PD{0} 100 MUL ADD
+Var_X-TAS_NATIVE_PD{0} 1.306 MUL ADD
+Var_T_ROCOF_3_2_G_4{0} -6.02 MUL ADD
+Var_T_ROCOF_3_2_G_10{0} -5.671 MUL ADD
+Var_T_ROCOF_3_2_G_16{0} -8.471 MUL ADD
+1 -439.5 MUL ADD
+0.1195 MUL
+GenLoad_CTHLWF1 -0.0337 MUL ADD
+BatDChg_7Liapootah220 -0.0337 MUL ADD
+BatChrg_7Liapootah220 0.0337 MUL ADD
+BatDChg_7Palmerston220 -0.0337 MUL ADD
+BatChrg_7Palmerston220 0.0337 MUL ADD
+BatDChg_7Waddamana110 -0.0337 MUL ADD
+BatChrg_7Waddamana110 0.0337 MUL ADD
+""BatDChg_Palmerston BESS (Akaysha)"" -0.0337 MUL ADD
+""BatChrg_Palmerston BESS (Akaysha)"" 0.0337 MUL ADD
+""GenLoad_7Liapootah220 Solar"" -0.0337 MUL ADD
+""GenLoad_7Liapootah220 Wind"" -0.0337 MUL ADD
+""GenLoad_7Palmerston220 Solar"" -0.0337 MUL ADD
+""GenLoad_7Palmerston220 Wind"" -0.0337 MUL ADD
+""GenLoad_7Waddamana110 Solar"" -0.0337 MUL ADD
+""GenLoad_7Waddamana110 Wind"" -0.0337 MUL ADD
+""GenLoad_Cellars Hill Wind Farm"" -0.0337 MUL ADD
+""GenLoad_Weasel Solar Farm"" -0.0337 MUL ADD
+"	""	""	"NetworkConstraints"
+"Constraints"	"NEM"	"T_ROCOF_3_2"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"Grp5"	"="	"1 578.14 MUL ADD
+Var_X_TAS_INERTIA_PD{0} 100 MUL ADD
+Var_X-TAS_NATIVE_PD{0} 1.306 MUL ADD
+Var_T_ROCOF_3_2_G_4{0} -6.02 MUL ADD
+Var_T_ROCOF_3_2_G_10{0} -5.671 MUL ADD
+Var_T_ROCOF_3_2_G_16{0} -8.471 MUL ADD
+1 -439.5 MUL ADD
+0.1195 MUL
+GenLoad_CTHLWF1 -0.0337 MUL ADD
+BatDChg_7Liapootah220 -0.0337 MUL ADD
+BatChrg_7Liapootah220 0.0337 MUL ADD
+BatDChg_7Palmerston220 -0.0337 MUL ADD
+BatChrg_7Palmerston220 0.0337 MUL ADD
+BatDChg_7Waddamana110 -0.0337 MUL ADD
+BatChrg_7Waddamana110 0.0337 MUL ADD
+""BatDChg_Palmerston BESS (Akaysha)"" -0.0337 MUL ADD
+""BatChrg_Palmerston BESS (Akaysha)"" 0.0337 MUL ADD
+""GenLoad_7Liapootah220 Solar"" -0.0337 MUL ADD
+""GenLoad_7Liapootah220 Wind"" -0.0337 MUL ADD
+""GenLoad_7Palmerston220 Solar"" -0.0337 MUL ADD
+""GenLoad_7Palmerston220 Wind"" -0.0337 MUL ADD
+""GenLoad_7Waddamana110 Solar"" -0.0337 MUL ADD
+""GenLoad_7Waddamana110 Wind"" -0.0337 MUL ADD
+""GenLoad_Cellars Hill Wind Farm"" -0.0337 MUL ADD
+""GenLoad_Weasel Solar Farm"" -0.0337 MUL ADD
+"	""	""	"NetworkConstraints"
+"Constraints"	"NEM"	"T_ROCOF_3_2"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"Grp6"	"="	"1 578.14 MUL ADD
+Var_X_TAS_INERTIA_PD{0} 100 MUL ADD
+Var_X-TAS_NATIVE_PD{0} 1.306 MUL ADD
+Var_T_ROCOF_3_2_G_4{0} -6.02 MUL ADD
+Var_T_ROCOF_3_2_G_10{0} -5.671 MUL ADD
+Var_T_ROCOF_3_2_G_16{0} -8.471 MUL ADD
+1 -439.5 MUL ADD
+0.1195 MUL
+GenLoad_CTHLWF1 -0.0337 MUL ADD
+BatDChg_7Liapootah220 -0.0337 MUL ADD
+BatChrg_7Liapootah220 0.0337 MUL ADD
+BatDChg_7Palmerston220 -0.0337 MUL ADD
+BatChrg_7Palmerston220 0.0337 MUL ADD
+BatDChg_7Waddamana110 -0.0337 MUL ADD
+BatChrg_7Waddamana110 0.0337 MUL ADD
+""BatDChg_Palmerston BESS (Akaysha)"" -0.0337 MUL ADD
+""BatChrg_Palmerston BESS (Akaysha)"" 0.0337 MUL ADD
+""GenLoad_7Liapootah220 Solar"" -0.0337 MUL ADD
+""GenLoad_7Liapootah220 Wind"" -0.0337 MUL ADD
+""GenLoad_7Palmerston220 Solar"" -0.0337 MUL ADD
+""GenLoad_7Palmerston220 Wind"" -0.0337 MUL ADD
+""GenLoad_7Waddamana110 Solar"" -0.0337 MUL ADD
+""GenLoad_7Waddamana110 Wind"" -0.0337 MUL ADD
+""GenLoad_Cellars Hill Wind Farm"" -0.0337 MUL ADD
+""GenLoad_Weasel Solar Farm"" -0.0337 MUL ADD
+"	""	""	"NetworkConstraints"
+"Constraints"	"NEM"	"T_ROCOF_3_2"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"Grp7"	"="	"1 578.14 MUL ADD
+Var_X_TAS_INERTIA_PD{0} 100 MUL ADD
+Var_X-TAS_NATIVE_PD{0} 1.306 MUL ADD
+Var_T_ROCOF_3_2_G_4{0} -6.02 MUL ADD
+Var_T_ROCOF_3_2_G_10{0} -5.671 MUL ADD
+Var_T_ROCOF_3_2_G_16{0} -8.471 MUL ADD
+1 -439.5 MUL ADD
+0.1195 MUL
+GenLoad_CTHLWF1 -0.0337 MUL ADD
+BatDChg_7Liapootah220 -0.0337 MUL ADD
+BatChrg_7Liapootah220 0.0337 MUL ADD
+BatDChg_7Palmerston220 -0.0337 MUL ADD
+BatChrg_7Palmerston220 0.0337 MUL ADD
+BatDChg_7Waddamana110 -0.0337 MUL ADD
+BatChrg_7Waddamana110 0.0337 MUL ADD
+""BatDChg_Palmerston BESS (Akaysha)"" -0.0337 MUL ADD
+""BatChrg_Palmerston BESS (Akaysha)"" 0.0337 MUL ADD
+""GenLoad_7Liapootah220 Solar"" -0.0337 MUL ADD
+""GenLoad_7Liapootah220 Wind"" -0.0337 MUL ADD
+""GenLoad_7Palmerston220 Solar"" -0.0337 MUL ADD
+""GenLoad_7Palmerston220 Wind"" -0.0337 MUL ADD
+""GenLoad_7Waddamana110 Solar"" -0.0337 MUL ADD
+""GenLoad_7Waddamana110 Wind"" -0.0337 MUL ADD
+""GenLoad_Cellars Hill Wind Farm"" -0.0337 MUL ADD
+""GenLoad_Weasel Solar Farm"" -0.0337 MUL ADD
+"	""	""	"NetworkConstraints"
+"Constraints"	"NEM"	"T_ROCOF_3_2"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"Grp8"	"="	"1 578.14 MUL ADD
+Var_X_TAS_INERTIA_PD{0} 100 MUL ADD
+Var_X-TAS_NATIVE_PD{0} 1.306 MUL ADD
+Var_T_ROCOF_3_2_G_4{0} -6.02 MUL ADD
+Var_T_ROCOF_3_2_G_10{0} -5.671 MUL ADD
+Var_T_ROCOF_3_2_G_16{0} -8.471 MUL ADD
+1 -439.5 MUL ADD
+0.1195 MUL
+GenLoad_CTHLWF1 -0.0337 MUL ADD
+BatDChg_7Liapootah220 -0.0337 MUL ADD
+BatChrg_7Liapootah220 0.0337 MUL ADD
+BatDChg_7Palmerston220 -0.0337 MUL ADD
+BatChrg_7Palmerston220 0.0337 MUL ADD
+BatDChg_7Waddamana110 -0.0337 MUL ADD
+BatChrg_7Waddamana110 0.0337 MUL ADD
+""BatDChg_Palmerston BESS (Akaysha)"" -0.0337 MUL ADD
+""BatChrg_Palmerston BESS (Akaysha)"" 0.0337 MUL ADD
+""GenLoad_7Liapootah220 Solar"" -0.0337 MUL ADD
+""GenLoad_7Liapootah220 Wind"" -0.0337 MUL ADD
+""GenLoad_7Palmerston220 Solar"" -0.0337 MUL ADD
+""GenLoad_7Palmerston220 Wind"" -0.0337 MUL ADD
+""GenLoad_7Waddamana110 Solar"" -0.0337 MUL ADD
+""GenLoad_7Waddamana110 Wind"" -0.0337 MUL ADD
+""GenLoad_Cellars Hill Wind Farm"" -0.0337 MUL ADD
+""GenLoad_Weasel Solar Farm"" -0.0337 MUL ADD
+"	""	""	"NetworkConstraints"
+"Constraints"	"NEM"	"T_ROCOF_3_2"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"Grp9"	"="	"1 578.14 MUL ADD
+Var_X_TAS_INERTIA_PD{0} 100 MUL ADD
+Var_X-TAS_NATIVE_PD{0} 1.306 MUL ADD
+Var_T_ROCOF_3_2_G_4{0} -6.02 MUL ADD
+Var_T_ROCOF_3_2_G_10{0} -5.671 MUL ADD
+Var_T_ROCOF_3_2_G_16{0} -8.471 MUL ADD
+1 -439.5 MUL ADD
+0.1195 MUL
+GenLoad_CTHLWF1 -0.0337 MUL ADD
+BatDChg_7Liapootah220 -0.0337 MUL ADD
+BatChrg_7Liapootah220 0.0337 MUL ADD
+BatDChg_7Palmerston220 -0.0337 MUL ADD
+BatChrg_7Palmerston220 0.0337 MUL ADD
+BatDChg_7Waddamana110 -0.0337 MUL ADD
+BatChrg_7Waddamana110 0.0337 MUL ADD
+""BatDChg_Palmerston BESS (Akaysha)"" -0.0337 MUL ADD
+""BatChrg_Palmerston BESS (Akaysha)"" 0.0337 MUL ADD
+""GenLoad_7Liapootah220 Solar"" -0.0337 MUL ADD
+""GenLoad_7Liapootah220 Wind"" -0.0337 MUL ADD
+""GenLoad_7Palmerston220 Solar"" -0.0337 MUL ADD
+""GenLoad_7Palmerston220 Wind"" -0.0337 MUL ADD
+""GenLoad_7Waddamana110 Solar"" -0.0337 MUL ADD
+""GenLoad_7Waddamana110 Wind"" -0.0337 MUL ADD
+""GenLoad_Cellars Hill Wind Farm"" -0.0337 MUL ADD
+""GenLoad_Weasel Solar Farm"" -0.0337 MUL ADD
+"	""	""	"NetworkConstraints"

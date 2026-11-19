@@ -1,0 +1,2209 @@
+Collection	Parent Object	Child Object	Property	Value	Data File	Units	Band	Date From	Date To	Timeslice	Action	Expression	Scenario	Memo	Category
+"Constraints"	"NEM"	"N::N_NIL_63"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"Grp0"	"="	"1 593 MUL ADD
+Var_N::N_NIL_63_G_2{0} -0.9 MUL ADD
+Var_N::N_NIL_63_G_6{0} 30.5 MUL ADD
+Var_N::N_NIL_63_G_10{0} -54 MUL ADD
+Var_N::N_NIL_63_G_13{0} 0.1905 MUL ADD
+Var_N::N_NIL_63_G_16{0} 0.04447 MUL ADD
+Var_N::N_NIL_63_G_19{0} 0.00965 MUL ADD
+1 -9.923 MUL ADD
+1 120 MUL ADD
+1 -30 MUL ADD
+1.603 MUL
+GenLoad_CULLRGWF -0.00826 MUL ADD
+GenLoad_CHALLHWF -0.0706 MUL ADD
+GenLoad_MLWF1 -0.0264 MUL ADD
+GenLoad_PORTWF -0.0261 MUL ADD
+GenLoad_WAUBRAWF -0.0506 MUL ADD
+GenLoad_YAMBUKWF -0.0264 MUL ADD
+GenLoad_YSWF1 -0.026 MUL ADD
+GenLoad_ARWF1 -0.0708 MUL ADD
+BatDChg_3Ararat220 -0.0708 MUL ADD
+BatChrg_3Ararat220 0.0708 MUL ADD
+""GenLoad_3Ararat220 Solar"" -0.0708 MUL ADD
+""GenLoad_3Ararat220 Wind"" -0.0708 MUL ADD
+1 0 MUL ADD
+GenLoad_BANGOWF1 -0.00769 MUL ADD
+""GenLoad_Coppabella Hybrid Generator"" -0.00769 MUL ADD
+GenLoad_BANGOWF2 -0.00769 MUL ADD
+GenLoad_BLOWERNG -0.0231 MUL ADD
+GenLoad_BOMENSF1 -0.0361 MUL ADD
+GenLoad_BRYB1WF1 -0.0299 MUL ADD
+GenLoad_BRYB2WF2 -0.0299 MUL ADD
+1 0 MUL ADD
+GenLoad_BULGANA1 -0.0838 MUL ADD
+BatDChg_3Bulgana220 -0.0838 MUL ADD
+BatChrg_3Bulgana220 0.0838 MUL ADD
+""BatDChg_Joel Joel BESS"" -0.0838 MUL ADD
+""BatChrg_Joel Joel BESS"" 0.0838 MUL ADD
+""GenLoad_3Bulgana220 Solar"" -0.0838 MUL ADD
+""GenLoad_3Bulgana220 Wind"" -0.0838 MUL ADD
+GenLoad_COHUNSF1 -0.126 MUL ADD
+""GenLoad_3Kerang220 Solar"" -0.126 MUL ADD
+""GenLoad_3Kerang220 Wind"" -0.126 MUL ADD
+GenLoad_CROWLWF1 -0.0753 MUL ADD
+GenLoad_CRWASF1 -0.149 MUL ADD
+BatDChg_2ANM132 -0.149 MUL ADD
+BatChrg_2ANM132 0.149 MUL ADD
+""GenLoad_2ANM132 Solar"" -0.149 MUL ADD
+""GenLoad_2ANM132 Wind"" -0.149 MUL ADD
+GenLoad_CUSF1 0.0121 MUL ADD
+GenLoad_DARTM1 0.0266 MUL ADD
+GenLoad_DUNDWF1 -0.0209 MUL ADD
+BatDChg_3Mortlake500 -0.0209 MUL ADD
+BatChrg_3Mortlake500 0.0209 MUL ADD
+""GenLoad_3Mortlake500 Solar"" -0.0209 MUL ADD
+""GenLoad_3Mortlake500 Wind"" -0.0209 MUL ADD
+GenLoad_DUNDWF2 -0.0209 MUL ADD
+GenLoad_DUNDWF3 -0.0209 MUL ADD
+GenLoad_EILDON1 0.0109 MUL ADD
+GenLoad_EILDON2 0.0109 MUL ADD
+GenLoad_ELAINWF1 -0.028 MUL ADD
+""GenLoad_Elaine Solar Farm"" -0.028 MUL ADD
+""BatDChg_Elaine Solar Farm BESS"" -0.028 MUL ADD
+""BatChrg_Elaine Solar Farm BESS"" 0.028 MUL ADD
+BatDChg_3Elaine220 -0.028 MUL ADD
+BatChrg_3Elaine220 0.028 MUL ADD
+""BatDChg_Elaine BESS"" -0.028 MUL ADD
+""BatChrg_Elaine BESS"" 0.028 MUL ADD
+""GenLoad_3Elaine220 Solar"" -0.028 MUL ADD
+""GenLoad_3Elaine220 Wind"" -0.028 MUL ADD
+1 0 MUL ADD
+GenLoad_GANNSF1 -0.126 MUL ADD
+GenLoad_GESF1 -0.0227 MUL ADD
+GenLoad_GLRWNSF1 0.0193 MUL ADD
+BatDChg_3Dederang220 0.0193 MUL ADD
+BatChrg_3Dederang220 -0.0193 MUL ADD
+""GenLoad_3Dederang220 Solar"" 0.0193 MUL ADD
+""GenLoad_3Dederang220 Wind"" 0.0193 MUL ADD
+""GenLoad_Winton North Solar Farm"" 0.0193 MUL ADD
+GenLoad_WNSF1 0.0193 MUL ADD
+GenLoad_GUNNING1 -0.00826 MUL ADD
+""BatDChg_Gunning BESS"" -0.00826 MUL ADD
+""BatChrg_Gunning BESS"" 0.00826 MUL ADD
+""GenLoad_Gunning Solar Farm"" -0.00826 MUL ADD
+Var_N::N_NIL_63_G_98{0} -0.0117 MUL ADD
+GenLoad_HUMENSW -0.0406 MUL ADD
+GenLoad_HUMEV 0.0558 MUL ADD
+GenLoad_JUNEESF1 -0.0361 MUL ADD
+GenLoad_KERNGSP1 -0.126 MUL ADD
+BatDChg_3Kerang220 -0.126 MUL ADD
+BatChrg_3Kerang220 0.126 MUL ADD
+""BatDChg_Kerang Hybrid BESS"" -0.126 MUL ADD
+""BatChrg_Kerang Hybrid BESS"" 0.126 MUL ADD
+""GenLoad_Kerang Hybrid Solar"" -0.126 MUL ADD
+BatDChg_KESSB1 -0.134 MUL ADD
+BatChrg_KESSB1 0.134 MUL ADD
+GenLoad_KIATAWF1 -0.115 MUL ADD
+""BatDChg_Horsham BESS"" -0.115 MUL ADD
+""BatChrg_Horsham BESS"" 0.115 MUL ADD
+GenLoad_LNGS1 -0.00862 MUL ADD
+GenLoad_LNGS2 -0.00862 MUL ADD
+GenLoad_MACARTH1 -0.0233 MUL ADD
+BatDChg_3Heywood500 -0.0233 MUL ADD
+BatChrg_3Heywood500 0.0233 MUL ADD
+""GenLoad_3Heywood500 Solar"" -0.0233 MUL ADD
+""GenLoad_3Heywood500 Wind"" -0.0233 MUL ADD
+Var_N::N_NIL_63_G_122{0} 0.0266 MUL ADD
+GenLoad_MERCER01 -0.028 MUL ADD
+""GenLoad_Inverleigh Wind Farm"" -0.028 MUL ADD
+1 0 MUL ADD
+GenLoad_MOORAWF1 -0.028 MUL ADD
+GenLoad_MORTLK11 -0.0209 MUL ADD
+GenLoad_MORTLK12 -0.0209 MUL ADD
+BatDChg_MREHA1 -0.00776 MUL ADD
+BatChrg_MREHA1 0.00776 MUL ADD
+BatDChg_3DeerPark220 -0.00776 MUL ADD
+BatChrg_3DeerPark220 0.00776 MUL ADD
+""BatDChg_Deer Park BESS - Akaysha"" -0.00776 MUL ADD
+""BatChrg_Deer Park BESS - Akaysha"" 0.00776 MUL ADD
+""BatDChg_Little River BESS"" -0.00776 MUL ADD
+""BatChrg_Little River BESS"" 0.00776 MUL ADD
+""GenLoad_3DeerPark220 Solar"" -0.00776 MUL ADD
+""GenLoad_3DeerPark220 Wind"" -0.00776 MUL ADD
+""BatDChg_Melbourne Renewable Energy Hub Side B"" -0.00776 MUL ADD
+""BatChrg_Melbourne Renewable Energy Hub Side B"" 0.00776 MUL ADD
+BatDChg_MREHA2 -0.00776 MUL ADD
+BatChrg_MREHA2 0.00776 MUL ADD
+BatDChg_MREHA3 -0.00776 MUL ADD
+BatChrg_MREHA3 0.00776 MUL ADD
+GenLoad_MRTLSWF1 -0.0268 MUL ADD
+""GenLoad_Woolsthorpe Wind Farm"" -0.0268 MUL ADD
+""GenLoad_Hexham Wind Farm Wind"" -0.0268 MUL ADD
+GenLoad_MTGELWF1 -0.0219 MUL ADD
+BatDChg_3Terang220 -0.0219 MUL ADD
+BatChrg_3Terang220 0.0219 MUL ADD
+""GenLoad_3Terang220 Solar"" -0.0219 MUL ADD
+""GenLoad_3Terang220 Wind"" -0.0219 MUL ADD
+Var_N::N_NIL_63_G_161{0} 0.0655 MUL ADD
+GenLoad_MUWAWF1 -0.138 MUL ADD
+""GenLoad_Horsham Solar Farm"" -0.138 MUL ADD
+BatDChg_3Horsham220 -0.138 MUL ADD
+BatChrg_3Horsham220 0.138 MUL ADD
+""GenLoad_3Horsham220 Solar"" -0.138 MUL ADD
+""GenLoad_3Horsham220 Wind"" -0.138 MUL ADD
+GenLoad_MUWAWF2 -0.138 MUL ADD
+GenLoad_NUMURSF1 0.0085 MUL ADD
+BatDChg_3Shepparton220 0.0085 MUL ADD
+BatChrg_3Shepparton220 -0.0085 MUL ADD
+""GenLoad_3Shepparton220 Solar"" 0.0085 MUL ADD
+""GenLoad_3Shepparton220 Wind"" 0.0085 MUL ADD
+""GenLoad_Axedale Solar Farm"" 0.0085 MUL ADD
+""GenLoad_Fosterville Solar Farm"" 0.0085 MUL ADD
+GenLoad_OAKLAND1 -0.0264 MUL ADD
+GenLoad_SALTCRK1 -0.0264 MUL ADD
+GenLoad_SEBSF1 -0.0361 MUL ADD
+1 0 MUL ADD
+GenLoad_STOCKYD1 -0.0179 MUL ADD
+""BatDChg_Golden Plains BESS"" -0.0179 MUL ADD
+""BatChrg_Golden Plains BESS"" 0.0179 MUL ADD
+Var_N::N_NIL_63_G_197{0} 0.0062 MUL ADD
+GenLoad_URANQ11 -0.098 MUL ADD
+GenLoad_URANQ12 -0.098 MUL ADD
+GenLoad_URANQ13 -0.098 MUL ADD
+GenLoad_URANQ14 -0.098 MUL ADD
+1 0 MUL ADD
+GenLoad_WAGGNSF1 -0.0361 MUL ADD
+""BatDChg_Lockhart Hybrid Facility - Battery"" -0.0361 MUL ADD
+""BatChrg_Lockhart Hybrid Facility - Battery"" 0.0361 MUL ADD
+""GenLoad_Lockhart Hybrid Facility - Solar"" -0.0361 MUL ADD
+BatDChg_2Wagga330 -0.0361 MUL ADD
+BatChrg_2Wagga330 0.0361 MUL ADD
+""BatDChg_Wagga North BESS - KCI"" -0.0361 MUL ADD
+""BatChrg_Wagga North BESS - KCI"" 0.0361 MUL ADD
+""GenLoad_2Wagga330 Solar"" -0.0361 MUL ADD
+""GenLoad_2Wagga330 Wind"" -0.0361 MUL ADD
+Var_N::N_NIL_63_G_234{0} 0.0266 MUL ADD
+Var_N::N_NIL_63_G_237{0} 0.0266 MUL ADD
+GenLoad_WLWLSF1 0.00903 MUL ADD
+""BatDChg_Culcairn BESS"" 0.00903 MUL ADD
+""BatChrg_Culcairn BESS"" -0.00903 MUL ADD
+1 0 MUL ADD
+GenLoad_WSTWYSF1 -0.0361 MUL ADD
+GenLoad_WYASF1 -0.0361 MUL ADD
+GenLoad_YENDWF1 -0.0344 MUL ADD
+"	""	""	"NetworkConstraints"
+"Constraints"	"NEM"	"N::N_NIL_63"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"Grp1"	"="	"1 593 MUL ADD
+Var_N::N_NIL_63_G_2{0} -0.9 MUL ADD
+Var_N::N_NIL_63_G_6{0} 30.5 MUL ADD
+Var_N::N_NIL_63_G_10{0} -54 MUL ADD
+Var_N::N_NIL_63_G_13{0} 0.1905 MUL ADD
+Var_N::N_NIL_63_G_16{0} 0.04447 MUL ADD
+Var_N::N_NIL_63_G_19{0} 0.00965 MUL ADD
+1 -9.923 MUL ADD
+1 120 MUL ADD
+1 -30 MUL ADD
+1.603 MUL
+GenLoad_CULLRGWF -0.00826 MUL ADD
+GenLoad_CHALLHWF -0.0706 MUL ADD
+GenLoad_MLWF1 -0.0264 MUL ADD
+GenLoad_PORTWF -0.0261 MUL ADD
+GenLoad_WAUBRAWF -0.0506 MUL ADD
+GenLoad_YAMBUKWF -0.0264 MUL ADD
+GenLoad_YSWF1 -0.026 MUL ADD
+GenLoad_ARWF1 -0.0708 MUL ADD
+BatDChg_3Ararat220 -0.0708 MUL ADD
+BatChrg_3Ararat220 0.0708 MUL ADD
+""GenLoad_3Ararat220 Solar"" -0.0708 MUL ADD
+""GenLoad_3Ararat220 Wind"" -0.0708 MUL ADD
+1 0 MUL ADD
+GenLoad_BANGOWF1 -0.00769 MUL ADD
+""GenLoad_Coppabella Hybrid Generator"" -0.00769 MUL ADD
+GenLoad_BANGOWF2 -0.00769 MUL ADD
+GenLoad_BLOWERNG -0.0231 MUL ADD
+GenLoad_BOMENSF1 -0.0361 MUL ADD
+GenLoad_BRYB1WF1 -0.0299 MUL ADD
+GenLoad_BRYB2WF2 -0.0299 MUL ADD
+1 0 MUL ADD
+GenLoad_BULGANA1 -0.0838 MUL ADD
+BatDChg_3Bulgana220 -0.0838 MUL ADD
+BatChrg_3Bulgana220 0.0838 MUL ADD
+""BatDChg_Joel Joel BESS"" -0.0838 MUL ADD
+""BatChrg_Joel Joel BESS"" 0.0838 MUL ADD
+""GenLoad_3Bulgana220 Solar"" -0.0838 MUL ADD
+""GenLoad_3Bulgana220 Wind"" -0.0838 MUL ADD
+GenLoad_COHUNSF1 -0.126 MUL ADD
+""GenLoad_3Kerang220 Solar"" -0.126 MUL ADD
+""GenLoad_3Kerang220 Wind"" -0.126 MUL ADD
+GenLoad_CROWLWF1 -0.0753 MUL ADD
+GenLoad_CRWASF1 -0.149 MUL ADD
+BatDChg_2ANM132 -0.149 MUL ADD
+BatChrg_2ANM132 0.149 MUL ADD
+""GenLoad_2ANM132 Solar"" -0.149 MUL ADD
+""GenLoad_2ANM132 Wind"" -0.149 MUL ADD
+GenLoad_CUSF1 0.0121 MUL ADD
+GenLoad_DARTM1 0.0266 MUL ADD
+GenLoad_DUNDWF1 -0.0209 MUL ADD
+BatDChg_3Mortlake500 -0.0209 MUL ADD
+BatChrg_3Mortlake500 0.0209 MUL ADD
+""GenLoad_3Mortlake500 Solar"" -0.0209 MUL ADD
+""GenLoad_3Mortlake500 Wind"" -0.0209 MUL ADD
+GenLoad_DUNDWF2 -0.0209 MUL ADD
+GenLoad_DUNDWF3 -0.0209 MUL ADD
+GenLoad_EILDON1 0.0109 MUL ADD
+GenLoad_EILDON2 0.0109 MUL ADD
+GenLoad_ELAINWF1 -0.028 MUL ADD
+""GenLoad_Elaine Solar Farm"" -0.028 MUL ADD
+""BatDChg_Elaine Solar Farm BESS"" -0.028 MUL ADD
+""BatChrg_Elaine Solar Farm BESS"" 0.028 MUL ADD
+BatDChg_3Elaine220 -0.028 MUL ADD
+BatChrg_3Elaine220 0.028 MUL ADD
+""BatDChg_Elaine BESS"" -0.028 MUL ADD
+""BatChrg_Elaine BESS"" 0.028 MUL ADD
+""GenLoad_3Elaine220 Solar"" -0.028 MUL ADD
+""GenLoad_3Elaine220 Wind"" -0.028 MUL ADD
+1 0 MUL ADD
+GenLoad_GANNSF1 -0.126 MUL ADD
+GenLoad_GESF1 -0.0227 MUL ADD
+GenLoad_GLRWNSF1 0.0193 MUL ADD
+BatDChg_3Dederang220 0.0193 MUL ADD
+BatChrg_3Dederang220 -0.0193 MUL ADD
+""GenLoad_3Dederang220 Solar"" 0.0193 MUL ADD
+""GenLoad_3Dederang220 Wind"" 0.0193 MUL ADD
+""GenLoad_Winton North Solar Farm"" 0.0193 MUL ADD
+GenLoad_WNSF1 0.0193 MUL ADD
+GenLoad_GUNNING1 -0.00826 MUL ADD
+""BatDChg_Gunning BESS"" -0.00826 MUL ADD
+""BatChrg_Gunning BESS"" 0.00826 MUL ADD
+""GenLoad_Gunning Solar Farm"" -0.00826 MUL ADD
+Var_N::N_NIL_63_G_98{0} -0.0117 MUL ADD
+GenLoad_HUMENSW -0.0406 MUL ADD
+GenLoad_HUMEV 0.0558 MUL ADD
+GenLoad_JUNEESF1 -0.0361 MUL ADD
+GenLoad_KERNGSP1 -0.126 MUL ADD
+BatDChg_3Kerang220 -0.126 MUL ADD
+BatChrg_3Kerang220 0.126 MUL ADD
+""BatDChg_Kerang Hybrid BESS"" -0.126 MUL ADD
+""BatChrg_Kerang Hybrid BESS"" 0.126 MUL ADD
+""GenLoad_Kerang Hybrid Solar"" -0.126 MUL ADD
+BatDChg_KESSB1 -0.134 MUL ADD
+BatChrg_KESSB1 0.134 MUL ADD
+GenLoad_KIATAWF1 -0.115 MUL ADD
+""BatDChg_Horsham BESS"" -0.115 MUL ADD
+""BatChrg_Horsham BESS"" 0.115 MUL ADD
+GenLoad_LNGS1 -0.00862 MUL ADD
+GenLoad_LNGS2 -0.00862 MUL ADD
+GenLoad_MACARTH1 -0.0233 MUL ADD
+BatDChg_3Heywood500 -0.0233 MUL ADD
+BatChrg_3Heywood500 0.0233 MUL ADD
+""GenLoad_3Heywood500 Solar"" -0.0233 MUL ADD
+""GenLoad_3Heywood500 Wind"" -0.0233 MUL ADD
+Var_N::N_NIL_63_G_122{0} 0.0266 MUL ADD
+GenLoad_MERCER01 -0.028 MUL ADD
+""GenLoad_Inverleigh Wind Farm"" -0.028 MUL ADD
+1 0 MUL ADD
+GenLoad_MOORAWF1 -0.028 MUL ADD
+GenLoad_MORTLK11 -0.0209 MUL ADD
+GenLoad_MORTLK12 -0.0209 MUL ADD
+BatDChg_MREHA1 -0.00776 MUL ADD
+BatChrg_MREHA1 0.00776 MUL ADD
+BatDChg_3DeerPark220 -0.00776 MUL ADD
+BatChrg_3DeerPark220 0.00776 MUL ADD
+""BatDChg_Deer Park BESS - Akaysha"" -0.00776 MUL ADD
+""BatChrg_Deer Park BESS - Akaysha"" 0.00776 MUL ADD
+""BatDChg_Little River BESS"" -0.00776 MUL ADD
+""BatChrg_Little River BESS"" 0.00776 MUL ADD
+""GenLoad_3DeerPark220 Solar"" -0.00776 MUL ADD
+""GenLoad_3DeerPark220 Wind"" -0.00776 MUL ADD
+""BatDChg_Melbourne Renewable Energy Hub Side B"" -0.00776 MUL ADD
+""BatChrg_Melbourne Renewable Energy Hub Side B"" 0.00776 MUL ADD
+BatDChg_MREHA2 -0.00776 MUL ADD
+BatChrg_MREHA2 0.00776 MUL ADD
+BatDChg_MREHA3 -0.00776 MUL ADD
+BatChrg_MREHA3 0.00776 MUL ADD
+GenLoad_MRTLSWF1 -0.0268 MUL ADD
+""GenLoad_Woolsthorpe Wind Farm"" -0.0268 MUL ADD
+""GenLoad_Hexham Wind Farm Wind"" -0.0268 MUL ADD
+GenLoad_MTGELWF1 -0.0219 MUL ADD
+BatDChg_3Terang220 -0.0219 MUL ADD
+BatChrg_3Terang220 0.0219 MUL ADD
+""GenLoad_3Terang220 Solar"" -0.0219 MUL ADD
+""GenLoad_3Terang220 Wind"" -0.0219 MUL ADD
+Var_N::N_NIL_63_G_161{0} 0.0655 MUL ADD
+GenLoad_MUWAWF1 -0.138 MUL ADD
+""GenLoad_Horsham Solar Farm"" -0.138 MUL ADD
+BatDChg_3Horsham220 -0.138 MUL ADD
+BatChrg_3Horsham220 0.138 MUL ADD
+""GenLoad_3Horsham220 Solar"" -0.138 MUL ADD
+""GenLoad_3Horsham220 Wind"" -0.138 MUL ADD
+GenLoad_MUWAWF2 -0.138 MUL ADD
+GenLoad_NUMURSF1 0.0085 MUL ADD
+BatDChg_3Shepparton220 0.0085 MUL ADD
+BatChrg_3Shepparton220 -0.0085 MUL ADD
+""GenLoad_3Shepparton220 Solar"" 0.0085 MUL ADD
+""GenLoad_3Shepparton220 Wind"" 0.0085 MUL ADD
+""GenLoad_Axedale Solar Farm"" 0.0085 MUL ADD
+""GenLoad_Fosterville Solar Farm"" 0.0085 MUL ADD
+GenLoad_OAKLAND1 -0.0264 MUL ADD
+GenLoad_SALTCRK1 -0.0264 MUL ADD
+GenLoad_SEBSF1 -0.0361 MUL ADD
+1 0 MUL ADD
+GenLoad_STOCKYD1 -0.0179 MUL ADD
+""BatDChg_Golden Plains BESS"" -0.0179 MUL ADD
+""BatChrg_Golden Plains BESS"" 0.0179 MUL ADD
+Var_N::N_NIL_63_G_197{0} 0.0062 MUL ADD
+GenLoad_URANQ11 -0.098 MUL ADD
+GenLoad_URANQ12 -0.098 MUL ADD
+GenLoad_URANQ13 -0.098 MUL ADD
+GenLoad_URANQ14 -0.098 MUL ADD
+1 0 MUL ADD
+GenLoad_WAGGNSF1 -0.0361 MUL ADD
+""BatDChg_Lockhart Hybrid Facility - Battery"" -0.0361 MUL ADD
+""BatChrg_Lockhart Hybrid Facility - Battery"" 0.0361 MUL ADD
+""GenLoad_Lockhart Hybrid Facility - Solar"" -0.0361 MUL ADD
+BatDChg_2Wagga330 -0.0361 MUL ADD
+BatChrg_2Wagga330 0.0361 MUL ADD
+""BatDChg_Wagga North BESS - KCI"" -0.0361 MUL ADD
+""BatChrg_Wagga North BESS - KCI"" 0.0361 MUL ADD
+""GenLoad_2Wagga330 Solar"" -0.0361 MUL ADD
+""GenLoad_2Wagga330 Wind"" -0.0361 MUL ADD
+Var_N::N_NIL_63_G_234{0} 0.0266 MUL ADD
+Var_N::N_NIL_63_G_237{0} 0.0266 MUL ADD
+GenLoad_WLWLSF1 0.00903 MUL ADD
+""BatDChg_Culcairn BESS"" 0.00903 MUL ADD
+""BatChrg_Culcairn BESS"" -0.00903 MUL ADD
+1 0 MUL ADD
+GenLoad_WSTWYSF1 -0.0361 MUL ADD
+GenLoad_WYASF1 -0.0361 MUL ADD
+GenLoad_YENDWF1 -0.0344 MUL ADD
+"	""	""	"NetworkConstraints"
+"Constraints"	"NEM"	"N::N_NIL_63"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"Grp10"	"="	"1 593 MUL ADD
+Var_N::N_NIL_63_G_2{0} -0.9 MUL ADD
+Var_N::N_NIL_63_G_6{0} 30.5 MUL ADD
+Var_N::N_NIL_63_G_10{0} -54 MUL ADD
+Var_N::N_NIL_63_G_13{0} 0.1905 MUL ADD
+Var_N::N_NIL_63_G_16{0} 0.04447 MUL ADD
+Var_N::N_NIL_63_G_19{0} 0.00965 MUL ADD
+1 -9.923 MUL ADD
+1 120 MUL ADD
+1 -30 MUL ADD
+1.603 MUL
+GenLoad_CULLRGWF -0.00826 MUL ADD
+GenLoad_CHALLHWF -0.0706 MUL ADD
+GenLoad_MLWF1 -0.0264 MUL ADD
+GenLoad_PORTWF -0.0261 MUL ADD
+GenLoad_WAUBRAWF -0.0506 MUL ADD
+GenLoad_YAMBUKWF -0.0264 MUL ADD
+GenLoad_YSWF1 -0.026 MUL ADD
+GenLoad_ARWF1 -0.0708 MUL ADD
+BatDChg_3Ararat220 -0.0708 MUL ADD
+BatChrg_3Ararat220 0.0708 MUL ADD
+""GenLoad_3Ararat220 Solar"" -0.0708 MUL ADD
+""GenLoad_3Ararat220 Wind"" -0.0708 MUL ADD
+1 0 MUL ADD
+GenLoad_BANGOWF1 -0.00769 MUL ADD
+""GenLoad_Coppabella Hybrid Generator"" -0.00769 MUL ADD
+GenLoad_BANGOWF2 -0.00769 MUL ADD
+GenLoad_BLOWERNG -0.0231 MUL ADD
+GenLoad_BOMENSF1 -0.0361 MUL ADD
+GenLoad_BRYB1WF1 -0.0299 MUL ADD
+GenLoad_BRYB2WF2 -0.0299 MUL ADD
+1 0 MUL ADD
+GenLoad_BULGANA1 -0.0838 MUL ADD
+BatDChg_3Bulgana220 -0.0838 MUL ADD
+BatChrg_3Bulgana220 0.0838 MUL ADD
+""BatDChg_Joel Joel BESS"" -0.0838 MUL ADD
+""BatChrg_Joel Joel BESS"" 0.0838 MUL ADD
+""GenLoad_3Bulgana220 Solar"" -0.0838 MUL ADD
+""GenLoad_3Bulgana220 Wind"" -0.0838 MUL ADD
+GenLoad_COHUNSF1 -0.126 MUL ADD
+""GenLoad_3Kerang220 Solar"" -0.126 MUL ADD
+""GenLoad_3Kerang220 Wind"" -0.126 MUL ADD
+GenLoad_CROWLWF1 -0.0753 MUL ADD
+GenLoad_CRWASF1 -0.149 MUL ADD
+BatDChg_2ANM132 -0.149 MUL ADD
+BatChrg_2ANM132 0.149 MUL ADD
+""GenLoad_2ANM132 Solar"" -0.149 MUL ADD
+""GenLoad_2ANM132 Wind"" -0.149 MUL ADD
+GenLoad_CUSF1 0.0121 MUL ADD
+GenLoad_DARTM1 0.0266 MUL ADD
+GenLoad_DUNDWF1 -0.0209 MUL ADD
+BatDChg_3Mortlake500 -0.0209 MUL ADD
+BatChrg_3Mortlake500 0.0209 MUL ADD
+""GenLoad_3Mortlake500 Solar"" -0.0209 MUL ADD
+""GenLoad_3Mortlake500 Wind"" -0.0209 MUL ADD
+GenLoad_DUNDWF2 -0.0209 MUL ADD
+GenLoad_DUNDWF3 -0.0209 MUL ADD
+GenLoad_EILDON1 0.0109 MUL ADD
+GenLoad_EILDON2 0.0109 MUL ADD
+GenLoad_ELAINWF1 -0.028 MUL ADD
+""GenLoad_Elaine Solar Farm"" -0.028 MUL ADD
+""BatDChg_Elaine Solar Farm BESS"" -0.028 MUL ADD
+""BatChrg_Elaine Solar Farm BESS"" 0.028 MUL ADD
+BatDChg_3Elaine220 -0.028 MUL ADD
+BatChrg_3Elaine220 0.028 MUL ADD
+""BatDChg_Elaine BESS"" -0.028 MUL ADD
+""BatChrg_Elaine BESS"" 0.028 MUL ADD
+""GenLoad_3Elaine220 Solar"" -0.028 MUL ADD
+""GenLoad_3Elaine220 Wind"" -0.028 MUL ADD
+1 0 MUL ADD
+GenLoad_GANNSF1 -0.126 MUL ADD
+GenLoad_GESF1 -0.0227 MUL ADD
+GenLoad_GLRWNSF1 0.0193 MUL ADD
+BatDChg_3Dederang220 0.0193 MUL ADD
+BatChrg_3Dederang220 -0.0193 MUL ADD
+""GenLoad_3Dederang220 Solar"" 0.0193 MUL ADD
+""GenLoad_3Dederang220 Wind"" 0.0193 MUL ADD
+""GenLoad_Winton North Solar Farm"" 0.0193 MUL ADD
+GenLoad_WNSF1 0.0193 MUL ADD
+GenLoad_GUNNING1 -0.00826 MUL ADD
+""BatDChg_Gunning BESS"" -0.00826 MUL ADD
+""BatChrg_Gunning BESS"" 0.00826 MUL ADD
+""GenLoad_Gunning Solar Farm"" -0.00826 MUL ADD
+Var_N::N_NIL_63_G_98{0} -0.0117 MUL ADD
+GenLoad_HUMENSW -0.0406 MUL ADD
+GenLoad_HUMEV 0.0558 MUL ADD
+GenLoad_JUNEESF1 -0.0361 MUL ADD
+GenLoad_KERNGSP1 -0.126 MUL ADD
+BatDChg_3Kerang220 -0.126 MUL ADD
+BatChrg_3Kerang220 0.126 MUL ADD
+""BatDChg_Kerang Hybrid BESS"" -0.126 MUL ADD
+""BatChrg_Kerang Hybrid BESS"" 0.126 MUL ADD
+""GenLoad_Kerang Hybrid Solar"" -0.126 MUL ADD
+BatDChg_KESSB1 -0.134 MUL ADD
+BatChrg_KESSB1 0.134 MUL ADD
+GenLoad_KIATAWF1 -0.115 MUL ADD
+""BatDChg_Horsham BESS"" -0.115 MUL ADD
+""BatChrg_Horsham BESS"" 0.115 MUL ADD
+GenLoad_LNGS1 -0.00862 MUL ADD
+GenLoad_LNGS2 -0.00862 MUL ADD
+GenLoad_MACARTH1 -0.0233 MUL ADD
+BatDChg_3Heywood500 -0.0233 MUL ADD
+BatChrg_3Heywood500 0.0233 MUL ADD
+""GenLoad_3Heywood500 Solar"" -0.0233 MUL ADD
+""GenLoad_3Heywood500 Wind"" -0.0233 MUL ADD
+Var_N::N_NIL_63_G_122{0} 0.0266 MUL ADD
+GenLoad_MERCER01 -0.028 MUL ADD
+""GenLoad_Inverleigh Wind Farm"" -0.028 MUL ADD
+1 0 MUL ADD
+GenLoad_MOORAWF1 -0.028 MUL ADD
+GenLoad_MORTLK11 -0.0209 MUL ADD
+GenLoad_MORTLK12 -0.0209 MUL ADD
+BatDChg_MREHA1 -0.00776 MUL ADD
+BatChrg_MREHA1 0.00776 MUL ADD
+BatDChg_3DeerPark220 -0.00776 MUL ADD
+BatChrg_3DeerPark220 0.00776 MUL ADD
+""BatDChg_Deer Park BESS - Akaysha"" -0.00776 MUL ADD
+""BatChrg_Deer Park BESS - Akaysha"" 0.00776 MUL ADD
+""BatDChg_Little River BESS"" -0.00776 MUL ADD
+""BatChrg_Little River BESS"" 0.00776 MUL ADD
+""GenLoad_3DeerPark220 Solar"" -0.00776 MUL ADD
+""GenLoad_3DeerPark220 Wind"" -0.00776 MUL ADD
+""BatDChg_Melbourne Renewable Energy Hub Side B"" -0.00776 MUL ADD
+""BatChrg_Melbourne Renewable Energy Hub Side B"" 0.00776 MUL ADD
+BatDChg_MREHA2 -0.00776 MUL ADD
+BatChrg_MREHA2 0.00776 MUL ADD
+BatDChg_MREHA3 -0.00776 MUL ADD
+BatChrg_MREHA3 0.00776 MUL ADD
+GenLoad_MRTLSWF1 -0.0268 MUL ADD
+""GenLoad_Woolsthorpe Wind Farm"" -0.0268 MUL ADD
+""GenLoad_Hexham Wind Farm Wind"" -0.0268 MUL ADD
+GenLoad_MTGELWF1 -0.0219 MUL ADD
+BatDChg_3Terang220 -0.0219 MUL ADD
+BatChrg_3Terang220 0.0219 MUL ADD
+""GenLoad_3Terang220 Solar"" -0.0219 MUL ADD
+""GenLoad_3Terang220 Wind"" -0.0219 MUL ADD
+Var_N::N_NIL_63_G_161{0} 0.0655 MUL ADD
+GenLoad_MUWAWF1 -0.138 MUL ADD
+""GenLoad_Horsham Solar Farm"" -0.138 MUL ADD
+BatDChg_3Horsham220 -0.138 MUL ADD
+BatChrg_3Horsham220 0.138 MUL ADD
+""GenLoad_3Horsham220 Solar"" -0.138 MUL ADD
+""GenLoad_3Horsham220 Wind"" -0.138 MUL ADD
+GenLoad_MUWAWF2 -0.138 MUL ADD
+GenLoad_NUMURSF1 0.0085 MUL ADD
+BatDChg_3Shepparton220 0.0085 MUL ADD
+BatChrg_3Shepparton220 -0.0085 MUL ADD
+""GenLoad_3Shepparton220 Solar"" 0.0085 MUL ADD
+""GenLoad_3Shepparton220 Wind"" 0.0085 MUL ADD
+""GenLoad_Axedale Solar Farm"" 0.0085 MUL ADD
+""GenLoad_Fosterville Solar Farm"" 0.0085 MUL ADD
+GenLoad_OAKLAND1 -0.0264 MUL ADD
+GenLoad_SALTCRK1 -0.0264 MUL ADD
+GenLoad_SEBSF1 -0.0361 MUL ADD
+1 0 MUL ADD
+GenLoad_STOCKYD1 -0.0179 MUL ADD
+""BatDChg_Golden Plains BESS"" -0.0179 MUL ADD
+""BatChrg_Golden Plains BESS"" 0.0179 MUL ADD
+Var_N::N_NIL_63_G_197{0} 0.0062 MUL ADD
+GenLoad_URANQ11 -0.098 MUL ADD
+GenLoad_URANQ12 -0.098 MUL ADD
+GenLoad_URANQ13 -0.098 MUL ADD
+GenLoad_URANQ14 -0.098 MUL ADD
+1 0 MUL ADD
+GenLoad_WAGGNSF1 -0.0361 MUL ADD
+""BatDChg_Lockhart Hybrid Facility - Battery"" -0.0361 MUL ADD
+""BatChrg_Lockhart Hybrid Facility - Battery"" 0.0361 MUL ADD
+""GenLoad_Lockhart Hybrid Facility - Solar"" -0.0361 MUL ADD
+BatDChg_2Wagga330 -0.0361 MUL ADD
+BatChrg_2Wagga330 0.0361 MUL ADD
+""BatDChg_Wagga North BESS - KCI"" -0.0361 MUL ADD
+""BatChrg_Wagga North BESS - KCI"" 0.0361 MUL ADD
+""GenLoad_2Wagga330 Solar"" -0.0361 MUL ADD
+""GenLoad_2Wagga330 Wind"" -0.0361 MUL ADD
+Var_N::N_NIL_63_G_234{0} 0.0266 MUL ADD
+Var_N::N_NIL_63_G_237{0} 0.0266 MUL ADD
+GenLoad_WLWLSF1 0.00903 MUL ADD
+""BatDChg_Culcairn BESS"" 0.00903 MUL ADD
+""BatChrg_Culcairn BESS"" -0.00903 MUL ADD
+1 0 MUL ADD
+GenLoad_WSTWYSF1 -0.0361 MUL ADD
+GenLoad_WYASF1 -0.0361 MUL ADD
+GenLoad_YENDWF1 -0.0344 MUL ADD
+"	""	""	"NetworkConstraints"
+"Constraints"	"NEM"	"N::N_NIL_63"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"Grp11"	"="	"1 593 MUL ADD
+Var_N::N_NIL_63_G_2{0} -0.9 MUL ADD
+Var_N::N_NIL_63_G_6{0} 30.5 MUL ADD
+Var_N::N_NIL_63_G_10{0} -54 MUL ADD
+Var_N::N_NIL_63_G_13{0} 0.1905 MUL ADD
+Var_N::N_NIL_63_G_16{0} 0.04447 MUL ADD
+Var_N::N_NIL_63_G_19{0} 0.00965 MUL ADD
+1 -9.923 MUL ADD
+1 120 MUL ADD
+1 -30 MUL ADD
+1.603 MUL
+GenLoad_CULLRGWF -0.00826 MUL ADD
+GenLoad_CHALLHWF -0.0706 MUL ADD
+GenLoad_MLWF1 -0.0264 MUL ADD
+GenLoad_PORTWF -0.0261 MUL ADD
+GenLoad_WAUBRAWF -0.0506 MUL ADD
+GenLoad_YAMBUKWF -0.0264 MUL ADD
+GenLoad_YSWF1 -0.026 MUL ADD
+GenLoad_ARWF1 -0.0708 MUL ADD
+BatDChg_3Ararat220 -0.0708 MUL ADD
+BatChrg_3Ararat220 0.0708 MUL ADD
+""GenLoad_3Ararat220 Solar"" -0.0708 MUL ADD
+""GenLoad_3Ararat220 Wind"" -0.0708 MUL ADD
+1 0 MUL ADD
+GenLoad_BANGOWF1 -0.00769 MUL ADD
+""GenLoad_Coppabella Hybrid Generator"" -0.00769 MUL ADD
+GenLoad_BANGOWF2 -0.00769 MUL ADD
+GenLoad_BLOWERNG -0.0231 MUL ADD
+GenLoad_BOMENSF1 -0.0361 MUL ADD
+GenLoad_BRYB1WF1 -0.0299 MUL ADD
+GenLoad_BRYB2WF2 -0.0299 MUL ADD
+1 0 MUL ADD
+GenLoad_BULGANA1 -0.0838 MUL ADD
+BatDChg_3Bulgana220 -0.0838 MUL ADD
+BatChrg_3Bulgana220 0.0838 MUL ADD
+""BatDChg_Joel Joel BESS"" -0.0838 MUL ADD
+""BatChrg_Joel Joel BESS"" 0.0838 MUL ADD
+""GenLoad_3Bulgana220 Solar"" -0.0838 MUL ADD
+""GenLoad_3Bulgana220 Wind"" -0.0838 MUL ADD
+GenLoad_COHUNSF1 -0.126 MUL ADD
+""GenLoad_3Kerang220 Solar"" -0.126 MUL ADD
+""GenLoad_3Kerang220 Wind"" -0.126 MUL ADD
+GenLoad_CROWLWF1 -0.0753 MUL ADD
+GenLoad_CRWASF1 -0.149 MUL ADD
+BatDChg_2ANM132 -0.149 MUL ADD
+BatChrg_2ANM132 0.149 MUL ADD
+""GenLoad_2ANM132 Solar"" -0.149 MUL ADD
+""GenLoad_2ANM132 Wind"" -0.149 MUL ADD
+GenLoad_CUSF1 0.0121 MUL ADD
+GenLoad_DARTM1 0.0266 MUL ADD
+GenLoad_DUNDWF1 -0.0209 MUL ADD
+BatDChg_3Mortlake500 -0.0209 MUL ADD
+BatChrg_3Mortlake500 0.0209 MUL ADD
+""GenLoad_3Mortlake500 Solar"" -0.0209 MUL ADD
+""GenLoad_3Mortlake500 Wind"" -0.0209 MUL ADD
+GenLoad_DUNDWF2 -0.0209 MUL ADD
+GenLoad_DUNDWF3 -0.0209 MUL ADD
+GenLoad_EILDON1 0.0109 MUL ADD
+GenLoad_EILDON2 0.0109 MUL ADD
+GenLoad_ELAINWF1 -0.028 MUL ADD
+""GenLoad_Elaine Solar Farm"" -0.028 MUL ADD
+""BatDChg_Elaine Solar Farm BESS"" -0.028 MUL ADD
+""BatChrg_Elaine Solar Farm BESS"" 0.028 MUL ADD
+BatDChg_3Elaine220 -0.028 MUL ADD
+BatChrg_3Elaine220 0.028 MUL ADD
+""BatDChg_Elaine BESS"" -0.028 MUL ADD
+""BatChrg_Elaine BESS"" 0.028 MUL ADD
+""GenLoad_3Elaine220 Solar"" -0.028 MUL ADD
+""GenLoad_3Elaine220 Wind"" -0.028 MUL ADD
+1 0 MUL ADD
+GenLoad_GANNSF1 -0.126 MUL ADD
+GenLoad_GESF1 -0.0227 MUL ADD
+GenLoad_GLRWNSF1 0.0193 MUL ADD
+BatDChg_3Dederang220 0.0193 MUL ADD
+BatChrg_3Dederang220 -0.0193 MUL ADD
+""GenLoad_3Dederang220 Solar"" 0.0193 MUL ADD
+""GenLoad_3Dederang220 Wind"" 0.0193 MUL ADD
+""GenLoad_Winton North Solar Farm"" 0.0193 MUL ADD
+GenLoad_WNSF1 0.0193 MUL ADD
+GenLoad_GUNNING1 -0.00826 MUL ADD
+""BatDChg_Gunning BESS"" -0.00826 MUL ADD
+""BatChrg_Gunning BESS"" 0.00826 MUL ADD
+""GenLoad_Gunning Solar Farm"" -0.00826 MUL ADD
+Var_N::N_NIL_63_G_98{0} -0.0117 MUL ADD
+GenLoad_HUMENSW -0.0406 MUL ADD
+GenLoad_HUMEV 0.0558 MUL ADD
+GenLoad_JUNEESF1 -0.0361 MUL ADD
+GenLoad_KERNGSP1 -0.126 MUL ADD
+BatDChg_3Kerang220 -0.126 MUL ADD
+BatChrg_3Kerang220 0.126 MUL ADD
+""BatDChg_Kerang Hybrid BESS"" -0.126 MUL ADD
+""BatChrg_Kerang Hybrid BESS"" 0.126 MUL ADD
+""GenLoad_Kerang Hybrid Solar"" -0.126 MUL ADD
+BatDChg_KESSB1 -0.134 MUL ADD
+BatChrg_KESSB1 0.134 MUL ADD
+GenLoad_KIATAWF1 -0.115 MUL ADD
+""BatDChg_Horsham BESS"" -0.115 MUL ADD
+""BatChrg_Horsham BESS"" 0.115 MUL ADD
+GenLoad_LNGS1 -0.00862 MUL ADD
+GenLoad_LNGS2 -0.00862 MUL ADD
+GenLoad_MACARTH1 -0.0233 MUL ADD
+BatDChg_3Heywood500 -0.0233 MUL ADD
+BatChrg_3Heywood500 0.0233 MUL ADD
+""GenLoad_3Heywood500 Solar"" -0.0233 MUL ADD
+""GenLoad_3Heywood500 Wind"" -0.0233 MUL ADD
+Var_N::N_NIL_63_G_122{0} 0.0266 MUL ADD
+GenLoad_MERCER01 -0.028 MUL ADD
+""GenLoad_Inverleigh Wind Farm"" -0.028 MUL ADD
+1 0 MUL ADD
+GenLoad_MOORAWF1 -0.028 MUL ADD
+GenLoad_MORTLK11 -0.0209 MUL ADD
+GenLoad_MORTLK12 -0.0209 MUL ADD
+BatDChg_MREHA1 -0.00776 MUL ADD
+BatChrg_MREHA1 0.00776 MUL ADD
+BatDChg_3DeerPark220 -0.00776 MUL ADD
+BatChrg_3DeerPark220 0.00776 MUL ADD
+""BatDChg_Deer Park BESS - Akaysha"" -0.00776 MUL ADD
+""BatChrg_Deer Park BESS - Akaysha"" 0.00776 MUL ADD
+""BatDChg_Little River BESS"" -0.00776 MUL ADD
+""BatChrg_Little River BESS"" 0.00776 MUL ADD
+""GenLoad_3DeerPark220 Solar"" -0.00776 MUL ADD
+""GenLoad_3DeerPark220 Wind"" -0.00776 MUL ADD
+""BatDChg_Melbourne Renewable Energy Hub Side B"" -0.00776 MUL ADD
+""BatChrg_Melbourne Renewable Energy Hub Side B"" 0.00776 MUL ADD
+BatDChg_MREHA2 -0.00776 MUL ADD
+BatChrg_MREHA2 0.00776 MUL ADD
+BatDChg_MREHA3 -0.00776 MUL ADD
+BatChrg_MREHA3 0.00776 MUL ADD
+GenLoad_MRTLSWF1 -0.0268 MUL ADD
+""GenLoad_Woolsthorpe Wind Farm"" -0.0268 MUL ADD
+""GenLoad_Hexham Wind Farm Wind"" -0.0268 MUL ADD
+GenLoad_MTGELWF1 -0.0219 MUL ADD
+BatDChg_3Terang220 -0.0219 MUL ADD
+BatChrg_3Terang220 0.0219 MUL ADD
+""GenLoad_3Terang220 Solar"" -0.0219 MUL ADD
+""GenLoad_3Terang220 Wind"" -0.0219 MUL ADD
+Var_N::N_NIL_63_G_161{0} 0.0655 MUL ADD
+GenLoad_MUWAWF1 -0.138 MUL ADD
+""GenLoad_Horsham Solar Farm"" -0.138 MUL ADD
+BatDChg_3Horsham220 -0.138 MUL ADD
+BatChrg_3Horsham220 0.138 MUL ADD
+""GenLoad_3Horsham220 Solar"" -0.138 MUL ADD
+""GenLoad_3Horsham220 Wind"" -0.138 MUL ADD
+GenLoad_MUWAWF2 -0.138 MUL ADD
+GenLoad_NUMURSF1 0.0085 MUL ADD
+BatDChg_3Shepparton220 0.0085 MUL ADD
+BatChrg_3Shepparton220 -0.0085 MUL ADD
+""GenLoad_3Shepparton220 Solar"" 0.0085 MUL ADD
+""GenLoad_3Shepparton220 Wind"" 0.0085 MUL ADD
+""GenLoad_Axedale Solar Farm"" 0.0085 MUL ADD
+""GenLoad_Fosterville Solar Farm"" 0.0085 MUL ADD
+GenLoad_OAKLAND1 -0.0264 MUL ADD
+GenLoad_SALTCRK1 -0.0264 MUL ADD
+GenLoad_SEBSF1 -0.0361 MUL ADD
+1 0 MUL ADD
+GenLoad_STOCKYD1 -0.0179 MUL ADD
+""BatDChg_Golden Plains BESS"" -0.0179 MUL ADD
+""BatChrg_Golden Plains BESS"" 0.0179 MUL ADD
+Var_N::N_NIL_63_G_197{0} 0.0062 MUL ADD
+GenLoad_URANQ11 -0.098 MUL ADD
+GenLoad_URANQ12 -0.098 MUL ADD
+GenLoad_URANQ13 -0.098 MUL ADD
+GenLoad_URANQ14 -0.098 MUL ADD
+1 0 MUL ADD
+GenLoad_WAGGNSF1 -0.0361 MUL ADD
+""BatDChg_Lockhart Hybrid Facility - Battery"" -0.0361 MUL ADD
+""BatChrg_Lockhart Hybrid Facility - Battery"" 0.0361 MUL ADD
+""GenLoad_Lockhart Hybrid Facility - Solar"" -0.0361 MUL ADD
+BatDChg_2Wagga330 -0.0361 MUL ADD
+BatChrg_2Wagga330 0.0361 MUL ADD
+""BatDChg_Wagga North BESS - KCI"" -0.0361 MUL ADD
+""BatChrg_Wagga North BESS - KCI"" 0.0361 MUL ADD
+""GenLoad_2Wagga330 Solar"" -0.0361 MUL ADD
+""GenLoad_2Wagga330 Wind"" -0.0361 MUL ADD
+Var_N::N_NIL_63_G_234{0} 0.0266 MUL ADD
+Var_N::N_NIL_63_G_237{0} 0.0266 MUL ADD
+GenLoad_WLWLSF1 0.00903 MUL ADD
+""BatDChg_Culcairn BESS"" 0.00903 MUL ADD
+""BatChrg_Culcairn BESS"" -0.00903 MUL ADD
+1 0 MUL ADD
+GenLoad_WSTWYSF1 -0.0361 MUL ADD
+GenLoad_WYASF1 -0.0361 MUL ADD
+GenLoad_YENDWF1 -0.0344 MUL ADD
+"	""	""	"NetworkConstraints"
+"Constraints"	"NEM"	"N::N_NIL_63"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"Grp2"	"="	"1 593 MUL ADD
+Var_N::N_NIL_63_G_2{0} -0.9 MUL ADD
+Var_N::N_NIL_63_G_6{0} 30.5 MUL ADD
+Var_N::N_NIL_63_G_10{0} -54 MUL ADD
+Var_N::N_NIL_63_G_13{0} 0.1905 MUL ADD
+Var_N::N_NIL_63_G_16{0} 0.04447 MUL ADD
+Var_N::N_NIL_63_G_19{0} 0.00965 MUL ADD
+1 -9.923 MUL ADD
+1 120 MUL ADD
+1 -30 MUL ADD
+1.603 MUL
+GenLoad_CULLRGWF -0.00826 MUL ADD
+GenLoad_CHALLHWF -0.0706 MUL ADD
+GenLoad_MLWF1 -0.0264 MUL ADD
+GenLoad_PORTWF -0.0261 MUL ADD
+GenLoad_WAUBRAWF -0.0506 MUL ADD
+GenLoad_YAMBUKWF -0.0264 MUL ADD
+GenLoad_YSWF1 -0.026 MUL ADD
+GenLoad_ARWF1 -0.0708 MUL ADD
+BatDChg_3Ararat220 -0.0708 MUL ADD
+BatChrg_3Ararat220 0.0708 MUL ADD
+""GenLoad_3Ararat220 Solar"" -0.0708 MUL ADD
+""GenLoad_3Ararat220 Wind"" -0.0708 MUL ADD
+1 0 MUL ADD
+GenLoad_BANGOWF1 -0.00769 MUL ADD
+""GenLoad_Coppabella Hybrid Generator"" -0.00769 MUL ADD
+GenLoad_BANGOWF2 -0.00769 MUL ADD
+GenLoad_BLOWERNG -0.0231 MUL ADD
+GenLoad_BOMENSF1 -0.0361 MUL ADD
+GenLoad_BRYB1WF1 -0.0299 MUL ADD
+GenLoad_BRYB2WF2 -0.0299 MUL ADD
+1 0 MUL ADD
+GenLoad_BULGANA1 -0.0838 MUL ADD
+BatDChg_3Bulgana220 -0.0838 MUL ADD
+BatChrg_3Bulgana220 0.0838 MUL ADD
+""BatDChg_Joel Joel BESS"" -0.0838 MUL ADD
+""BatChrg_Joel Joel BESS"" 0.0838 MUL ADD
+""GenLoad_3Bulgana220 Solar"" -0.0838 MUL ADD
+""GenLoad_3Bulgana220 Wind"" -0.0838 MUL ADD
+GenLoad_COHUNSF1 -0.126 MUL ADD
+""GenLoad_3Kerang220 Solar"" -0.126 MUL ADD
+""GenLoad_3Kerang220 Wind"" -0.126 MUL ADD
+GenLoad_CROWLWF1 -0.0753 MUL ADD
+GenLoad_CRWASF1 -0.149 MUL ADD
+BatDChg_2ANM132 -0.149 MUL ADD
+BatChrg_2ANM132 0.149 MUL ADD
+""GenLoad_2ANM132 Solar"" -0.149 MUL ADD
+""GenLoad_2ANM132 Wind"" -0.149 MUL ADD
+GenLoad_CUSF1 0.0121 MUL ADD
+GenLoad_DARTM1 0.0266 MUL ADD
+GenLoad_DUNDWF1 -0.0209 MUL ADD
+BatDChg_3Mortlake500 -0.0209 MUL ADD
+BatChrg_3Mortlake500 0.0209 MUL ADD
+""GenLoad_3Mortlake500 Solar"" -0.0209 MUL ADD
+""GenLoad_3Mortlake500 Wind"" -0.0209 MUL ADD
+GenLoad_DUNDWF2 -0.0209 MUL ADD
+GenLoad_DUNDWF3 -0.0209 MUL ADD
+GenLoad_EILDON1 0.0109 MUL ADD
+GenLoad_EILDON2 0.0109 MUL ADD
+GenLoad_ELAINWF1 -0.028 MUL ADD
+""GenLoad_Elaine Solar Farm"" -0.028 MUL ADD
+""BatDChg_Elaine Solar Farm BESS"" -0.028 MUL ADD
+""BatChrg_Elaine Solar Farm BESS"" 0.028 MUL ADD
+BatDChg_3Elaine220 -0.028 MUL ADD
+BatChrg_3Elaine220 0.028 MUL ADD
+""BatDChg_Elaine BESS"" -0.028 MUL ADD
+""BatChrg_Elaine BESS"" 0.028 MUL ADD
+""GenLoad_3Elaine220 Solar"" -0.028 MUL ADD
+""GenLoad_3Elaine220 Wind"" -0.028 MUL ADD
+1 0 MUL ADD
+GenLoad_GANNSF1 -0.126 MUL ADD
+GenLoad_GESF1 -0.0227 MUL ADD
+GenLoad_GLRWNSF1 0.0193 MUL ADD
+BatDChg_3Dederang220 0.0193 MUL ADD
+BatChrg_3Dederang220 -0.0193 MUL ADD
+""GenLoad_3Dederang220 Solar"" 0.0193 MUL ADD
+""GenLoad_3Dederang220 Wind"" 0.0193 MUL ADD
+""GenLoad_Winton North Solar Farm"" 0.0193 MUL ADD
+GenLoad_WNSF1 0.0193 MUL ADD
+GenLoad_GUNNING1 -0.00826 MUL ADD
+""BatDChg_Gunning BESS"" -0.00826 MUL ADD
+""BatChrg_Gunning BESS"" 0.00826 MUL ADD
+""GenLoad_Gunning Solar Farm"" -0.00826 MUL ADD
+Var_N::N_NIL_63_G_98{0} -0.0117 MUL ADD
+GenLoad_HUMENSW -0.0406 MUL ADD
+GenLoad_HUMEV 0.0558 MUL ADD
+GenLoad_JUNEESF1 -0.0361 MUL ADD
+GenLoad_KERNGSP1 -0.126 MUL ADD
+BatDChg_3Kerang220 -0.126 MUL ADD
+BatChrg_3Kerang220 0.126 MUL ADD
+""BatDChg_Kerang Hybrid BESS"" -0.126 MUL ADD
+""BatChrg_Kerang Hybrid BESS"" 0.126 MUL ADD
+""GenLoad_Kerang Hybrid Solar"" -0.126 MUL ADD
+BatDChg_KESSB1 -0.134 MUL ADD
+BatChrg_KESSB1 0.134 MUL ADD
+GenLoad_KIATAWF1 -0.115 MUL ADD
+""BatDChg_Horsham BESS"" -0.115 MUL ADD
+""BatChrg_Horsham BESS"" 0.115 MUL ADD
+GenLoad_LNGS1 -0.00862 MUL ADD
+GenLoad_LNGS2 -0.00862 MUL ADD
+GenLoad_MACARTH1 -0.0233 MUL ADD
+BatDChg_3Heywood500 -0.0233 MUL ADD
+BatChrg_3Heywood500 0.0233 MUL ADD
+""GenLoad_3Heywood500 Solar"" -0.0233 MUL ADD
+""GenLoad_3Heywood500 Wind"" -0.0233 MUL ADD
+Var_N::N_NIL_63_G_122{0} 0.0266 MUL ADD
+GenLoad_MERCER01 -0.028 MUL ADD
+""GenLoad_Inverleigh Wind Farm"" -0.028 MUL ADD
+1 0 MUL ADD
+GenLoad_MOORAWF1 -0.028 MUL ADD
+GenLoad_MORTLK11 -0.0209 MUL ADD
+GenLoad_MORTLK12 -0.0209 MUL ADD
+BatDChg_MREHA1 -0.00776 MUL ADD
+BatChrg_MREHA1 0.00776 MUL ADD
+BatDChg_3DeerPark220 -0.00776 MUL ADD
+BatChrg_3DeerPark220 0.00776 MUL ADD
+""BatDChg_Deer Park BESS - Akaysha"" -0.00776 MUL ADD
+""BatChrg_Deer Park BESS - Akaysha"" 0.00776 MUL ADD
+""BatDChg_Little River BESS"" -0.00776 MUL ADD
+""BatChrg_Little River BESS"" 0.00776 MUL ADD
+""GenLoad_3DeerPark220 Solar"" -0.00776 MUL ADD
+""GenLoad_3DeerPark220 Wind"" -0.00776 MUL ADD
+""BatDChg_Melbourne Renewable Energy Hub Side B"" -0.00776 MUL ADD
+""BatChrg_Melbourne Renewable Energy Hub Side B"" 0.00776 MUL ADD
+BatDChg_MREHA2 -0.00776 MUL ADD
+BatChrg_MREHA2 0.00776 MUL ADD
+BatDChg_MREHA3 -0.00776 MUL ADD
+BatChrg_MREHA3 0.00776 MUL ADD
+GenLoad_MRTLSWF1 -0.0268 MUL ADD
+""GenLoad_Woolsthorpe Wind Farm"" -0.0268 MUL ADD
+""GenLoad_Hexham Wind Farm Wind"" -0.0268 MUL ADD
+GenLoad_MTGELWF1 -0.0219 MUL ADD
+BatDChg_3Terang220 -0.0219 MUL ADD
+BatChrg_3Terang220 0.0219 MUL ADD
+""GenLoad_3Terang220 Solar"" -0.0219 MUL ADD
+""GenLoad_3Terang220 Wind"" -0.0219 MUL ADD
+Var_N::N_NIL_63_G_161{0} 0.0655 MUL ADD
+GenLoad_MUWAWF1 -0.138 MUL ADD
+""GenLoad_Horsham Solar Farm"" -0.138 MUL ADD
+BatDChg_3Horsham220 -0.138 MUL ADD
+BatChrg_3Horsham220 0.138 MUL ADD
+""GenLoad_3Horsham220 Solar"" -0.138 MUL ADD
+""GenLoad_3Horsham220 Wind"" -0.138 MUL ADD
+GenLoad_MUWAWF2 -0.138 MUL ADD
+GenLoad_NUMURSF1 0.0085 MUL ADD
+BatDChg_3Shepparton220 0.0085 MUL ADD
+BatChrg_3Shepparton220 -0.0085 MUL ADD
+""GenLoad_3Shepparton220 Solar"" 0.0085 MUL ADD
+""GenLoad_3Shepparton220 Wind"" 0.0085 MUL ADD
+""GenLoad_Axedale Solar Farm"" 0.0085 MUL ADD
+""GenLoad_Fosterville Solar Farm"" 0.0085 MUL ADD
+GenLoad_OAKLAND1 -0.0264 MUL ADD
+GenLoad_SALTCRK1 -0.0264 MUL ADD
+GenLoad_SEBSF1 -0.0361 MUL ADD
+1 0 MUL ADD
+GenLoad_STOCKYD1 -0.0179 MUL ADD
+""BatDChg_Golden Plains BESS"" -0.0179 MUL ADD
+""BatChrg_Golden Plains BESS"" 0.0179 MUL ADD
+Var_N::N_NIL_63_G_197{0} 0.0062 MUL ADD
+GenLoad_URANQ11 -0.098 MUL ADD
+GenLoad_URANQ12 -0.098 MUL ADD
+GenLoad_URANQ13 -0.098 MUL ADD
+GenLoad_URANQ14 -0.098 MUL ADD
+1 0 MUL ADD
+GenLoad_WAGGNSF1 -0.0361 MUL ADD
+""BatDChg_Lockhart Hybrid Facility - Battery"" -0.0361 MUL ADD
+""BatChrg_Lockhart Hybrid Facility - Battery"" 0.0361 MUL ADD
+""GenLoad_Lockhart Hybrid Facility - Solar"" -0.0361 MUL ADD
+BatDChg_2Wagga330 -0.0361 MUL ADD
+BatChrg_2Wagga330 0.0361 MUL ADD
+""BatDChg_Wagga North BESS - KCI"" -0.0361 MUL ADD
+""BatChrg_Wagga North BESS - KCI"" 0.0361 MUL ADD
+""GenLoad_2Wagga330 Solar"" -0.0361 MUL ADD
+""GenLoad_2Wagga330 Wind"" -0.0361 MUL ADD
+Var_N::N_NIL_63_G_234{0} 0.0266 MUL ADD
+Var_N::N_NIL_63_G_237{0} 0.0266 MUL ADD
+GenLoad_WLWLSF1 0.00903 MUL ADD
+""BatDChg_Culcairn BESS"" 0.00903 MUL ADD
+""BatChrg_Culcairn BESS"" -0.00903 MUL ADD
+1 0 MUL ADD
+GenLoad_WSTWYSF1 -0.0361 MUL ADD
+GenLoad_WYASF1 -0.0361 MUL ADD
+GenLoad_YENDWF1 -0.0344 MUL ADD
+"	""	""	"NetworkConstraints"
+"Constraints"	"NEM"	"N::N_NIL_63"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"Grp3"	"="	"1 593 MUL ADD
+Var_N::N_NIL_63_G_2{0} -0.9 MUL ADD
+Var_N::N_NIL_63_G_6{0} 30.5 MUL ADD
+Var_N::N_NIL_63_G_10{0} -54 MUL ADD
+Var_N::N_NIL_63_G_13{0} 0.1905 MUL ADD
+Var_N::N_NIL_63_G_16{0} 0.04447 MUL ADD
+Var_N::N_NIL_63_G_19{0} 0.00965 MUL ADD
+1 -9.923 MUL ADD
+1 120 MUL ADD
+1 -30 MUL ADD
+1.603 MUL
+GenLoad_CULLRGWF -0.00826 MUL ADD
+GenLoad_CHALLHWF -0.0706 MUL ADD
+GenLoad_MLWF1 -0.0264 MUL ADD
+GenLoad_PORTWF -0.0261 MUL ADD
+GenLoad_WAUBRAWF -0.0506 MUL ADD
+GenLoad_YAMBUKWF -0.0264 MUL ADD
+GenLoad_YSWF1 -0.026 MUL ADD
+GenLoad_ARWF1 -0.0708 MUL ADD
+BatDChg_3Ararat220 -0.0708 MUL ADD
+BatChrg_3Ararat220 0.0708 MUL ADD
+""GenLoad_3Ararat220 Solar"" -0.0708 MUL ADD
+""GenLoad_3Ararat220 Wind"" -0.0708 MUL ADD
+1 0 MUL ADD
+GenLoad_BANGOWF1 -0.00769 MUL ADD
+""GenLoad_Coppabella Hybrid Generator"" -0.00769 MUL ADD
+GenLoad_BANGOWF2 -0.00769 MUL ADD
+GenLoad_BLOWERNG -0.0231 MUL ADD
+GenLoad_BOMENSF1 -0.0361 MUL ADD
+GenLoad_BRYB1WF1 -0.0299 MUL ADD
+GenLoad_BRYB2WF2 -0.0299 MUL ADD
+1 0 MUL ADD
+GenLoad_BULGANA1 -0.0838 MUL ADD
+BatDChg_3Bulgana220 -0.0838 MUL ADD
+BatChrg_3Bulgana220 0.0838 MUL ADD
+""BatDChg_Joel Joel BESS"" -0.0838 MUL ADD
+""BatChrg_Joel Joel BESS"" 0.0838 MUL ADD
+""GenLoad_3Bulgana220 Solar"" -0.0838 MUL ADD
+""GenLoad_3Bulgana220 Wind"" -0.0838 MUL ADD
+GenLoad_COHUNSF1 -0.126 MUL ADD
+""GenLoad_3Kerang220 Solar"" -0.126 MUL ADD
+""GenLoad_3Kerang220 Wind"" -0.126 MUL ADD
+GenLoad_CROWLWF1 -0.0753 MUL ADD
+GenLoad_CRWASF1 -0.149 MUL ADD
+BatDChg_2ANM132 -0.149 MUL ADD
+BatChrg_2ANM132 0.149 MUL ADD
+""GenLoad_2ANM132 Solar"" -0.149 MUL ADD
+""GenLoad_2ANM132 Wind"" -0.149 MUL ADD
+GenLoad_CUSF1 0.0121 MUL ADD
+GenLoad_DARTM1 0.0266 MUL ADD
+GenLoad_DUNDWF1 -0.0209 MUL ADD
+BatDChg_3Mortlake500 -0.0209 MUL ADD
+BatChrg_3Mortlake500 0.0209 MUL ADD
+""GenLoad_3Mortlake500 Solar"" -0.0209 MUL ADD
+""GenLoad_3Mortlake500 Wind"" -0.0209 MUL ADD
+GenLoad_DUNDWF2 -0.0209 MUL ADD
+GenLoad_DUNDWF3 -0.0209 MUL ADD
+GenLoad_EILDON1 0.0109 MUL ADD
+GenLoad_EILDON2 0.0109 MUL ADD
+GenLoad_ELAINWF1 -0.028 MUL ADD
+""GenLoad_Elaine Solar Farm"" -0.028 MUL ADD
+""BatDChg_Elaine Solar Farm BESS"" -0.028 MUL ADD
+""BatChrg_Elaine Solar Farm BESS"" 0.028 MUL ADD
+BatDChg_3Elaine220 -0.028 MUL ADD
+BatChrg_3Elaine220 0.028 MUL ADD
+""BatDChg_Elaine BESS"" -0.028 MUL ADD
+""BatChrg_Elaine BESS"" 0.028 MUL ADD
+""GenLoad_3Elaine220 Solar"" -0.028 MUL ADD
+""GenLoad_3Elaine220 Wind"" -0.028 MUL ADD
+1 0 MUL ADD
+GenLoad_GANNSF1 -0.126 MUL ADD
+GenLoad_GESF1 -0.0227 MUL ADD
+GenLoad_GLRWNSF1 0.0193 MUL ADD
+BatDChg_3Dederang220 0.0193 MUL ADD
+BatChrg_3Dederang220 -0.0193 MUL ADD
+""GenLoad_3Dederang220 Solar"" 0.0193 MUL ADD
+""GenLoad_3Dederang220 Wind"" 0.0193 MUL ADD
+""GenLoad_Winton North Solar Farm"" 0.0193 MUL ADD
+GenLoad_WNSF1 0.0193 MUL ADD
+GenLoad_GUNNING1 -0.00826 MUL ADD
+""BatDChg_Gunning BESS"" -0.00826 MUL ADD
+""BatChrg_Gunning BESS"" 0.00826 MUL ADD
+""GenLoad_Gunning Solar Farm"" -0.00826 MUL ADD
+Var_N::N_NIL_63_G_98{0} -0.0117 MUL ADD
+GenLoad_HUMENSW -0.0406 MUL ADD
+GenLoad_HUMEV 0.0558 MUL ADD
+GenLoad_JUNEESF1 -0.0361 MUL ADD
+GenLoad_KERNGSP1 -0.126 MUL ADD
+BatDChg_3Kerang220 -0.126 MUL ADD
+BatChrg_3Kerang220 0.126 MUL ADD
+""BatDChg_Kerang Hybrid BESS"" -0.126 MUL ADD
+""BatChrg_Kerang Hybrid BESS"" 0.126 MUL ADD
+""GenLoad_Kerang Hybrid Solar"" -0.126 MUL ADD
+BatDChg_KESSB1 -0.134 MUL ADD
+BatChrg_KESSB1 0.134 MUL ADD
+GenLoad_KIATAWF1 -0.115 MUL ADD
+""BatDChg_Horsham BESS"" -0.115 MUL ADD
+""BatChrg_Horsham BESS"" 0.115 MUL ADD
+GenLoad_LNGS1 -0.00862 MUL ADD
+GenLoad_LNGS2 -0.00862 MUL ADD
+GenLoad_MACARTH1 -0.0233 MUL ADD
+BatDChg_3Heywood500 -0.0233 MUL ADD
+BatChrg_3Heywood500 0.0233 MUL ADD
+""GenLoad_3Heywood500 Solar"" -0.0233 MUL ADD
+""GenLoad_3Heywood500 Wind"" -0.0233 MUL ADD
+Var_N::N_NIL_63_G_122{0} 0.0266 MUL ADD
+GenLoad_MERCER01 -0.028 MUL ADD
+""GenLoad_Inverleigh Wind Farm"" -0.028 MUL ADD
+1 0 MUL ADD
+GenLoad_MOORAWF1 -0.028 MUL ADD
+GenLoad_MORTLK11 -0.0209 MUL ADD
+GenLoad_MORTLK12 -0.0209 MUL ADD
+BatDChg_MREHA1 -0.00776 MUL ADD
+BatChrg_MREHA1 0.00776 MUL ADD
+BatDChg_3DeerPark220 -0.00776 MUL ADD
+BatChrg_3DeerPark220 0.00776 MUL ADD
+""BatDChg_Deer Park BESS - Akaysha"" -0.00776 MUL ADD
+""BatChrg_Deer Park BESS - Akaysha"" 0.00776 MUL ADD
+""BatDChg_Little River BESS"" -0.00776 MUL ADD
+""BatChrg_Little River BESS"" 0.00776 MUL ADD
+""GenLoad_3DeerPark220 Solar"" -0.00776 MUL ADD
+""GenLoad_3DeerPark220 Wind"" -0.00776 MUL ADD
+""BatDChg_Melbourne Renewable Energy Hub Side B"" -0.00776 MUL ADD
+""BatChrg_Melbourne Renewable Energy Hub Side B"" 0.00776 MUL ADD
+BatDChg_MREHA2 -0.00776 MUL ADD
+BatChrg_MREHA2 0.00776 MUL ADD
+BatDChg_MREHA3 -0.00776 MUL ADD
+BatChrg_MREHA3 0.00776 MUL ADD
+GenLoad_MRTLSWF1 -0.0268 MUL ADD
+""GenLoad_Woolsthorpe Wind Farm"" -0.0268 MUL ADD
+""GenLoad_Hexham Wind Farm Wind"" -0.0268 MUL ADD
+GenLoad_MTGELWF1 -0.0219 MUL ADD
+BatDChg_3Terang220 -0.0219 MUL ADD
+BatChrg_3Terang220 0.0219 MUL ADD
+""GenLoad_3Terang220 Solar"" -0.0219 MUL ADD
+""GenLoad_3Terang220 Wind"" -0.0219 MUL ADD
+Var_N::N_NIL_63_G_161{0} 0.0655 MUL ADD
+GenLoad_MUWAWF1 -0.138 MUL ADD
+""GenLoad_Horsham Solar Farm"" -0.138 MUL ADD
+BatDChg_3Horsham220 -0.138 MUL ADD
+BatChrg_3Horsham220 0.138 MUL ADD
+""GenLoad_3Horsham220 Solar"" -0.138 MUL ADD
+""GenLoad_3Horsham220 Wind"" -0.138 MUL ADD
+GenLoad_MUWAWF2 -0.138 MUL ADD
+GenLoad_NUMURSF1 0.0085 MUL ADD
+BatDChg_3Shepparton220 0.0085 MUL ADD
+BatChrg_3Shepparton220 -0.0085 MUL ADD
+""GenLoad_3Shepparton220 Solar"" 0.0085 MUL ADD
+""GenLoad_3Shepparton220 Wind"" 0.0085 MUL ADD
+""GenLoad_Axedale Solar Farm"" 0.0085 MUL ADD
+""GenLoad_Fosterville Solar Farm"" 0.0085 MUL ADD
+GenLoad_OAKLAND1 -0.0264 MUL ADD
+GenLoad_SALTCRK1 -0.0264 MUL ADD
+GenLoad_SEBSF1 -0.0361 MUL ADD
+1 0 MUL ADD
+GenLoad_STOCKYD1 -0.0179 MUL ADD
+""BatDChg_Golden Plains BESS"" -0.0179 MUL ADD
+""BatChrg_Golden Plains BESS"" 0.0179 MUL ADD
+Var_N::N_NIL_63_G_197{0} 0.0062 MUL ADD
+GenLoad_URANQ11 -0.098 MUL ADD
+GenLoad_URANQ12 -0.098 MUL ADD
+GenLoad_URANQ13 -0.098 MUL ADD
+GenLoad_URANQ14 -0.098 MUL ADD
+1 0 MUL ADD
+GenLoad_WAGGNSF1 -0.0361 MUL ADD
+""BatDChg_Lockhart Hybrid Facility - Battery"" -0.0361 MUL ADD
+""BatChrg_Lockhart Hybrid Facility - Battery"" 0.0361 MUL ADD
+""GenLoad_Lockhart Hybrid Facility - Solar"" -0.0361 MUL ADD
+BatDChg_2Wagga330 -0.0361 MUL ADD
+BatChrg_2Wagga330 0.0361 MUL ADD
+""BatDChg_Wagga North BESS - KCI"" -0.0361 MUL ADD
+""BatChrg_Wagga North BESS - KCI"" 0.0361 MUL ADD
+""GenLoad_2Wagga330 Solar"" -0.0361 MUL ADD
+""GenLoad_2Wagga330 Wind"" -0.0361 MUL ADD
+Var_N::N_NIL_63_G_234{0} 0.0266 MUL ADD
+Var_N::N_NIL_63_G_237{0} 0.0266 MUL ADD
+GenLoad_WLWLSF1 0.00903 MUL ADD
+""BatDChg_Culcairn BESS"" 0.00903 MUL ADD
+""BatChrg_Culcairn BESS"" -0.00903 MUL ADD
+1 0 MUL ADD
+GenLoad_WSTWYSF1 -0.0361 MUL ADD
+GenLoad_WYASF1 -0.0361 MUL ADD
+GenLoad_YENDWF1 -0.0344 MUL ADD
+"	""	""	"NetworkConstraints"
+"Constraints"	"NEM"	"N::N_NIL_63"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"Grp4"	"="	"1 593 MUL ADD
+Var_N::N_NIL_63_G_2{0} -0.9 MUL ADD
+Var_N::N_NIL_63_G_6{0} 30.5 MUL ADD
+Var_N::N_NIL_63_G_10{0} -54 MUL ADD
+Var_N::N_NIL_63_G_13{0} 0.1905 MUL ADD
+Var_N::N_NIL_63_G_16{0} 0.04447 MUL ADD
+Var_N::N_NIL_63_G_19{0} 0.00965 MUL ADD
+1 -9.923 MUL ADD
+1 120 MUL ADD
+1 -30 MUL ADD
+1.603 MUL
+GenLoad_CULLRGWF -0.00826 MUL ADD
+GenLoad_CHALLHWF -0.0706 MUL ADD
+GenLoad_MLWF1 -0.0264 MUL ADD
+GenLoad_PORTWF -0.0261 MUL ADD
+GenLoad_WAUBRAWF -0.0506 MUL ADD
+GenLoad_YAMBUKWF -0.0264 MUL ADD
+GenLoad_YSWF1 -0.026 MUL ADD
+GenLoad_ARWF1 -0.0708 MUL ADD
+BatDChg_3Ararat220 -0.0708 MUL ADD
+BatChrg_3Ararat220 0.0708 MUL ADD
+""GenLoad_3Ararat220 Solar"" -0.0708 MUL ADD
+""GenLoad_3Ararat220 Wind"" -0.0708 MUL ADD
+1 0 MUL ADD
+GenLoad_BANGOWF1 -0.00769 MUL ADD
+""GenLoad_Coppabella Hybrid Generator"" -0.00769 MUL ADD
+GenLoad_BANGOWF2 -0.00769 MUL ADD
+GenLoad_BLOWERNG -0.0231 MUL ADD
+GenLoad_BOMENSF1 -0.0361 MUL ADD
+GenLoad_BRYB1WF1 -0.0299 MUL ADD
+GenLoad_BRYB2WF2 -0.0299 MUL ADD
+1 0 MUL ADD
+GenLoad_BULGANA1 -0.0838 MUL ADD
+BatDChg_3Bulgana220 -0.0838 MUL ADD
+BatChrg_3Bulgana220 0.0838 MUL ADD
+""BatDChg_Joel Joel BESS"" -0.0838 MUL ADD
+""BatChrg_Joel Joel BESS"" 0.0838 MUL ADD
+""GenLoad_3Bulgana220 Solar"" -0.0838 MUL ADD
+""GenLoad_3Bulgana220 Wind"" -0.0838 MUL ADD
+GenLoad_COHUNSF1 -0.126 MUL ADD
+""GenLoad_3Kerang220 Solar"" -0.126 MUL ADD
+""GenLoad_3Kerang220 Wind"" -0.126 MUL ADD
+GenLoad_CROWLWF1 -0.0753 MUL ADD
+GenLoad_CRWASF1 -0.149 MUL ADD
+BatDChg_2ANM132 -0.149 MUL ADD
+BatChrg_2ANM132 0.149 MUL ADD
+""GenLoad_2ANM132 Solar"" -0.149 MUL ADD
+""GenLoad_2ANM132 Wind"" -0.149 MUL ADD
+GenLoad_CUSF1 0.0121 MUL ADD
+GenLoad_DARTM1 0.0266 MUL ADD
+GenLoad_DUNDWF1 -0.0209 MUL ADD
+BatDChg_3Mortlake500 -0.0209 MUL ADD
+BatChrg_3Mortlake500 0.0209 MUL ADD
+""GenLoad_3Mortlake500 Solar"" -0.0209 MUL ADD
+""GenLoad_3Mortlake500 Wind"" -0.0209 MUL ADD
+GenLoad_DUNDWF2 -0.0209 MUL ADD
+GenLoad_DUNDWF3 -0.0209 MUL ADD
+GenLoad_EILDON1 0.0109 MUL ADD
+GenLoad_EILDON2 0.0109 MUL ADD
+GenLoad_ELAINWF1 -0.028 MUL ADD
+""GenLoad_Elaine Solar Farm"" -0.028 MUL ADD
+""BatDChg_Elaine Solar Farm BESS"" -0.028 MUL ADD
+""BatChrg_Elaine Solar Farm BESS"" 0.028 MUL ADD
+BatDChg_3Elaine220 -0.028 MUL ADD
+BatChrg_3Elaine220 0.028 MUL ADD
+""BatDChg_Elaine BESS"" -0.028 MUL ADD
+""BatChrg_Elaine BESS"" 0.028 MUL ADD
+""GenLoad_3Elaine220 Solar"" -0.028 MUL ADD
+""GenLoad_3Elaine220 Wind"" -0.028 MUL ADD
+1 0 MUL ADD
+GenLoad_GANNSF1 -0.126 MUL ADD
+GenLoad_GESF1 -0.0227 MUL ADD
+GenLoad_GLRWNSF1 0.0193 MUL ADD
+BatDChg_3Dederang220 0.0193 MUL ADD
+BatChrg_3Dederang220 -0.0193 MUL ADD
+""GenLoad_3Dederang220 Solar"" 0.0193 MUL ADD
+""GenLoad_3Dederang220 Wind"" 0.0193 MUL ADD
+""GenLoad_Winton North Solar Farm"" 0.0193 MUL ADD
+GenLoad_WNSF1 0.0193 MUL ADD
+GenLoad_GUNNING1 -0.00826 MUL ADD
+""BatDChg_Gunning BESS"" -0.00826 MUL ADD
+""BatChrg_Gunning BESS"" 0.00826 MUL ADD
+""GenLoad_Gunning Solar Farm"" -0.00826 MUL ADD
+Var_N::N_NIL_63_G_98{0} -0.0117 MUL ADD
+GenLoad_HUMENSW -0.0406 MUL ADD
+GenLoad_HUMEV 0.0558 MUL ADD
+GenLoad_JUNEESF1 -0.0361 MUL ADD
+GenLoad_KERNGSP1 -0.126 MUL ADD
+BatDChg_3Kerang220 -0.126 MUL ADD
+BatChrg_3Kerang220 0.126 MUL ADD
+""BatDChg_Kerang Hybrid BESS"" -0.126 MUL ADD
+""BatChrg_Kerang Hybrid BESS"" 0.126 MUL ADD
+""GenLoad_Kerang Hybrid Solar"" -0.126 MUL ADD
+BatDChg_KESSB1 -0.134 MUL ADD
+BatChrg_KESSB1 0.134 MUL ADD
+GenLoad_KIATAWF1 -0.115 MUL ADD
+""BatDChg_Horsham BESS"" -0.115 MUL ADD
+""BatChrg_Horsham BESS"" 0.115 MUL ADD
+GenLoad_LNGS1 -0.00862 MUL ADD
+GenLoad_LNGS2 -0.00862 MUL ADD
+GenLoad_MACARTH1 -0.0233 MUL ADD
+BatDChg_3Heywood500 -0.0233 MUL ADD
+BatChrg_3Heywood500 0.0233 MUL ADD
+""GenLoad_3Heywood500 Solar"" -0.0233 MUL ADD
+""GenLoad_3Heywood500 Wind"" -0.0233 MUL ADD
+Var_N::N_NIL_63_G_122{0} 0.0266 MUL ADD
+GenLoad_MERCER01 -0.028 MUL ADD
+""GenLoad_Inverleigh Wind Farm"" -0.028 MUL ADD
+1 0 MUL ADD
+GenLoad_MOORAWF1 -0.028 MUL ADD
+GenLoad_MORTLK11 -0.0209 MUL ADD
+GenLoad_MORTLK12 -0.0209 MUL ADD
+BatDChg_MREHA1 -0.00776 MUL ADD
+BatChrg_MREHA1 0.00776 MUL ADD
+BatDChg_3DeerPark220 -0.00776 MUL ADD
+BatChrg_3DeerPark220 0.00776 MUL ADD
+""BatDChg_Deer Park BESS - Akaysha"" -0.00776 MUL ADD
+""BatChrg_Deer Park BESS - Akaysha"" 0.00776 MUL ADD
+""BatDChg_Little River BESS"" -0.00776 MUL ADD
+""BatChrg_Little River BESS"" 0.00776 MUL ADD
+""GenLoad_3DeerPark220 Solar"" -0.00776 MUL ADD
+""GenLoad_3DeerPark220 Wind"" -0.00776 MUL ADD
+""BatDChg_Melbourne Renewable Energy Hub Side B"" -0.00776 MUL ADD
+""BatChrg_Melbourne Renewable Energy Hub Side B"" 0.00776 MUL ADD
+BatDChg_MREHA2 -0.00776 MUL ADD
+BatChrg_MREHA2 0.00776 MUL ADD
+BatDChg_MREHA3 -0.00776 MUL ADD
+BatChrg_MREHA3 0.00776 MUL ADD
+GenLoad_MRTLSWF1 -0.0268 MUL ADD
+""GenLoad_Woolsthorpe Wind Farm"" -0.0268 MUL ADD
+""GenLoad_Hexham Wind Farm Wind"" -0.0268 MUL ADD
+GenLoad_MTGELWF1 -0.0219 MUL ADD
+BatDChg_3Terang220 -0.0219 MUL ADD
+BatChrg_3Terang220 0.0219 MUL ADD
+""GenLoad_3Terang220 Solar"" -0.0219 MUL ADD
+""GenLoad_3Terang220 Wind"" -0.0219 MUL ADD
+Var_N::N_NIL_63_G_161{0} 0.0655 MUL ADD
+GenLoad_MUWAWF1 -0.138 MUL ADD
+""GenLoad_Horsham Solar Farm"" -0.138 MUL ADD
+BatDChg_3Horsham220 -0.138 MUL ADD
+BatChrg_3Horsham220 0.138 MUL ADD
+""GenLoad_3Horsham220 Solar"" -0.138 MUL ADD
+""GenLoad_3Horsham220 Wind"" -0.138 MUL ADD
+GenLoad_MUWAWF2 -0.138 MUL ADD
+GenLoad_NUMURSF1 0.0085 MUL ADD
+BatDChg_3Shepparton220 0.0085 MUL ADD
+BatChrg_3Shepparton220 -0.0085 MUL ADD
+""GenLoad_3Shepparton220 Solar"" 0.0085 MUL ADD
+""GenLoad_3Shepparton220 Wind"" 0.0085 MUL ADD
+""GenLoad_Axedale Solar Farm"" 0.0085 MUL ADD
+""GenLoad_Fosterville Solar Farm"" 0.0085 MUL ADD
+GenLoad_OAKLAND1 -0.0264 MUL ADD
+GenLoad_SALTCRK1 -0.0264 MUL ADD
+GenLoad_SEBSF1 -0.0361 MUL ADD
+1 0 MUL ADD
+GenLoad_STOCKYD1 -0.0179 MUL ADD
+""BatDChg_Golden Plains BESS"" -0.0179 MUL ADD
+""BatChrg_Golden Plains BESS"" 0.0179 MUL ADD
+Var_N::N_NIL_63_G_197{0} 0.0062 MUL ADD
+GenLoad_URANQ11 -0.098 MUL ADD
+GenLoad_URANQ12 -0.098 MUL ADD
+GenLoad_URANQ13 -0.098 MUL ADD
+GenLoad_URANQ14 -0.098 MUL ADD
+1 0 MUL ADD
+GenLoad_WAGGNSF1 -0.0361 MUL ADD
+""BatDChg_Lockhart Hybrid Facility - Battery"" -0.0361 MUL ADD
+""BatChrg_Lockhart Hybrid Facility - Battery"" 0.0361 MUL ADD
+""GenLoad_Lockhart Hybrid Facility - Solar"" -0.0361 MUL ADD
+BatDChg_2Wagga330 -0.0361 MUL ADD
+BatChrg_2Wagga330 0.0361 MUL ADD
+""BatDChg_Wagga North BESS - KCI"" -0.0361 MUL ADD
+""BatChrg_Wagga North BESS - KCI"" 0.0361 MUL ADD
+""GenLoad_2Wagga330 Solar"" -0.0361 MUL ADD
+""GenLoad_2Wagga330 Wind"" -0.0361 MUL ADD
+Var_N::N_NIL_63_G_234{0} 0.0266 MUL ADD
+Var_N::N_NIL_63_G_237{0} 0.0266 MUL ADD
+GenLoad_WLWLSF1 0.00903 MUL ADD
+""BatDChg_Culcairn BESS"" 0.00903 MUL ADD
+""BatChrg_Culcairn BESS"" -0.00903 MUL ADD
+1 0 MUL ADD
+GenLoad_WSTWYSF1 -0.0361 MUL ADD
+GenLoad_WYASF1 -0.0361 MUL ADD
+GenLoad_YENDWF1 -0.0344 MUL ADD
+"	""	""	"NetworkConstraints"
+"Constraints"	"NEM"	"N::N_NIL_63"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"Grp5"	"="	"1 593 MUL ADD
+Var_N::N_NIL_63_G_2{0} -0.9 MUL ADD
+Var_N::N_NIL_63_G_6{0} 30.5 MUL ADD
+Var_N::N_NIL_63_G_10{0} -54 MUL ADD
+Var_N::N_NIL_63_G_13{0} 0.1905 MUL ADD
+Var_N::N_NIL_63_G_16{0} 0.04447 MUL ADD
+Var_N::N_NIL_63_G_19{0} 0.00965 MUL ADD
+1 -9.923 MUL ADD
+1 120 MUL ADD
+1 -30 MUL ADD
+1.603 MUL
+GenLoad_CULLRGWF -0.00826 MUL ADD
+GenLoad_CHALLHWF -0.0706 MUL ADD
+GenLoad_MLWF1 -0.0264 MUL ADD
+GenLoad_PORTWF -0.0261 MUL ADD
+GenLoad_WAUBRAWF -0.0506 MUL ADD
+GenLoad_YAMBUKWF -0.0264 MUL ADD
+GenLoad_YSWF1 -0.026 MUL ADD
+GenLoad_ARWF1 -0.0708 MUL ADD
+BatDChg_3Ararat220 -0.0708 MUL ADD
+BatChrg_3Ararat220 0.0708 MUL ADD
+""GenLoad_3Ararat220 Solar"" -0.0708 MUL ADD
+""GenLoad_3Ararat220 Wind"" -0.0708 MUL ADD
+1 0 MUL ADD
+GenLoad_BANGOWF1 -0.00769 MUL ADD
+""GenLoad_Coppabella Hybrid Generator"" -0.00769 MUL ADD
+GenLoad_BANGOWF2 -0.00769 MUL ADD
+GenLoad_BLOWERNG -0.0231 MUL ADD
+GenLoad_BOMENSF1 -0.0361 MUL ADD
+GenLoad_BRYB1WF1 -0.0299 MUL ADD
+GenLoad_BRYB2WF2 -0.0299 MUL ADD
+1 0 MUL ADD
+GenLoad_BULGANA1 -0.0838 MUL ADD
+BatDChg_3Bulgana220 -0.0838 MUL ADD
+BatChrg_3Bulgana220 0.0838 MUL ADD
+""BatDChg_Joel Joel BESS"" -0.0838 MUL ADD
+""BatChrg_Joel Joel BESS"" 0.0838 MUL ADD
+""GenLoad_3Bulgana220 Solar"" -0.0838 MUL ADD
+""GenLoad_3Bulgana220 Wind"" -0.0838 MUL ADD
+GenLoad_COHUNSF1 -0.126 MUL ADD
+""GenLoad_3Kerang220 Solar"" -0.126 MUL ADD
+""GenLoad_3Kerang220 Wind"" -0.126 MUL ADD
+GenLoad_CROWLWF1 -0.0753 MUL ADD
+GenLoad_CRWASF1 -0.149 MUL ADD
+BatDChg_2ANM132 -0.149 MUL ADD
+BatChrg_2ANM132 0.149 MUL ADD
+""GenLoad_2ANM132 Solar"" -0.149 MUL ADD
+""GenLoad_2ANM132 Wind"" -0.149 MUL ADD
+GenLoad_CUSF1 0.0121 MUL ADD
+GenLoad_DARTM1 0.0266 MUL ADD
+GenLoad_DUNDWF1 -0.0209 MUL ADD
+BatDChg_3Mortlake500 -0.0209 MUL ADD
+BatChrg_3Mortlake500 0.0209 MUL ADD
+""GenLoad_3Mortlake500 Solar"" -0.0209 MUL ADD
+""GenLoad_3Mortlake500 Wind"" -0.0209 MUL ADD
+GenLoad_DUNDWF2 -0.0209 MUL ADD
+GenLoad_DUNDWF3 -0.0209 MUL ADD
+GenLoad_EILDON1 0.0109 MUL ADD
+GenLoad_EILDON2 0.0109 MUL ADD
+GenLoad_ELAINWF1 -0.028 MUL ADD
+""GenLoad_Elaine Solar Farm"" -0.028 MUL ADD
+""BatDChg_Elaine Solar Farm BESS"" -0.028 MUL ADD
+""BatChrg_Elaine Solar Farm BESS"" 0.028 MUL ADD
+BatDChg_3Elaine220 -0.028 MUL ADD
+BatChrg_3Elaine220 0.028 MUL ADD
+""BatDChg_Elaine BESS"" -0.028 MUL ADD
+""BatChrg_Elaine BESS"" 0.028 MUL ADD
+""GenLoad_3Elaine220 Solar"" -0.028 MUL ADD
+""GenLoad_3Elaine220 Wind"" -0.028 MUL ADD
+1 0 MUL ADD
+GenLoad_GANNSF1 -0.126 MUL ADD
+GenLoad_GESF1 -0.0227 MUL ADD
+GenLoad_GLRWNSF1 0.0193 MUL ADD
+BatDChg_3Dederang220 0.0193 MUL ADD
+BatChrg_3Dederang220 -0.0193 MUL ADD
+""GenLoad_3Dederang220 Solar"" 0.0193 MUL ADD
+""GenLoad_3Dederang220 Wind"" 0.0193 MUL ADD
+""GenLoad_Winton North Solar Farm"" 0.0193 MUL ADD
+GenLoad_WNSF1 0.0193 MUL ADD
+GenLoad_GUNNING1 -0.00826 MUL ADD
+""BatDChg_Gunning BESS"" -0.00826 MUL ADD
+""BatChrg_Gunning BESS"" 0.00826 MUL ADD
+""GenLoad_Gunning Solar Farm"" -0.00826 MUL ADD
+Var_N::N_NIL_63_G_98{0} -0.0117 MUL ADD
+GenLoad_HUMENSW -0.0406 MUL ADD
+GenLoad_HUMEV 0.0558 MUL ADD
+GenLoad_JUNEESF1 -0.0361 MUL ADD
+GenLoad_KERNGSP1 -0.126 MUL ADD
+BatDChg_3Kerang220 -0.126 MUL ADD
+BatChrg_3Kerang220 0.126 MUL ADD
+""BatDChg_Kerang Hybrid BESS"" -0.126 MUL ADD
+""BatChrg_Kerang Hybrid BESS"" 0.126 MUL ADD
+""GenLoad_Kerang Hybrid Solar"" -0.126 MUL ADD
+BatDChg_KESSB1 -0.134 MUL ADD
+BatChrg_KESSB1 0.134 MUL ADD
+GenLoad_KIATAWF1 -0.115 MUL ADD
+""BatDChg_Horsham BESS"" -0.115 MUL ADD
+""BatChrg_Horsham BESS"" 0.115 MUL ADD
+GenLoad_LNGS1 -0.00862 MUL ADD
+GenLoad_LNGS2 -0.00862 MUL ADD
+GenLoad_MACARTH1 -0.0233 MUL ADD
+BatDChg_3Heywood500 -0.0233 MUL ADD
+BatChrg_3Heywood500 0.0233 MUL ADD
+""GenLoad_3Heywood500 Solar"" -0.0233 MUL ADD
+""GenLoad_3Heywood500 Wind"" -0.0233 MUL ADD
+Var_N::N_NIL_63_G_122{0} 0.0266 MUL ADD
+GenLoad_MERCER01 -0.028 MUL ADD
+""GenLoad_Inverleigh Wind Farm"" -0.028 MUL ADD
+1 0 MUL ADD
+GenLoad_MOORAWF1 -0.028 MUL ADD
+GenLoad_MORTLK11 -0.0209 MUL ADD
+GenLoad_MORTLK12 -0.0209 MUL ADD
+BatDChg_MREHA1 -0.00776 MUL ADD
+BatChrg_MREHA1 0.00776 MUL ADD
+BatDChg_3DeerPark220 -0.00776 MUL ADD
+BatChrg_3DeerPark220 0.00776 MUL ADD
+""BatDChg_Deer Park BESS - Akaysha"" -0.00776 MUL ADD
+""BatChrg_Deer Park BESS - Akaysha"" 0.00776 MUL ADD
+""BatDChg_Little River BESS"" -0.00776 MUL ADD
+""BatChrg_Little River BESS"" 0.00776 MUL ADD
+""GenLoad_3DeerPark220 Solar"" -0.00776 MUL ADD
+""GenLoad_3DeerPark220 Wind"" -0.00776 MUL ADD
+""BatDChg_Melbourne Renewable Energy Hub Side B"" -0.00776 MUL ADD
+""BatChrg_Melbourne Renewable Energy Hub Side B"" 0.00776 MUL ADD
+BatDChg_MREHA2 -0.00776 MUL ADD
+BatChrg_MREHA2 0.00776 MUL ADD
+BatDChg_MREHA3 -0.00776 MUL ADD
+BatChrg_MREHA3 0.00776 MUL ADD
+GenLoad_MRTLSWF1 -0.0268 MUL ADD
+""GenLoad_Woolsthorpe Wind Farm"" -0.0268 MUL ADD
+""GenLoad_Hexham Wind Farm Wind"" -0.0268 MUL ADD
+GenLoad_MTGELWF1 -0.0219 MUL ADD
+BatDChg_3Terang220 -0.0219 MUL ADD
+BatChrg_3Terang220 0.0219 MUL ADD
+""GenLoad_3Terang220 Solar"" -0.0219 MUL ADD
+""GenLoad_3Terang220 Wind"" -0.0219 MUL ADD
+Var_N::N_NIL_63_G_161{0} 0.0655 MUL ADD
+GenLoad_MUWAWF1 -0.138 MUL ADD
+""GenLoad_Horsham Solar Farm"" -0.138 MUL ADD
+BatDChg_3Horsham220 -0.138 MUL ADD
+BatChrg_3Horsham220 0.138 MUL ADD
+""GenLoad_3Horsham220 Solar"" -0.138 MUL ADD
+""GenLoad_3Horsham220 Wind"" -0.138 MUL ADD
+GenLoad_MUWAWF2 -0.138 MUL ADD
+GenLoad_NUMURSF1 0.0085 MUL ADD
+BatDChg_3Shepparton220 0.0085 MUL ADD
+BatChrg_3Shepparton220 -0.0085 MUL ADD
+""GenLoad_3Shepparton220 Solar"" 0.0085 MUL ADD
+""GenLoad_3Shepparton220 Wind"" 0.0085 MUL ADD
+""GenLoad_Axedale Solar Farm"" 0.0085 MUL ADD
+""GenLoad_Fosterville Solar Farm"" 0.0085 MUL ADD
+GenLoad_OAKLAND1 -0.0264 MUL ADD
+GenLoad_SALTCRK1 -0.0264 MUL ADD
+GenLoad_SEBSF1 -0.0361 MUL ADD
+1 0 MUL ADD
+GenLoad_STOCKYD1 -0.0179 MUL ADD
+""BatDChg_Golden Plains BESS"" -0.0179 MUL ADD
+""BatChrg_Golden Plains BESS"" 0.0179 MUL ADD
+Var_N::N_NIL_63_G_197{0} 0.0062 MUL ADD
+GenLoad_URANQ11 -0.098 MUL ADD
+GenLoad_URANQ12 -0.098 MUL ADD
+GenLoad_URANQ13 -0.098 MUL ADD
+GenLoad_URANQ14 -0.098 MUL ADD
+1 0 MUL ADD
+GenLoad_WAGGNSF1 -0.0361 MUL ADD
+""BatDChg_Lockhart Hybrid Facility - Battery"" -0.0361 MUL ADD
+""BatChrg_Lockhart Hybrid Facility - Battery"" 0.0361 MUL ADD
+""GenLoad_Lockhart Hybrid Facility - Solar"" -0.0361 MUL ADD
+BatDChg_2Wagga330 -0.0361 MUL ADD
+BatChrg_2Wagga330 0.0361 MUL ADD
+""BatDChg_Wagga North BESS - KCI"" -0.0361 MUL ADD
+""BatChrg_Wagga North BESS - KCI"" 0.0361 MUL ADD
+""GenLoad_2Wagga330 Solar"" -0.0361 MUL ADD
+""GenLoad_2Wagga330 Wind"" -0.0361 MUL ADD
+Var_N::N_NIL_63_G_234{0} 0.0266 MUL ADD
+Var_N::N_NIL_63_G_237{0} 0.0266 MUL ADD
+GenLoad_WLWLSF1 0.00903 MUL ADD
+""BatDChg_Culcairn BESS"" 0.00903 MUL ADD
+""BatChrg_Culcairn BESS"" -0.00903 MUL ADD
+1 0 MUL ADD
+GenLoad_WSTWYSF1 -0.0361 MUL ADD
+GenLoad_WYASF1 -0.0361 MUL ADD
+GenLoad_YENDWF1 -0.0344 MUL ADD
+"	""	""	"NetworkConstraints"
+"Constraints"	"NEM"	"N::N_NIL_63"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"Grp6"	"="	"1 593 MUL ADD
+Var_N::N_NIL_63_G_2{0} -0.9 MUL ADD
+Var_N::N_NIL_63_G_6{0} 30.5 MUL ADD
+Var_N::N_NIL_63_G_10{0} -54 MUL ADD
+Var_N::N_NIL_63_G_13{0} 0.1905 MUL ADD
+Var_N::N_NIL_63_G_16{0} 0.04447 MUL ADD
+Var_N::N_NIL_63_G_19{0} 0.00965 MUL ADD
+1 -9.923 MUL ADD
+1 120 MUL ADD
+1 -30 MUL ADD
+1.603 MUL
+GenLoad_CULLRGWF -0.00826 MUL ADD
+GenLoad_CHALLHWF -0.0706 MUL ADD
+GenLoad_MLWF1 -0.0264 MUL ADD
+GenLoad_PORTWF -0.0261 MUL ADD
+GenLoad_WAUBRAWF -0.0506 MUL ADD
+GenLoad_YAMBUKWF -0.0264 MUL ADD
+GenLoad_YSWF1 -0.026 MUL ADD
+GenLoad_ARWF1 -0.0708 MUL ADD
+BatDChg_3Ararat220 -0.0708 MUL ADD
+BatChrg_3Ararat220 0.0708 MUL ADD
+""GenLoad_3Ararat220 Solar"" -0.0708 MUL ADD
+""GenLoad_3Ararat220 Wind"" -0.0708 MUL ADD
+1 0 MUL ADD
+GenLoad_BANGOWF1 -0.00769 MUL ADD
+""GenLoad_Coppabella Hybrid Generator"" -0.00769 MUL ADD
+GenLoad_BANGOWF2 -0.00769 MUL ADD
+GenLoad_BLOWERNG -0.0231 MUL ADD
+GenLoad_BOMENSF1 -0.0361 MUL ADD
+GenLoad_BRYB1WF1 -0.0299 MUL ADD
+GenLoad_BRYB2WF2 -0.0299 MUL ADD
+1 0 MUL ADD
+GenLoad_BULGANA1 -0.0838 MUL ADD
+BatDChg_3Bulgana220 -0.0838 MUL ADD
+BatChrg_3Bulgana220 0.0838 MUL ADD
+""BatDChg_Joel Joel BESS"" -0.0838 MUL ADD
+""BatChrg_Joel Joel BESS"" 0.0838 MUL ADD
+""GenLoad_3Bulgana220 Solar"" -0.0838 MUL ADD
+""GenLoad_3Bulgana220 Wind"" -0.0838 MUL ADD
+GenLoad_COHUNSF1 -0.126 MUL ADD
+""GenLoad_3Kerang220 Solar"" -0.126 MUL ADD
+""GenLoad_3Kerang220 Wind"" -0.126 MUL ADD
+GenLoad_CROWLWF1 -0.0753 MUL ADD
+GenLoad_CRWASF1 -0.149 MUL ADD
+BatDChg_2ANM132 -0.149 MUL ADD
+BatChrg_2ANM132 0.149 MUL ADD
+""GenLoad_2ANM132 Solar"" -0.149 MUL ADD
+""GenLoad_2ANM132 Wind"" -0.149 MUL ADD
+GenLoad_CUSF1 0.0121 MUL ADD
+GenLoad_DARTM1 0.0266 MUL ADD
+GenLoad_DUNDWF1 -0.0209 MUL ADD
+BatDChg_3Mortlake500 -0.0209 MUL ADD
+BatChrg_3Mortlake500 0.0209 MUL ADD
+""GenLoad_3Mortlake500 Solar"" -0.0209 MUL ADD
+""GenLoad_3Mortlake500 Wind"" -0.0209 MUL ADD
+GenLoad_DUNDWF2 -0.0209 MUL ADD
+GenLoad_DUNDWF3 -0.0209 MUL ADD
+GenLoad_EILDON1 0.0109 MUL ADD
+GenLoad_EILDON2 0.0109 MUL ADD
+GenLoad_ELAINWF1 -0.028 MUL ADD
+""GenLoad_Elaine Solar Farm"" -0.028 MUL ADD
+""BatDChg_Elaine Solar Farm BESS"" -0.028 MUL ADD
+""BatChrg_Elaine Solar Farm BESS"" 0.028 MUL ADD
+BatDChg_3Elaine220 -0.028 MUL ADD
+BatChrg_3Elaine220 0.028 MUL ADD
+""BatDChg_Elaine BESS"" -0.028 MUL ADD
+""BatChrg_Elaine BESS"" 0.028 MUL ADD
+""GenLoad_3Elaine220 Solar"" -0.028 MUL ADD
+""GenLoad_3Elaine220 Wind"" -0.028 MUL ADD
+1 0 MUL ADD
+GenLoad_GANNSF1 -0.126 MUL ADD
+GenLoad_GESF1 -0.0227 MUL ADD
+GenLoad_GLRWNSF1 0.0193 MUL ADD
+BatDChg_3Dederang220 0.0193 MUL ADD
+BatChrg_3Dederang220 -0.0193 MUL ADD
+""GenLoad_3Dederang220 Solar"" 0.0193 MUL ADD
+""GenLoad_3Dederang220 Wind"" 0.0193 MUL ADD
+""GenLoad_Winton North Solar Farm"" 0.0193 MUL ADD
+GenLoad_WNSF1 0.0193 MUL ADD
+GenLoad_GUNNING1 -0.00826 MUL ADD
+""BatDChg_Gunning BESS"" -0.00826 MUL ADD
+""BatChrg_Gunning BESS"" 0.00826 MUL ADD
+""GenLoad_Gunning Solar Farm"" -0.00826 MUL ADD
+Var_N::N_NIL_63_G_98{0} -0.0117 MUL ADD
+GenLoad_HUMENSW -0.0406 MUL ADD
+GenLoad_HUMEV 0.0558 MUL ADD
+GenLoad_JUNEESF1 -0.0361 MUL ADD
+GenLoad_KERNGSP1 -0.126 MUL ADD
+BatDChg_3Kerang220 -0.126 MUL ADD
+BatChrg_3Kerang220 0.126 MUL ADD
+""BatDChg_Kerang Hybrid BESS"" -0.126 MUL ADD
+""BatChrg_Kerang Hybrid BESS"" 0.126 MUL ADD
+""GenLoad_Kerang Hybrid Solar"" -0.126 MUL ADD
+BatDChg_KESSB1 -0.134 MUL ADD
+BatChrg_KESSB1 0.134 MUL ADD
+GenLoad_KIATAWF1 -0.115 MUL ADD
+""BatDChg_Horsham BESS"" -0.115 MUL ADD
+""BatChrg_Horsham BESS"" 0.115 MUL ADD
+GenLoad_LNGS1 -0.00862 MUL ADD
+GenLoad_LNGS2 -0.00862 MUL ADD
+GenLoad_MACARTH1 -0.0233 MUL ADD
+BatDChg_3Heywood500 -0.0233 MUL ADD
+BatChrg_3Heywood500 0.0233 MUL ADD
+""GenLoad_3Heywood500 Solar"" -0.0233 MUL ADD
+""GenLoad_3Heywood500 Wind"" -0.0233 MUL ADD
+Var_N::N_NIL_63_G_122{0} 0.0266 MUL ADD
+GenLoad_MERCER01 -0.028 MUL ADD
+""GenLoad_Inverleigh Wind Farm"" -0.028 MUL ADD
+1 0 MUL ADD
+GenLoad_MOORAWF1 -0.028 MUL ADD
+GenLoad_MORTLK11 -0.0209 MUL ADD
+GenLoad_MORTLK12 -0.0209 MUL ADD
+BatDChg_MREHA1 -0.00776 MUL ADD
+BatChrg_MREHA1 0.00776 MUL ADD
+BatDChg_3DeerPark220 -0.00776 MUL ADD
+BatChrg_3DeerPark220 0.00776 MUL ADD
+""BatDChg_Deer Park BESS - Akaysha"" -0.00776 MUL ADD
+""BatChrg_Deer Park BESS - Akaysha"" 0.00776 MUL ADD
+""BatDChg_Little River BESS"" -0.00776 MUL ADD
+""BatChrg_Little River BESS"" 0.00776 MUL ADD
+""GenLoad_3DeerPark220 Solar"" -0.00776 MUL ADD
+""GenLoad_3DeerPark220 Wind"" -0.00776 MUL ADD
+""BatDChg_Melbourne Renewable Energy Hub Side B"" -0.00776 MUL ADD
+""BatChrg_Melbourne Renewable Energy Hub Side B"" 0.00776 MUL ADD
+BatDChg_MREHA2 -0.00776 MUL ADD
+BatChrg_MREHA2 0.00776 MUL ADD
+BatDChg_MREHA3 -0.00776 MUL ADD
+BatChrg_MREHA3 0.00776 MUL ADD
+GenLoad_MRTLSWF1 -0.0268 MUL ADD
+""GenLoad_Woolsthorpe Wind Farm"" -0.0268 MUL ADD
+""GenLoad_Hexham Wind Farm Wind"" -0.0268 MUL ADD
+GenLoad_MTGELWF1 -0.0219 MUL ADD
+BatDChg_3Terang220 -0.0219 MUL ADD
+BatChrg_3Terang220 0.0219 MUL ADD
+""GenLoad_3Terang220 Solar"" -0.0219 MUL ADD
+""GenLoad_3Terang220 Wind"" -0.0219 MUL ADD
+Var_N::N_NIL_63_G_161{0} 0.0655 MUL ADD
+GenLoad_MUWAWF1 -0.138 MUL ADD
+""GenLoad_Horsham Solar Farm"" -0.138 MUL ADD
+BatDChg_3Horsham220 -0.138 MUL ADD
+BatChrg_3Horsham220 0.138 MUL ADD
+""GenLoad_3Horsham220 Solar"" -0.138 MUL ADD
+""GenLoad_3Horsham220 Wind"" -0.138 MUL ADD
+GenLoad_MUWAWF2 -0.138 MUL ADD
+GenLoad_NUMURSF1 0.0085 MUL ADD
+BatDChg_3Shepparton220 0.0085 MUL ADD
+BatChrg_3Shepparton220 -0.0085 MUL ADD
+""GenLoad_3Shepparton220 Solar"" 0.0085 MUL ADD
+""GenLoad_3Shepparton220 Wind"" 0.0085 MUL ADD
+""GenLoad_Axedale Solar Farm"" 0.0085 MUL ADD
+""GenLoad_Fosterville Solar Farm"" 0.0085 MUL ADD
+GenLoad_OAKLAND1 -0.0264 MUL ADD
+GenLoad_SALTCRK1 -0.0264 MUL ADD
+GenLoad_SEBSF1 -0.0361 MUL ADD
+1 0 MUL ADD
+GenLoad_STOCKYD1 -0.0179 MUL ADD
+""BatDChg_Golden Plains BESS"" -0.0179 MUL ADD
+""BatChrg_Golden Plains BESS"" 0.0179 MUL ADD
+Var_N::N_NIL_63_G_197{0} 0.0062 MUL ADD
+GenLoad_URANQ11 -0.098 MUL ADD
+GenLoad_URANQ12 -0.098 MUL ADD
+GenLoad_URANQ13 -0.098 MUL ADD
+GenLoad_URANQ14 -0.098 MUL ADD
+1 0 MUL ADD
+GenLoad_WAGGNSF1 -0.0361 MUL ADD
+""BatDChg_Lockhart Hybrid Facility - Battery"" -0.0361 MUL ADD
+""BatChrg_Lockhart Hybrid Facility - Battery"" 0.0361 MUL ADD
+""GenLoad_Lockhart Hybrid Facility - Solar"" -0.0361 MUL ADD
+BatDChg_2Wagga330 -0.0361 MUL ADD
+BatChrg_2Wagga330 0.0361 MUL ADD
+""BatDChg_Wagga North BESS - KCI"" -0.0361 MUL ADD
+""BatChrg_Wagga North BESS - KCI"" 0.0361 MUL ADD
+""GenLoad_2Wagga330 Solar"" -0.0361 MUL ADD
+""GenLoad_2Wagga330 Wind"" -0.0361 MUL ADD
+Var_N::N_NIL_63_G_234{0} 0.0266 MUL ADD
+Var_N::N_NIL_63_G_237{0} 0.0266 MUL ADD
+GenLoad_WLWLSF1 0.00903 MUL ADD
+""BatDChg_Culcairn BESS"" 0.00903 MUL ADD
+""BatChrg_Culcairn BESS"" -0.00903 MUL ADD
+1 0 MUL ADD
+GenLoad_WSTWYSF1 -0.0361 MUL ADD
+GenLoad_WYASF1 -0.0361 MUL ADD
+GenLoad_YENDWF1 -0.0344 MUL ADD
+"	""	""	"NetworkConstraints"
+"Constraints"	"NEM"	"N::N_NIL_63"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"Grp7"	"="	"1 593 MUL ADD
+Var_N::N_NIL_63_G_2{0} -0.9 MUL ADD
+Var_N::N_NIL_63_G_6{0} 30.5 MUL ADD
+Var_N::N_NIL_63_G_10{0} -54 MUL ADD
+Var_N::N_NIL_63_G_13{0} 0.1905 MUL ADD
+Var_N::N_NIL_63_G_16{0} 0.04447 MUL ADD
+Var_N::N_NIL_63_G_19{0} 0.00965 MUL ADD
+1 -9.923 MUL ADD
+1 120 MUL ADD
+1 -30 MUL ADD
+1.603 MUL
+GenLoad_CULLRGWF -0.00826 MUL ADD
+GenLoad_CHALLHWF -0.0706 MUL ADD
+GenLoad_MLWF1 -0.0264 MUL ADD
+GenLoad_PORTWF -0.0261 MUL ADD
+GenLoad_WAUBRAWF -0.0506 MUL ADD
+GenLoad_YAMBUKWF -0.0264 MUL ADD
+GenLoad_YSWF1 -0.026 MUL ADD
+GenLoad_ARWF1 -0.0708 MUL ADD
+BatDChg_3Ararat220 -0.0708 MUL ADD
+BatChrg_3Ararat220 0.0708 MUL ADD
+""GenLoad_3Ararat220 Solar"" -0.0708 MUL ADD
+""GenLoad_3Ararat220 Wind"" -0.0708 MUL ADD
+1 0 MUL ADD
+GenLoad_BANGOWF1 -0.00769 MUL ADD
+""GenLoad_Coppabella Hybrid Generator"" -0.00769 MUL ADD
+GenLoad_BANGOWF2 -0.00769 MUL ADD
+GenLoad_BLOWERNG -0.0231 MUL ADD
+GenLoad_BOMENSF1 -0.0361 MUL ADD
+GenLoad_BRYB1WF1 -0.0299 MUL ADD
+GenLoad_BRYB2WF2 -0.0299 MUL ADD
+1 0 MUL ADD
+GenLoad_BULGANA1 -0.0838 MUL ADD
+BatDChg_3Bulgana220 -0.0838 MUL ADD
+BatChrg_3Bulgana220 0.0838 MUL ADD
+""BatDChg_Joel Joel BESS"" -0.0838 MUL ADD
+""BatChrg_Joel Joel BESS"" 0.0838 MUL ADD
+""GenLoad_3Bulgana220 Solar"" -0.0838 MUL ADD
+""GenLoad_3Bulgana220 Wind"" -0.0838 MUL ADD
+GenLoad_COHUNSF1 -0.126 MUL ADD
+""GenLoad_3Kerang220 Solar"" -0.126 MUL ADD
+""GenLoad_3Kerang220 Wind"" -0.126 MUL ADD
+GenLoad_CROWLWF1 -0.0753 MUL ADD
+GenLoad_CRWASF1 -0.149 MUL ADD
+BatDChg_2ANM132 -0.149 MUL ADD
+BatChrg_2ANM132 0.149 MUL ADD
+""GenLoad_2ANM132 Solar"" -0.149 MUL ADD
+""GenLoad_2ANM132 Wind"" -0.149 MUL ADD
+GenLoad_CUSF1 0.0121 MUL ADD
+GenLoad_DARTM1 0.0266 MUL ADD
+GenLoad_DUNDWF1 -0.0209 MUL ADD
+BatDChg_3Mortlake500 -0.0209 MUL ADD
+BatChrg_3Mortlake500 0.0209 MUL ADD
+""GenLoad_3Mortlake500 Solar"" -0.0209 MUL ADD
+""GenLoad_3Mortlake500 Wind"" -0.0209 MUL ADD
+GenLoad_DUNDWF2 -0.0209 MUL ADD
+GenLoad_DUNDWF3 -0.0209 MUL ADD
+GenLoad_EILDON1 0.0109 MUL ADD
+GenLoad_EILDON2 0.0109 MUL ADD
+GenLoad_ELAINWF1 -0.028 MUL ADD
+""GenLoad_Elaine Solar Farm"" -0.028 MUL ADD
+""BatDChg_Elaine Solar Farm BESS"" -0.028 MUL ADD
+""BatChrg_Elaine Solar Farm BESS"" 0.028 MUL ADD
+BatDChg_3Elaine220 -0.028 MUL ADD
+BatChrg_3Elaine220 0.028 MUL ADD
+""BatDChg_Elaine BESS"" -0.028 MUL ADD
+""BatChrg_Elaine BESS"" 0.028 MUL ADD
+""GenLoad_3Elaine220 Solar"" -0.028 MUL ADD
+""GenLoad_3Elaine220 Wind"" -0.028 MUL ADD
+1 0 MUL ADD
+GenLoad_GANNSF1 -0.126 MUL ADD
+GenLoad_GESF1 -0.0227 MUL ADD
+GenLoad_GLRWNSF1 0.0193 MUL ADD
+BatDChg_3Dederang220 0.0193 MUL ADD
+BatChrg_3Dederang220 -0.0193 MUL ADD
+""GenLoad_3Dederang220 Solar"" 0.0193 MUL ADD
+""GenLoad_3Dederang220 Wind"" 0.0193 MUL ADD
+""GenLoad_Winton North Solar Farm"" 0.0193 MUL ADD
+GenLoad_WNSF1 0.0193 MUL ADD
+GenLoad_GUNNING1 -0.00826 MUL ADD
+""BatDChg_Gunning BESS"" -0.00826 MUL ADD
+""BatChrg_Gunning BESS"" 0.00826 MUL ADD
+""GenLoad_Gunning Solar Farm"" -0.00826 MUL ADD
+Var_N::N_NIL_63_G_98{0} -0.0117 MUL ADD
+GenLoad_HUMENSW -0.0406 MUL ADD
+GenLoad_HUMEV 0.0558 MUL ADD
+GenLoad_JUNEESF1 -0.0361 MUL ADD
+GenLoad_KERNGSP1 -0.126 MUL ADD
+BatDChg_3Kerang220 -0.126 MUL ADD
+BatChrg_3Kerang220 0.126 MUL ADD
+""BatDChg_Kerang Hybrid BESS"" -0.126 MUL ADD
+""BatChrg_Kerang Hybrid BESS"" 0.126 MUL ADD
+""GenLoad_Kerang Hybrid Solar"" -0.126 MUL ADD
+BatDChg_KESSB1 -0.134 MUL ADD
+BatChrg_KESSB1 0.134 MUL ADD
+GenLoad_KIATAWF1 -0.115 MUL ADD
+""BatDChg_Horsham BESS"" -0.115 MUL ADD
+""BatChrg_Horsham BESS"" 0.115 MUL ADD
+GenLoad_LNGS1 -0.00862 MUL ADD
+GenLoad_LNGS2 -0.00862 MUL ADD
+GenLoad_MACARTH1 -0.0233 MUL ADD
+BatDChg_3Heywood500 -0.0233 MUL ADD
+BatChrg_3Heywood500 0.0233 MUL ADD
+""GenLoad_3Heywood500 Solar"" -0.0233 MUL ADD
+""GenLoad_3Heywood500 Wind"" -0.0233 MUL ADD
+Var_N::N_NIL_63_G_122{0} 0.0266 MUL ADD
+GenLoad_MERCER01 -0.028 MUL ADD
+""GenLoad_Inverleigh Wind Farm"" -0.028 MUL ADD
+1 0 MUL ADD
+GenLoad_MOORAWF1 -0.028 MUL ADD
+GenLoad_MORTLK11 -0.0209 MUL ADD
+GenLoad_MORTLK12 -0.0209 MUL ADD
+BatDChg_MREHA1 -0.00776 MUL ADD
+BatChrg_MREHA1 0.00776 MUL ADD
+BatDChg_3DeerPark220 -0.00776 MUL ADD
+BatChrg_3DeerPark220 0.00776 MUL ADD
+""BatDChg_Deer Park BESS - Akaysha"" -0.00776 MUL ADD
+""BatChrg_Deer Park BESS - Akaysha"" 0.00776 MUL ADD
+""BatDChg_Little River BESS"" -0.00776 MUL ADD
+""BatChrg_Little River BESS"" 0.00776 MUL ADD
+""GenLoad_3DeerPark220 Solar"" -0.00776 MUL ADD
+""GenLoad_3DeerPark220 Wind"" -0.00776 MUL ADD
+""BatDChg_Melbourne Renewable Energy Hub Side B"" -0.00776 MUL ADD
+""BatChrg_Melbourne Renewable Energy Hub Side B"" 0.00776 MUL ADD
+BatDChg_MREHA2 -0.00776 MUL ADD
+BatChrg_MREHA2 0.00776 MUL ADD
+BatDChg_MREHA3 -0.00776 MUL ADD
+BatChrg_MREHA3 0.00776 MUL ADD
+GenLoad_MRTLSWF1 -0.0268 MUL ADD
+""GenLoad_Woolsthorpe Wind Farm"" -0.0268 MUL ADD
+""GenLoad_Hexham Wind Farm Wind"" -0.0268 MUL ADD
+GenLoad_MTGELWF1 -0.0219 MUL ADD
+BatDChg_3Terang220 -0.0219 MUL ADD
+BatChrg_3Terang220 0.0219 MUL ADD
+""GenLoad_3Terang220 Solar"" -0.0219 MUL ADD
+""GenLoad_3Terang220 Wind"" -0.0219 MUL ADD
+Var_N::N_NIL_63_G_161{0} 0.0655 MUL ADD
+GenLoad_MUWAWF1 -0.138 MUL ADD
+""GenLoad_Horsham Solar Farm"" -0.138 MUL ADD
+BatDChg_3Horsham220 -0.138 MUL ADD
+BatChrg_3Horsham220 0.138 MUL ADD
+""GenLoad_3Horsham220 Solar"" -0.138 MUL ADD
+""GenLoad_3Horsham220 Wind"" -0.138 MUL ADD
+GenLoad_MUWAWF2 -0.138 MUL ADD
+GenLoad_NUMURSF1 0.0085 MUL ADD
+BatDChg_3Shepparton220 0.0085 MUL ADD
+BatChrg_3Shepparton220 -0.0085 MUL ADD
+""GenLoad_3Shepparton220 Solar"" 0.0085 MUL ADD
+""GenLoad_3Shepparton220 Wind"" 0.0085 MUL ADD
+""GenLoad_Axedale Solar Farm"" 0.0085 MUL ADD
+""GenLoad_Fosterville Solar Farm"" 0.0085 MUL ADD
+GenLoad_OAKLAND1 -0.0264 MUL ADD
+GenLoad_SALTCRK1 -0.0264 MUL ADD
+GenLoad_SEBSF1 -0.0361 MUL ADD
+1 0 MUL ADD
+GenLoad_STOCKYD1 -0.0179 MUL ADD
+""BatDChg_Golden Plains BESS"" -0.0179 MUL ADD
+""BatChrg_Golden Plains BESS"" 0.0179 MUL ADD
+Var_N::N_NIL_63_G_197{0} 0.0062 MUL ADD
+GenLoad_URANQ11 -0.098 MUL ADD
+GenLoad_URANQ12 -0.098 MUL ADD
+GenLoad_URANQ13 -0.098 MUL ADD
+GenLoad_URANQ14 -0.098 MUL ADD
+1 0 MUL ADD
+GenLoad_WAGGNSF1 -0.0361 MUL ADD
+""BatDChg_Lockhart Hybrid Facility - Battery"" -0.0361 MUL ADD
+""BatChrg_Lockhart Hybrid Facility - Battery"" 0.0361 MUL ADD
+""GenLoad_Lockhart Hybrid Facility - Solar"" -0.0361 MUL ADD
+BatDChg_2Wagga330 -0.0361 MUL ADD
+BatChrg_2Wagga330 0.0361 MUL ADD
+""BatDChg_Wagga North BESS - KCI"" -0.0361 MUL ADD
+""BatChrg_Wagga North BESS - KCI"" 0.0361 MUL ADD
+""GenLoad_2Wagga330 Solar"" -0.0361 MUL ADD
+""GenLoad_2Wagga330 Wind"" -0.0361 MUL ADD
+Var_N::N_NIL_63_G_234{0} 0.0266 MUL ADD
+Var_N::N_NIL_63_G_237{0} 0.0266 MUL ADD
+GenLoad_WLWLSF1 0.00903 MUL ADD
+""BatDChg_Culcairn BESS"" 0.00903 MUL ADD
+""BatChrg_Culcairn BESS"" -0.00903 MUL ADD
+1 0 MUL ADD
+GenLoad_WSTWYSF1 -0.0361 MUL ADD
+GenLoad_WYASF1 -0.0361 MUL ADD
+GenLoad_YENDWF1 -0.0344 MUL ADD
+"	""	""	"NetworkConstraints"
+"Constraints"	"NEM"	"N::N_NIL_63"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"Grp8"	"="	"1 593 MUL ADD
+Var_N::N_NIL_63_G_2{0} -0.9 MUL ADD
+Var_N::N_NIL_63_G_6{0} 30.5 MUL ADD
+Var_N::N_NIL_63_G_10{0} -54 MUL ADD
+Var_N::N_NIL_63_G_13{0} 0.1905 MUL ADD
+Var_N::N_NIL_63_G_16{0} 0.04447 MUL ADD
+Var_N::N_NIL_63_G_19{0} 0.00965 MUL ADD
+1 -9.923 MUL ADD
+1 120 MUL ADD
+1 -30 MUL ADD
+1.603 MUL
+GenLoad_CULLRGWF -0.00826 MUL ADD
+GenLoad_CHALLHWF -0.0706 MUL ADD
+GenLoad_MLWF1 -0.0264 MUL ADD
+GenLoad_PORTWF -0.0261 MUL ADD
+GenLoad_WAUBRAWF -0.0506 MUL ADD
+GenLoad_YAMBUKWF -0.0264 MUL ADD
+GenLoad_YSWF1 -0.026 MUL ADD
+GenLoad_ARWF1 -0.0708 MUL ADD
+BatDChg_3Ararat220 -0.0708 MUL ADD
+BatChrg_3Ararat220 0.0708 MUL ADD
+""GenLoad_3Ararat220 Solar"" -0.0708 MUL ADD
+""GenLoad_3Ararat220 Wind"" -0.0708 MUL ADD
+1 0 MUL ADD
+GenLoad_BANGOWF1 -0.00769 MUL ADD
+""GenLoad_Coppabella Hybrid Generator"" -0.00769 MUL ADD
+GenLoad_BANGOWF2 -0.00769 MUL ADD
+GenLoad_BLOWERNG -0.0231 MUL ADD
+GenLoad_BOMENSF1 -0.0361 MUL ADD
+GenLoad_BRYB1WF1 -0.0299 MUL ADD
+GenLoad_BRYB2WF2 -0.0299 MUL ADD
+1 0 MUL ADD
+GenLoad_BULGANA1 -0.0838 MUL ADD
+BatDChg_3Bulgana220 -0.0838 MUL ADD
+BatChrg_3Bulgana220 0.0838 MUL ADD
+""BatDChg_Joel Joel BESS"" -0.0838 MUL ADD
+""BatChrg_Joel Joel BESS"" 0.0838 MUL ADD
+""GenLoad_3Bulgana220 Solar"" -0.0838 MUL ADD
+""GenLoad_3Bulgana220 Wind"" -0.0838 MUL ADD
+GenLoad_COHUNSF1 -0.126 MUL ADD
+""GenLoad_3Kerang220 Solar"" -0.126 MUL ADD
+""GenLoad_3Kerang220 Wind"" -0.126 MUL ADD
+GenLoad_CROWLWF1 -0.0753 MUL ADD
+GenLoad_CRWASF1 -0.149 MUL ADD
+BatDChg_2ANM132 -0.149 MUL ADD
+BatChrg_2ANM132 0.149 MUL ADD
+""GenLoad_2ANM132 Solar"" -0.149 MUL ADD
+""GenLoad_2ANM132 Wind"" -0.149 MUL ADD
+GenLoad_CUSF1 0.0121 MUL ADD
+GenLoad_DARTM1 0.0266 MUL ADD
+GenLoad_DUNDWF1 -0.0209 MUL ADD
+BatDChg_3Mortlake500 -0.0209 MUL ADD
+BatChrg_3Mortlake500 0.0209 MUL ADD
+""GenLoad_3Mortlake500 Solar"" -0.0209 MUL ADD
+""GenLoad_3Mortlake500 Wind"" -0.0209 MUL ADD
+GenLoad_DUNDWF2 -0.0209 MUL ADD
+GenLoad_DUNDWF3 -0.0209 MUL ADD
+GenLoad_EILDON1 0.0109 MUL ADD
+GenLoad_EILDON2 0.0109 MUL ADD
+GenLoad_ELAINWF1 -0.028 MUL ADD
+""GenLoad_Elaine Solar Farm"" -0.028 MUL ADD
+""BatDChg_Elaine Solar Farm BESS"" -0.028 MUL ADD
+""BatChrg_Elaine Solar Farm BESS"" 0.028 MUL ADD
+BatDChg_3Elaine220 -0.028 MUL ADD
+BatChrg_3Elaine220 0.028 MUL ADD
+""BatDChg_Elaine BESS"" -0.028 MUL ADD
+""BatChrg_Elaine BESS"" 0.028 MUL ADD
+""GenLoad_3Elaine220 Solar"" -0.028 MUL ADD
+""GenLoad_3Elaine220 Wind"" -0.028 MUL ADD
+1 0 MUL ADD
+GenLoad_GANNSF1 -0.126 MUL ADD
+GenLoad_GESF1 -0.0227 MUL ADD
+GenLoad_GLRWNSF1 0.0193 MUL ADD
+BatDChg_3Dederang220 0.0193 MUL ADD
+BatChrg_3Dederang220 -0.0193 MUL ADD
+""GenLoad_3Dederang220 Solar"" 0.0193 MUL ADD
+""GenLoad_3Dederang220 Wind"" 0.0193 MUL ADD
+""GenLoad_Winton North Solar Farm"" 0.0193 MUL ADD
+GenLoad_WNSF1 0.0193 MUL ADD
+GenLoad_GUNNING1 -0.00826 MUL ADD
+""BatDChg_Gunning BESS"" -0.00826 MUL ADD
+""BatChrg_Gunning BESS"" 0.00826 MUL ADD
+""GenLoad_Gunning Solar Farm"" -0.00826 MUL ADD
+Var_N::N_NIL_63_G_98{0} -0.0117 MUL ADD
+GenLoad_HUMENSW -0.0406 MUL ADD
+GenLoad_HUMEV 0.0558 MUL ADD
+GenLoad_JUNEESF1 -0.0361 MUL ADD
+GenLoad_KERNGSP1 -0.126 MUL ADD
+BatDChg_3Kerang220 -0.126 MUL ADD
+BatChrg_3Kerang220 0.126 MUL ADD
+""BatDChg_Kerang Hybrid BESS"" -0.126 MUL ADD
+""BatChrg_Kerang Hybrid BESS"" 0.126 MUL ADD
+""GenLoad_Kerang Hybrid Solar"" -0.126 MUL ADD
+BatDChg_KESSB1 -0.134 MUL ADD
+BatChrg_KESSB1 0.134 MUL ADD
+GenLoad_KIATAWF1 -0.115 MUL ADD
+""BatDChg_Horsham BESS"" -0.115 MUL ADD
+""BatChrg_Horsham BESS"" 0.115 MUL ADD
+GenLoad_LNGS1 -0.00862 MUL ADD
+GenLoad_LNGS2 -0.00862 MUL ADD
+GenLoad_MACARTH1 -0.0233 MUL ADD
+BatDChg_3Heywood500 -0.0233 MUL ADD
+BatChrg_3Heywood500 0.0233 MUL ADD
+""GenLoad_3Heywood500 Solar"" -0.0233 MUL ADD
+""GenLoad_3Heywood500 Wind"" -0.0233 MUL ADD
+Var_N::N_NIL_63_G_122{0} 0.0266 MUL ADD
+GenLoad_MERCER01 -0.028 MUL ADD
+""GenLoad_Inverleigh Wind Farm"" -0.028 MUL ADD
+1 0 MUL ADD
+GenLoad_MOORAWF1 -0.028 MUL ADD
+GenLoad_MORTLK11 -0.0209 MUL ADD
+GenLoad_MORTLK12 -0.0209 MUL ADD
+BatDChg_MREHA1 -0.00776 MUL ADD
+BatChrg_MREHA1 0.00776 MUL ADD
+BatDChg_3DeerPark220 -0.00776 MUL ADD
+BatChrg_3DeerPark220 0.00776 MUL ADD
+""BatDChg_Deer Park BESS - Akaysha"" -0.00776 MUL ADD
+""BatChrg_Deer Park BESS - Akaysha"" 0.00776 MUL ADD
+""BatDChg_Little River BESS"" -0.00776 MUL ADD
+""BatChrg_Little River BESS"" 0.00776 MUL ADD
+""GenLoad_3DeerPark220 Solar"" -0.00776 MUL ADD
+""GenLoad_3DeerPark220 Wind"" -0.00776 MUL ADD
+""BatDChg_Melbourne Renewable Energy Hub Side B"" -0.00776 MUL ADD
+""BatChrg_Melbourne Renewable Energy Hub Side B"" 0.00776 MUL ADD
+BatDChg_MREHA2 -0.00776 MUL ADD
+BatChrg_MREHA2 0.00776 MUL ADD
+BatDChg_MREHA3 -0.00776 MUL ADD
+BatChrg_MREHA3 0.00776 MUL ADD
+GenLoad_MRTLSWF1 -0.0268 MUL ADD
+""GenLoad_Woolsthorpe Wind Farm"" -0.0268 MUL ADD
+""GenLoad_Hexham Wind Farm Wind"" -0.0268 MUL ADD
+GenLoad_MTGELWF1 -0.0219 MUL ADD
+BatDChg_3Terang220 -0.0219 MUL ADD
+BatChrg_3Terang220 0.0219 MUL ADD
+""GenLoad_3Terang220 Solar"" -0.0219 MUL ADD
+""GenLoad_3Terang220 Wind"" -0.0219 MUL ADD
+Var_N::N_NIL_63_G_161{0} 0.0655 MUL ADD
+GenLoad_MUWAWF1 -0.138 MUL ADD
+""GenLoad_Horsham Solar Farm"" -0.138 MUL ADD
+BatDChg_3Horsham220 -0.138 MUL ADD
+BatChrg_3Horsham220 0.138 MUL ADD
+""GenLoad_3Horsham220 Solar"" -0.138 MUL ADD
+""GenLoad_3Horsham220 Wind"" -0.138 MUL ADD
+GenLoad_MUWAWF2 -0.138 MUL ADD
+GenLoad_NUMURSF1 0.0085 MUL ADD
+BatDChg_3Shepparton220 0.0085 MUL ADD
+BatChrg_3Shepparton220 -0.0085 MUL ADD
+""GenLoad_3Shepparton220 Solar"" 0.0085 MUL ADD
+""GenLoad_3Shepparton220 Wind"" 0.0085 MUL ADD
+""GenLoad_Axedale Solar Farm"" 0.0085 MUL ADD
+""GenLoad_Fosterville Solar Farm"" 0.0085 MUL ADD
+GenLoad_OAKLAND1 -0.0264 MUL ADD
+GenLoad_SALTCRK1 -0.0264 MUL ADD
+GenLoad_SEBSF1 -0.0361 MUL ADD
+1 0 MUL ADD
+GenLoad_STOCKYD1 -0.0179 MUL ADD
+""BatDChg_Golden Plains BESS"" -0.0179 MUL ADD
+""BatChrg_Golden Plains BESS"" 0.0179 MUL ADD
+Var_N::N_NIL_63_G_197{0} 0.0062 MUL ADD
+GenLoad_URANQ11 -0.098 MUL ADD
+GenLoad_URANQ12 -0.098 MUL ADD
+GenLoad_URANQ13 -0.098 MUL ADD
+GenLoad_URANQ14 -0.098 MUL ADD
+1 0 MUL ADD
+GenLoad_WAGGNSF1 -0.0361 MUL ADD
+""BatDChg_Lockhart Hybrid Facility - Battery"" -0.0361 MUL ADD
+""BatChrg_Lockhart Hybrid Facility - Battery"" 0.0361 MUL ADD
+""GenLoad_Lockhart Hybrid Facility - Solar"" -0.0361 MUL ADD
+BatDChg_2Wagga330 -0.0361 MUL ADD
+BatChrg_2Wagga330 0.0361 MUL ADD
+""BatDChg_Wagga North BESS - KCI"" -0.0361 MUL ADD
+""BatChrg_Wagga North BESS - KCI"" 0.0361 MUL ADD
+""GenLoad_2Wagga330 Solar"" -0.0361 MUL ADD
+""GenLoad_2Wagga330 Wind"" -0.0361 MUL ADD
+Var_N::N_NIL_63_G_234{0} 0.0266 MUL ADD
+Var_N::N_NIL_63_G_237{0} 0.0266 MUL ADD
+GenLoad_WLWLSF1 0.00903 MUL ADD
+""BatDChg_Culcairn BESS"" 0.00903 MUL ADD
+""BatChrg_Culcairn BESS"" -0.00903 MUL ADD
+1 0 MUL ADD
+GenLoad_WSTWYSF1 -0.0361 MUL ADD
+GenLoad_WYASF1 -0.0361 MUL ADD
+GenLoad_YENDWF1 -0.0344 MUL ADD
+"	""	""	"NetworkConstraints"
+"Constraints"	"NEM"	"N::N_NIL_63"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"Grp9"	"="	"1 593 MUL ADD
+Var_N::N_NIL_63_G_2{0} -0.9 MUL ADD
+Var_N::N_NIL_63_G_6{0} 30.5 MUL ADD
+Var_N::N_NIL_63_G_10{0} -54 MUL ADD
+Var_N::N_NIL_63_G_13{0} 0.1905 MUL ADD
+Var_N::N_NIL_63_G_16{0} 0.04447 MUL ADD
+Var_N::N_NIL_63_G_19{0} 0.00965 MUL ADD
+1 -9.923 MUL ADD
+1 120 MUL ADD
+1 -30 MUL ADD
+1.603 MUL
+GenLoad_CULLRGWF -0.00826 MUL ADD
+GenLoad_CHALLHWF -0.0706 MUL ADD
+GenLoad_MLWF1 -0.0264 MUL ADD
+GenLoad_PORTWF -0.0261 MUL ADD
+GenLoad_WAUBRAWF -0.0506 MUL ADD
+GenLoad_YAMBUKWF -0.0264 MUL ADD
+GenLoad_YSWF1 -0.026 MUL ADD
+GenLoad_ARWF1 -0.0708 MUL ADD
+BatDChg_3Ararat220 -0.0708 MUL ADD
+BatChrg_3Ararat220 0.0708 MUL ADD
+""GenLoad_3Ararat220 Solar"" -0.0708 MUL ADD
+""GenLoad_3Ararat220 Wind"" -0.0708 MUL ADD
+1 0 MUL ADD
+GenLoad_BANGOWF1 -0.00769 MUL ADD
+""GenLoad_Coppabella Hybrid Generator"" -0.00769 MUL ADD
+GenLoad_BANGOWF2 -0.00769 MUL ADD
+GenLoad_BLOWERNG -0.0231 MUL ADD
+GenLoad_BOMENSF1 -0.0361 MUL ADD
+GenLoad_BRYB1WF1 -0.0299 MUL ADD
+GenLoad_BRYB2WF2 -0.0299 MUL ADD
+1 0 MUL ADD
+GenLoad_BULGANA1 -0.0838 MUL ADD
+BatDChg_3Bulgana220 -0.0838 MUL ADD
+BatChrg_3Bulgana220 0.0838 MUL ADD
+""BatDChg_Joel Joel BESS"" -0.0838 MUL ADD
+""BatChrg_Joel Joel BESS"" 0.0838 MUL ADD
+""GenLoad_3Bulgana220 Solar"" -0.0838 MUL ADD
+""GenLoad_3Bulgana220 Wind"" -0.0838 MUL ADD
+GenLoad_COHUNSF1 -0.126 MUL ADD
+""GenLoad_3Kerang220 Solar"" -0.126 MUL ADD
+""GenLoad_3Kerang220 Wind"" -0.126 MUL ADD
+GenLoad_CROWLWF1 -0.0753 MUL ADD
+GenLoad_CRWASF1 -0.149 MUL ADD
+BatDChg_2ANM132 -0.149 MUL ADD
+BatChrg_2ANM132 0.149 MUL ADD
+""GenLoad_2ANM132 Solar"" -0.149 MUL ADD
+""GenLoad_2ANM132 Wind"" -0.149 MUL ADD
+GenLoad_CUSF1 0.0121 MUL ADD
+GenLoad_DARTM1 0.0266 MUL ADD
+GenLoad_DUNDWF1 -0.0209 MUL ADD
+BatDChg_3Mortlake500 -0.0209 MUL ADD
+BatChrg_3Mortlake500 0.0209 MUL ADD
+""GenLoad_3Mortlake500 Solar"" -0.0209 MUL ADD
+""GenLoad_3Mortlake500 Wind"" -0.0209 MUL ADD
+GenLoad_DUNDWF2 -0.0209 MUL ADD
+GenLoad_DUNDWF3 -0.0209 MUL ADD
+GenLoad_EILDON1 0.0109 MUL ADD
+GenLoad_EILDON2 0.0109 MUL ADD
+GenLoad_ELAINWF1 -0.028 MUL ADD
+""GenLoad_Elaine Solar Farm"" -0.028 MUL ADD
+""BatDChg_Elaine Solar Farm BESS"" -0.028 MUL ADD
+""BatChrg_Elaine Solar Farm BESS"" 0.028 MUL ADD
+BatDChg_3Elaine220 -0.028 MUL ADD
+BatChrg_3Elaine220 0.028 MUL ADD
+""BatDChg_Elaine BESS"" -0.028 MUL ADD
+""BatChrg_Elaine BESS"" 0.028 MUL ADD
+""GenLoad_3Elaine220 Solar"" -0.028 MUL ADD
+""GenLoad_3Elaine220 Wind"" -0.028 MUL ADD
+1 0 MUL ADD
+GenLoad_GANNSF1 -0.126 MUL ADD
+GenLoad_GESF1 -0.0227 MUL ADD
+GenLoad_GLRWNSF1 0.0193 MUL ADD
+BatDChg_3Dederang220 0.0193 MUL ADD
+BatChrg_3Dederang220 -0.0193 MUL ADD
+""GenLoad_3Dederang220 Solar"" 0.0193 MUL ADD
+""GenLoad_3Dederang220 Wind"" 0.0193 MUL ADD
+""GenLoad_Winton North Solar Farm"" 0.0193 MUL ADD
+GenLoad_WNSF1 0.0193 MUL ADD
+GenLoad_GUNNING1 -0.00826 MUL ADD
+""BatDChg_Gunning BESS"" -0.00826 MUL ADD
+""BatChrg_Gunning BESS"" 0.00826 MUL ADD
+""GenLoad_Gunning Solar Farm"" -0.00826 MUL ADD
+Var_N::N_NIL_63_G_98{0} -0.0117 MUL ADD
+GenLoad_HUMENSW -0.0406 MUL ADD
+GenLoad_HUMEV 0.0558 MUL ADD
+GenLoad_JUNEESF1 -0.0361 MUL ADD
+GenLoad_KERNGSP1 -0.126 MUL ADD
+BatDChg_3Kerang220 -0.126 MUL ADD
+BatChrg_3Kerang220 0.126 MUL ADD
+""BatDChg_Kerang Hybrid BESS"" -0.126 MUL ADD
+""BatChrg_Kerang Hybrid BESS"" 0.126 MUL ADD
+""GenLoad_Kerang Hybrid Solar"" -0.126 MUL ADD
+BatDChg_KESSB1 -0.134 MUL ADD
+BatChrg_KESSB1 0.134 MUL ADD
+GenLoad_KIATAWF1 -0.115 MUL ADD
+""BatDChg_Horsham BESS"" -0.115 MUL ADD
+""BatChrg_Horsham BESS"" 0.115 MUL ADD
+GenLoad_LNGS1 -0.00862 MUL ADD
+GenLoad_LNGS2 -0.00862 MUL ADD
+GenLoad_MACARTH1 -0.0233 MUL ADD
+BatDChg_3Heywood500 -0.0233 MUL ADD
+BatChrg_3Heywood500 0.0233 MUL ADD
+""GenLoad_3Heywood500 Solar"" -0.0233 MUL ADD
+""GenLoad_3Heywood500 Wind"" -0.0233 MUL ADD
+Var_N::N_NIL_63_G_122{0} 0.0266 MUL ADD
+GenLoad_MERCER01 -0.028 MUL ADD
+""GenLoad_Inverleigh Wind Farm"" -0.028 MUL ADD
+1 0 MUL ADD
+GenLoad_MOORAWF1 -0.028 MUL ADD
+GenLoad_MORTLK11 -0.0209 MUL ADD
+GenLoad_MORTLK12 -0.0209 MUL ADD
+BatDChg_MREHA1 -0.00776 MUL ADD
+BatChrg_MREHA1 0.00776 MUL ADD
+BatDChg_3DeerPark220 -0.00776 MUL ADD
+BatChrg_3DeerPark220 0.00776 MUL ADD
+""BatDChg_Deer Park BESS - Akaysha"" -0.00776 MUL ADD
+""BatChrg_Deer Park BESS - Akaysha"" 0.00776 MUL ADD
+""BatDChg_Little River BESS"" -0.00776 MUL ADD
+""BatChrg_Little River BESS"" 0.00776 MUL ADD
+""GenLoad_3DeerPark220 Solar"" -0.00776 MUL ADD
+""GenLoad_3DeerPark220 Wind"" -0.00776 MUL ADD
+""BatDChg_Melbourne Renewable Energy Hub Side B"" -0.00776 MUL ADD
+""BatChrg_Melbourne Renewable Energy Hub Side B"" 0.00776 MUL ADD
+BatDChg_MREHA2 -0.00776 MUL ADD
+BatChrg_MREHA2 0.00776 MUL ADD
+BatDChg_MREHA3 -0.00776 MUL ADD
+BatChrg_MREHA3 0.00776 MUL ADD
+GenLoad_MRTLSWF1 -0.0268 MUL ADD
+""GenLoad_Woolsthorpe Wind Farm"" -0.0268 MUL ADD
+""GenLoad_Hexham Wind Farm Wind"" -0.0268 MUL ADD
+GenLoad_MTGELWF1 -0.0219 MUL ADD
+BatDChg_3Terang220 -0.0219 MUL ADD
+BatChrg_3Terang220 0.0219 MUL ADD
+""GenLoad_3Terang220 Solar"" -0.0219 MUL ADD
+""GenLoad_3Terang220 Wind"" -0.0219 MUL ADD
+Var_N::N_NIL_63_G_161{0} 0.0655 MUL ADD
+GenLoad_MUWAWF1 -0.138 MUL ADD
+""GenLoad_Horsham Solar Farm"" -0.138 MUL ADD
+BatDChg_3Horsham220 -0.138 MUL ADD
+BatChrg_3Horsham220 0.138 MUL ADD
+""GenLoad_3Horsham220 Solar"" -0.138 MUL ADD
+""GenLoad_3Horsham220 Wind"" -0.138 MUL ADD
+GenLoad_MUWAWF2 -0.138 MUL ADD
+GenLoad_NUMURSF1 0.0085 MUL ADD
+BatDChg_3Shepparton220 0.0085 MUL ADD
+BatChrg_3Shepparton220 -0.0085 MUL ADD
+""GenLoad_3Shepparton220 Solar"" 0.0085 MUL ADD
+""GenLoad_3Shepparton220 Wind"" 0.0085 MUL ADD
+""GenLoad_Axedale Solar Farm"" 0.0085 MUL ADD
+""GenLoad_Fosterville Solar Farm"" 0.0085 MUL ADD
+GenLoad_OAKLAND1 -0.0264 MUL ADD
+GenLoad_SALTCRK1 -0.0264 MUL ADD
+GenLoad_SEBSF1 -0.0361 MUL ADD
+1 0 MUL ADD
+GenLoad_STOCKYD1 -0.0179 MUL ADD
+""BatDChg_Golden Plains BESS"" -0.0179 MUL ADD
+""BatChrg_Golden Plains BESS"" 0.0179 MUL ADD
+Var_N::N_NIL_63_G_197{0} 0.0062 MUL ADD
+GenLoad_URANQ11 -0.098 MUL ADD
+GenLoad_URANQ12 -0.098 MUL ADD
+GenLoad_URANQ13 -0.098 MUL ADD
+GenLoad_URANQ14 -0.098 MUL ADD
+1 0 MUL ADD
+GenLoad_WAGGNSF1 -0.0361 MUL ADD
+""BatDChg_Lockhart Hybrid Facility - Battery"" -0.0361 MUL ADD
+""BatChrg_Lockhart Hybrid Facility - Battery"" 0.0361 MUL ADD
+""GenLoad_Lockhart Hybrid Facility - Solar"" -0.0361 MUL ADD
+BatDChg_2Wagga330 -0.0361 MUL ADD
+BatChrg_2Wagga330 0.0361 MUL ADD
+""BatDChg_Wagga North BESS - KCI"" -0.0361 MUL ADD
+""BatChrg_Wagga North BESS - KCI"" 0.0361 MUL ADD
+""GenLoad_2Wagga330 Solar"" -0.0361 MUL ADD
+""GenLoad_2Wagga330 Wind"" -0.0361 MUL ADD
+Var_N::N_NIL_63_G_234{0} 0.0266 MUL ADD
+Var_N::N_NIL_63_G_237{0} 0.0266 MUL ADD
+GenLoad_WLWLSF1 0.00903 MUL ADD
+""BatDChg_Culcairn BESS"" 0.00903 MUL ADD
+""BatChrg_Culcairn BESS"" -0.00903 MUL ADD
+1 0 MUL ADD
+GenLoad_WSTWYSF1 -0.0361 MUL ADD
+GenLoad_WYASF1 -0.0361 MUL ADD
+GenLoad_YENDWF1 -0.0344 MUL ADD
+"	""	""	"NetworkConstraints"

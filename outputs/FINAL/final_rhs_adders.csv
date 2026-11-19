@@ -1,0 +1,55 @@
+constraint,on_candidate_list,mms_constraint,equation_class,blake_decision,override_mw,wrl_affected,season,months,scenario,action,adder_mw,rhs_value_mw,apply_from,apply_to,basis,note
+T_ROCOF_3_2,TRUE,T_ROCOF_3_2,same (dynamic RHS),accept,,FALSE,All,all,both,add_adder,210,,1/07/2026,end_of_run,median fit; gap varies by month (P10-P90 spread 221 MW vs adder 210 MW); ESOO LHS differs from MMS by -26% of RHS (Jul-Sep overlap): an RHS adder may not be the right fix,
+N>>N_NIL_UTMR1_LTMR1,TRUE,V>>N_NIL_65_66,same,accept,,TRUE,,,,none,,,,,,no adder: flat adder +5 MW below materiality 38 MW
+N^^V_NIL_1,TRUE,N^^V_NIL_1,same,reject,,FALSE,,,,none,,,,,,"adder rejected by Blake (Identical description; matched coefs 1.00, interconnector VIC1-NSW1 -1.0 in both. No NSW1-SA1 term in ESOO or in any MMS version (MMS had V-S-MNSP1 -0.119 until)"
+V>>V_NIL_GNTX1_GNTX2_R,TRUE,,remap,,,FALSE,,,,none,,,,,,no MMS match: ESOO RHS used as is
+N>>_N_NIL_UTMR1_LTWG1,TRUE,V>>N_NIL_65_051,same,accept,,TRUE,,,,none,,,,,,no adder: flat adder -5 MW below materiality 59 MW
+N^^N_NIL_WGLT,TRUE,N^^N_NIL_WGLT,same,reject,,FALSE,,,,none,,,,,,"adder rejected by Blake (Identical description and interconnector terms (VIC1-NSW1 0.376, V-S-MNSP1 -0.156); matched coefs 1.00.)"
+V^^N_NIL_1,TRUE,V^^N_NIL_1,same,accept,,FALSE,All,all,both,add_adder,-45,,1/07/2026,end_of_run,"P10 fit; low-end (P10) adder; median-based fit gave none (out-of-sample gain too small (improved 5/7 months, MAE 49->38)); diurnal shape disagrees (range 115 MW); gap varies by month (P10-P90 spread 72 MW vs adder 45 MW); short fit (7 months)",
+V_NWVIC_GFT1_750,TRUE,V_NWVIC_GFT1_750,same,accept,,FALSE,,,,none,,,,,,no adder: flat adder -10 MW below materiality 21 MW
+V>>V_NIL_WETX1_R,TRUE,V>NIL_WETX_NIL,same (dynamic RHS),override,0,FALSE,All,all,both,add_adder,0,,1/07/2026,end_of_run,median fit; gap varies by month (P10-P90 spread 29 MW vs adder 25 MW),Blake override
+N>>N_NIL_BASW1,TRUE,N>>NIL_39,same,accept,,FALSE,All,all,with_wrl,add_adder,175,,1/07/2026,31/12/2034,median fit; diurnal shape disagrees (range 350 MW); gap varies by month (P10-P90 spread 215 MW vs adder 175 MW),
+N>>N_NIL_BASW1,TRUE,N>>NIL_39,same,accept,,FALSE,All,all,no_wrl,add_adder,175,,1/07/2026,30/06/2033,median fit; diurnal shape disagrees (range 350 MW); gap varies by month (P10-P90 spread 215 MW vs adder 175 MW),
+S:VS_800,TRUE,S:VS_800,same (dynamic RHS),accept,,FALSE,All,all,both,add_adder,110,,1/07/2026,end_of_run,median fit; diurnal shape disagrees (range 125 MW); optimistic at low end (P10 gap only +20 MW vs adder +110 MW),
+V>>NIL_BABE1,TRUE,,,,,TRUE,,,,none,,,,,,no MMS match: ESOO RHS used as is
+V::V_1900,TRUE,V::V_1900,same,accept,,FALSE,,,,none,,,,,,no adder: flat adder +0 MW below materiality 57 MW
+V>>V_NIL_WBBA1_RCKESS1,TRUE,,remap,,,TRUE,,,,none,,,,,,no MMS match: ESOO RHS used as is
+S>>S_NIL_RBTX1_RBTX2,TRUE,,,,,FALSE,,,,none,,,,,,no MMS match: ESOO RHS used as is
+V>>NIL_WBBA1,TRUE,,remap,,,TRUE,,,,none,,,,,,no MMS match: ESOO RHS used as is
+V>>NIL_WBBA_KGBE,TRUE,V>>NIL_WBBA_KGBE,same,accept,,TRUE,All,all,both,add_adder,105,,1/07/2026,end_of_run,median fit; [MMS RHS scaled x0.93 (ESOO equation is a scaled copy)] short fit (7 months),
+V>>NIL_MLGL1_MLGL2,TRUE,V>>NIL_MLGT_MLGT,scaled,accept,,TRUE,,,,none,,,,,,no adder: [MMS RHS scaled x0.50 (ESOO equation is a scaled copy)] only 4 usable months (need 5)
+V>V_NIL_MLGL2_MLGL1,TRUE,V>>NIL_MLGT_MLGT,scaled,accept,,TRUE,,,,none,,,,,,no adder: [MMS RHS scaled x0.50 (ESOO equation is a scaled copy)] only 4 usable months (need 5)
+V>>NIL_WBBA_RCWEKG,TRUE,V>>NIL_WBBA_RCWEKG,same,accept,,TRUE,All,all,both,add_adder,120,,1/07/2026,end_of_run,median fit; [MMS RHS scaled x0.93 (ESOO equation is a scaled copy)] short fit (7 months),
+N>>N_NIL_DPTX3_DPTX4,TRUE,N>>NIL_DPTX_LV,same,reject,,FALSE,,,,not_modelled,,,,,,not modelled (Blake): disabled; equation check shows the equation is sound but ESOO LHS includes plants absent from MMS
+N::N_NIL_63,TRUE,N::N_NIL_63,same,accept,,FALSE,NotSummer,all,both,add_adder,45,,1/07/2026,end_of_run,median fit; passed all tests; optimistic at low end (P10 gap only -10 MW vs adder +45 MW),
+N::N_NIL_63,TRUE,N::N_NIL_63,same,accept,,FALSE,Summer,all,both,add_adder,110,,1/07/2026,end_of_run,median fit; passed all tests; optimistic at low end (P10 gap only -10 MW vs adder +45 MW),
+V>>NIL_BUTX1_BUTX2,TRUE,,,,,FALSE,,,,none,,,,,,no MMS match: ESOO RHS used as is
+N>>N_NIL_MGLT1_MGUT1_R,TRUE,,,,,TRUE,,,,none,,,,,,no MMS match: ESOO RHS used as is
+N>>NIL_LINC1_LITO1,TRUE,N>>NIL_81_82_OPEN,same,reject,,FALSE,,,,not_modelled,,,,,,"not modelled (Blake): disabled; MMS series is the 'Kurri-Rothbury-Singleton open' variant, swamped ~60% of the time; equation check supports exclusion"
+V>>V_NIL_MLGR1_BABB1_R,TRUE,,,,,FALSE,,,,none,,,,,,no MMS match: ESOO RHS used as is
+V>>S_NIL_MHNW1_MHNW2_NO_MLRB,TRUE,S>NIL_MHNW1_MHNW2,no gen terms (IC only),accept,,FALSE,,,,none,,,,,,no adder: flat adder -5 MW below materiality 20 MW
+V>>V_NIL_DDSM1_DDSM2,TRUE,V>>NIL_DDSM_DDSM,same,accept,,TRUE,Apr-Oct (SIPS off),"4,5,6,7,8,9,10",both,add_adder,145,,1/07/2026,end_of_run,"median fit; set RHS to 10,000 MW in Nov-Mar (constraint effectively off): MMS Nov-Mar: 0 binding of 7,248 intervals, RHS >5,000 MW in 33% of them; ESOO (with WRL, FY27-32): 114 binding hours in Nov-Mar (0.5% of hours), $4,572 rental ; diurnal shape disagrees (range 262 MW); short fit (4 months)",
+V>>V_NIL_DDSM1_DDSM2,TRUE,V>>NIL_DDSM_DDSM,same,accept,,TRUE,Nov-Mar (SIPS active),"1,2,3,11,12",both,set_rhs,,10000,1/07/2026,31/03/2032,"median fit; set RHS to 10,000 MW in Nov-Mar (constraint effectively off): MMS Nov-Mar: 0 binding of 7,248 intervals, RHS >5,000 MW in 33% of them; ESOO (with WRL, FY27-32): 114 binding hours in Nov-Mar (0.5% of hours), $4,572 rental ; diurnal shape disagrees (range 262 MW); short fit (4 months)","applied out-of-model: set the RHS time series to 10,000 MW in Nov-Mar until 2032-03-31 (not entered in the ESOO equation)"
+V>>V_NIL_YPAHWC1_YPCHWG2_R,TRUE,,,,,FALSE,,,,none,,,,,,no MMS match: ESOO RHS used as is
+N>>N_NIL_MGLT1_MGUT1,TRUE,,,,,TRUE,,,,none,,,,,,no MMS match: ESOO RHS used as is
+T>>T_NIL_SHGT2_R,TRUE,,,,,FALSE,,,,none,,,,,,no MMS match: ESOO RHS used as is
+V>>NIL_BABE1_R,TRUE,,,,,TRUE,,,,none,,,,,,no MMS match: ESOO RHS used as is
+V_S_NIL_ROCOF,TRUE,V_S_NIL_ROCOF,same (dynamic RHS),accept,,FALSE,All,all,both,add_adder,250,,1/07/2026,31/01/2027,median fit; short fit (7 months); optimistic at low end (P10 gap only +70 MW vs adder +250 MW),
+N>>N_NIL_WASS1_WAIN1,TRUE,N>>NIL_76_77,same,accept,,FALSE,All,all,with_wrl,add_adder,430,,1/07/2026,end_of_run,"median fit; passed all tests; surrogate mapping, no flags",
+N>>N_NIL_WASS1_WAIN1,TRUE,N>>NIL_76_77,same,accept,,FALSE,All,all,no_wrl,add_adder,430,,1/07/2026,30/06/2033,"median fit; passed all tests; surrogate mapping, no flags",
+T_ROCOF_1,TRUE,T_ROCOF_1,same (dynamic RHS),accept,,FALSE,All,all,both,add_adder,145,,1/07/2026,end_of_run,"P10 fit; low-end (P10) adder; median-based fit gave none (out-of-sample gain too small (improved 7/12 months, MAE 116->118)); diurnal shape disagrees (range 159 MW); gap varies by month (P10-P90 spread 333 MW vs adder 145 MW); ESOO LHS differs from MMS by -20% of RHS (Jul-Sep overlap): an RHS adder ",
+S_V_NIL_ROCOF,TRUE,S_V_NIL_ROCOF,same (dynamic RHS),accept,,FALSE,All,all,both,add_adder,375,,1/07/2026,31/01/2027,median fit; short fit (7 months); optimistic at low end (P10 gap only +105 MW vs adder +375 MW),
+N>>N_NIL_WGANM1_WLJI1,TRUE,N>>NIL_996_62,same,accept,,TRUE,All,all,both,add_adder,40,,1/07/2026,31/05/2028,"P10 fit; [MMS RHS scaled x0.90 (ESOO equation is a scaled copy)] low-end (P10) adder; median-based fit gave none (out-of-sample gain too small (improved 6/7 months, MAE 44->35)); diurnal shape disagrees (range 70 MW); gap varies by month (P10-P90 spread 83 MW vs adder 40 MW); short fit (7 months)",
+T>>T_NIL_HAGT2_R,TRUE,,,,,FALSE,,,,none,,,,,,no MMS match: ESOO RHS used as is
+N::V_NIL_MSDD,TRUE,N::V_NIL_MSDD,same,reject,,FALSE,,,,none,,,,,,"adder rejected by Blake (Identical description; matched coefs 1.00. ESOO LHS differs from MMS by correlation ~0 (dispatch differences), not by formulation.)"
+N>>N_NIL_MGUT1_LTMG1_R,TRUE,,,,,TRUE,,,,none,,,,,,no MMS match: ESOO RHS used as is
+V>>NIL_SMTX2_SMTX1_R,TRUE,V>>NIL_SMTX_SMTX_R2,different formulation,reject,,TRUE,,,,not_modelled,,,,,,"not modelled (Blake): MMS series is a configuration variant swamped at ~15,000 MW; equation check supports exclusion"
+V>>NIL_SMTX5,TRUE,,,,,FALSE,,,,none,,,,,,no MMS match: ESOO RHS used as is
+V>>V_NIL_MRDD1_MRDB2,TRUE,V>>NIL_MSDD1_MSDD2,same,accept,,TRUE,Nov-Mar (SIPS active),"1,2,3,11,12",both,set_rhs,,10000,1/07/2026,31/03/2032,"median fit; set RHS to 10,000 MW in Nov-Mar (constraint effectively off): MMS Nov-Mar: 0 binding of 7,248 intervals, RHS >5,000 MW in 23% of them; ESOO (with WRL, FY27-32): 48 binding hours in Nov-Mar (0.2% of hours), $2,883 rental ; flat adder -45 MW below materiality 59 MW","applied out-of-model: set the RHS time series to 10,000 MW in Nov-Mar until 2032-03-31 (not entered in the ESOO equation)"
+N>>N_NIL_MGUT1_LTMG1,TRUE,,,,,TRUE,,,,none,,,,,,no MMS match: ESOO RHS used as is
+N>>NIL_MGLT1_MRUT1,TRUE,N>>NIL_64_65,scaled,accept,,TRUE,,,,none,,,,,,no adder: [MMS RHS scaled x0.79 (ESOO equation is a scaled copy)] flat adder +45 MW below materiality 59 MW
+V>>V_NIL_LRDP1,TRUE,,,,,TRUE,,,,none,,,,,,no MMS match: ESOO RHS used as is
+N>>N_NIL_UTMR1_LTMR1_R,TRUE,N>>V_NIL_65_66,same,accept,,TRUE,,,,none,,,,,,no adder: flat adder +5 MW below materiality 32 MW
+VN:S_HIC+PEC,TRUE,,,,,FALSE,,,,none,,,,,,no MMS match: ESOO RHS used as is
+S>>S_NIL_WEWT1_LKDP1,TRUE,S>>NIL_LKDV_WEWT,same,accept,,FALSE,All,all,both,add_adder,-25,,1/07/2026,31/01/2027,P10 fit; low-end (P10) adder; median-based fit gave none (flat adder -10 MW below materiality 20 MW); gap varies by month (P10-P90 spread 50 MW vs adder 25 MW); short fit (7 months),
+V>>V_NIL_BAML1_ELML1,FALSE,V>>NIL_ELML_BAML2,different formulation,reject,,TRUE,,,,none,,,,,,adder rejected by Blake (ESOO monitors Ballarat-Moorabool No.1 for loss of Elaine-Moorabool; mapped MMS monitors Elaine-Moorabool for loss of Ballarat-Moorabool No.2. All matched coefs )

@@ -1,0 +1,903 @@
+﻿Collection,Parent Name,Child Name,Parent Category,Child Category
+Generator.Nodes,NSW1_DSP,Sydney West 330kV,Reliability DSPs,NSW
+Generator.Nodes,QLD1_DSP,South Pine 275kV,Reliability DSPs,QLD
+Generator.Nodes,SA1_DSP,Torrens Island 66kV,Reliability DSPs,SA
+Generator.Nodes,TAS1_DSP,Georgetown 220kV,Reliability DSPs,TAS
+Generator.Nodes,VIC1_DSP,Thomastown 66kV,Reliability DSPs,VIC
+Generator.Nodes,Virtual Power Plant,Sydney West 330kV,Reliability DSPs,NSW
+Generator.Nodes,BW01,Sydney West 330kV,Black Coal NSW,NSW
+Generator.Nodes,BW02,Sydney West 330kV,Black Coal NSW,NSW
+Generator.Nodes,BW03,Sydney West 330kV,Black Coal NSW,NSW
+Generator.Nodes,BW04,Sydney West 330kV,Black Coal NSW,NSW
+Generator.Nodes,ER01,Sydney West 330kV,Black Coal NSW,NSW
+Generator.Nodes,ER02,Sydney West 330kV,Black Coal NSW,NSW
+Generator.Nodes,ER03,Sydney West 330kV,Black Coal NSW,NSW
+Generator.Nodes,ER04,Sydney West 330kV,Black Coal NSW,NSW
+Generator.Nodes,MP1,Sydney West 330kV,Black Coal NSW,NSW
+Generator.Nodes,MP2,Sydney West 330kV,Black Coal NSW,NSW
+Generator.Nodes,VP5,Sydney West 330kV,Black Coal NSW,NSW
+Generator.Nodes,VP6,Sydney West 330kV,Black Coal NSW,NSW
+Generator.Nodes,CALL_B_1,South Pine 275kV,Black Coal QLD,QLD
+Generator.Nodes,CALL_B_2,South Pine 275kV,Black Coal QLD,QLD
+Generator.Nodes,CPP_3,South Pine 275kV,Black Coal QLD,QLD
+Generator.Nodes,CPP_4,South Pine 275kV,Black Coal QLD,QLD
+Generator.Nodes,GSTONE1,South Pine 275kV,Black Coal QLD,QLD
+Generator.Nodes,GSTONE2,South Pine 275kV,Black Coal QLD,QLD
+Generator.Nodes,GSTONE3,South Pine 275kV,Black Coal QLD,QLD
+Generator.Nodes,GSTONE4,South Pine 275kV,Black Coal QLD,QLD
+Generator.Nodes,GSTONE5,South Pine 275kV,Black Coal QLD,QLD
+Generator.Nodes,GSTONE6,South Pine 275kV,Black Coal QLD,QLD
+Generator.Nodes,KPP_1,South Pine 275kV,Black Coal QLD,QLD
+Generator.Nodes,MPP_1,South Pine 275kV,Black Coal QLD,QLD
+Generator.Nodes,MPP_2,South Pine 275kV,Black Coal QLD,QLD
+Generator.Nodes,STAN-1,South Pine 275kV,Black Coal QLD,QLD
+Generator.Nodes,STAN-2,South Pine 275kV,Black Coal QLD,QLD
+Generator.Nodes,STAN-3,South Pine 275kV,Black Coal QLD,QLD
+Generator.Nodes,STAN-4,South Pine 275kV,Black Coal QLD,QLD
+Generator.Nodes,TARONG#1,South Pine 275kV,Black Coal QLD,QLD
+Generator.Nodes,TARONG#2,South Pine 275kV,Black Coal QLD,QLD
+Generator.Nodes,TARONG#3,South Pine 275kV,Black Coal QLD,QLD
+Generator.Nodes,TARONG#4,South Pine 275kV,Black Coal QLD,QLD
+Generator.Nodes,TNPS1,South Pine 275kV,Black Coal QLD,QLD
+Generator.Nodes,LOYYB1,Thomastown 66kV,Brown Coal VIC,VIC
+Generator.Nodes,LOYYB2,Thomastown 66kV,Brown Coal VIC,VIC
+Generator.Nodes,LYA1,Thomastown 66kV,Brown Coal VIC,VIC
+Generator.Nodes,LYA2,Thomastown 66kV,Brown Coal VIC,VIC
+Generator.Nodes,LYA3,Thomastown 66kV,Brown Coal VIC,VIC
+Generator.Nodes,LYA4,Thomastown 66kV,Brown Coal VIC,VIC
+Generator.Nodes,YWPS1,Thomastown 66kV,Brown Coal VIC,VIC
+Generator.Nodes,YWPS2,Thomastown 66kV,Brown Coal VIC,VIC
+Generator.Nodes,YWPS3,Thomastown 66kV,Brown Coal VIC,VIC
+Generator.Nodes,YWPS4,Thomastown 66kV,Brown Coal VIC,VIC
+Generator.Nodes,BLOWERNG,Sydney West 330kV,Hydro NSW,NSW
+Generator.Nodes,GUTHEGA1,Sydney West 330kV,Hydro NSW,NSW
+Generator.Nodes,GUTHEGA2,Sydney West 330kV,Hydro NSW,NSW
+Generator.Nodes,HUMENSW,Sydney West 330kV,Hydro NSW,NSW
+Generator.Nodes,Lake Lyell Pumped Hydro 1,Sydney West 330kV,Hydro NSW,NSW
+Generator.Nodes,Lake Lyell Pumped Hydro 2,Sydney West 330kV,Hydro NSW,NSW
+Generator.Nodes,Phoenix Pumped Hydro Project,Sydney West 330kV,Hydro NSW,NSW
+Generator.Nodes,SHGEN01,Sydney West 330kV,Hydro NSW,NSW
+Generator.Nodes,SHGEN02,Sydney West 330kV,Hydro NSW,NSW
+Generator.Nodes,SHGEN03,Sydney West 330kV,Hydro NSW,NSW
+Generator.Nodes,SHGEN04,Sydney West 330kV,Hydro NSW,NSW
+Generator.Nodes,SNO2PH01,Sydney West 330kV,Hydro NSW,NSW
+Generator.Nodes,SNO2PH02,Sydney West 330kV,Hydro NSW,NSW
+Generator.Nodes,SNO2PH03,Sydney West 330kV,Hydro NSW,NSW
+Generator.Nodes,SNO2PH04,Sydney West 330kV,Hydro NSW,NSW
+Generator.Nodes,SNO2PH05,Sydney West 330kV,Hydro NSW,NSW
+Generator.Nodes,SNO2PH06,Sydney West 330kV,Hydro NSW,NSW
+Generator.Nodes,TUMUT1_01,Sydney West 330kV,Hydro NSW,NSW
+Generator.Nodes,TUMUT1_02,Sydney West 330kV,Hydro NSW,NSW
+Generator.Nodes,TUMUT1_03,Sydney West 330kV,Hydro NSW,NSW
+Generator.Nodes,TUMUT1_04,Sydney West 330kV,Hydro NSW,NSW
+Generator.Nodes,TUMUT2_01,Sydney West 330kV,Hydro NSW,NSW
+Generator.Nodes,TUMUT2_02,Sydney West 330kV,Hydro NSW,NSW
+Generator.Nodes,TUMUT2_03,Sydney West 330kV,Hydro NSW,NSW
+Generator.Nodes,TUMUT2_04,Sydney West 330kV,Hydro NSW,NSW
+Generator.Nodes,TUMUT3_01,Sydney West 330kV,Hydro NSW,NSW
+Generator.Nodes,TUMUT3_02,Sydney West 330kV,Hydro NSW,NSW
+Generator.Nodes,TUMUT3_03,Sydney West 330kV,Hydro NSW,NSW
+Generator.Nodes,TUMUT3_04,Sydney West 330kV,Hydro NSW,NSW
+Generator.Nodes,TUMUT3_05,Sydney West 330kV,Hydro NSW,NSW
+Generator.Nodes,TUMUT3_06,Sydney West 330kV,Hydro NSW,NSW
+Generator.Nodes,BARRON-1,South Pine 275kV,Hydro QLD,QLD
+Generator.Nodes,BARRON-2,South Pine 275kV,Hydro QLD,QLD
+Generator.Nodes,Borumba,South Pine 275kV,Hydro QLD,QLD
+Generator.Nodes,Capricornia Energy Hub (CEH) PHES,South Pine 275kV,Hydro QLD,QLD
+Generator.Nodes,Cressbrook Pumped Hydro Project,South Pine 275kV,Hydro QLD,QLD
+Generator.Nodes,KAREEYA1,South Pine 275kV,Hydro QLD,QLD
+Generator.Nodes,KAREEYA2,South Pine 275kV,Hydro QLD,QLD
+Generator.Nodes,KAREEYA3,South Pine 275kV,Hydro QLD,QLD
+Generator.Nodes,KAREEYA4,South Pine 275kV,Hydro QLD,QLD
+Generator.Nodes,KIDSPHG1,South Pine 275kV,Hydro QLD,QLD
+Generator.Nodes,KIDSPHG2,South Pine 275kV,Hydro QLD,QLD
+Generator.Nodes,Mt Rawdon Pumped Hydro,South Pine 275kV,Hydro QLD,QLD
+Generator.Nodes,W/HOE#1,South Pine 275kV,Hydro QLD,QLD
+Generator.Nodes,W/HOE#2,South Pine 275kV,Hydro QLD,QLD
+Generator.Nodes,BASTYAN,Georgetown 220kV,Hydro TAS,TAS
+Generator.Nodes,CA111-1,Georgetown 220kV,Hydro TAS,TAS
+Generator.Nodes,CA112-2,Georgetown 220kV,Hydro TAS,TAS
+Generator.Nodes,CETHANA,Georgetown 220kV,Hydro TAS,TAS
+Generator.Nodes,DEVILS_G,Georgetown 220kV,Hydro TAS,TAS
+Generator.Nodes,FISHER,Georgetown 220kV,Hydro TAS,TAS
+Generator.Nodes,GO181-1,Georgetown 220kV,Hydro TAS,TAS
+Generator.Nodes,GO182-2,Georgetown 220kV,Hydro TAS,TAS
+Generator.Nodes,GO183-3,Georgetown 220kV,Hydro TAS,TAS
+Generator.Nodes,JBUTTERS,Georgetown 220kV,Hydro TAS,TAS
+Generator.Nodes,LI111-1,Georgetown 220kV,Hydro TAS,TAS
+Generator.Nodes,LI112-2,Georgetown 220kV,Hydro TAS,TAS
+Generator.Nodes,LI113-3,Georgetown 220kV,Hydro TAS,TAS
+Generator.Nodes,LK_ECHO,Georgetown 220kV,Hydro TAS,TAS
+Generator.Nodes,LM111-1,Georgetown 220kV,Hydro TAS,TAS
+Generator.Nodes,MACKNTSH,Georgetown 220kV,Hydro TAS,TAS
+Generator.Nodes,MEADOWBK,Georgetown 220kV,Hydro TAS,TAS
+Generator.Nodes,PO161-1,Georgetown 220kV,Hydro TAS,TAS
+Generator.Nodes,PO162-2,Georgetown 220kV,Hydro TAS,TAS
+Generator.Nodes,PO163-3,Georgetown 220kV,Hydro TAS,TAS
+Generator.Nodes,PO164-4,Georgetown 220kV,Hydro TAS,TAS
+Generator.Nodes,PO165-5,Georgetown 220kV,Hydro TAS,TAS
+Generator.Nodes,PO166-6,Georgetown 220kV,Hydro TAS,TAS
+Generator.Nodes,REECE1,Georgetown 220kV,Hydro TAS,TAS
+Generator.Nodes,REECE2,Georgetown 220kV,Hydro TAS,TAS
+Generator.Nodes,TA111-1,Georgetown 220kV,Hydro TAS,TAS
+Generator.Nodes,TA111-2,Georgetown 220kV,Hydro TAS,TAS
+Generator.Nodes,TA111-3,Georgetown 220kV,Hydro TAS,TAS
+Generator.Nodes,TA112-4,Georgetown 220kV,Hydro TAS,TAS
+Generator.Nodes,TA112-5,Georgetown 220kV,Hydro TAS,TAS
+Generator.Nodes,TA112-6,Georgetown 220kV,Hydro TAS,TAS
+Generator.Nodes,TR111-1,Georgetown 220kV,Hydro TAS,TAS
+Generator.Nodes,TR111-2,Georgetown 220kV,Hydro TAS,TAS
+Generator.Nodes,TR112-3,Georgetown 220kV,Hydro TAS,TAS
+Generator.Nodes,TR112-4,Georgetown 220kV,Hydro TAS,TAS
+Generator.Nodes,TRIBUTE,Georgetown 220kV,Hydro TAS,TAS
+Generator.Nodes,TU111-1,Georgetown 220kV,Hydro TAS,TAS
+Generator.Nodes,TU112-2,Georgetown 220kV,Hydro TAS,TAS
+Generator.Nodes,TU113-3,Georgetown 220kV,Hydro TAS,TAS
+Generator.Nodes,TU114-4,Georgetown 220kV,Hydro TAS,TAS
+Generator.Nodes,TU115-5,Georgetown 220kV,Hydro TAS,TAS
+Generator.Nodes,WI111-1,Georgetown 220kV,Hydro TAS,TAS
+Generator.Nodes,WY111-1,Georgetown 220kV,Hydro TAS,TAS
+Generator.Nodes,WY111-2,Georgetown 220kV,Hydro TAS,TAS
+Generator.Nodes,WY111-3,Georgetown 220kV,Hydro TAS,TAS
+Generator.Nodes,BOGONG1,Thomastown 66kV,Hydro VIC,VIC
+Generator.Nodes,BOGONG2,Thomastown 66kV,Hydro VIC,VIC
+Generator.Nodes,DARTM1,Thomastown 66kV,Hydro VIC,VIC
+Generator.Nodes,EILDON1,Thomastown 66kV,Hydro VIC,VIC
+Generator.Nodes,EILDON2,Thomastown 66kV,Hydro VIC,VIC
+Generator.Nodes,HUMEV,Thomastown 66kV,Hydro VIC,VIC
+Generator.Nodes,MCKAY11,Thomastown 66kV,Hydro VIC,VIC
+Generator.Nodes,MCKAY12,Thomastown 66kV,Hydro VIC,VIC
+Generator.Nodes,MCKAY13,Thomastown 66kV,Hydro VIC,VIC
+Generator.Nodes,MCKAY14,Thomastown 66kV,Hydro VIC,VIC
+Generator.Nodes,MCKAY15,Thomastown 66kV,Hydro VIC,VIC
+Generator.Nodes,MCKAY16,Thomastown 66kV,Hydro VIC,VIC
+Generator.Nodes,MURRAY01,Thomastown 66kV,Hydro VIC,VIC
+Generator.Nodes,MURRAY02,Thomastown 66kV,Hydro VIC,VIC
+Generator.Nodes,MURRAY03,Thomastown 66kV,Hydro VIC,VIC
+Generator.Nodes,MURRAY04,Thomastown 66kV,Hydro VIC,VIC
+Generator.Nodes,MURRAY05,Thomastown 66kV,Hydro VIC,VIC
+Generator.Nodes,MURRAY06,Thomastown 66kV,Hydro VIC,VIC
+Generator.Nodes,MURRAY07,Thomastown 66kV,Hydro VIC,VIC
+Generator.Nodes,MURRAY08,Thomastown 66kV,Hydro VIC,VIC
+Generator.Nodes,MURRAY09,Thomastown 66kV,Hydro VIC,VIC
+Generator.Nodes,MURRAY10,Thomastown 66kV,Hydro VIC,VIC
+Generator.Nodes,MURRAY11,Thomastown 66kV,Hydro VIC,VIC
+Generator.Nodes,MURRAY12,Thomastown 66kV,Hydro VIC,VIC
+Generator.Nodes,MURRAY13,Thomastown 66kV,Hydro VIC,VIC
+Generator.Nodes,MURRAY14,Thomastown 66kV,Hydro VIC,VIC
+Generator.Nodes,WKIEWA1_1,Thomastown 66kV,Hydro VIC,VIC
+Generator.Nodes,WKIEWA1_2,Thomastown 66kV,Hydro VIC,VIC
+Generator.Nodes,WKIEWA2_1,Thomastown 66kV,Hydro VIC,VIC
+Generator.Nodes,WKIEWA2_2,Thomastown 66kV,Hydro VIC,VIC
+Generator.Nodes,CG1,Sydney West 330kV,Natural Gas NSW,NSW
+Generator.Nodes,CG2,Sydney West 330kV,Natural Gas NSW,NSW
+Generator.Nodes,CG3,Sydney West 330kV,Natural Gas NSW,NSW
+Generator.Nodes,CG4,Sydney West 330kV,Natural Gas NSW,NSW
+Generator.Nodes,Dubbo Firming Power Station,Sydney West 330kV,Natural Gas NSW,NSW
+Generator.Nodes,HUNTER1,Sydney West 330kV,Natural Gas NSW,NSW
+Generator.Nodes,HUNTER2,Sydney West 330kV,Natural Gas NSW,NSW
+Generator.Nodes,SITHE01,Sydney West 330kV,Natural Gas NSW,NSW
+Generator.Nodes,SITHE02,Sydney West 330kV,Natural Gas NSW,NSW
+Generator.Nodes,SITHE03,Sydney West 330kV,Natural Gas NSW,NSW
+Generator.Nodes,SITHE04,Sydney West 330kV,Natural Gas NSW,NSW
+Generator.Nodes,TALWA1,Sydney West 330kV,Natural Gas NSW,NSW
+Generator.Nodes,TALWB1,Sydney West 330kV,Natural Gas NSW,NSW
+Generator.Nodes,URANQ11,Sydney West 330kV,Natural Gas NSW,NSW
+Generator.Nodes,URANQ12,Sydney West 330kV,Natural Gas NSW,NSW
+Generator.Nodes,URANQ13,Sydney West 330kV,Natural Gas NSW,NSW
+Generator.Nodes,URANQ14,Sydney West 330kV,Natural Gas NSW,NSW
+Generator.Nodes,BARCALDN,South Pine 275kV,Natural Gas QLD,QLD
+Generator.Nodes,BRAEMAR1,South Pine 275kV,Natural Gas QLD,QLD
+Generator.Nodes,BRAEMAR2,South Pine 275kV,Natural Gas QLD,QLD
+Generator.Nodes,BRAEMAR3,South Pine 275kV,Natural Gas QLD,QLD
+Generator.Nodes,BRAEMAR5,South Pine 275kV,Natural Gas QLD,QLD
+Generator.Nodes,BRAEMAR6,South Pine 275kV,Natural Gas QLD,QLD
+Generator.Nodes,BRAEMAR7,South Pine 275kV,Natural Gas QLD,QLD
+Generator.Nodes,Brigalow GT (Kogan Creek GT),South Pine 275kV,Natural Gas QLD,QLD
+Generator.Nodes,CPSA_GT1,South Pine 275kV,Natural Gas QLD,QLD
+Generator.Nodes,CPSA_GT2,South Pine 275kV,Natural Gas QLD,QLD
+Generator.Nodes,CPSA_ST,South Pine 275kV,Natural Gas QLD,QLD
+Generator.Nodes,DDPS1_GT1,South Pine 275kV,Natural Gas QLD,QLD
+Generator.Nodes,DDPS1_GT2,South Pine 275kV,Natural Gas QLD,QLD
+Generator.Nodes,DDPS1_GT3,South Pine 275kV,Natural Gas QLD,QLD
+Generator.Nodes,DDPS1_ST,South Pine 275kV,Natural Gas QLD,QLD
+Generator.Nodes,Lockyer Valley Energy Project A,South Pine 275kV,Natural Gas QLD,QLD
+Generator.Nodes,Lockyer Valley Energy Project B,South Pine 275kV,Natural Gas QLD,QLD
+Generator.Nodes,OAKEY1,South Pine 275kV,Natural Gas QLD,QLD
+Generator.Nodes,OAKEY2,South Pine 275kV,Natural Gas QLD,QLD
+Generator.Nodes,ROMA_7,South Pine 275kV,Natural Gas QLD,QLD
+Generator.Nodes,ROMA_8,South Pine 275kV,Natural Gas QLD,QLD
+Generator.Nodes,SWAN_E,South Pine 275kV,Natural Gas QLD,QLD
+Generator.Nodes,YABULU,South Pine 275kV,Natural Gas QLD,QLD
+Generator.Nodes,YABULU2,South Pine 275kV,Natural Gas QLD,QLD
+Generator.Nodes,YARWUN_1,South Pine 275kV,Natural Gas QLD,QLD
+Generator.Nodes,AGLHAL01,Torrens Island 66kV,Natural Gas SA,SA
+Generator.Nodes,AGLHAL02,Torrens Island 66kV,Natural Gas SA,SA
+Generator.Nodes,AGLHAL03,Torrens Island 66kV,Natural Gas SA,SA
+Generator.Nodes,AGLHAL04,Torrens Island 66kV,Natural Gas SA,SA
+Generator.Nodes,AGLHAL05,Torrens Island 66kV,Natural Gas SA,SA
+Generator.Nodes,AGLHAL06,Torrens Island 66kV,Natural Gas SA,SA
+Generator.Nodes,AGLHAL07,Torrens Island 66kV,Natural Gas SA,SA
+Generator.Nodes,AGLHAL08,Torrens Island 66kV,Natural Gas SA,SA
+Generator.Nodes,AGLHAL09,Torrens Island 66kV,Natural Gas SA,SA
+Generator.Nodes,AGLHAL10,Torrens Island 66kV,Natural Gas SA,SA
+Generator.Nodes,AGLHAL11,Torrens Island 66kV,Natural Gas SA,SA
+Generator.Nodes,AGLHAL12,Torrens Island 66kV,Natural Gas SA,SA
+Generator.Nodes,AGLHAL13,Torrens Island 66kV,Natural Gas SA,SA
+Generator.Nodes,BARKIPS1,Torrens Island 66kV,Natural Gas SA,SA
+Generator.Nodes,BOLIVPS1,Torrens Island 66kV,Natural Gas SA,SA
+Generator.Nodes,DRYCGT1,Torrens Island 66kV,Natural Gas SA,SA
+Generator.Nodes,DRYCGT2,Torrens Island 66kV,Natural Gas SA,SA
+Generator.Nodes,DRYCGT3,Torrens Island 66kV,Natural Gas SA,SA
+Generator.Nodes,LADBROK1,Torrens Island 66kV,Natural Gas SA,SA
+Generator.Nodes,LADBROK2,Torrens Island 66kV,Natural Gas SA,SA
+Generator.Nodes,MINTARO,Torrens Island 66kV,Natural Gas SA,SA
+Generator.Nodes,New Gas SA 1,Torrens Island 66kV,Natural Gas SA,SA
+Generator.Nodes,New Gas SA 2,Torrens Island 66kV,Natural Gas SA,SA
+Generator.Nodes,OsborneGT,Torrens Island 66kV,Natural Gas SA,SA
+Generator.Nodes,OsborneST,Torrens Island 66kV,Natural Gas SA,SA
+Generator.Nodes,PPCCGTGT1,Torrens Island 66kV,Natural Gas SA,SA
+Generator.Nodes,PPCCGTGT2,Torrens Island 66kV,Natural Gas SA,SA
+Generator.Nodes,PPCCGTST,Torrens Island 66kV,Natural Gas SA,SA
+Generator.Nodes,QPS1,Torrens Island 66kV,Natural Gas SA,SA
+Generator.Nodes,QPS2,Torrens Island 66kV,Natural Gas SA,SA
+Generator.Nodes,QPS3,Torrens Island 66kV,Natural Gas SA,SA
+Generator.Nodes,QPS4,Torrens Island 66kV,Natural Gas SA,SA
+Generator.Nodes,QPS5,Torrens Island 66kV,Natural Gas SA,SA
+Generator.Nodes,SNAPPER1,Torrens Island 66kV,Natural Gas SA,SA
+Generator.Nodes,TORRB1,Torrens Island 66kV,Natural Gas SA,SA
+Generator.Nodes,TORRB2,Torrens Island 66kV,Natural Gas SA,SA
+Generator.Nodes,TORRB3,Torrens Island 66kV,Natural Gas SA,SA
+Generator.Nodes,TORRB4,Torrens Island 66kV,Natural Gas SA,SA
+Generator.Nodes,BBTHREE1,Georgetown 220kV,Natural Gas TAS,TAS
+Generator.Nodes,BBTHREE2,Georgetown 220kV,Natural Gas TAS,TAS
+Generator.Nodes,BBTHREE3,Georgetown 220kV,Natural Gas TAS,TAS
+Generator.Nodes,TVCC201_GT,Georgetown 220kV,Natural Gas TAS,TAS
+Generator.Nodes,TVCC201_ST,Georgetown 220kV,Natural Gas TAS,TAS
+Generator.Nodes,TVPP104,Georgetown 220kV,Natural Gas TAS,TAS
+Generator.Nodes,AGLSOM01,Thomastown 66kV,Natural Gas VIC,VIC
+Generator.Nodes,AGLSOM02,Thomastown 66kV,Natural Gas VIC,VIC
+Generator.Nodes,AGLSOM03,Thomastown 66kV,Natural Gas VIC,VIC
+Generator.Nodes,AGLSOM04,Thomastown 66kV,Natural Gas VIC,VIC
+Generator.Nodes,BDL01,Thomastown 66kV,Natural Gas VIC,VIC
+Generator.Nodes,BDL02,Thomastown 66kV,Natural Gas VIC,VIC
+Generator.Nodes,JLA01,Thomastown 66kV,Natural Gas VIC,VIC
+Generator.Nodes,JLA02,Thomastown 66kV,Natural Gas VIC,VIC
+Generator.Nodes,JLA03,Thomastown 66kV,Natural Gas VIC,VIC
+Generator.Nodes,JLA04,Thomastown 66kV,Natural Gas VIC,VIC
+Generator.Nodes,JLB01,Thomastown 66kV,Natural Gas VIC,VIC
+Generator.Nodes,JLB02,Thomastown 66kV,Natural Gas VIC,VIC
+Generator.Nodes,JLB03,Thomastown 66kV,Natural Gas VIC,VIC
+Generator.Nodes,LNGS1,Thomastown 66kV,Natural Gas VIC,VIC
+Generator.Nodes,LNGS2,Thomastown 66kV,Natural Gas VIC,VIC
+Generator.Nodes,MORTLK11,Thomastown 66kV,Natural Gas VIC,VIC
+Generator.Nodes,MORTLK12,Thomastown 66kV,Natural Gas VIC,VIC
+Generator.Nodes,NPS,Thomastown 66kV,Natural Gas VIC,VIC
+Generator.Nodes,VPGS1,Thomastown 66kV,Natural Gas VIC,VIC
+Generator.Nodes,VPGS2,Thomastown 66kV,Natural Gas VIC,VIC
+Generator.Nodes,VPGS3,Thomastown 66kV,Natural Gas VIC,VIC
+Generator.Nodes,VPGS4,Thomastown 66kV,Natural Gas VIC,VIC
+Generator.Nodes,VPGS5,Thomastown 66kV,Natural Gas VIC,VIC
+Generator.Nodes,VPGS6,Thomastown 66kV,Natural Gas VIC,VIC
+Generator.Nodes,HEZ1,Sydney West 330kV,Liquid Fuel NSW,NSW
+Generator.Nodes,MSTUART1,South Pine 275kV,Liquid Fuel QLD,QLD
+Generator.Nodes,MSTUART2,South Pine 275kV,Liquid Fuel QLD,QLD
+Generator.Nodes,MSTUART3,South Pine 275kV,Liquid Fuel QLD,QLD
+Generator.Nodes,ANGAS1,Torrens Island 66kV,Liquid Fuel SA,SA
+Generator.Nodes,ANGAS2,Torrens Island 66kV,Liquid Fuel SA,SA
+Generator.Nodes,LONSDALE,Torrens Island 66kV,Liquid Fuel SA,SA
+Generator.Nodes,POR01-1,Torrens Island 66kV,Liquid Fuel SA,SA
+Generator.Nodes,POR01-2,Torrens Island 66kV,Liquid Fuel SA,SA
+Generator.Nodes,POR01-3,Torrens Island 66kV,Liquid Fuel SA,SA
+Generator.Nodes,PTSTAN1_1,Torrens Island 66kV,Liquid Fuel SA,SA
+Generator.Nodes,PTSTAN1_2,Torrens Island 66kV,Liquid Fuel SA,SA
+Generator.Nodes,SNUG1,Torrens Island 66kV,Liquid Fuel SA,SA
+Generator.Nodes,SNUG2,Torrens Island 66kV,Liquid Fuel SA,SA
+Generator.Nodes,SNUG3,Torrens Island 66kV,Liquid Fuel SA,SA
+Generator.Nodes,BANGOWF1,Sydney West 330kV,Wind NSW,NSW
+Generator.Nodes,BANGOWF2,Sydney West 330kV,Wind NSW,NSW
+Generator.Nodes,BOCORWF1,Sydney West 330kV,Wind NSW,NSW
+Generator.Nodes,BODWF1,Sydney West 330kV,Wind NSW,NSW
+Generator.Nodes,CAPTL_WF,Sydney West 330kV,Wind NSW,NSW
+Generator.Nodes,COLWF01,Sydney West 330kV,Wind NSW,NSW
+Generator.Nodes,CROOKWF2,Sydney West 330kV,Wind NSW,NSW
+Generator.Nodes,CROOKWF3,Sydney West 330kV,Wind NSW,NSW
+Generator.Nodes,CRURWF1,Sydney West 330kV,Wind NSW,NSW
+Generator.Nodes,CULLRGWF,Sydney West 330kV,Wind NSW,NSW
+Generator.Nodes,FLYCRKWF,Sydney West 330kV,Wind NSW,NSW
+Generator.Nodes,GULLRWF1,Sydney West 330kV,Wind NSW,NSW
+Generator.Nodes,GULLRWF2,Sydney West 330kV,Wind NSW,NSW
+Generator.Nodes,GUNNING1,Sydney West 330kV,Wind NSW,NSW
+Generator.Nodes,RYEPARK1,Sydney West 330kV,Wind NSW,NSW
+Generator.Nodes,SAPHWF1,Sydney West 330kV,Wind NSW,NSW
+Generator.Nodes,STWF1,Sydney West 330kV,Wind NSW,NSW
+Generator.Nodes,TARALGA1,Sydney West 330kV,Wind NSW,NSW
+Generator.Nodes,WOODLWN1,Sydney West 330kV,Wind NSW,NSW
+Generator.Nodes,WRWF1,Sydney West 330kV,Wind NSW,NSW
+Generator.Nodes,CLRKCWF1,South Pine 275kV,Wind QLD,QLD
+Generator.Nodes,CLRKCWF2,South Pine 275kV,Wind QLD,QLD
+Generator.Nodes,COOPGWF1,South Pine 275kV,Wind QLD,QLD
+Generator.Nodes,DULAWF1,South Pine 275kV,Wind QLD,QLD
+Generator.Nodes,KABANWF1,South Pine 275kV,Wind QLD,QLD
+Generator.Nodes,KEPWF1,South Pine 275kV,Wind QLD,QLD
+Generator.Nodes,MCINTYR1,South Pine 275kV,Wind QLD,QLD
+Generator.Nodes,MEWF1,South Pine 275kV,Wind QLD,QLD
+Generator.Nodes,WAMBOWF1,South Pine 275kV,Wind QLD,QLD
+Generator.Nodes,WAMBOWF2,South Pine 275kV,Wind QLD,QLD
+Generator.Nodes,BLUFF1,Torrens Island 66kV,Wind SA,SA
+Generator.Nodes,CATHROCK,Torrens Island 66kV,Wind SA,SA
+Generator.Nodes,CLEMGPWF,Torrens Island 66kV,Wind SA,SA
+Generator.Nodes,CNUNDAWF,Torrens Island 66kV,Wind SA,SA
+Generator.Nodes,GSWF1A,Torrens Island 66kV,Wind SA,SA
+Generator.Nodes,GSWF1B1,Torrens Island 66kV,Wind SA,SA
+Generator.Nodes,HALLWF1,Torrens Island 66kV,Wind SA,SA
+Generator.Nodes,HALLWF2,Torrens Island 66kV,Wind SA,SA
+Generator.Nodes,HDWF1,Torrens Island 66kV,Wind SA,SA
+Generator.Nodes,HDWF2,Torrens Island 66kV,Wind SA,SA
+Generator.Nodes,HDWF3,Torrens Island 66kV,Wind SA,SA
+Generator.Nodes,LGAPWF1,Torrens Island 66kV,Wind SA,SA
+Generator.Nodes,LGAPWF2,Torrens Island 66kV,Wind SA,SA
+Generator.Nodes,LKBONNY1,Torrens Island 66kV,Wind SA,SA
+Generator.Nodes,LKBONNY2,Torrens Island 66kV,Wind SA,SA
+Generator.Nodes,LKBONNY3,Torrens Island 66kV,Wind SA,SA
+Generator.Nodes,MTMILLAR,Torrens Island 66kV,Wind SA,SA
+Generator.Nodes,NBHWF1,Torrens Island 66kV,Wind SA,SA
+Generator.Nodes,PAREPW1,Torrens Island 66kV,Wind SA,SA
+Generator.Nodes,SNOWNTH1,Torrens Island 66kV,Wind SA,SA
+Generator.Nodes,SNOWSTH1,Torrens Island 66kV,Wind SA,SA
+Generator.Nodes,SNOWTWN1,Torrens Island 66kV,Wind SA,SA
+Generator.Nodes,STARHLWF,Torrens Island 66kV,Wind SA,SA
+Generator.Nodes,WATERLWF,Torrens Island 66kV,Wind SA,SA
+Generator.Nodes,WGWF1,Torrens Island 66kV,Wind SA,SA
+Generator.Nodes,WPWF,Torrens Island 66kV,Wind SA,SA
+Generator.Nodes,CTHLWF1,Georgetown 220kV,Wind TAS,TAS
+Generator.Nodes,GRANWF1,Georgetown 220kV,Wind TAS,TAS
+Generator.Nodes,MUSSELR1,Georgetown 220kV,Wind TAS,TAS
+Generator.Nodes,WOOLNTH1,Georgetown 220kV,Wind TAS,TAS
+Generator.Nodes,ARWF1,Thomastown 66kV,Wind VIC,VIC
+Generator.Nodes,BALDHWF1,Thomastown 66kV,Wind VIC,VIC
+Generator.Nodes,BRYB1WF1,Thomastown 66kV,Wind VIC,VIC
+Generator.Nodes,BRYB2WF2,Thomastown 66kV,Wind VIC,VIC
+Generator.Nodes,BULGANA1,Thomastown 66kV,Wind VIC,VIC
+Generator.Nodes,CHALLHWF,Thomastown 66kV,Wind VIC,VIC
+Generator.Nodes,CHYTWF1,Thomastown 66kV,Wind VIC,VIC
+Generator.Nodes,CROWLWF1,Thomastown 66kV,Wind VIC,VIC
+Generator.Nodes,DUNDWF1,Thomastown 66kV,Wind VIC,VIC
+Generator.Nodes,DUNDWF2,Thomastown 66kV,Wind VIC,VIC
+Generator.Nodes,DUNDWF3,Thomastown 66kV,Wind VIC,VIC
+Generator.Nodes,ELAINWF1,Thomastown 66kV,Wind VIC,VIC
+Generator.Nodes,GPWFEST1,Thomastown 66kV,Wind VIC,VIC
+Generator.Nodes,GPWFEST2,Thomastown 66kV,Wind VIC,VIC
+Generator.Nodes,GPWFEST3,Thomastown 66kV,Wind VIC,VIC
+Generator.Nodes,GPWFWST1,Thomastown 66kV,Wind VIC,VIC
+Generator.Nodes,GPWFWST2,Thomastown 66kV,Wind VIC,VIC
+Generator.Nodes,HD1WF1,Thomastown 66kV,Wind VIC,VIC
+Generator.Nodes,KIATAWF1,Thomastown 66kV,Wind VIC,VIC
+Generator.Nodes,MACARTH1,Thomastown 66kV,Wind VIC,VIC
+Generator.Nodes,MERCER01,Thomastown 66kV,Wind VIC,VIC
+Generator.Nodes,MLWF1,Thomastown 66kV,Wind VIC,VIC
+Generator.Nodes,MOORAWF1,Thomastown 66kV,Wind VIC,VIC
+Generator.Nodes,MRTLSWF1,Thomastown 66kV,Wind VIC,VIC
+Generator.Nodes,MTGELWF1,Thomastown 66kV,Wind VIC,VIC
+Generator.Nodes,MUWAWF1,Thomastown 66kV,Wind VIC,VIC
+Generator.Nodes,MUWAWF2,Thomastown 66kV,Wind VIC,VIC
+Generator.Nodes,OAKLAND1,Thomastown 66kV,Wind VIC,VIC
+Generator.Nodes,PORTWF,Thomastown 66kV,Wind VIC,VIC
+Generator.Nodes,RYANCWF1,Thomastown 66kV,Wind VIC,VIC
+Generator.Nodes,SALTCRK1,Thomastown 66kV,Wind VIC,VIC
+Generator.Nodes,STOCKYD1,Thomastown 66kV,Wind VIC,VIC
+Generator.Nodes,WAUBRAWF,Thomastown 66kV,Wind VIC,VIC
+Generator.Nodes,YAMBUKWF,Thomastown 66kV,Wind VIC,VIC
+Generator.Nodes,YENDWF1,Thomastown 66kV,Wind VIC,VIC
+Generator.Nodes,YSWF1,Thomastown 66kV,Wind VIC,VIC
+Generator.Nodes,AVLSF1,Sydney West 330kV,Solar NSW,NSW
+Generator.Nodes,BERYLSF1,Sydney West 330kV,Solar NSW,NSW
+Generator.Nodes,BOMENSF1,Sydney West 330kV,Solar NSW,NSW
+Generator.Nodes,BROKENH1,Sydney West 330kV,Solar NSW,NSW
+Generator.Nodes,COLEASF1,Sydney West 330kV,Solar NSW,NSW
+Generator.Nodes,CRWASF1,Sydney West 330kV,Solar NSW,NSW
+Generator.Nodes,DARLSF1,Sydney West 330kV,Solar NSW,NSW
+Generator.Nodes,FINLYSF1,Sydney West 330kV,Solar NSW,NSW
+Generator.Nodes,GESF1,Sydney West 330kV,Solar NSW,NSW
+Generator.Nodes,GNNDHSF1,Sydney West 330kV,Solar NSW,NSW
+Generator.Nodes,GOONSF1,Sydney West 330kV,Solar NSW,NSW
+Generator.Nodes,GULLRSF1,Sydney West 330kV,Solar NSW,NSW
+Generator.Nodes,HILLSTN1,Sydney West 330kV,Solar NSW,NSW
+Generator.Nodes,JEMALNG1,Sydney West 330kV,Solar NSW,NSW
+Generator.Nodes,JUNEESF1,Sydney West 330kV,Solar NSW,NSW
+Generator.Nodes,LIMOSF11,Sydney West 330kV,Solar NSW,NSW
+Generator.Nodes,LIMOSF21,Sydney West 330kV,Solar NSW,NSW
+Generator.Nodes,MANSLR1,Sydney West 330kV,Solar NSW,NSW
+Generator.Nodes,METZSF1,Sydney West 330kV,Solar NSW,NSW
+Generator.Nodes,MOLNGSF1,Sydney West 330kV,Solar NSW,NSW
+Generator.Nodes,MOREESF1,Sydney West 330kV,Solar NSW,NSW
+Generator.Nodes,NEVERSF1,Sydney West 330kV,Solar NSW,NSW
+Generator.Nodes,NEWENSF1,Sydney West 330kV,Solar NSW,NSW
+Generator.Nodes,NEWENSF2,Sydney West 330kV,Solar NSW,NSW
+Generator.Nodes,NYNGAN1,Sydney West 330kV,Solar NSW,NSW
+Generator.Nodes,PARSF1,Sydney West 330kV,Solar NSW,NSW
+Generator.Nodes,SEBSF1,Sydney West 330kV,Solar NSW,NSW
+Generator.Nodes,STUBSF1,Sydney West 330kV,Solar NSW,NSW
+Generator.Nodes,STUBSF2,Sydney West 330kV,Solar NSW,NSW
+Generator.Nodes,SUNRSF1,Sydney West 330kV,Solar NSW,NSW
+Generator.Nodes,SUNTPSF1,Sydney West 330kV,Solar NSW,NSW
+Generator.Nodes,WAGGNSF1,Sydney West 330kV,Solar NSW,NSW
+Generator.Nodes,WELLSF1,Sydney West 330kV,Solar NSW,NSW
+Generator.Nodes,WELNSF1,Sydney West 330kV,Solar NSW,NSW
+Generator.Nodes,WLWLSF1,Sydney West 330kV,Solar NSW,NSW
+Generator.Nodes,WLWLSF2,Sydney West 330kV,Solar NSW,NSW
+Generator.Nodes,WOLARSF1,Sydney West 330kV,Solar NSW,NSW
+Generator.Nodes,WRSF1,Sydney West 330kV,Solar NSW,NSW
+Generator.Nodes,WSTWYSF1,Sydney West 330kV,Solar NSW,NSW
+Generator.Nodes,WYASF1,Sydney West 330kV,Solar NSW,NSW
+Generator.Nodes,ALDGASF1,South Pine 275kV,Solar QLD,QLD
+Generator.Nodes,BLUEGSF1,South Pine 275kV,Solar QLD,QLD
+Generator.Nodes,BRDDSF01,South Pine 275kV,Solar QLD,QLD
+Generator.Nodes,BUSF1,South Pine 275kV,Solar QLD,QLD
+Generator.Nodes,CHILDSF1,South Pine 275kV,Solar QLD,QLD
+Generator.Nodes,CLARESF1,South Pine 275kV,Solar QLD,QLD
+Generator.Nodes,CLERMSF1,South Pine 275kV,Solar QLD,QLD
+Generator.Nodes,COLUMSF1,South Pine 275kV,Solar QLD,QLD
+Generator.Nodes,CSPVPS1,South Pine 275kV,Solar QLD,QLD
+Generator.Nodes,DAYDSF1,South Pine 275kV,Solar QLD,QLD
+Generator.Nodes,DDSF1,South Pine 275kV,Solar QLD,QLD
+Generator.Nodes,EDENVSF1,South Pine 275kV,Solar QLD,QLD
+Generator.Nodes,EMERASF1,South Pine 275kV,Solar QLD,QLD
+Generator.Nodes,GANGARR1,South Pine 275kV,Solar QLD,QLD
+Generator.Nodes,GUSF1,South Pine 275kV,Solar QLD,QLD
+Generator.Nodes,HAMISF1,South Pine 275kV,Solar QLD,QLD
+Generator.Nodes,HAUGHT11,South Pine 275kV,Solar QLD,QLD
+Generator.Nodes,HAYMSF1,South Pine 275kV,Solar QLD,QLD
+Generator.Nodes,HUGSF1,South Pine 275kV,Solar QLD,QLD
+Generator.Nodes,KEPSF1,South Pine 275kV,Solar QLD,QLD
+Generator.Nodes,KINGASF1,South Pine 275kV,Solar QLD,QLD
+Generator.Nodes,KSP1,South Pine 275kV,Solar QLD,QLD
+Generator.Nodes,LILYSF1,South Pine 275kV,Solar QLD,QLD
+Generator.Nodes,LRSF1,South Pine 275kV,Solar QLD,QLD
+Generator.Nodes,MARYRSF1,South Pine 275kV,Solar QLD,QLD
+Generator.Nodes,MIDDLSF1,South Pine 275kV,Solar QLD,QLD
+Generator.Nodes,MOUSF1,South Pine 275kV,Solar QLD,QLD
+Generator.Nodes,MUCRKSF1,South Pine 275kV,Solar QLD,QLD
+Generator.Nodes,OAKEY1SF,South Pine 275kV,Solar QLD,QLD
+Generator.Nodes,OAKEY2SF,South Pine 275kV,Solar QLD,QLD
+Generator.Nodes,RRSF1,South Pine 275kV,Solar QLD,QLD
+Generator.Nodes,RUGBYR1,South Pine 275kV,Solar QLD,QLD
+Generator.Nodes,SMCSF1,South Pine 275kV,Solar QLD,QLD
+Generator.Nodes,SRSF1,South Pine 275kV,Solar QLD,QLD
+Generator.Nodes,WANDSF1,South Pine 275kV,Solar QLD,QLD
+Generator.Nodes,WANDSF2,South Pine 275kV,Solar QLD,QLD
+Generator.Nodes,WARWSF1,South Pine 275kV,Solar QLD,QLD
+Generator.Nodes,WARWSF2,South Pine 275kV,Solar QLD,QLD
+Generator.Nodes,WDGPH1,South Pine 275kV,Solar QLD,QLD
+Generator.Nodes,WHITSF1,South Pine 275kV,Solar QLD,QLD
+Generator.Nodes,WOOLGSF1,South Pine 275kV,Solar QLD,QLD
+Generator.Nodes,YARANSF1,South Pine 275kV,Solar QLD,QLD
+Generator.Nodes,ADPPV1,Torrens Island 66kV,Solar SA,SA
+Generator.Nodes,ADPPV2,Torrens Island 66kV,Solar SA,SA
+Generator.Nodes,BNGSF1,Torrens Island 66kV,Solar SA,SA
+Generator.Nodes,BNGSF2,Torrens Island 66kV,Solar SA,SA
+Generator.Nodes,BOWWPV1,Torrens Island 66kV,Solar SA,SA
+Generator.Nodes,HVWWPV1,Torrens Island 66kV,Solar SA,SA
+Generator.Nodes,MANNSF2,Torrens Island 66kV,Solar SA,SA
+Generator.Nodes,MAPS2PV1,Torrens Island 66kV,Solar SA,SA
+Generator.Nodes,MAPS3PV1,Torrens Island 66kV,Solar SA,SA
+Generator.Nodes,MBPS2PV1,Torrens Island 66kV,Solar SA,SA
+Generator.Nodes,MWPS1PV1,Torrens Island 66kV,Solar SA,SA
+Generator.Nodes,MWPS2PV1,Torrens Island 66kV,Solar SA,SA
+Generator.Nodes,MWPS3PV1,Torrens Island 66kV,Solar SA,SA
+Generator.Nodes,MWPS4PV1,Torrens Island 66kV,Solar SA,SA
+Generator.Nodes,PAREPS1,Torrens Island 66kV,Solar SA,SA
+Generator.Nodes,TB2SF1,Torrens Island 66kV,Solar SA,SA
+Generator.Nodes,TBSF1,Torrens Island 66kV,Solar SA,SA
+Generator.Nodes,BANN1,Thomastown 66kV,Solar VIC,VIC
+Generator.Nodes,COHUNSF1,Thomastown 66kV,Solar VIC,VIC
+Generator.Nodes,Corop Solar Farm,Thomastown 66kV,Solar VIC,VIC
+Generator.Nodes,CRWARP1,Thomastown 66kV,Solar VIC,VIC
+Generator.Nodes,GANNSF1,Thomastown 66kV,Solar VIC,VIC
+Generator.Nodes,GIRGSF,Thomastown 66kV,Solar VIC,VIC
+Generator.Nodes,GLENSF1,Thomastown 66kV,Solar VIC,VIC
+Generator.Nodes,GLRWNSF1,Thomastown 66kV,Solar VIC,VIC
+Generator.Nodes,GOESF1,Thomastown 66kV,Solar VIC,VIC
+Generator.Nodes,KARSF1,Thomastown 66kV,Solar VIC,VIC
+Generator.Nodes,Kerang Hybrid Solar,Thomastown 66kV,Solar VIC,VIC
+Generator.Nodes,KERNGSP1,Thomastown 66kV,Solar VIC,VIC
+Generator.Nodes,KIAMSF1,Thomastown 66kV,Solar VIC,VIC
+Generator.Nodes,MOKOSF1,Thomastown 66kV,Solar VIC,VIC
+Generator.Nodes,NUMURSF1,Thomastown 66kV,Solar VIC,VIC
+Generator.Nodes,WEMENSF1,Thomastown 66kV,Solar VIC,VIC
+Generator.Nodes,WINTSF1,Thomastown 66kV,Solar VIC,VIC
+Generator.Nodes,WNSF1,Thomastown 66kV,Solar VIC,VIC
+Generator.Nodes,WUNUSF1,Thomastown 66kV,Solar VIC,VIC
+Generator.Nodes,YATSF1,Thomastown 66kV,Solar VIC,VIC
+Generator.Nodes,Baldon Wind Farm,Sydney West 330kV,New Wind NSW,NSW
+Generator.Nodes,Bullawah Wind Farm Stage 1,Sydney West 330kV,New Wind NSW,NSW
+Generator.Nodes,Coppabella Hybrid Generator,Sydney West 330kV,New Wind NSW,NSW
+Generator.Nodes,Dinawan Energy Hub Wind 1,Sydney West 330kV,New Wind NSW,NSW
+Generator.Nodes,Junction Rivers Wind,Sydney West 330kV,New Wind NSW,NSW
+Generator.Nodes,Kerrs Creek Wind Farm,Sydney West 330kV,New Wind NSW,NSW
+Generator.Nodes,Liverpool Range Wind Farm,Sydney West 330kV,New Wind NSW,NSW
+Generator.Nodes,New Wind Farm NSW 1,Sydney West 330kV,New Wind NSW,NSW
+Generator.Nodes,New Wind Farm NSW 2,Sydney West 330kV,New Wind NSW,NSW
+Generator.Nodes,Spicers Creek Wind Farm,Sydney West 330kV,New Wind NSW,NSW
+Generator.Nodes,Thunderbolt Wind Farm,Sydney West 330kV,New Wind NSW,NSW
+Generator.Nodes,Upper Hunter Energy Park - Wind,Sydney West 330kV,New Wind NSW,NSW
+Generator.Nodes,Uungula Wind Farm,Sydney West 330kV,New Wind NSW,NSW
+Generator.Nodes,Valley of the Winds 1,Sydney West 330kV,New Wind NSW,NSW
+Generator.Nodes,Valley of the Winds 2,Sydney West 330kV,New Wind NSW,NSW
+Generator.Nodes,Valley of the Winds 3,Sydney West 330kV,New Wind NSW,NSW
+Generator.Nodes,Yanco Delta Wind Farm,Sydney West 330kV,New Wind NSW,NSW
+Generator.Nodes,Banana Range Wind Farm,South Pine 275kV,New Wind QLD,QLD
+Generator.Nodes,Boulder Creek Wind Farm,South Pine 275kV,New Wind QLD,QLD
+Generator.Nodes,Bungaban Wind Farm,South Pine 275kV,New Wind QLD,QLD
+Generator.Nodes,Cattle Creek Wind Farm,South Pine 275kV,New Wind QLD,QLD
+Generator.Nodes,Gawara Baya Wind,South Pine 275kV,New Wind QLD,QLD
+Generator.Nodes,Lotus Creek Wind Farm,South Pine 275kV,New Wind QLD,QLD
+Generator.Nodes,Moah Creek Wind Farm,South Pine 275kV,New Wind QLD,QLD
+Generator.Nodes,New Wind Farm QLD 1,South Pine 275kV,New Wind QLD,QLD
+Generator.Nodes,New Wind Farm QLD 2,South Pine 275kV,New Wind QLD,QLD
+Generator.Nodes,Tarong West Wind Farm (Ironleaf),South Pine 275kV,New Wind QLD,QLD
+Generator.Nodes,Theodore Wind Farm 1,South Pine 275kV,New Wind QLD,QLD
+Generator.Nodes,Theodore Wind Farm 2,South Pine 275kV,New Wind QLD,QLD
+Generator.Nodes,Carmodys Hill Wind Farm,Torrens Island 66kV,New Wind SA,SA
+Generator.Nodes,Goyder North Renewable Energy Facility,Torrens Island 66kV,New Wind SA,SA
+Generator.Nodes,Goyder North Wind Farm 1,Torrens Island 66kV,New Wind SA,SA
+Generator.Nodes,Goyder North Wind Farm 2,Torrens Island 66kV,New Wind SA,SA
+Generator.Nodes,New Wind Farm SA 1 ,Torrens Island 66kV,New Wind SA,SA
+Generator.Nodes,Palmer Wind Farm,Torrens Island 66kV,New Wind SA,SA
+Generator.Nodes,Whyte Yarcowie Wind Farm,Torrens Island 66kV,New Wind SA,SA
+Generator.Nodes,Willogoleche 2 Wind Farm,Torrens Island 66kV,New Wind SA,SA
+Generator.Nodes,Bellbay Wind Farm,Georgetown 220kV,New Wind TAS,TAS
+Generator.Nodes,Cellars Hill Wind Farm,Georgetown 220kV,New Wind TAS,TAS
+Generator.Nodes,New Wind Farm TAS 1,Georgetown 220kV,New Wind TAS,TAS
+Generator.Nodes,Port Latta Wind Farm,Georgetown 220kV,New Wind TAS,TAS
+Generator.Nodes,Delburn Wind Farm,Thomastown 66kV,New Wind VIC,VIC
+Generator.Nodes,Hexham Wind Farm Wind,Thomastown 66kV,New Wind VIC,VIC
+Generator.Nodes,Inverleigh Wind Farm,Thomastown 66kV,New Wind VIC,VIC
+Generator.Nodes,Kentbruck Green Power Hub,Thomastown 66kV,New Wind VIC,VIC
+Generator.Nodes,New Wind Farm VIC 1,Thomastown 66kV,New Wind VIC,VIC
+Generator.Nodes,New Wind Farm VIC 2,Thomastown 66kV,New Wind VIC,VIC
+Generator.Nodes,Willatook Wind Farm,Thomastown 66kV,New Wind VIC,VIC
+Generator.Nodes,Woolsthorpe Wind Farm,Thomastown 66kV,New Wind VIC,VIC
+Generator.Nodes,Bendemeer Solar,Sydney West 330kV,New Solar NSW,NSW
+Generator.Nodes,Birriwa Solar Farm,Sydney West 330kV,New Solar NSW,NSW
+Generator.Nodes,Blind Creek Solar Farm,Sydney West 330kV,New Solar NSW,NSW
+Generator.Nodes,Brewongle Solar Farm,Sydney West 330kV,New Solar NSW,NSW
+Generator.Nodes,Cobbora Solar Farm,Sydney West 330kV,New Solar NSW,NSW
+Generator.Nodes,CUSF1,Sydney West 330kV,New Solar NSW,NSW
+Generator.Nodes,Dinawan Energy Hub - Solar,Sydney West 330kV,New Solar NSW,NSW
+Generator.Nodes,Dunedoo Solar Farm,Sydney West 330kV,New Solar NSW,NSW
+Generator.Nodes,Glanmire Solar Farm,Sydney West 330kV,New Solar NSW,NSW
+Generator.Nodes,Goulburn River Solar Farm And BESS,Sydney West 330kV,New Solar NSW,NSW
+Generator.Nodes,Gundary Solar Farm,Sydney West 330kV,New Solar NSW,NSW
+Generator.Nodes,Gunning Solar Farm,Sydney West 330kV,New Solar NSW,NSW
+Generator.Nodes,Hay Sun Farm,Sydney West 330kV,New Solar NSW,NSW
+Generator.Nodes,Kayuga Solar Farm,Sydney West 330kV,New Solar NSW,NSW
+Generator.Nodes,Lockhart Hybrid Facility - Solar,Sydney West 330kV,New Solar NSW,NSW
+Generator.Nodes,Marulan Solar Farm,Sydney West 330kV,New Solar NSW,NSW
+Generator.Nodes,Maryvale Solar,Sydney West 330kV,New Solar NSW,NSW
+Generator.Nodes,Merino Solar,Sydney West 330kV,New Solar NSW,NSW
+Generator.Nodes,Middlebrook Solar,Sydney West 330kV,New Solar NSW,NSW
+Generator.Nodes,Moama Solar Farm 1_5,Sydney West 330kV,New Solar NSW,NSW
+Generator.Nodes,Moama Solar Farm 6_10,Sydney West 330kV,New Solar NSW,NSW
+Generator.Nodes,MULWASF1,Sydney West 330kV,New Solar NSW,NSW
+Generator.Nodes,Muswellbrook Solar Farm,Sydney West 330kV,New Solar NSW,NSW
+Generator.Nodes,New England 2 Hybrid DUID 1 SF,Sydney West 330kV,New Solar NSW,NSW
+Generator.Nodes,New England 2 Hybrid DUID 2 SF,Sydney West 330kV,New Solar NSW,NSW
+Generator.Nodes,New Solar Farm NSW 1,Sydney West 330kV,New Solar NSW,NSW
+Generator.Nodes,New Solar Farm NSW 2,Sydney West 330kV,New Solar NSW,NSW
+Generator.Nodes,QPSFB1,Sydney West 330kV,New Solar NSW,NSW
+Generator.Nodes,Sandy Creek Solar Farm,Sydney West 330kV,New Solar NSW,NSW
+Generator.Nodes,Tallawang Solar,Sydney West 330kV,New Solar NSW,NSW
+Generator.Nodes,Tilbuster Solar Farm,Sydney West 330kV,New Solar NSW,NSW
+Generator.Nodes,Wattle Creek Energy Hub - Solar,Sydney West 330kV,New Solar NSW,NSW
+Generator.Nodes,Aramara Solar Farm,South Pine 275kV,New Solar QLD,QLD
+Generator.Nodes,Banksia Solar Farm,South Pine 275kV,New Solar QLD,QLD
+Generator.Nodes,Bullyard Solar Farm,South Pine 275kV,New Solar QLD,QLD
+Generator.Nodes,Fraser Coast Hybrid Plant,South Pine 275kV,New Solar QLD,QLD
+Generator.Nodes,Ganymirra Solar,South Pine 275kV,New Solar QLD,QLD
+Generator.Nodes,Guthries Gap Solar,South Pine 275kV,New Solar QLD,QLD
+Generator.Nodes,Haughton Solar Farm Stage 2,South Pine 275kV,New Solar QLD,QLD
+Generator.Nodes,Hopeland Solar Farm,South Pine 275kV,New Solar QLD,QLD
+Generator.Nodes,Lower Wonga Solar Farm and BESS Solar,South Pine 275kV,New Solar QLD,QLD
+Generator.Nodes,Majors Creek Solar,South Pine 275kV,New Solar QLD,QLD
+Generator.Nodes,Moranbah Solar Farm,South Pine 275kV,New Solar QLD,QLD
+Generator.Nodes,New Solar Farm QLD 1,South Pine 275kV,New Solar QLD,QLD
+Generator.Nodes,New Solar Farm QLD 2,South Pine 275kV,New Solar QLD,QLD
+Generator.Nodes,Punch and Creek Solar Farm 1,South Pine 275kV,New Solar QLD,QLD
+Generator.Nodes,Punch and Creek Solar Farm 2,South Pine 275kV,New Solar QLD,QLD
+Generator.Nodes,Smoky Creek Solar,South Pine 275kV,New Solar QLD,QLD
+Generator.Nodes,Tumuruu Solar Farm,South Pine 275kV,New Solar QLD,QLD
+Generator.Nodes,Bundey Solar,Torrens Island 66kV,New Solar SA,SA
+Generator.Nodes,New Solar Farm SA 1,Torrens Island 66kV,New Solar SA,SA
+Generator.Nodes,Solar River Solar Farm,Torrens Island 66kV,New Solar SA,SA
+Generator.Nodes,Vast Solar 1,Torrens Island 66kV,New Solar SA,SA
+Generator.Nodes,New Solar Farm TAS 1,Georgetown 220kV,New Solar TAS,TAS
+Generator.Nodes,Northern Midlands Solar Farm 1,Georgetown 220kV,New Solar TAS,TAS
+Generator.Nodes,Northern Midlands Solar Farm 2,Georgetown 220kV,New Solar TAS,TAS
+Generator.Nodes,Weasel Solar Farm,Georgetown 220kV,New Solar TAS,TAS
+Generator.Nodes,Axedale Solar Farm,Thomastown 66kV,New Solar VIC,VIC
+Generator.Nodes,Barnawartha Solar,Thomastown 66kV,New Solar VIC,VIC
+Generator.Nodes,Barwon Solar Farm,Thomastown 66kV,New Solar VIC,VIC
+Generator.Nodes,Campbells Forest Solar Farm,Thomastown 66kV,New Solar VIC,VIC
+Generator.Nodes,Derby Solar Farm,Thomastown 66kV,New Solar VIC,VIC
+Generator.Nodes,Elaine Solar Farm,Thomastown 66kV,New Solar VIC,VIC
+Generator.Nodes,Fosterville Solar Farm,Thomastown 66kV,New Solar VIC,VIC
+Generator.Nodes,Frasers Solar Farm,Thomastown 66kV,New Solar VIC,VIC
+Generator.Nodes,Fulham Solar Farm,Thomastown 66kV,New Solar VIC,VIC
+Generator.Nodes,Horsham Solar Farm,Thomastown 66kV,New Solar VIC,VIC
+Generator.Nodes,LANCSF1,Thomastown 66kV,New Solar VIC,VIC
+Generator.Nodes,Mortlake Energy Hub Solar,Thomastown 66kV,New Solar VIC,VIC
+Generator.Nodes,New Solar Farm VIC  1,Thomastown 66kV,New Solar VIC,VIC
+Generator.Nodes,New Solar Farm VIC  2,Thomastown 66kV,New Solar VIC,VIC
+Generator.Nodes,Nowingi Solar Farm (KCI),Thomastown 66kV,New Solar VIC,VIC
+Generator.Nodes,Ravenswood Solar,Thomastown 66kV,New Solar VIC,VIC
+Generator.Nodes,West Mokoan Solar Farm,Thomastown 66kV,New Solar VIC,VIC
+Generator.Nodes,Winton North Solar Farm,Thomastown 66kV,New Solar VIC,VIC
+Generator.Nodes,PV NSW,Sydney West 330kV,Rooftop PV,NSW
+Generator.Nodes,PV QLD,South Pine 275kV,Rooftop PV,QLD
+Generator.Nodes,PV SA,Torrens Island 66kV,Rooftop PV,SA
+Generator.Nodes,PV TAS (1),Georgetown 220kV,Rooftop PV,TAS
+Generator.Nodes,PV VIC,Thomastown 66kV,Rooftop PV,VIC
+Generator.Nodes,BASS Outage Dummy Gen,Georgetown 220kV,Dummy Generators,TAS
+Generator.Nodes,BCDU Reclass Outage Dummy Gen,Georgetown 220kV,Dummy Generators,TAS
+Generator.Nodes,BCDU SCC Outage Dummy Gen,Georgetown 220kV,Dummy Generators,TAS
+Generator.Nodes,HYSE Reclass Outage Dummy Gen,Georgetown 220kV,Dummy Generators,TAS
+Generator.Nodes,HYSE SCC Outage Dummy Gen,Georgetown 220kV,Dummy Generators,TAS
+Generator.Nodes,VSML SCC Outage Dummy Gen,Georgetown 220kV,Dummy Generators,TAS
+Generator.Nodes,Baroota Pumped Hydro Project,Torrens Island 66kV,Hydro SA,SA
+Generator.Nodes,CNSW HLoad_F,Sydney West 330kV,Electrolyser flexible load for Domestic as anti-generator,NSW
+Generator.Nodes,CQ HLoad_F,South Pine 275kV,Electrolyser flexible load for Domestic as anti-generator,QLD
+Generator.Nodes,CSA HLoad_F,Torrens Island 66kV,Electrolyser flexible load for Domestic as anti-generator,SA
+Generator.Nodes,GG HLoad_F,South Pine 275kV,Electrolyser flexible load for Domestic as anti-generator,QLD
+Generator.Nodes,MEL HLoad_F,Thomastown 66kV,Electrolyser flexible load for Domestic as anti-generator,VIC
+Generator.Nodes,NNSW HLoad_F,Sydney West 330kV,Electrolyser flexible load for Domestic as anti-generator,NSW
+Generator.Nodes,NQ HLoad_F,South Pine 275kV,Electrolyser flexible load for Domestic as anti-generator,QLD
+Generator.Nodes,NSA HLoad_F,Torrens Island 66kV,Electrolyser flexible load for Domestic as anti-generator,SA
+Generator.Nodes,SESA HLoad_F,Torrens Island 66kV,Electrolyser flexible load for Domestic as anti-generator,SA
+Generator.Nodes,SEV HLoad_F,Thomastown 66kV,Electrolyser flexible load for Domestic as anti-generator,VIC
+Generator.Nodes,SNSW HLoad_F,Sydney West 330kV,Electrolyser flexible load for Domestic as anti-generator,NSW
+Generator.Nodes,SNW HLoad_F,Sydney West 330kV,Electrolyser flexible load for Domestic as anti-generator,NSW
+Generator.Nodes,SQ HLoad_F,South Pine 275kV,Electrolyser flexible load for Domestic as anti-generator,QLD
+Generator.Nodes,TAS HLoad_F,Georgetown 220kV,Electrolyser flexible load for Domestic as anti-generator,TAS
+Generator.Nodes,WNV HLoad_F,Thomastown 66kV,Electrolyser flexible load for Domestic as anti-generator,VIC
+Generator.Nodes,CNSW HLoad_G,Sydney West 330kV,Electrolyser flexible load for Green Commodities as anti-generator,NSW
+Generator.Nodes,CQ HLoad_G,South Pine 275kV,Electrolyser flexible load for Green Commodities as anti-generator,QLD
+Generator.Nodes,CSA HLoad_G,Torrens Island 66kV,Electrolyser flexible load for Green Commodities as anti-generator,SA
+Generator.Nodes,GG HLoad_G,South Pine 275kV,Electrolyser flexible load for Green Commodities as anti-generator,QLD
+Generator.Nodes,MEL HLoad_G,Thomastown 66kV,Electrolyser flexible load for Green Commodities as anti-generator,VIC
+Generator.Nodes,NNSW HLoad_G,Sydney West 330kV,Electrolyser flexible load for Green Commodities as anti-generator,NSW
+Generator.Nodes,NQ HLoad_G,South Pine 275kV,Electrolyser flexible load for Green Commodities as anti-generator,QLD
+Generator.Nodes,NSA HLoad_G,Torrens Island 66kV,Electrolyser flexible load for Green Commodities as anti-generator,SA
+Generator.Nodes,SESA HLoad_G,Torrens Island 66kV,Electrolyser flexible load for Green Commodities as anti-generator,SA
+Generator.Nodes,SEV HLoad_G,Thomastown 66kV,Electrolyser flexible load for Green Commodities as anti-generator,VIC
+Generator.Nodes,SNSW HLoad_G,Sydney West 330kV,Electrolyser flexible load for Green Commodities as anti-generator,NSW
+Generator.Nodes,SNW HLoad_G,Sydney West 330kV,Electrolyser flexible load for Green Commodities as anti-generator,NSW
+Generator.Nodes,SQ HLoad_G,South Pine 275kV,Electrolyser flexible load for Green Commodities as anti-generator,QLD
+Generator.Nodes,TAS HLoad_G,Georgetown 220kV,Electrolyser flexible load for Green Commodities as anti-generator,TAS
+Generator.Nodes,WNV HLoad_G,Thomastown 66kV,Electrolyser flexible load for Green Commodities as anti-generator,VIC
+Battery.Nodes,BHB1,Sydney West 330kV,Large-Scale Battery NSW,NSW
+Battery.Nodes,CAPBES1,Sydney West 330kV,Large-Scale Battery NSW,NSW
+Battery.Nodes,DPNTB1,Sydney West 330kV,Large-Scale Battery NSW,NSW
+Battery.Nodes,ERB01,Sydney West 330kV,Large-Scale Battery NSW,NSW
+Battery.Nodes,LDBESS1,Sydney West 330kV,Large-Scale Battery NSW,NSW
+Battery.Nodes,LIMBESS1,Sydney West 330kV,Large-Scale Battery NSW,NSW
+Battery.Nodes,NESBESS1,Sydney West 330kV,Large-Scale Battery NSW,NSW
+Battery.Nodes,ORABESS1,Sydney West 330kV,Large-Scale Battery NSW,NSW
+Battery.Nodes,QBYNB1,Sydney West 330kV,Large-Scale Battery NSW,NSW
+Battery.Nodes,QPSFB2,Sydney West 330kV,Large-Scale Battery NSW,NSW
+Battery.Nodes,RESS1,Sydney West 330kV,Large-Scale Battery NSW,NSW
+Battery.Nodes,RIVNB2,Sydney West 330kV,Large-Scale Battery NSW,NSW
+Battery.Nodes,SMTHBES1,Sydney West 330kV,Large-Scale Battery NSW,NSW
+Battery.Nodes,WALGRV1,Sydney West 330kV,Large-Scale Battery NSW,NSW
+Battery.Nodes,WTAHB1,Sydney West 330kV,Large-Scale Battery NSW,NSW
+Battery.Nodes,BBATTERY1,South Pine 275kV,Large-Scale Battery QLD,QLD
+Battery.Nodes,BRNDBES1,South Pine 275kV,Large-Scale Battery QLD,QLD
+Battery.Nodes,CHBESS1,South Pine 275kV,Large-Scale Battery QLD,QLD
+Battery.Nodes,GREENB1,South Pine 275kV,Large-Scale Battery QLD,QLD
+Battery.Nodes,SNB01,South Pine 275kV,Large-Scale Battery QLD,QLD
+Battery.Nodes,SNB02,South Pine 275kV,Large-Scale Battery QLD,QLD
+Battery.Nodes,SWANBBF1,South Pine 275kV,Large-Scale Battery QLD,QLD
+Battery.Nodes,TARBESS1,South Pine 275kV,Large-Scale Battery QLD,QLD
+Battery.Nodes,ULPBESS1,South Pine 275kV,Large-Scale Battery QLD,QLD
+Battery.Nodes,WANDB1,South Pine 275kV,Large-Scale Battery QLD,QLD
+Battery.Nodes,WDBESS1,South Pine 275kV,Large-Scale Battery QLD,QLD
+Battery.Nodes,WDBESS2,South Pine 275kV,Large-Scale Battery QLD,QLD
+Battery.Nodes,ADPBA1,Torrens Island 66kV,Large-Scale Battery SA,SA
+Battery.Nodes,BLYTHB1,Torrens Island 66kV,Large-Scale Battery SA,SA
+Battery.Nodes,BOWWBA1,Torrens Island 66kV,Large-Scale Battery SA,SA
+Battery.Nodes,BUNGAMB1,Torrens Island 66kV,Large-Scale Battery SA,SA
+Battery.Nodes,CBWWBA1,Torrens Island 66kV,Large-Scale Battery SA,SA
+Battery.Nodes,CGBESS01,Torrens Island 66kV,Large-Scale Battery SA,SA
+Battery.Nodes,DALNTH1,Torrens Island 66kV,Large-Scale Battery SA,SA
+Battery.Nodes,HPR1,Torrens Island 66kV,Large-Scale Battery SA,SA
+Battery.Nodes,HVWWBA1,Torrens Island 66kV,Large-Scale Battery SA,SA
+Battery.Nodes,LBB1,Torrens Island 66kV,Large-Scale Battery SA,SA
+Battery.Nodes,MANNUMB1,Torrens Island 66kV,Large-Scale Battery SA,SA
+Battery.Nodes,TB2B1,Torrens Island 66kV,Large-Scale Battery SA,SA
+Battery.Nodes,TEMPB1,Torrens Island 66kV,Large-Scale Battery SA,SA
+Battery.Nodes,TIB1,Torrens Island 66kV,Large-Scale Battery SA,SA
+Battery.Nodes,BALB1,Thomastown 66kV,Large-Scale Battery VIC,VIC
+Battery.Nodes,BULBES1,Thomastown 66kV,Large-Scale Battery VIC,VIC
+Battery.Nodes,GANNB1,Thomastown 66kV,Large-Scale Battery VIC,VIC
+Battery.Nodes,HBESS1,Thomastown 66kV,Large-Scale Battery VIC,VIC
+Battery.Nodes,KESSB1,Thomastown 66kV,Large-Scale Battery VIC,VIC
+Battery.Nodes,LVES1,Thomastown 66kV,Large-Scale Battery VIC,VIC
+Battery.Nodes,MREHA1,Thomastown 66kV,Large-Scale Battery VIC,VIC
+Battery.Nodes,MREHA2,Thomastown 66kV,Large-Scale Battery VIC,VIC
+Battery.Nodes,MREHA3,Thomastown 66kV,Large-Scale Battery VIC,VIC
+Battery.Nodes,PIBESS1,Thomastown 66kV,Large-Scale Battery VIC,VIC
+Battery.Nodes,RANGEB1,Thomastown 66kV,Large-Scale Battery VIC,VIC
+Battery.Nodes,TRGBESS1,Thomastown 66kV,Large-Scale Battery VIC,VIC
+Battery.Nodes,VBB1,Thomastown 66kV,Large-Scale Battery VIC,VIC
+Battery.Nodes,CNSW V2G,Sydney West 330kV,V2G,NSW
+Battery.Nodes,CQ V2G,South Pine 275kV,V2G,QLD
+Battery.Nodes,CSA V2G,Torrens Island 66kV,V2G,SA
+Battery.Nodes,GG V2G,South Pine 275kV,V2G,QLD
+Battery.Nodes,MEL V2G,Thomastown 66kV,V2G,VIC
+Battery.Nodes,NNSW V2G,Sydney West 330kV,V2G,NSW
+Battery.Nodes,NQ V2G,South Pine 275kV,V2G,QLD
+Battery.Nodes,NSA V2G,Torrens Island 66kV,V2G,SA
+Battery.Nodes,SESA V2G,Torrens Island 66kV,V2G,SA
+Battery.Nodes,SEV V2G,Thomastown 66kV,V2G,VIC
+Battery.Nodes,SNSW V2G,Sydney West 330kV,V2G,NSW
+Battery.Nodes,SNW V2G,Sydney West 330kV,V2G,NSW
+Battery.Nodes,SQ V2G,South Pine 275kV,V2G,QLD
+Battery.Nodes,TAS V2G,Georgetown 220kV,V2G,TAS
+Battery.Nodes,WNV V2G,Thomastown 66kV,V2G,VIC
+Battery.Nodes,Armidale East BESS,Sydney West 330kV,NSW New BESS,NSW
+Battery.Nodes,Baldon Wind Farm BESS,Sydney West 330kV,NSW New BESS,NSW
+Battery.Nodes,Bannaby BESS,Sydney West 330kV,NSW New BESS,NSW
+Battery.Nodes,Barwon Solar Farm BESS,Sydney West 330kV,NSW New BESS,NSW
+Battery.Nodes,Bellambi Heights Renewables Project,Sydney West 330kV,NSW New BESS,NSW
+Battery.Nodes,Bendemeer BESS,Sydney West 330kV,NSW New BESS,NSW
+Battery.Nodes,Beresfield BESS,Sydney West 330kV,NSW New BESS,NSW
+Battery.Nodes,Birriwa BESS,Sydney West 330kV,NSW New BESS,NSW
+Battery.Nodes,Blind Creek Solar Farm BESS,Sydney West 330kV,NSW New BESS,NSW
+Battery.Nodes,Bowmans Creek BESS,Sydney West 330kV,NSW New BESS,NSW
+Battery.Nodes,Bulabul BESS 1,Sydney West 330kV,NSW New BESS,NSW
+Battery.Nodes,Bulabul BESS 2,Sydney West 330kV,NSW New BESS,NSW
+Battery.Nodes,Calala BESS A1,Sydney West 330kV,NSW New BESS,NSW
+Battery.Nodes,Calala BESS A2,Sydney West 330kV,NSW New BESS,NSW
+Battery.Nodes,Cobbora BESS,Sydney West 330kV,NSW New BESS,NSW
+Battery.Nodes,Coleambally BESS,Sydney West 330kV,NSW New BESS,NSW
+Battery.Nodes,Culcairn BESS,Sydney West 330kV,NSW New BESS,NSW
+Battery.Nodes,Dinawan BESS,Sydney West 330kV,NSW New BESS,NSW
+Battery.Nodes,Ebor BESS,Sydney West 330kV,NSW New BESS,NSW
+Battery.Nodes,Gelston Energy Park,Sydney West 330kV,NSW New BESS,NSW
+Battery.Nodes,Glanmire Solar Farm BESS,Sydney West 330kV,NSW New BESS,NSW
+Battery.Nodes,Goulburn River BESS,Sydney West 330kV,NSW New BESS,NSW
+Battery.Nodes,Goulburn River Solar Farm BESS,Sydney West 330kV,NSW New BESS,NSW
+Battery.Nodes,Great Western Battery,Sydney West 330kV,NSW New BESS,NSW
+Battery.Nodes,Griffith BESS,Sydney West 330kV,NSW New BESS,NSW
+Battery.Nodes,Gundary BESS,Sydney West 330kV,NSW New BESS,NSW
+Battery.Nodes,Gunning BESS,Sydney West 330kV,NSW New BESS,NSW
+Battery.Nodes,Junction Rivers BESS,Sydney West 330kV,NSW New BESS,NSW
+Battery.Nodes,Kayuga BESS,Sydney West 330kV,NSW New BESS,NSW
+Battery.Nodes,Kingswood BESS,Sydney West 330kV,NSW New BESS,NSW
+Battery.Nodes,Lockhart Hybrid Facility - Battery,Sydney West 330kV,NSW New BESS,NSW
+Battery.Nodes,Marulan BESS,Sydney West 330kV,NSW New BESS,NSW
+Battery.Nodes,Maryvale BESS,Sydney West 330kV,NSW New BESS,NSW
+Battery.Nodes,Merino BESS,Sydney West 330kV,NSW New BESS,NSW
+Battery.Nodes,Middlebrook Solar And BESS,Sydney West 330kV,NSW New BESS,NSW
+Battery.Nodes,Mt Piper BESS,Sydney West 330kV,NSW New BESS,NSW
+Battery.Nodes,MUGGALB1,Sydney West 330kV,NSW New BESS,NSW
+Battery.Nodes,MUGGALB2,Sydney West 330kV,NSW New BESS,NSW
+Battery.Nodes,Muswellbrook BESS,Sydney West 330kV,NSW New BESS,NSW
+Battery.Nodes,NESBESS2,Sydney West 330kV,NSW New BESS,NSW
+Battery.Nodes,New England 2 Hybrid DUID 1 BESS,Sydney West 330kV,NSW New BESS,NSW
+Battery.Nodes,New England 2 Hybrid DUID 2 BESS,Sydney West 330kV,NSW New BESS,NSW
+Battery.Nodes,Richmond Valley BESS,Sydney West 330kV,NSW New BESS,NSW
+Battery.Nodes,Ridgey Creek BESS,Sydney West 330kV,NSW New BESS,NSW
+Battery.Nodes,Silver City Energy Storage,Sydney West 330kV,NSW New BESS,NSW
+Battery.Nodes,Stoney Creek BESS,Sydney West 330kV,NSW New BESS,NSW
+Battery.Nodes,Swallow Tail BESS,Sydney West 330kV,NSW New BESS,NSW
+Battery.Nodes,Talbingo BESS,Sydney West 330kV,NSW New BESS,NSW
+Battery.Nodes,Tallawang BESS,Sydney West 330kV,NSW New BESS,NSW
+Battery.Nodes,Tamworth BESS1,Sydney West 330kV,NSW New BESS,NSW
+Battery.Nodes,Tamworth BESS2,Sydney West 330kV,NSW New BESS,NSW
+Battery.Nodes,Tomago BESS,Sydney West 330kV,NSW New BESS,NSW
+Battery.Nodes,Wagga North BESS - KCI,Sydney West 330kV,NSW New BESS,NSW
+Battery.Nodes,Wattle Creek Energy Hub - BESS,Sydney West 330kV,NSW New BESS,NSW
+Battery.Nodes,Williamsdale BESS,Sydney West 330kV,NSW New BESS,NSW
+Battery.Nodes,Yanco BESS,Sydney West 330kV,NSW New BESS,NSW
+Battery.Nodes,Aldoga BESS Stage 1,South Pine 275kV,QLD New BESS,QLD
+Battery.Nodes,Blackstone BESS,South Pine 275kV,QLD New BESS,QLD
+Battery.Nodes,Blackstone BESS 2 - KCI,South Pine 275kV,QLD New BESS,QLD
+Battery.Nodes,BRDDBES1,South Pine 275kV,QLD New BESS,QLD
+Battery.Nodes,Bungaban BESS,South Pine 275kV,QLD New BESS,QLD
+Battery.Nodes,Byellee BESS,South Pine 275kV,QLD New BESS,QLD
+Battery.Nodes,Capricorn BESS,South Pine 275kV,QLD New BESS,QLD
+Battery.Nodes,Cattle Creek Wind Farm BESS,South Pine 275kV,QLD New BESS,QLD
+Battery.Nodes,Fraser Coast BESS,South Pine 275kV,QLD New BESS,QLD
+Battery.Nodes,Ganymirra BESS,South Pine 275kV,QLD New BESS,QLD
+Battery.Nodes,Gawara Baya BESS,South Pine 275kV,QLD New BESS,QLD
+Battery.Nodes,Grahams Battery,South Pine 275kV,QLD New BESS,QLD
+Battery.Nodes,Guthries Gap BESS,South Pine 275kV,QLD New BESS,QLD
+Battery.Nodes,Lower Wonga BESS,South Pine 275kV,QLD New BESS,QLD
+Battery.Nodes,Lower Wonga Solar Farm and BESS BESS,South Pine 275kV,QLD New BESS,QLD
+Battery.Nodes,Majors Creek BESS,South Pine 275kV,QLD New BESS,QLD
+Battery.Nodes,Moranbah BESS,South Pine 275kV,QLD New BESS,QLD
+Battery.Nodes,Mt Fox BESS - ARENA,South Pine 275kV,QLD New BESS,QLD
+Battery.Nodes,Noblevale BESS (KCI),South Pine 275kV,QLD New BESS,QLD
+Battery.Nodes,Oaky Creek BESS,South Pine 275kV,QLD New BESS,QLD
+Battery.Nodes,Punchs Creek (Milmerran) BESS - New,South Pine 275kV,QLD New BESS,QLD
+Battery.Nodes,Rutherglen Battery,South Pine 275kV,QLD New BESS,QLD
+Battery.Nodes,Smoky Creek BESS,South Pine 275kV,QLD New BESS,QLD
+Battery.Nodes,Stanwell BESS,South Pine 275kV,QLD New BESS,QLD
+Battery.Nodes,Supernode BESS - Stage 3,South Pine 275kV,QLD New BESS,QLD
+Battery.Nodes,Teebar Creek Battery Storage - KCI,South Pine 275kV,QLD New BESS,QLD
+Battery.Nodes,Tumuruu BESS,South Pine 275kV,QLD New BESS,QLD
+Battery.Nodes,Ulinda Park BESS Expansion,South Pine 275kV,QLD New BESS,QLD
+Battery.Nodes,WOOLES1,South Pine 275kV,QLD New BESS,QLD
+Battery.Nodes,Woonga Creek BESS,South Pine 275kV,QLD New BESS,QLD
+Battery.Nodes,Yabulu BESS,South Pine 275kV,QLD New BESS,QLD
+Battery.Nodes,Blacktop BESS,Torrens Island 66kV,SA New BESS,SA
+Battery.Nodes,Blanche BESS,Torrens Island 66kV,SA New BESS,SA
+Battery.Nodes,Brinkworth BESS,Torrens Island 66kV,SA New BESS,SA
+Battery.Nodes,Bundey BESS,Torrens Island 66kV,SA New BESS,SA
+Battery.Nodes,Bungama BESS (Risen),Torrens Island 66kV,SA New BESS,SA
+Battery.Nodes,Carmodys Hill BESS,Torrens Island 66kV,SA New BESS,SA
+Battery.Nodes,Dartmoor BESS,Torrens Island 66kV,SA New BESS,SA
+Battery.Nodes,Emeroo BESS,Torrens Island 66kV,SA New BESS,SA
+Battery.Nodes,Goyder BESS Stage 1,Torrens Island 66kV,SA New BESS,SA
+Battery.Nodes,Goyder BESS Stage 2,Torrens Island 66kV,SA New BESS,SA
+Battery.Nodes,Hallett BESS,Torrens Island 66kV,SA New BESS,SA
+Battery.Nodes,Koolunga Battery Energy Storage System,Torrens Island 66kV,SA New BESS,SA
+Battery.Nodes,LGAPBS1,Torrens Island 66kV,SA New BESS,SA
+Battery.Nodes,Limestone Coast West BESS,Torrens Island 66kV,SA New BESS,SA
+Battery.Nodes,Lindley BESS,Torrens Island 66kV,SA New BESS,SA
+Battery.Nodes,Northern Battery,Torrens Island 66kV,SA New BESS,SA
+Battery.Nodes,Pelican Point BESS,Torrens Island 66kV,SA New BESS,SA
+Battery.Nodes,Reeves Plains Power Station BESS,Torrens Island 66kV,SA New BESS,SA
+Battery.Nodes,Riverland BESS,Torrens Island 66kV,SA New BESS,SA
+Battery.Nodes,Solar River BESS,Torrens Island 66kV,SA New BESS,SA
+Battery.Nodes,Summerfield BESS 1,Torrens Island 66kV,SA New BESS,SA
+Battery.Nodes,Summerfield BESS 2,Torrens Island 66kV,SA New BESS,SA
+Battery.Nodes,Tailem Bend Stage 3,Torrens Island 66kV,SA New BESS,SA
+Battery.Nodes,Tungkillo BESS,Torrens Island 66kV,SA New BESS,SA
+Battery.Nodes,Axedale Solar Farm BESS,Thomastown 66kV,VIC New BESS,VIC
+Battery.Nodes,Baranduda Electrical Energy Reserve,Thomastown 66kV,VIC New BESS,VIC
+Battery.Nodes,Barnawartha BESS,Thomastown 66kV,VIC New BESS,VIC
+Battery.Nodes,Bennetts Creek BESS,Thomastown 66kV,VIC New BESS,VIC
+Battery.Nodes,Corop BESS,Thomastown 66kV,VIC New BESS,VIC
+Battery.Nodes,Deer Park BESS - Akaysha,Thomastown 66kV,VIC New BESS,VIC
+Battery.Nodes,Derby BESS,Thomastown 66kV,VIC New BESS,VIC
+Battery.Nodes,Elaine BESS,Thomastown 66kV,VIC New BESS,VIC
+Battery.Nodes,Elaine Solar Farm BESS,Thomastown 66kV,VIC New BESS,VIC
+Battery.Nodes,Fosterville Solar Farm BESS,Thomastown 66kV,VIC New BESS,VIC
+Battery.Nodes,Fulham Solar Farm BESS,Thomastown 66kV,VIC New BESS,VIC
+Battery.Nodes,Gnarwarre BESS,Thomastown 66kV,VIC New BESS,VIC
+Battery.Nodes,Golden Plains BESS,Thomastown 66kV,VIC New BESS,VIC
+Battery.Nodes,Horsham BESS,Thomastown 66kV,VIC New BESS,VIC
+Battery.Nodes,Joel Joel BESS,Thomastown 66kV,VIC New BESS,VIC
+Battery.Nodes,Kerang Hybrid BESS,Thomastown 66kV,VIC New BESS,VIC
+Battery.Nodes,Kiamal BESS,Thomastown 66kV,VIC New BESS,VIC
+Battery.Nodes,Little River BESS,Thomastown 66kV,VIC New BESS,VIC
+Battery.Nodes,Melbourne Renewable Energy Hub Side B,Thomastown 66kV,VIC New BESS,VIC
+Battery.Nodes,MLB01,Thomastown 66kV,VIC New BESS,VIC
+Battery.Nodes,Moorabool BESS,Thomastown 66kV,VIC New BESS,VIC
+Battery.Nodes,Mortlake Energy Hub BESS,Thomastown 66kV,VIC New BESS,VIC
+Battery.Nodes,MRNBESS1,Thomastown 66kV,VIC New BESS,VIC
+Battery.Nodes,Nowingi BESS (KCI),Thomastown 66kV,VIC New BESS,VIC
+Battery.Nodes,Pine Lodge BESS,Thomastown 66kV,VIC New BESS,VIC
+Battery.Nodes,Ravenswood BESS,Thomastown 66kV,VIC New BESS,VIC
+Battery.Nodes,Springvale Energy Hub,Thomastown 66kV,VIC New BESS,VIC
+Battery.Nodes,West Mokoan BESS,Thomastown 66kV,VIC New BESS,VIC
+Battery.Nodes,Wimpole BESS,Thomastown 66kV,VIC New BESS,VIC
+Battery.Nodes,Wooreen Energy Storage System,Thomastown 66kV,VIC New BESS,VIC
+Battery.Nodes,Palmerston BESS (Akaysha),Georgetown 220kV,TAS New BESS,TAS
+Battery.Nodes,CNSW Battery - Coordinated CER Storages,Sydney West 330kV,Coordinated CER Storage,NSW
+Battery.Nodes,CQ Battery - Coordinated CER Storages,South Pine 275kV,Coordinated CER Storage,QLD
+Battery.Nodes,CSA Battery - Coordinated CER Storages,Torrens Island 66kV,Coordinated CER Storage,SA
+Battery.Nodes,GG Battery - Coordinated CER Storages,South Pine 275kV,Coordinated CER Storage,QLD
+Battery.Nodes,MEL Battery - Coordinated CER Storages,Thomastown 66kV,Coordinated CER Storage,VIC
+Battery.Nodes,NNSW Battery - Coordinated CER Storages,Sydney West 330kV,Coordinated CER Storage,NSW
+Battery.Nodes,NQ Battery - Coordinated CER Storages,South Pine 275kV,Coordinated CER Storage,QLD
+Battery.Nodes,NSA Battery - Coordinated CER Storages,Torrens Island 66kV,Coordinated CER Storage,SA
+Battery.Nodes,SESA Battery - Coordinated CER Storages,Torrens Island 66kV,Coordinated CER Storage,SA
+Battery.Nodes,SEV Battery - Coordinated CER Storages,Thomastown 66kV,Coordinated CER Storage,VIC
+Battery.Nodes,SNSW Battery - Coordinated CER Storages,Sydney West 330kV,Coordinated CER Storage,NSW
+Battery.Nodes,SNW Battery - Coordinated CER Storages,Sydney West 330kV,Coordinated CER Storage,NSW
+Battery.Nodes,SQ Battery - Coordinated CER Storages,South Pine 275kV,Coordinated CER Storage,QLD
+Battery.Nodes,TAS Battery - Coordinated CER Storages,Georgetown 220kV,Coordinated CER Storage,TAS
+Battery.Nodes,WNV Battery - Coordinated CER Storages,Sydney West 330kV,Coordinated CER Storage,NSW

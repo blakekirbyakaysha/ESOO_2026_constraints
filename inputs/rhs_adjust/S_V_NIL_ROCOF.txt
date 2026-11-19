@@ -1,0 +1,6 @@
+Collection	Parent Object	Child Object	Property	Value	Data File	Units	Band	Date From	Date To	Timeslice	Action	Expression	Scenario	Memo	Category
+"Constraints"	"NEM"	"S_V_NIL_ROCOF"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"Grp0"	"="	"1 3 MUL ADD
+Var_X-SA_INERT_ST{0} MUL 100 MUL
+1 MUL 0.04 MUL
+1 24 MUL ADD
+"	""	""	"NetworkConstraints"

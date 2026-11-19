@@ -1,0 +1,109 @@
+Collection	Parent Object	Child Object	Property	Value	Data File	Units	Band	Date From	Date To	Timeslice	Action	Expression	Scenario	Memo	Category
+"Constraints"	"NEM"	"S:VS_800"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"Grp0"	"="	"1 800 MUL ADD
+Var_S:VS_800_G_2{0} 0.1082 MUL ADD
+Var_S:VS_800_G_5{0} -0.0204 MUL ADD
+Var_S:VS_800_G_8{0} -0.04378 MUL ADD
+Var_X_SA_OLYMPICDAM_LOAD{0} -0.02823 MUL ADD
+1 -40.45 MUL ADD
+1 -25 MUL ADD
+1 110 MUL ADD
+"	""	""	"NetworkConstraints"
+"Constraints"	"NEM"	"S:VS_800"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"Grp1"	"="	"1 800 MUL ADD
+Var_S:VS_800_G_2{0} 0.1082 MUL ADD
+Var_S:VS_800_G_5{0} -0.0204 MUL ADD
+Var_S:VS_800_G_8{0} -0.04378 MUL ADD
+Var_X_SA_OLYMPICDAM_LOAD{0} -0.02823 MUL ADD
+1 -40.45 MUL ADD
+1 -25 MUL ADD
+1 110 MUL ADD
+"	""	""	"NetworkConstraints"
+"Constraints"	"NEM"	"S:VS_800"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"Grp10"	"="	"1 800 MUL ADD
+Var_S:VS_800_G_2{0} 0.1082 MUL ADD
+Var_S:VS_800_G_5{0} -0.0204 MUL ADD
+Var_S:VS_800_G_8{0} -0.04378 MUL ADD
+Var_X_SA_OLYMPICDAM_LOAD{0} -0.02823 MUL ADD
+1 -40.45 MUL ADD
+1 -25 MUL ADD
+1 110 MUL ADD
+"	""	""	"NetworkConstraints"
+"Constraints"	"NEM"	"S:VS_800"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"Grp11"	"="	"1 800 MUL ADD
+Var_S:VS_800_G_2{0} 0.1082 MUL ADD
+Var_S:VS_800_G_5{0} -0.0204 MUL ADD
+Var_S:VS_800_G_8{0} -0.04378 MUL ADD
+Var_X_SA_OLYMPICDAM_LOAD{0} -0.02823 MUL ADD
+1 -40.45 MUL ADD
+1 -25 MUL ADD
+1 110 MUL ADD
+"	""	""	"NetworkConstraints"
+"Constraints"	"NEM"	"S:VS_800"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"Grp2"	"="	"1 800 MUL ADD
+Var_S:VS_800_G_2{0} 0.1082 MUL ADD
+Var_S:VS_800_G_5{0} -0.0204 MUL ADD
+Var_S:VS_800_G_8{0} -0.04378 MUL ADD
+Var_X_SA_OLYMPICDAM_LOAD{0} -0.02823 MUL ADD
+1 -40.45 MUL ADD
+1 -25 MUL ADD
+1 110 MUL ADD
+"	""	""	"NetworkConstraints"
+"Constraints"	"NEM"	"S:VS_800"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"Grp3"	"="	"1 800 MUL ADD
+Var_S:VS_800_G_2{0} 0.1082 MUL ADD
+Var_S:VS_800_G_5{0} -0.0204 MUL ADD
+Var_S:VS_800_G_8{0} -0.04378 MUL ADD
+Var_X_SA_OLYMPICDAM_LOAD{0} -0.02823 MUL ADD
+1 -40.45 MUL ADD
+1 -25 MUL ADD
+1 110 MUL ADD
+"	""	""	"NetworkConstraints"
+"Constraints"	"NEM"	"S:VS_800"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"Grp4"	"="	"1 800 MUL ADD
+Var_S:VS_800_G_2{0} 0.1082 MUL ADD
+Var_S:VS_800_G_5{0} -0.0204 MUL ADD
+Var_S:VS_800_G_8{0} -0.04378 MUL ADD
+Var_X_SA_OLYMPICDAM_LOAD{0} -0.02823 MUL ADD
+1 -40.45 MUL ADD
+1 -25 MUL ADD
+1 110 MUL ADD
+"	""	""	"NetworkConstraints"
+"Constraints"	"NEM"	"S:VS_800"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"Grp5"	"="	"1 800 MUL ADD
+Var_S:VS_800_G_2{0} 0.1082 MUL ADD
+Var_S:VS_800_G_5{0} -0.0204 MUL ADD
+Var_S:VS_800_G_8{0} -0.04378 MUL ADD
+Var_X_SA_OLYMPICDAM_LOAD{0} -0.02823 MUL ADD
+1 -40.45 MUL ADD
+1 -25 MUL ADD
+1 110 MUL ADD
+"	""	""	"NetworkConstraints"
+"Constraints"	"NEM"	"S:VS_800"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"Grp6"	"="	"1 800 MUL ADD
+Var_S:VS_800_G_2{0} 0.1082 MUL ADD
+Var_S:VS_800_G_5{0} -0.0204 MUL ADD
+Var_S:VS_800_G_8{0} -0.04378 MUL ADD
+Var_X_SA_OLYMPICDAM_LOAD{0} -0.02823 MUL ADD
+1 -40.45 MUL ADD
+1 -25 MUL ADD
+1 110 MUL ADD
+"	""	""	"NetworkConstraints"
+"Constraints"	"NEM"	"S:VS_800"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"Grp7"	"="	"1 800 MUL ADD
+Var_S:VS_800_G_2{0} 0.1082 MUL ADD
+Var_S:VS_800_G_5{0} -0.0204 MUL ADD
+Var_S:VS_800_G_8{0} -0.04378 MUL ADD
+Var_X_SA_OLYMPICDAM_LOAD{0} -0.02823 MUL ADD
+1 -40.45 MUL ADD
+1 -25 MUL ADD
+1 110 MUL ADD
+"	""	""	"NetworkConstraints"
+"Constraints"	"NEM"	"S:VS_800"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"Grp8"	"="	"1 800 MUL ADD
+Var_S:VS_800_G_2{0} 0.1082 MUL ADD
+Var_S:VS_800_G_5{0} -0.0204 MUL ADD
+Var_S:VS_800_G_8{0} -0.04378 MUL ADD
+Var_X_SA_OLYMPICDAM_LOAD{0} -0.02823 MUL ADD
+1 -40.45 MUL ADD
+1 -25 MUL ADD
+1 110 MUL ADD
+"	""	""	"NetworkConstraints"
+"Constraints"	"NEM"	"S:VS_800"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"Grp9"	"="	"1 800 MUL ADD
+Var_S:VS_800_G_2{0} 0.1082 MUL ADD
+Var_S:VS_800_G_5{0} -0.0204 MUL ADD
+Var_S:VS_800_G_8{0} -0.04378 MUL ADD
+Var_X_SA_OLYMPICDAM_LOAD{0} -0.02823 MUL ADD
+1 -40.45 MUL ADD
+1 -25 MUL ADD
+1 110 MUL ADD
+"	""	""	"NetworkConstraints"

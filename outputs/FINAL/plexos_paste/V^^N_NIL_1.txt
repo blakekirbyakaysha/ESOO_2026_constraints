@@ -1,0 +1,1146 @@
+Collection	Parent Object	Child Object	Property	Value	Data File	Units	Band	Date From	Date To	Timeslice	Action	Expression	Scenario	Memo	Category
+"Constraints"	"NEM"	"V^^N_NIL_1"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"Grp0"	"="	"1 1500 MUL ADD
+Var_V^^N_NIL_1_G_2{0} -0.9245 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 -113 MUL ADD
+GenLoad_BLOWERNG -0.051 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+Var_V^^N_NIL_1_G_14{0} -0.051 MUL ADD
+Var_V^^N_NIL_1_G_23{0} -0.051 MUL ADD
+Var_V^^N_NIL_1_G_45{0} -0.051 MUL ADD
+GenLoad_TALWA1 -0.051 MUL ADD
+1 0 MUL ADD
+GenLoad_BANGOWF1 -0.062 MUL ADD
+""GenLoad_Coppabella Hybrid Generator"" -0.062 MUL ADD
+GenLoad_BANGOWF2 -0.062 MUL ADD
+GenLoad_BOCORWF1 -0.062 MUL ADD
+GenLoad_CAPTL_WF -0.062 MUL ADD
+BatDChg_MUGGALB1 -0.062 MUL ADD
+BatChrg_MUGGALB1 0.062 MUL ADD
+BatDChg_MUGGALB2 -0.062 MUL ADD
+BatChrg_MUGGALB2 0.062 MUL ADD
+GenLoad_COLWF01 -0.062 MUL ADD
+""BatDChg_Merino BESS"" -0.062 MUL ADD
+""BatChrg_Merino BESS"" 0.062 MUL ADD
+""GenLoad_Merino Solar"" -0.062 MUL ADD
+""BatDChg_Gundary BESS"" -0.062 MUL ADD
+""BatChrg_Gundary BESS"" 0.062 MUL ADD
+""GenLoad_Gundary Solar Farm"" -0.062 MUL ADD
+GenLoad_CROOKWF2 -0.062 MUL ADD
+GenLoad_CROOKWF3 -0.062 MUL ADD
+GenLoad_GULLRWF1 -0.062 MUL ADD
+GenLoad_RYEPARK1 -0.062 MUL ADD
+GenLoad_GULLRWF2 -0.062 MUL ADD
+GenLoad_CULLRGWF -0.062 MUL ADD
+GenLoad_GULLRSF1 -0.062 MUL ADD
+""BatDChg_Blind Creek Solar Farm BESS"" -0.062 MUL ADD
+""BatChrg_Blind Creek Solar Farm BESS"" 0.062 MUL ADD
+""GenLoad_Blind Creek Solar Farm"" -0.062 MUL ADD
+GenLoad_GUNNING1 -0.062 MUL ADD
+""BatDChg_Gunning BESS"" -0.062 MUL ADD
+""BatChrg_Gunning BESS"" 0.062 MUL ADD
+""GenLoad_Gunning Solar Farm"" -0.062 MUL ADD
+GenLoad_TARALGA1 -0.062 MUL ADD
+BatDChg_2Marulan330 -0.062 MUL ADD
+BatChrg_2Marulan330 0.062 MUL ADD
+""BatDChg_Bannaby BESS"" -0.062 MUL ADD
+""BatChrg_Bannaby BESS"" 0.062 MUL ADD
+""BatDChg_Marulan BESS"" -0.062 MUL ADD
+""BatChrg_Marulan BESS"" 0.062 MUL ADD
+""BatDChg_Swallow Tail BESS"" -0.062 MUL ADD
+""BatChrg_Swallow Tail BESS"" 0.062 MUL ADD
+""GenLoad_2Marulan330 Solar"" -0.062 MUL ADD
+""GenLoad_2Marulan330 Wind"" -0.062 MUL ADD
+""GenLoad_Marulan Solar Farm"" -0.062 MUL ADD
+""BatDChg_Wattle Creek Energy Hub - BESS"" -0.062 MUL ADD
+""BatChrg_Wattle Creek Energy Hub - BESS"" 0.062 MUL ADD
+""GenLoad_Wattle Creek Energy Hub - Solar"" -0.062 MUL ADD
+GenLoad_WLWLSF1 -0.062 MUL ADD
+""BatDChg_Culcairn BESS"" -0.062 MUL ADD
+""BatChrg_Culcairn BESS"" 0.062 MUL ADD
+1 0 MUL ADD
+GenLoad_WOODLWN1 -0.062 MUL ADD
+1 -38 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 1.1154 MUL ADD
+1 5.577 MUL ADD
+1 5.577 MUL ADD
+1 5.577 MUL ADD
+1 5.577 MUL ADD
+1 7.0642 MUL ADD
+1 7.0642 MUL ADD
+1 4.6475 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 9.295 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 -110 MUL ADD
+1 -50 MUL ADD
+1 -45 MUL ADD
+
+"	""	""	"NetworkConstraints"
+"Constraints"	"NEM"	"V^^N_NIL_1"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"Grp1"	"="	"1 1500 MUL ADD
+Var_V^^N_NIL_1_G_2{0} -0.9245 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 -113 MUL ADD
+GenLoad_BLOWERNG -0.051 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+Var_V^^N_NIL_1_G_14{0} -0.051 MUL ADD
+Var_V^^N_NIL_1_G_23{0} -0.051 MUL ADD
+Var_V^^N_NIL_1_G_45{0} -0.051 MUL ADD
+GenLoad_TALWA1 -0.051 MUL ADD
+1 0 MUL ADD
+GenLoad_BANGOWF1 -0.062 MUL ADD
+""GenLoad_Coppabella Hybrid Generator"" -0.062 MUL ADD
+GenLoad_BANGOWF2 -0.062 MUL ADD
+GenLoad_BOCORWF1 -0.062 MUL ADD
+GenLoad_CAPTL_WF -0.062 MUL ADD
+BatDChg_MUGGALB1 -0.062 MUL ADD
+BatChrg_MUGGALB1 0.062 MUL ADD
+BatDChg_MUGGALB2 -0.062 MUL ADD
+BatChrg_MUGGALB2 0.062 MUL ADD
+GenLoad_COLWF01 -0.062 MUL ADD
+""BatDChg_Merino BESS"" -0.062 MUL ADD
+""BatChrg_Merino BESS"" 0.062 MUL ADD
+""GenLoad_Merino Solar"" -0.062 MUL ADD
+""BatDChg_Gundary BESS"" -0.062 MUL ADD
+""BatChrg_Gundary BESS"" 0.062 MUL ADD
+""GenLoad_Gundary Solar Farm"" -0.062 MUL ADD
+GenLoad_CROOKWF2 -0.062 MUL ADD
+GenLoad_CROOKWF3 -0.062 MUL ADD
+GenLoad_GULLRWF1 -0.062 MUL ADD
+GenLoad_RYEPARK1 -0.062 MUL ADD
+GenLoad_GULLRWF2 -0.062 MUL ADD
+GenLoad_CULLRGWF -0.062 MUL ADD
+GenLoad_GULLRSF1 -0.062 MUL ADD
+""BatDChg_Blind Creek Solar Farm BESS"" -0.062 MUL ADD
+""BatChrg_Blind Creek Solar Farm BESS"" 0.062 MUL ADD
+""GenLoad_Blind Creek Solar Farm"" -0.062 MUL ADD
+GenLoad_GUNNING1 -0.062 MUL ADD
+""BatDChg_Gunning BESS"" -0.062 MUL ADD
+""BatChrg_Gunning BESS"" 0.062 MUL ADD
+""GenLoad_Gunning Solar Farm"" -0.062 MUL ADD
+GenLoad_TARALGA1 -0.062 MUL ADD
+BatDChg_2Marulan330 -0.062 MUL ADD
+BatChrg_2Marulan330 0.062 MUL ADD
+""BatDChg_Bannaby BESS"" -0.062 MUL ADD
+""BatChrg_Bannaby BESS"" 0.062 MUL ADD
+""BatDChg_Marulan BESS"" -0.062 MUL ADD
+""BatChrg_Marulan BESS"" 0.062 MUL ADD
+""BatDChg_Swallow Tail BESS"" -0.062 MUL ADD
+""BatChrg_Swallow Tail BESS"" 0.062 MUL ADD
+""GenLoad_2Marulan330 Solar"" -0.062 MUL ADD
+""GenLoad_2Marulan330 Wind"" -0.062 MUL ADD
+""GenLoad_Marulan Solar Farm"" -0.062 MUL ADD
+""BatDChg_Wattle Creek Energy Hub - BESS"" -0.062 MUL ADD
+""BatChrg_Wattle Creek Energy Hub - BESS"" 0.062 MUL ADD
+""GenLoad_Wattle Creek Energy Hub - Solar"" -0.062 MUL ADD
+GenLoad_WLWLSF1 -0.062 MUL ADD
+""BatDChg_Culcairn BESS"" -0.062 MUL ADD
+""BatChrg_Culcairn BESS"" 0.062 MUL ADD
+1 0 MUL ADD
+GenLoad_WOODLWN1 -0.062 MUL ADD
+1 -38 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 1.1154 MUL ADD
+1 5.577 MUL ADD
+1 5.577 MUL ADD
+1 5.577 MUL ADD
+1 5.577 MUL ADD
+1 7.0642 MUL ADD
+1 7.0642 MUL ADD
+1 4.6475 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 9.295 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 -110 MUL ADD
+1 -50 MUL ADD
+
+1 91 MUL ADD
+1 -45 MUL ADD
+"	""	""	"NetworkConstraints"
+"Constraints"	"NEM"	"V^^N_NIL_1"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"Grp10"	"="	"1 1500 MUL ADD
+Var_V^^N_NIL_1_G_2{0} -0.9245 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 -113 MUL ADD
+GenLoad_BLOWERNG -0.051 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+Var_V^^N_NIL_1_G_14{0} -0.051 MUL ADD
+Var_V^^N_NIL_1_G_23{0} -0.051 MUL ADD
+Var_V^^N_NIL_1_G_45{0} -0.051 MUL ADD
+GenLoad_TALWA1 -0.051 MUL ADD
+1 0 MUL ADD
+GenLoad_BANGOWF1 -0.062 MUL ADD
+""GenLoad_Coppabella Hybrid Generator"" -0.062 MUL ADD
+GenLoad_BANGOWF2 -0.062 MUL ADD
+GenLoad_BOCORWF1 -0.062 MUL ADD
+GenLoad_CAPTL_WF -0.062 MUL ADD
+BatDChg_MUGGALB1 -0.062 MUL ADD
+BatChrg_MUGGALB1 0.062 MUL ADD
+BatDChg_MUGGALB2 -0.062 MUL ADD
+BatChrg_MUGGALB2 0.062 MUL ADD
+GenLoad_COLWF01 -0.062 MUL ADD
+""BatDChg_Merino BESS"" -0.062 MUL ADD
+""BatChrg_Merino BESS"" 0.062 MUL ADD
+""GenLoad_Merino Solar"" -0.062 MUL ADD
+""BatDChg_Gundary BESS"" -0.062 MUL ADD
+""BatChrg_Gundary BESS"" 0.062 MUL ADD
+""GenLoad_Gundary Solar Farm"" -0.062 MUL ADD
+GenLoad_CROOKWF2 -0.062 MUL ADD
+GenLoad_CROOKWF3 -0.062 MUL ADD
+GenLoad_GULLRWF1 -0.062 MUL ADD
+GenLoad_RYEPARK1 -0.062 MUL ADD
+GenLoad_GULLRWF2 -0.062 MUL ADD
+GenLoad_CULLRGWF -0.062 MUL ADD
+GenLoad_GULLRSF1 -0.062 MUL ADD
+""BatDChg_Blind Creek Solar Farm BESS"" -0.062 MUL ADD
+""BatChrg_Blind Creek Solar Farm BESS"" 0.062 MUL ADD
+""GenLoad_Blind Creek Solar Farm"" -0.062 MUL ADD
+GenLoad_GUNNING1 -0.062 MUL ADD
+""BatDChg_Gunning BESS"" -0.062 MUL ADD
+""BatChrg_Gunning BESS"" 0.062 MUL ADD
+""GenLoad_Gunning Solar Farm"" -0.062 MUL ADD
+GenLoad_TARALGA1 -0.062 MUL ADD
+BatDChg_2Marulan330 -0.062 MUL ADD
+BatChrg_2Marulan330 0.062 MUL ADD
+""BatDChg_Bannaby BESS"" -0.062 MUL ADD
+""BatChrg_Bannaby BESS"" 0.062 MUL ADD
+""BatDChg_Marulan BESS"" -0.062 MUL ADD
+""BatChrg_Marulan BESS"" 0.062 MUL ADD
+""BatDChg_Swallow Tail BESS"" -0.062 MUL ADD
+""BatChrg_Swallow Tail BESS"" 0.062 MUL ADD
+""GenLoad_2Marulan330 Solar"" -0.062 MUL ADD
+""GenLoad_2Marulan330 Wind"" -0.062 MUL ADD
+""GenLoad_Marulan Solar Farm"" -0.062 MUL ADD
+""BatDChg_Wattle Creek Energy Hub - BESS"" -0.062 MUL ADD
+""BatChrg_Wattle Creek Energy Hub - BESS"" 0.062 MUL ADD
+""GenLoad_Wattle Creek Energy Hub - Solar"" -0.062 MUL ADD
+GenLoad_WLWLSF1 -0.062 MUL ADD
+""BatDChg_Culcairn BESS"" -0.062 MUL ADD
+""BatChrg_Culcairn BESS"" 0.062 MUL ADD
+1 0 MUL ADD
+GenLoad_WOODLWN1 -0.062 MUL ADD
+1 -38 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 1.1154 MUL ADD
+1 5.577 MUL ADD
+1 5.577 MUL ADD
+1 5.577 MUL ADD
+1 5.577 MUL ADD
+1 7.0642 MUL ADD
+1 7.0642 MUL ADD
+1 4.6475 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 9.295 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 -110 MUL ADD
+1 -50 MUL ADD
+
+1 91 MUL ADD
+1 25 MUL ADD
+1 -45 MUL ADD
+"	""	""	"NetworkConstraints"
+"Constraints"	"NEM"	"V^^N_NIL_1"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"Grp11"	"="	"1 1500 MUL ADD
+Var_V^^N_NIL_1_G_2{0} -0.9245 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 -113 MUL ADD
+GenLoad_BLOWERNG -0.051 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+Var_V^^N_NIL_1_G_14{0} -0.051 MUL ADD
+Var_V^^N_NIL_1_G_23{0} -0.051 MUL ADD
+Var_V^^N_NIL_1_G_45{0} -0.051 MUL ADD
+GenLoad_TALWA1 -0.051 MUL ADD
+1 0 MUL ADD
+GenLoad_BANGOWF1 -0.062 MUL ADD
+""GenLoad_Coppabella Hybrid Generator"" -0.062 MUL ADD
+GenLoad_BANGOWF2 -0.062 MUL ADD
+GenLoad_BOCORWF1 -0.062 MUL ADD
+GenLoad_CAPTL_WF -0.062 MUL ADD
+BatDChg_MUGGALB1 -0.062 MUL ADD
+BatChrg_MUGGALB1 0.062 MUL ADD
+BatDChg_MUGGALB2 -0.062 MUL ADD
+BatChrg_MUGGALB2 0.062 MUL ADD
+GenLoad_COLWF01 -0.062 MUL ADD
+""BatDChg_Merino BESS"" -0.062 MUL ADD
+""BatChrg_Merino BESS"" 0.062 MUL ADD
+""GenLoad_Merino Solar"" -0.062 MUL ADD
+""BatDChg_Gundary BESS"" -0.062 MUL ADD
+""BatChrg_Gundary BESS"" 0.062 MUL ADD
+""GenLoad_Gundary Solar Farm"" -0.062 MUL ADD
+GenLoad_CROOKWF2 -0.062 MUL ADD
+GenLoad_CROOKWF3 -0.062 MUL ADD
+GenLoad_GULLRWF1 -0.062 MUL ADD
+GenLoad_RYEPARK1 -0.062 MUL ADD
+GenLoad_GULLRWF2 -0.062 MUL ADD
+GenLoad_CULLRGWF -0.062 MUL ADD
+GenLoad_GULLRSF1 -0.062 MUL ADD
+""BatDChg_Blind Creek Solar Farm BESS"" -0.062 MUL ADD
+""BatChrg_Blind Creek Solar Farm BESS"" 0.062 MUL ADD
+""GenLoad_Blind Creek Solar Farm"" -0.062 MUL ADD
+GenLoad_GUNNING1 -0.062 MUL ADD
+""BatDChg_Gunning BESS"" -0.062 MUL ADD
+""BatChrg_Gunning BESS"" 0.062 MUL ADD
+""GenLoad_Gunning Solar Farm"" -0.062 MUL ADD
+GenLoad_TARALGA1 -0.062 MUL ADD
+BatDChg_2Marulan330 -0.062 MUL ADD
+BatChrg_2Marulan330 0.062 MUL ADD
+""BatDChg_Bannaby BESS"" -0.062 MUL ADD
+""BatChrg_Bannaby BESS"" 0.062 MUL ADD
+""BatDChg_Marulan BESS"" -0.062 MUL ADD
+""BatChrg_Marulan BESS"" 0.062 MUL ADD
+""BatDChg_Swallow Tail BESS"" -0.062 MUL ADD
+""BatChrg_Swallow Tail BESS"" 0.062 MUL ADD
+""GenLoad_2Marulan330 Solar"" -0.062 MUL ADD
+""GenLoad_2Marulan330 Wind"" -0.062 MUL ADD
+""GenLoad_Marulan Solar Farm"" -0.062 MUL ADD
+""BatDChg_Wattle Creek Energy Hub - BESS"" -0.062 MUL ADD
+""BatChrg_Wattle Creek Energy Hub - BESS"" 0.062 MUL ADD
+""GenLoad_Wattle Creek Energy Hub - Solar"" -0.062 MUL ADD
+GenLoad_WLWLSF1 -0.062 MUL ADD
+""BatDChg_Culcairn BESS"" -0.062 MUL ADD
+""BatChrg_Culcairn BESS"" 0.062 MUL ADD
+1 0 MUL ADD
+GenLoad_WOODLWN1 -0.062 MUL ADD
+1 -38 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 1.1154 MUL ADD
+1 5.577 MUL ADD
+1 5.577 MUL ADD
+1 5.577 MUL ADD
+1 5.577 MUL ADD
+1 7.0642 MUL ADD
+1 7.0642 MUL ADD
+1 4.6475 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 9.295 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 -110 MUL ADD
+1 -50 MUL ADD
+
+1 91 MUL ADD
+1 25 MUL ADD
+1 -45 MUL ADD
+"	""	""	"NetworkConstraints"
+"Constraints"	"NEM"	"V^^N_NIL_1"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"Grp2"	"="	"1 1500 MUL ADD
+Var_V^^N_NIL_1_G_2{0} -0.9245 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 -113 MUL ADD
+GenLoad_BLOWERNG -0.051 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+Var_V^^N_NIL_1_G_14{0} -0.051 MUL ADD
+Var_V^^N_NIL_1_G_23{0} -0.051 MUL ADD
+Var_V^^N_NIL_1_G_45{0} -0.051 MUL ADD
+GenLoad_TALWA1 -0.051 MUL ADD
+1 0 MUL ADD
+GenLoad_BANGOWF1 -0.062 MUL ADD
+""GenLoad_Coppabella Hybrid Generator"" -0.062 MUL ADD
+GenLoad_BANGOWF2 -0.062 MUL ADD
+GenLoad_BOCORWF1 -0.062 MUL ADD
+GenLoad_CAPTL_WF -0.062 MUL ADD
+BatDChg_MUGGALB1 -0.062 MUL ADD
+BatChrg_MUGGALB1 0.062 MUL ADD
+BatDChg_MUGGALB2 -0.062 MUL ADD
+BatChrg_MUGGALB2 0.062 MUL ADD
+GenLoad_COLWF01 -0.062 MUL ADD
+""BatDChg_Merino BESS"" -0.062 MUL ADD
+""BatChrg_Merino BESS"" 0.062 MUL ADD
+""GenLoad_Merino Solar"" -0.062 MUL ADD
+""BatDChg_Gundary BESS"" -0.062 MUL ADD
+""BatChrg_Gundary BESS"" 0.062 MUL ADD
+""GenLoad_Gundary Solar Farm"" -0.062 MUL ADD
+GenLoad_CROOKWF2 -0.062 MUL ADD
+GenLoad_CROOKWF3 -0.062 MUL ADD
+GenLoad_GULLRWF1 -0.062 MUL ADD
+GenLoad_RYEPARK1 -0.062 MUL ADD
+GenLoad_GULLRWF2 -0.062 MUL ADD
+GenLoad_CULLRGWF -0.062 MUL ADD
+GenLoad_GULLRSF1 -0.062 MUL ADD
+""BatDChg_Blind Creek Solar Farm BESS"" -0.062 MUL ADD
+""BatChrg_Blind Creek Solar Farm BESS"" 0.062 MUL ADD
+""GenLoad_Blind Creek Solar Farm"" -0.062 MUL ADD
+GenLoad_GUNNING1 -0.062 MUL ADD
+""BatDChg_Gunning BESS"" -0.062 MUL ADD
+""BatChrg_Gunning BESS"" 0.062 MUL ADD
+""GenLoad_Gunning Solar Farm"" -0.062 MUL ADD
+GenLoad_TARALGA1 -0.062 MUL ADD
+BatDChg_2Marulan330 -0.062 MUL ADD
+BatChrg_2Marulan330 0.062 MUL ADD
+""BatDChg_Bannaby BESS"" -0.062 MUL ADD
+""BatChrg_Bannaby BESS"" 0.062 MUL ADD
+""BatDChg_Marulan BESS"" -0.062 MUL ADD
+""BatChrg_Marulan BESS"" 0.062 MUL ADD
+""BatDChg_Swallow Tail BESS"" -0.062 MUL ADD
+""BatChrg_Swallow Tail BESS"" 0.062 MUL ADD
+""GenLoad_2Marulan330 Solar"" -0.062 MUL ADD
+""GenLoad_2Marulan330 Wind"" -0.062 MUL ADD
+""GenLoad_Marulan Solar Farm"" -0.062 MUL ADD
+""BatDChg_Wattle Creek Energy Hub - BESS"" -0.062 MUL ADD
+""BatChrg_Wattle Creek Energy Hub - BESS"" 0.062 MUL ADD
+""GenLoad_Wattle Creek Energy Hub - Solar"" -0.062 MUL ADD
+GenLoad_WLWLSF1 -0.062 MUL ADD
+""BatDChg_Culcairn BESS"" -0.062 MUL ADD
+""BatChrg_Culcairn BESS"" 0.062 MUL ADD
+1 0 MUL ADD
+GenLoad_WOODLWN1 -0.062 MUL ADD
+1 -38 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 1.1154 MUL ADD
+1 5.577 MUL ADD
+1 5.577 MUL ADD
+1 5.577 MUL ADD
+1 5.577 MUL ADD
+1 7.0642 MUL ADD
+1 7.0642 MUL ADD
+1 4.6475 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 9.295 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 -110 MUL ADD
+1 -50 MUL ADD
+
+1 91 MUL ADD
+1 -45 MUL ADD
+"	""	""	"NetworkConstraints"
+"Constraints"	"NEM"	"V^^N_NIL_1"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"Grp3"	"="	"1 1500 MUL ADD
+Var_V^^N_NIL_1_G_2{0} -0.9245 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 -113 MUL ADD
+GenLoad_BLOWERNG -0.051 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+Var_V^^N_NIL_1_G_14{0} -0.051 MUL ADD
+Var_V^^N_NIL_1_G_23{0} -0.051 MUL ADD
+Var_V^^N_NIL_1_G_45{0} -0.051 MUL ADD
+GenLoad_TALWA1 -0.051 MUL ADD
+1 0 MUL ADD
+GenLoad_BANGOWF1 -0.062 MUL ADD
+""GenLoad_Coppabella Hybrid Generator"" -0.062 MUL ADD
+GenLoad_BANGOWF2 -0.062 MUL ADD
+GenLoad_BOCORWF1 -0.062 MUL ADD
+GenLoad_CAPTL_WF -0.062 MUL ADD
+BatDChg_MUGGALB1 -0.062 MUL ADD
+BatChrg_MUGGALB1 0.062 MUL ADD
+BatDChg_MUGGALB2 -0.062 MUL ADD
+BatChrg_MUGGALB2 0.062 MUL ADD
+GenLoad_COLWF01 -0.062 MUL ADD
+""BatDChg_Merino BESS"" -0.062 MUL ADD
+""BatChrg_Merino BESS"" 0.062 MUL ADD
+""GenLoad_Merino Solar"" -0.062 MUL ADD
+""BatDChg_Gundary BESS"" -0.062 MUL ADD
+""BatChrg_Gundary BESS"" 0.062 MUL ADD
+""GenLoad_Gundary Solar Farm"" -0.062 MUL ADD
+GenLoad_CROOKWF2 -0.062 MUL ADD
+GenLoad_CROOKWF3 -0.062 MUL ADD
+GenLoad_GULLRWF1 -0.062 MUL ADD
+GenLoad_RYEPARK1 -0.062 MUL ADD
+GenLoad_GULLRWF2 -0.062 MUL ADD
+GenLoad_CULLRGWF -0.062 MUL ADD
+GenLoad_GULLRSF1 -0.062 MUL ADD
+""BatDChg_Blind Creek Solar Farm BESS"" -0.062 MUL ADD
+""BatChrg_Blind Creek Solar Farm BESS"" 0.062 MUL ADD
+""GenLoad_Blind Creek Solar Farm"" -0.062 MUL ADD
+GenLoad_GUNNING1 -0.062 MUL ADD
+""BatDChg_Gunning BESS"" -0.062 MUL ADD
+""BatChrg_Gunning BESS"" 0.062 MUL ADD
+""GenLoad_Gunning Solar Farm"" -0.062 MUL ADD
+GenLoad_TARALGA1 -0.062 MUL ADD
+BatDChg_2Marulan330 -0.062 MUL ADD
+BatChrg_2Marulan330 0.062 MUL ADD
+""BatDChg_Bannaby BESS"" -0.062 MUL ADD
+""BatChrg_Bannaby BESS"" 0.062 MUL ADD
+""BatDChg_Marulan BESS"" -0.062 MUL ADD
+""BatChrg_Marulan BESS"" 0.062 MUL ADD
+""BatDChg_Swallow Tail BESS"" -0.062 MUL ADD
+""BatChrg_Swallow Tail BESS"" 0.062 MUL ADD
+""GenLoad_2Marulan330 Solar"" -0.062 MUL ADD
+""GenLoad_2Marulan330 Wind"" -0.062 MUL ADD
+""GenLoad_Marulan Solar Farm"" -0.062 MUL ADD
+""BatDChg_Wattle Creek Energy Hub - BESS"" -0.062 MUL ADD
+""BatChrg_Wattle Creek Energy Hub - BESS"" 0.062 MUL ADD
+""GenLoad_Wattle Creek Energy Hub - Solar"" -0.062 MUL ADD
+GenLoad_WLWLSF1 -0.062 MUL ADD
+""BatDChg_Culcairn BESS"" -0.062 MUL ADD
+""BatChrg_Culcairn BESS"" 0.062 MUL ADD
+1 0 MUL ADD
+GenLoad_WOODLWN1 -0.062 MUL ADD
+1 -38 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 1.1154 MUL ADD
+1 5.577 MUL ADD
+1 5.577 MUL ADD
+1 5.577 MUL ADD
+1 5.577 MUL ADD
+1 7.0642 MUL ADD
+1 7.0642 MUL ADD
+1 4.6475 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 9.295 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 -110 MUL ADD
+1 -50 MUL ADD
+
+1 91 MUL ADD
+1 -45 MUL ADD
+"	""	""	"NetworkConstraints"
+"Constraints"	"NEM"	"V^^N_NIL_1"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"Grp4"	"="	"1 1500 MUL ADD
+Var_V^^N_NIL_1_G_2{0} -0.9245 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 -113 MUL ADD
+GenLoad_BLOWERNG -0.051 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+Var_V^^N_NIL_1_G_14{0} -0.051 MUL ADD
+Var_V^^N_NIL_1_G_23{0} -0.051 MUL ADD
+Var_V^^N_NIL_1_G_45{0} -0.051 MUL ADD
+GenLoad_TALWA1 -0.051 MUL ADD
+1 0 MUL ADD
+GenLoad_BANGOWF1 -0.062 MUL ADD
+""GenLoad_Coppabella Hybrid Generator"" -0.062 MUL ADD
+GenLoad_BANGOWF2 -0.062 MUL ADD
+GenLoad_BOCORWF1 -0.062 MUL ADD
+GenLoad_CAPTL_WF -0.062 MUL ADD
+BatDChg_MUGGALB1 -0.062 MUL ADD
+BatChrg_MUGGALB1 0.062 MUL ADD
+BatDChg_MUGGALB2 -0.062 MUL ADD
+BatChrg_MUGGALB2 0.062 MUL ADD
+GenLoad_COLWF01 -0.062 MUL ADD
+""BatDChg_Merino BESS"" -0.062 MUL ADD
+""BatChrg_Merino BESS"" 0.062 MUL ADD
+""GenLoad_Merino Solar"" -0.062 MUL ADD
+""BatDChg_Gundary BESS"" -0.062 MUL ADD
+""BatChrg_Gundary BESS"" 0.062 MUL ADD
+""GenLoad_Gundary Solar Farm"" -0.062 MUL ADD
+GenLoad_CROOKWF2 -0.062 MUL ADD
+GenLoad_CROOKWF3 -0.062 MUL ADD
+GenLoad_GULLRWF1 -0.062 MUL ADD
+GenLoad_RYEPARK1 -0.062 MUL ADD
+GenLoad_GULLRWF2 -0.062 MUL ADD
+GenLoad_CULLRGWF -0.062 MUL ADD
+GenLoad_GULLRSF1 -0.062 MUL ADD
+""BatDChg_Blind Creek Solar Farm BESS"" -0.062 MUL ADD
+""BatChrg_Blind Creek Solar Farm BESS"" 0.062 MUL ADD
+""GenLoad_Blind Creek Solar Farm"" -0.062 MUL ADD
+GenLoad_GUNNING1 -0.062 MUL ADD
+""BatDChg_Gunning BESS"" -0.062 MUL ADD
+""BatChrg_Gunning BESS"" 0.062 MUL ADD
+""GenLoad_Gunning Solar Farm"" -0.062 MUL ADD
+GenLoad_TARALGA1 -0.062 MUL ADD
+BatDChg_2Marulan330 -0.062 MUL ADD
+BatChrg_2Marulan330 0.062 MUL ADD
+""BatDChg_Bannaby BESS"" -0.062 MUL ADD
+""BatChrg_Bannaby BESS"" 0.062 MUL ADD
+""BatDChg_Marulan BESS"" -0.062 MUL ADD
+""BatChrg_Marulan BESS"" 0.062 MUL ADD
+""BatDChg_Swallow Tail BESS"" -0.062 MUL ADD
+""BatChrg_Swallow Tail BESS"" 0.062 MUL ADD
+""GenLoad_2Marulan330 Solar"" -0.062 MUL ADD
+""GenLoad_2Marulan330 Wind"" -0.062 MUL ADD
+""GenLoad_Marulan Solar Farm"" -0.062 MUL ADD
+""BatDChg_Wattle Creek Energy Hub - BESS"" -0.062 MUL ADD
+""BatChrg_Wattle Creek Energy Hub - BESS"" 0.062 MUL ADD
+""GenLoad_Wattle Creek Energy Hub - Solar"" -0.062 MUL ADD
+GenLoad_WLWLSF1 -0.062 MUL ADD
+""BatDChg_Culcairn BESS"" -0.062 MUL ADD
+""BatChrg_Culcairn BESS"" 0.062 MUL ADD
+1 0 MUL ADD
+GenLoad_WOODLWN1 -0.062 MUL ADD
+1 -38 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 1.1154 MUL ADD
+1 5.577 MUL ADD
+1 5.577 MUL ADD
+1 5.577 MUL ADD
+1 5.577 MUL ADD
+1 7.0642 MUL ADD
+1 7.0642 MUL ADD
+1 4.6475 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 9.295 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 -110 MUL ADD
+1 -50 MUL ADD
+
+1 91 MUL ADD
+1 -45 MUL ADD
+"	""	""	"NetworkConstraints"
+"Constraints"	"NEM"	"V^^N_NIL_1"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"Grp5"	"="	"1 1500 MUL ADD
+Var_V^^N_NIL_1_G_2{0} -0.9245 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 -113 MUL ADD
+GenLoad_BLOWERNG -0.051 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+Var_V^^N_NIL_1_G_14{0} -0.051 MUL ADD
+Var_V^^N_NIL_1_G_23{0} -0.051 MUL ADD
+Var_V^^N_NIL_1_G_45{0} -0.051 MUL ADD
+GenLoad_TALWA1 -0.051 MUL ADD
+1 0 MUL ADD
+GenLoad_BANGOWF1 -0.062 MUL ADD
+""GenLoad_Coppabella Hybrid Generator"" -0.062 MUL ADD
+GenLoad_BANGOWF2 -0.062 MUL ADD
+GenLoad_BOCORWF1 -0.062 MUL ADD
+GenLoad_CAPTL_WF -0.062 MUL ADD
+BatDChg_MUGGALB1 -0.062 MUL ADD
+BatChrg_MUGGALB1 0.062 MUL ADD
+BatDChg_MUGGALB2 -0.062 MUL ADD
+BatChrg_MUGGALB2 0.062 MUL ADD
+GenLoad_COLWF01 -0.062 MUL ADD
+""BatDChg_Merino BESS"" -0.062 MUL ADD
+""BatChrg_Merino BESS"" 0.062 MUL ADD
+""GenLoad_Merino Solar"" -0.062 MUL ADD
+""BatDChg_Gundary BESS"" -0.062 MUL ADD
+""BatChrg_Gundary BESS"" 0.062 MUL ADD
+""GenLoad_Gundary Solar Farm"" -0.062 MUL ADD
+GenLoad_CROOKWF2 -0.062 MUL ADD
+GenLoad_CROOKWF3 -0.062 MUL ADD
+GenLoad_GULLRWF1 -0.062 MUL ADD
+GenLoad_RYEPARK1 -0.062 MUL ADD
+GenLoad_GULLRWF2 -0.062 MUL ADD
+GenLoad_CULLRGWF -0.062 MUL ADD
+GenLoad_GULLRSF1 -0.062 MUL ADD
+""BatDChg_Blind Creek Solar Farm BESS"" -0.062 MUL ADD
+""BatChrg_Blind Creek Solar Farm BESS"" 0.062 MUL ADD
+""GenLoad_Blind Creek Solar Farm"" -0.062 MUL ADD
+GenLoad_GUNNING1 -0.062 MUL ADD
+""BatDChg_Gunning BESS"" -0.062 MUL ADD
+""BatChrg_Gunning BESS"" 0.062 MUL ADD
+""GenLoad_Gunning Solar Farm"" -0.062 MUL ADD
+GenLoad_TARALGA1 -0.062 MUL ADD
+BatDChg_2Marulan330 -0.062 MUL ADD
+BatChrg_2Marulan330 0.062 MUL ADD
+""BatDChg_Bannaby BESS"" -0.062 MUL ADD
+""BatChrg_Bannaby BESS"" 0.062 MUL ADD
+""BatDChg_Marulan BESS"" -0.062 MUL ADD
+""BatChrg_Marulan BESS"" 0.062 MUL ADD
+""BatDChg_Swallow Tail BESS"" -0.062 MUL ADD
+""BatChrg_Swallow Tail BESS"" 0.062 MUL ADD
+""GenLoad_2Marulan330 Solar"" -0.062 MUL ADD
+""GenLoad_2Marulan330 Wind"" -0.062 MUL ADD
+""GenLoad_Marulan Solar Farm"" -0.062 MUL ADD
+""BatDChg_Wattle Creek Energy Hub - BESS"" -0.062 MUL ADD
+""BatChrg_Wattle Creek Energy Hub - BESS"" 0.062 MUL ADD
+""GenLoad_Wattle Creek Energy Hub - Solar"" -0.062 MUL ADD
+GenLoad_WLWLSF1 -0.062 MUL ADD
+""BatDChg_Culcairn BESS"" -0.062 MUL ADD
+""BatChrg_Culcairn BESS"" 0.062 MUL ADD
+1 0 MUL ADD
+GenLoad_WOODLWN1 -0.062 MUL ADD
+1 -38 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 1.1154 MUL ADD
+1 5.577 MUL ADD
+1 5.577 MUL ADD
+1 5.577 MUL ADD
+1 5.577 MUL ADD
+1 7.0642 MUL ADD
+1 7.0642 MUL ADD
+1 4.6475 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 9.295 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 -110 MUL ADD
+1 -50 MUL ADD
+
+1 91 MUL ADD
+1 -45 MUL ADD
+"	""	""	"NetworkConstraints"
+"Constraints"	"NEM"	"V^^N_NIL_1"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"Grp6"	"="	"1 1500 MUL ADD
+Var_V^^N_NIL_1_G_2{0} -0.9245 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 -113 MUL ADD
+GenLoad_BLOWERNG -0.051 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+Var_V^^N_NIL_1_G_14{0} -0.051 MUL ADD
+Var_V^^N_NIL_1_G_23{0} -0.051 MUL ADD
+Var_V^^N_NIL_1_G_45{0} -0.051 MUL ADD
+GenLoad_TALWA1 -0.051 MUL ADD
+1 0 MUL ADD
+GenLoad_BANGOWF1 -0.062 MUL ADD
+""GenLoad_Coppabella Hybrid Generator"" -0.062 MUL ADD
+GenLoad_BANGOWF2 -0.062 MUL ADD
+GenLoad_BOCORWF1 -0.062 MUL ADD
+GenLoad_CAPTL_WF -0.062 MUL ADD
+BatDChg_MUGGALB1 -0.062 MUL ADD
+BatChrg_MUGGALB1 0.062 MUL ADD
+BatDChg_MUGGALB2 -0.062 MUL ADD
+BatChrg_MUGGALB2 0.062 MUL ADD
+GenLoad_COLWF01 -0.062 MUL ADD
+""BatDChg_Merino BESS"" -0.062 MUL ADD
+""BatChrg_Merino BESS"" 0.062 MUL ADD
+""GenLoad_Merino Solar"" -0.062 MUL ADD
+""BatDChg_Gundary BESS"" -0.062 MUL ADD
+""BatChrg_Gundary BESS"" 0.062 MUL ADD
+""GenLoad_Gundary Solar Farm"" -0.062 MUL ADD
+GenLoad_CROOKWF2 -0.062 MUL ADD
+GenLoad_CROOKWF3 -0.062 MUL ADD
+GenLoad_GULLRWF1 -0.062 MUL ADD
+GenLoad_RYEPARK1 -0.062 MUL ADD
+GenLoad_GULLRWF2 -0.062 MUL ADD
+GenLoad_CULLRGWF -0.062 MUL ADD
+GenLoad_GULLRSF1 -0.062 MUL ADD
+""BatDChg_Blind Creek Solar Farm BESS"" -0.062 MUL ADD
+""BatChrg_Blind Creek Solar Farm BESS"" 0.062 MUL ADD
+""GenLoad_Blind Creek Solar Farm"" -0.062 MUL ADD
+GenLoad_GUNNING1 -0.062 MUL ADD
+""BatDChg_Gunning BESS"" -0.062 MUL ADD
+""BatChrg_Gunning BESS"" 0.062 MUL ADD
+""GenLoad_Gunning Solar Farm"" -0.062 MUL ADD
+GenLoad_TARALGA1 -0.062 MUL ADD
+BatDChg_2Marulan330 -0.062 MUL ADD
+BatChrg_2Marulan330 0.062 MUL ADD
+""BatDChg_Bannaby BESS"" -0.062 MUL ADD
+""BatChrg_Bannaby BESS"" 0.062 MUL ADD
+""BatDChg_Marulan BESS"" -0.062 MUL ADD
+""BatChrg_Marulan BESS"" 0.062 MUL ADD
+""BatDChg_Swallow Tail BESS"" -0.062 MUL ADD
+""BatChrg_Swallow Tail BESS"" 0.062 MUL ADD
+""GenLoad_2Marulan330 Solar"" -0.062 MUL ADD
+""GenLoad_2Marulan330 Wind"" -0.062 MUL ADD
+""GenLoad_Marulan Solar Farm"" -0.062 MUL ADD
+""BatDChg_Wattle Creek Energy Hub - BESS"" -0.062 MUL ADD
+""BatChrg_Wattle Creek Energy Hub - BESS"" 0.062 MUL ADD
+""GenLoad_Wattle Creek Energy Hub - Solar"" -0.062 MUL ADD
+GenLoad_WLWLSF1 -0.062 MUL ADD
+""BatDChg_Culcairn BESS"" -0.062 MUL ADD
+""BatChrg_Culcairn BESS"" 0.062 MUL ADD
+1 0 MUL ADD
+GenLoad_WOODLWN1 -0.062 MUL ADD
+1 -38 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 1.1154 MUL ADD
+1 5.577 MUL ADD
+1 5.577 MUL ADD
+1 5.577 MUL ADD
+1 5.577 MUL ADD
+1 7.0642 MUL ADD
+1 7.0642 MUL ADD
+1 4.6475 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 9.295 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 -110 MUL ADD
+1 -50 MUL ADD
+
+1 91 MUL ADD
+1 25 MUL ADD
+1 -45 MUL ADD
+"	""	""	"NetworkConstraints"
+"Constraints"	"NEM"	"V^^N_NIL_1"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"Grp7"	"="	"1 1500 MUL ADD
+Var_V^^N_NIL_1_G_2{0} -0.9245 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 -113 MUL ADD
+GenLoad_BLOWERNG -0.051 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+Var_V^^N_NIL_1_G_14{0} -0.051 MUL ADD
+Var_V^^N_NIL_1_G_23{0} -0.051 MUL ADD
+Var_V^^N_NIL_1_G_45{0} -0.051 MUL ADD
+GenLoad_TALWA1 -0.051 MUL ADD
+1 0 MUL ADD
+GenLoad_BANGOWF1 -0.062 MUL ADD
+""GenLoad_Coppabella Hybrid Generator"" -0.062 MUL ADD
+GenLoad_BANGOWF2 -0.062 MUL ADD
+GenLoad_BOCORWF1 -0.062 MUL ADD
+GenLoad_CAPTL_WF -0.062 MUL ADD
+BatDChg_MUGGALB1 -0.062 MUL ADD
+BatChrg_MUGGALB1 0.062 MUL ADD
+BatDChg_MUGGALB2 -0.062 MUL ADD
+BatChrg_MUGGALB2 0.062 MUL ADD
+GenLoad_COLWF01 -0.062 MUL ADD
+""BatDChg_Merino BESS"" -0.062 MUL ADD
+""BatChrg_Merino BESS"" 0.062 MUL ADD
+""GenLoad_Merino Solar"" -0.062 MUL ADD
+""BatDChg_Gundary BESS"" -0.062 MUL ADD
+""BatChrg_Gundary BESS"" 0.062 MUL ADD
+""GenLoad_Gundary Solar Farm"" -0.062 MUL ADD
+GenLoad_CROOKWF2 -0.062 MUL ADD
+GenLoad_CROOKWF3 -0.062 MUL ADD
+GenLoad_GULLRWF1 -0.062 MUL ADD
+GenLoad_RYEPARK1 -0.062 MUL ADD
+GenLoad_GULLRWF2 -0.062 MUL ADD
+GenLoad_CULLRGWF -0.062 MUL ADD
+GenLoad_GULLRSF1 -0.062 MUL ADD
+""BatDChg_Blind Creek Solar Farm BESS"" -0.062 MUL ADD
+""BatChrg_Blind Creek Solar Farm BESS"" 0.062 MUL ADD
+""GenLoad_Blind Creek Solar Farm"" -0.062 MUL ADD
+GenLoad_GUNNING1 -0.062 MUL ADD
+""BatDChg_Gunning BESS"" -0.062 MUL ADD
+""BatChrg_Gunning BESS"" 0.062 MUL ADD
+""GenLoad_Gunning Solar Farm"" -0.062 MUL ADD
+GenLoad_TARALGA1 -0.062 MUL ADD
+BatDChg_2Marulan330 -0.062 MUL ADD
+BatChrg_2Marulan330 0.062 MUL ADD
+""BatDChg_Bannaby BESS"" -0.062 MUL ADD
+""BatChrg_Bannaby BESS"" 0.062 MUL ADD
+""BatDChg_Marulan BESS"" -0.062 MUL ADD
+""BatChrg_Marulan BESS"" 0.062 MUL ADD
+""BatDChg_Swallow Tail BESS"" -0.062 MUL ADD
+""BatChrg_Swallow Tail BESS"" 0.062 MUL ADD
+""GenLoad_2Marulan330 Solar"" -0.062 MUL ADD
+""GenLoad_2Marulan330 Wind"" -0.062 MUL ADD
+""GenLoad_Marulan Solar Farm"" -0.062 MUL ADD
+""BatDChg_Wattle Creek Energy Hub - BESS"" -0.062 MUL ADD
+""BatChrg_Wattle Creek Energy Hub - BESS"" 0.062 MUL ADD
+""GenLoad_Wattle Creek Energy Hub - Solar"" -0.062 MUL ADD
+GenLoad_WLWLSF1 -0.062 MUL ADD
+""BatDChg_Culcairn BESS"" -0.062 MUL ADD
+""BatChrg_Culcairn BESS"" 0.062 MUL ADD
+1 0 MUL ADD
+GenLoad_WOODLWN1 -0.062 MUL ADD
+1 -38 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 1.1154 MUL ADD
+1 5.577 MUL ADD
+1 5.577 MUL ADD
+1 5.577 MUL ADD
+1 5.577 MUL ADD
+1 7.0642 MUL ADD
+1 7.0642 MUL ADD
+1 4.6475 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 9.295 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 -110 MUL ADD
+1 -50 MUL ADD
+
+1 91 MUL ADD
+1 25 MUL ADD
+1 -45 MUL ADD
+"	""	""	"NetworkConstraints"
+"Constraints"	"NEM"	"V^^N_NIL_1"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"Grp8"	"="	"1 1500 MUL ADD
+Var_V^^N_NIL_1_G_2{0} -0.9245 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 -113 MUL ADD
+GenLoad_BLOWERNG -0.051 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+Var_V^^N_NIL_1_G_14{0} -0.051 MUL ADD
+Var_V^^N_NIL_1_G_23{0} -0.051 MUL ADD
+Var_V^^N_NIL_1_G_45{0} -0.051 MUL ADD
+GenLoad_TALWA1 -0.051 MUL ADD
+1 0 MUL ADD
+GenLoad_BANGOWF1 -0.062 MUL ADD
+""GenLoad_Coppabella Hybrid Generator"" -0.062 MUL ADD
+GenLoad_BANGOWF2 -0.062 MUL ADD
+GenLoad_BOCORWF1 -0.062 MUL ADD
+GenLoad_CAPTL_WF -0.062 MUL ADD
+BatDChg_MUGGALB1 -0.062 MUL ADD
+BatChrg_MUGGALB1 0.062 MUL ADD
+BatDChg_MUGGALB2 -0.062 MUL ADD
+BatChrg_MUGGALB2 0.062 MUL ADD
+GenLoad_COLWF01 -0.062 MUL ADD
+""BatDChg_Merino BESS"" -0.062 MUL ADD
+""BatChrg_Merino BESS"" 0.062 MUL ADD
+""GenLoad_Merino Solar"" -0.062 MUL ADD
+""BatDChg_Gundary BESS"" -0.062 MUL ADD
+""BatChrg_Gundary BESS"" 0.062 MUL ADD
+""GenLoad_Gundary Solar Farm"" -0.062 MUL ADD
+GenLoad_CROOKWF2 -0.062 MUL ADD
+GenLoad_CROOKWF3 -0.062 MUL ADD
+GenLoad_GULLRWF1 -0.062 MUL ADD
+GenLoad_RYEPARK1 -0.062 MUL ADD
+GenLoad_GULLRWF2 -0.062 MUL ADD
+GenLoad_CULLRGWF -0.062 MUL ADD
+GenLoad_GULLRSF1 -0.062 MUL ADD
+""BatDChg_Blind Creek Solar Farm BESS"" -0.062 MUL ADD
+""BatChrg_Blind Creek Solar Farm BESS"" 0.062 MUL ADD
+""GenLoad_Blind Creek Solar Farm"" -0.062 MUL ADD
+GenLoad_GUNNING1 -0.062 MUL ADD
+""BatDChg_Gunning BESS"" -0.062 MUL ADD
+""BatChrg_Gunning BESS"" 0.062 MUL ADD
+""GenLoad_Gunning Solar Farm"" -0.062 MUL ADD
+GenLoad_TARALGA1 -0.062 MUL ADD
+BatDChg_2Marulan330 -0.062 MUL ADD
+BatChrg_2Marulan330 0.062 MUL ADD
+""BatDChg_Bannaby BESS"" -0.062 MUL ADD
+""BatChrg_Bannaby BESS"" 0.062 MUL ADD
+""BatDChg_Marulan BESS"" -0.062 MUL ADD
+""BatChrg_Marulan BESS"" 0.062 MUL ADD
+""BatDChg_Swallow Tail BESS"" -0.062 MUL ADD
+""BatChrg_Swallow Tail BESS"" 0.062 MUL ADD
+""GenLoad_2Marulan330 Solar"" -0.062 MUL ADD
+""GenLoad_2Marulan330 Wind"" -0.062 MUL ADD
+""GenLoad_Marulan Solar Farm"" -0.062 MUL ADD
+""BatDChg_Wattle Creek Energy Hub - BESS"" -0.062 MUL ADD
+""BatChrg_Wattle Creek Energy Hub - BESS"" 0.062 MUL ADD
+""GenLoad_Wattle Creek Energy Hub - Solar"" -0.062 MUL ADD
+GenLoad_WLWLSF1 -0.062 MUL ADD
+""BatDChg_Culcairn BESS"" -0.062 MUL ADD
+""BatChrg_Culcairn BESS"" 0.062 MUL ADD
+1 0 MUL ADD
+GenLoad_WOODLWN1 -0.062 MUL ADD
+1 -38 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 1.1154 MUL ADD
+1 5.577 MUL ADD
+1 5.577 MUL ADD
+1 5.577 MUL ADD
+1 5.577 MUL ADD
+1 7.0642 MUL ADD
+1 7.0642 MUL ADD
+1 4.6475 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 9.295 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 -110 MUL ADD
+1 -50 MUL ADD
+
+1 91 MUL ADD
+1 25 MUL ADD
+1 -45 MUL ADD
+"	""	""	"NetworkConstraints"
+"Constraints"	"NEM"	"V^^N_NIL_1"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"Grp9"	"="	"1 1500 MUL ADD
+Var_V^^N_NIL_1_G_2{0} -0.9245 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 -113 MUL ADD
+GenLoad_BLOWERNG -0.051 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+Var_V^^N_NIL_1_G_14{0} -0.051 MUL ADD
+Var_V^^N_NIL_1_G_23{0} -0.051 MUL ADD
+Var_V^^N_NIL_1_G_45{0} -0.051 MUL ADD
+GenLoad_TALWA1 -0.051 MUL ADD
+1 0 MUL ADD
+GenLoad_BANGOWF1 -0.062 MUL ADD
+""GenLoad_Coppabella Hybrid Generator"" -0.062 MUL ADD
+GenLoad_BANGOWF2 -0.062 MUL ADD
+GenLoad_BOCORWF1 -0.062 MUL ADD
+GenLoad_CAPTL_WF -0.062 MUL ADD
+BatDChg_MUGGALB1 -0.062 MUL ADD
+BatChrg_MUGGALB1 0.062 MUL ADD
+BatDChg_MUGGALB2 -0.062 MUL ADD
+BatChrg_MUGGALB2 0.062 MUL ADD
+GenLoad_COLWF01 -0.062 MUL ADD
+""BatDChg_Merino BESS"" -0.062 MUL ADD
+""BatChrg_Merino BESS"" 0.062 MUL ADD
+""GenLoad_Merino Solar"" -0.062 MUL ADD
+""BatDChg_Gundary BESS"" -0.062 MUL ADD
+""BatChrg_Gundary BESS"" 0.062 MUL ADD
+""GenLoad_Gundary Solar Farm"" -0.062 MUL ADD
+GenLoad_CROOKWF2 -0.062 MUL ADD
+GenLoad_CROOKWF3 -0.062 MUL ADD
+GenLoad_GULLRWF1 -0.062 MUL ADD
+GenLoad_RYEPARK1 -0.062 MUL ADD
+GenLoad_GULLRWF2 -0.062 MUL ADD
+GenLoad_CULLRGWF -0.062 MUL ADD
+GenLoad_GULLRSF1 -0.062 MUL ADD
+""BatDChg_Blind Creek Solar Farm BESS"" -0.062 MUL ADD
+""BatChrg_Blind Creek Solar Farm BESS"" 0.062 MUL ADD
+""GenLoad_Blind Creek Solar Farm"" -0.062 MUL ADD
+GenLoad_GUNNING1 -0.062 MUL ADD
+""BatDChg_Gunning BESS"" -0.062 MUL ADD
+""BatChrg_Gunning BESS"" 0.062 MUL ADD
+""GenLoad_Gunning Solar Farm"" -0.062 MUL ADD
+GenLoad_TARALGA1 -0.062 MUL ADD
+BatDChg_2Marulan330 -0.062 MUL ADD
+BatChrg_2Marulan330 0.062 MUL ADD
+""BatDChg_Bannaby BESS"" -0.062 MUL ADD
+""BatChrg_Bannaby BESS"" 0.062 MUL ADD
+""BatDChg_Marulan BESS"" -0.062 MUL ADD
+""BatChrg_Marulan BESS"" 0.062 MUL ADD
+""BatDChg_Swallow Tail BESS"" -0.062 MUL ADD
+""BatChrg_Swallow Tail BESS"" 0.062 MUL ADD
+""GenLoad_2Marulan330 Solar"" -0.062 MUL ADD
+""GenLoad_2Marulan330 Wind"" -0.062 MUL ADD
+""GenLoad_Marulan Solar Farm"" -0.062 MUL ADD
+""BatDChg_Wattle Creek Energy Hub - BESS"" -0.062 MUL ADD
+""BatChrg_Wattle Creek Energy Hub - BESS"" 0.062 MUL ADD
+""GenLoad_Wattle Creek Energy Hub - Solar"" -0.062 MUL ADD
+GenLoad_WLWLSF1 -0.062 MUL ADD
+""BatDChg_Culcairn BESS"" -0.062 MUL ADD
+""BatChrg_Culcairn BESS"" 0.062 MUL ADD
+1 0 MUL ADD
+GenLoad_WOODLWN1 -0.062 MUL ADD
+1 -38 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 1.1154 MUL ADD
+1 5.577 MUL ADD
+1 5.577 MUL ADD
+1 5.577 MUL ADD
+1 5.577 MUL ADD
+1 7.0642 MUL ADD
+1 7.0642 MUL ADD
+1 4.6475 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 9.295 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 0 MUL ADD
+1 -110 MUL ADD
+1 -50 MUL ADD
+
+1 91 MUL ADD
+1 25 MUL ADD
+1 -45 MUL ADD
+"	""	""	"NetworkConstraints"

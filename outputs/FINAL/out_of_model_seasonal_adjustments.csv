@@ -1,0 +1,2 @@
+constraint,months,extra_adder_mw,apply_from,apply_to,note
+N::N_NIL_63,"12,1,2",65.0,2026-07-01,end_of_run,ESOO equation has no seasonal timeslices: Summer adder +110 vs NotSummer +45. Enter +45 in all timeslices and add the extra to the RHS time series in Dec-Feb

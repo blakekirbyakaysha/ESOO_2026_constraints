@@ -1,0 +1,10 @@
+constraint,after,before,of_which_X,added,tier,eq_grp,equation_form,rental_nowrl,rental_withwrl,peak_day_rental_max
+T_ROCOF_1,25,2,23,23,A,9,as published (latest Grp<=9),20109.0,16106.0,963.0
+T_ROCOF_3_2,26,3,23,23,A,9,as published (latest Grp<=9),1333356.0,1265006.0,4268.0
+N::V_NIL_MSDD,15,0,15,15,A,9,as published (latest Grp<=9),4160.0,13179.0,8729.0
+V_S_NIL_ROCOF,10,0,10,10,A,0,as published (latest Grp<=9),11411.0,11411.0,602.0
+S_V_NIL_ROCOF,10,0,10,10,A,0,as published (latest Grp<=9),6240.0,6240.0,136.0
+N^^N_NIL_WGLT,19,12,7,7,A,2,as published (latest Grp<=9),169975.0,169975.0,816.0
+S:VS_800,4,3,1,1,A,9,as published (latest Grp<=9),103504.0,97941.0,13375.0
+V^^N_NIL_1,5,4,1,1,A,9,as published (latest Grp<=9),149122.0,150236.0,3737.0
+N^^V_NIL_1,5,6,1,1,A,9,as published (latest Grp<=9),211345.0,247377.0,33930.0

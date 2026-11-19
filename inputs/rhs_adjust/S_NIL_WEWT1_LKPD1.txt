@@ -1,0 +1,2965 @@
+Collection	Parent Object	Child Object	Property	Value	Data File	Units	Band	Date From	Date To	Timeslice	Action	Expression	Scenario	Memo	Category
+"Constraints"	"NEM"	"S>>S_NIL_WEWT1_LKDP1"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"NotSummer_Grp0"	"="	"1 351.8972 MUL ADD
+Var_OPGEN_CSA -0.0068 MUL ADD
+Var_OPGEN_NSA -0.0556 MUL ADD
+Var_OPGEN_SESA 0.0416 MUL ADD
+BatDChg_5BlythWest275 0.0642 MUL ADD
+BatChrg_5BlythWest275 -0.0642 MUL ADD
+""GenLoad_5BlythWest275 Solar"" 0.0642 MUL ADD
+""GenLoad_5BlythWest275 Wind"" 0.0642 MUL ADD
+BatDChg_5Davenport275 0.0556 MUL ADD
+BatChrg_5Davenport275 -0.0556 MUL ADD
+""GenLoad_5Davenport275 Solar"" 0.0556 MUL ADD
+""GenLoad_5Davenport275 Wind"" 0.0556 MUL ADD
+BatDChg_5Mobilong132 0.0159 MUL ADD
+BatChrg_5Mobilong132 -0.0159 MUL ADD
+""GenLoad_5Mobilong132 Solar"" 0.0159 MUL ADD
+""GenLoad_5Mobilong132 Wind"" 0.0159 MUL ADD
+BatDChg_5OlymDamWest275 0.0556 MUL ADD
+BatChrg_5OlymDamWest275 -0.0556 MUL ADD
+""GenLoad_5OlymDamWest275 Solar"" 0.0556 MUL ADD
+""GenLoad_5OlymDamWest275 Wind"" 0.0556 MUL ADD
+BatDChg_5Para275 0.0046 MUL ADD
+BatChrg_5Para275 -0.0046 MUL ADD
+""GenLoad_5Para275 Solar"" 0.0046 MUL ADD
+""GenLoad_5Para275 Wind"" 0.0046 MUL ADD
+BatDChg_5PortLincoln132 0.0556 MUL ADD
+BatChrg_5PortLincoln132 -0.0556 MUL ADD
+""GenLoad_5PortLincoln132 Solar"" 0.0556 MUL ADD
+""GenLoad_5PortLincoln132 Wind"" 0.0556 MUL ADD
+BatDChg_5Snuggery132 -0.056 MUL ADD
+BatChrg_5Snuggery132 0.056 MUL ADD
+""GenLoad_5Snuggery132 Solar"" -0.056 MUL ADD
+""GenLoad_5Snuggery132 Wind"" -0.056 MUL ADD
+BatDChg_5TailemBend275 -0.0385 MUL ADD
+BatChrg_5TailemBend275 0.0385 MUL ADD
+""GenLoad_5TailemBend275 Solar"" -0.0385 MUL ADD
+""GenLoad_5TailemBend275 Wind"" -0.0385 MUL ADD
+BatDChg_5TemplersWest275 0.0614 MUL ADD
+BatChrg_5TemplersWest275 -0.0614 MUL ADD
+""GenLoad_5TemplersWest275 Solar"" 0.0614 MUL ADD
+""GenLoad_5TemplersWest275 Wind"" 0.0614 MUL ADD
+BatDChg_5Tungkillo275 -0.0361 MUL ADD
+BatChrg_5Tungkillo275 0.0361 MUL ADD
+""GenLoad_5Tungkillo275 Solar"" -0.0361 MUL ADD
+""GenLoad_5Tungkillo275 Wind"" -0.0361 MUL ADD
+BatDChg_5Yadnarie132 0.0556 MUL ADD
+BatChrg_5Yadnarie132 -0.0556 MUL ADD
+""GenLoad_5Yadnarie132 Solar"" 0.0556 MUL ADD
+""GenLoad_5Yadnarie132 Wind"" 0.0556 MUL ADD
+BatDChg_ADPBA1 -0.0118 MUL ADD
+BatChrg_ADPBA1 0.0118 MUL ADD
+GenLoad_ADPPV1 -0.0118 MUL ADD
+GenLoad_ADPPV2 -0.0118 MUL ADD
+BatDChg_BLYTHB1 0.0642 MUL ADD
+BatChrg_BLYTHB1 -0.0642 MUL ADD
+GenLoad_BNGSF1 0.0556 MUL ADD
+GenLoad_BNGSF2 0.0556 MUL ADD
+GenLoad_BOLIVPS1 0.0042 MUL ADD
+BatDChg_BOWWBA1 0.0042 MUL ADD
+BatChrg_BOWWBA1 -0.0042 MUL ADD
+GenLoad_BOWWPV1 0.0042 MUL ADD
+""BatDChg_Blacktop BESS"" 0.0046 MUL ADD
+""BatChrg_Blacktop BESS"" -0.0046 MUL ADD
+""BatDChg_Blanche BESS"" -0.056 MUL ADD
+""BatChrg_Blanche BESS"" 0.056 MUL ADD
+GenLoad_CATHROCK 0.0556 MUL ADD
+BatDChg_CBWWBA1 -0.0123 MUL ADD
+BatChrg_CBWWBA1 0.0123 MUL ADD
+GenLoad_CNUNDAWF -0.056 MUL ADD
+GenLoad_DRYCGT1 -0.0013 MUL ADD
+GenLoad_DRYCGT2 -0.0013 MUL ADD
+""BatDChg_Emeroo BESS"" 0.0556 MUL ADD
+""BatChrg_Emeroo BESS"" -0.0556 MUL ADD
+BatDChg_HVWWBA1 -0.0111 MUL ADD
+BatChrg_HVWWBA1 0.0111 MUL ADD
+GenLoad_HVWWPV1 -0.0111 MUL ADD
+GenLoad_LADBROK1 -0.0513 MUL ADD
+GenLoad_LADBROK2 -0.0513 MUL ADD
+BatDChg_LBB1 -0.0561 MUL ADD
+BatChrg_LBB1 0.0561 MUL ADD
+BatDChg_LGAPBS1 0.0556 MUL ADD
+BatChrg_LGAPBS1 -0.0556 MUL ADD
+GenLoad_LGAPWF1 0.0556 MUL ADD
+GenLoad_LGAPWF2 0.0556 MUL ADD
+GenLoad_LKBONNY1 -0.056 MUL ADD
+GenLoad_LKBONNY2 -0.056 MUL ADD
+GenLoad_LKBONNY3 -0.0561 MUL ADD
+GenLoad_LONSDALE -0.0122 MUL ADD
+""BatDChg_Limestone Coast West BESS"" -0.0581 MUL ADD
+""BatChrg_Limestone Coast West BESS"" 0.0581 MUL ADD
+GenLoad_MANNSF2 0.0577 MUL ADD
+BatDChg_MANNUMB1 0.0577 MUL ADD
+BatChrg_MANNUMB1 -0.0577 MUL ADD
+GenLoad_MAPS2PV1 0.0577 MUL ADD
+GenLoad_MAPS3PV1 0.0632 MUL ADD
+GenLoad_MBPS2PV1 0.0134 MUL ADD
+GenLoad_MTMILLAR 0.0556 MUL ADD
+""BatDChg_NSA Battery - Coordinated CER Storages"" 0.0556 MUL ADD
+""BatChrg_NSA Battery - Coordinated CER Storages"" -0.0556 MUL ADD
+""GenLoad_NSA HLoad_F"" 0.0556 MUL ADD
+""GenLoad_NSA HLoad_G"" 0.0556 MUL ADD
+""BatDChg_NSA V2G"" 0.0556 MUL ADD
+""BatChrg_NSA V2G"" -0.0556 MUL ADD
+""BatDChg_Northern Battery"" 0.0556 MUL ADD
+""BatChrg_Northern Battery"" -0.0556 MUL ADD
+GenLoad_PAREPS1 0.0556 MUL ADD
+GenLoad_PAREPW1 0.0556 MUL ADD
+GenLoad_POR01-1 0.0556 MUL ADD
+GenLoad_POR01-2 0.0556 MUL ADD
+GenLoad_POR01-3 0.0556 MUL ADD
+GenLoad_PTSTAN1_1 -0.0123 MUL ADD
+GenLoad_PTSTAN1_2 -0.0123 MUL ADD
+""GenLoad_Palmer Wind Farm"" -0.0361 MUL ADD
+""BatDChg_Reeves Plains Power Station BESS"" 0.0219 MUL ADD
+""BatChrg_Reeves Plains Power Station BESS"" -0.0219 MUL ADD
+""BatDChg_SESA Battery - Coordinated CER Storages"" -0.0581 MUL ADD
+""BatChrg_SESA Battery - Coordinated CER Storages"" 0.0581 MUL ADD
+""GenLoad_SESA HLoad_F"" -0.0581 MUL ADD
+""GenLoad_SESA HLoad_G"" -0.0581 MUL ADD
+""BatDChg_SESA V2G"" -0.0581 MUL ADD
+""BatChrg_SESA V2G"" 0.0581 MUL ADD
+GenLoad_SNOWNTH1 0.0642 MUL ADD
+GenLoad_SNOWSTH1 0.0642 MUL ADD
+GenLoad_SNUG1 -0.056 MUL ADD
+GenLoad_SNUG2 -0.056 MUL ADD
+GenLoad_SNUG3 -0.056 MUL ADD
+GenLoad_STARHLWF -0.0125 MUL ADD
+""BatDChg_Summerfield BESS 1"" -0.0361 MUL ADD
+""BatChrg_Summerfield BESS 1"" 0.0361 MUL ADD
+""BatDChg_Summerfield BESS 2"" -0.0361 MUL ADD
+""BatChrg_Summerfield BESS 2"" 0.0361 MUL ADD
+BatDChg_TB2B1 -0.014 MUL ADD
+BatChrg_TB2B1 0.014 MUL ADD
+GenLoad_TB2SF1 -0.014 MUL ADD
+GenLoad_TBSF1 -0.014 MUL ADD
+BatDChg_TEMPB1 0.0614 MUL ADD
+BatChrg_TEMPB1 -0.0614 MUL ADD
+""BatDChg_Tailem Bend Stage 3"" -0.0385 MUL ADD
+""BatChrg_Tailem Bend Stage 3"" 0.0385 MUL ADD
+""BatDChg_Tungkillo BESS"" -0.0361 MUL ADD
+""BatChrg_Tungkillo BESS"" 0.0361 MUL ADD
+""GenLoad_Vast Solar 1"" 0.0556 MUL ADD
+"	""	""	"NetworkConstraints"
+"Constraints"	"NEM"	"S>>S_NIL_WEWT1_LKDP1"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"NotSummer_Grp1"	"="	"1 330.4656 MUL ADD
+Var_OPGEN_CSA -0.0071 MUL ADD
+Var_OPGEN_NSA -0.0579 MUL ADD
+Var_OPGEN_SESA 0.0503 MUL ADD
+BatDChg_5BlythWest275 0.0653 MUL ADD
+BatChrg_5BlythWest275 -0.0653 MUL ADD
+""GenLoad_5BlythWest275 Solar"" 0.0653 MUL ADD
+""GenLoad_5BlythWest275 Wind"" 0.0653 MUL ADD
+BatDChg_5Davenport275 0.0579 MUL ADD
+BatChrg_5Davenport275 -0.0579 MUL ADD
+""GenLoad_5Davenport275 Solar"" 0.0579 MUL ADD
+""GenLoad_5Davenport275 Wind"" 0.0579 MUL ADD
+BatDChg_5Mobilong132 0.0142 MUL ADD
+BatChrg_5Mobilong132 -0.0142 MUL ADD
+""GenLoad_5Mobilong132 Solar"" 0.0142 MUL ADD
+""GenLoad_5Mobilong132 Wind"" 0.0142 MUL ADD
+BatDChg_5OlymDamWest275 0.0579 MUL ADD
+BatChrg_5OlymDamWest275 -0.0579 MUL ADD
+""GenLoad_5OlymDamWest275 Solar"" 0.0579 MUL ADD
+""GenLoad_5OlymDamWest275 Wind"" 0.0579 MUL ADD
+BatDChg_5Para275 0.0047 MUL ADD
+BatChrg_5Para275 -0.0047 MUL ADD
+""GenLoad_5Para275 Solar"" 0.0047 MUL ADD
+""GenLoad_5Para275 Wind"" 0.0047 MUL ADD
+BatDChg_5PortLincoln132 0.0579 MUL ADD
+BatChrg_5PortLincoln132 -0.0579 MUL ADD
+""GenLoad_5PortLincoln132 Solar"" 0.0579 MUL ADD
+""GenLoad_5PortLincoln132 Wind"" 0.0579 MUL ADD
+BatDChg_5Snuggery132 -0.0676 MUL ADD
+BatChrg_5Snuggery132 0.0676 MUL ADD
+""GenLoad_5Snuggery132 Solar"" -0.0676 MUL ADD
+""GenLoad_5Snuggery132 Wind"" -0.0676 MUL ADD
+BatDChg_5TailemBend275 -0.0421 MUL ADD
+BatChrg_5TailemBend275 0.0421 MUL ADD
+""GenLoad_5TailemBend275 Solar"" -0.0421 MUL ADD
+""GenLoad_5TailemBend275 Wind"" -0.0421 MUL ADD
+BatDChg_5TemplersWest275 0.0619 MUL ADD
+BatChrg_5TemplersWest275 -0.0619 MUL ADD
+""GenLoad_5TemplersWest275 Solar"" 0.0619 MUL ADD
+""GenLoad_5TemplersWest275 Wind"" 0.0619 MUL ADD
+BatDChg_5Tungkillo275 -0.0363 MUL ADD
+BatChrg_5Tungkillo275 0.0363 MUL ADD
+""GenLoad_5Tungkillo275 Solar"" -0.0363 MUL ADD
+""GenLoad_5Tungkillo275 Wind"" -0.0363 MUL ADD
+BatDChg_5Yadnarie132 0.0579 MUL ADD
+BatChrg_5Yadnarie132 -0.0579 MUL ADD
+""GenLoad_5Yadnarie132 Solar"" 0.0579 MUL ADD
+""GenLoad_5Yadnarie132 Wind"" 0.0579 MUL ADD
+BatDChg_ADPBA1 -0.0119 MUL ADD
+BatChrg_ADPBA1 0.0119 MUL ADD
+GenLoad_ADPPV1 -0.0119 MUL ADD
+GenLoad_ADPPV2 -0.0119 MUL ADD
+BatDChg_BLYTHB1 0.0653 MUL ADD
+BatChrg_BLYTHB1 -0.0653 MUL ADD
+GenLoad_BNGSF1 0.0579 MUL ADD
+GenLoad_BNGSF2 0.0579 MUL ADD
+GenLoad_BOLIVPS1 0.0042 MUL ADD
+BatDChg_BOWWBA1 0.0042 MUL ADD
+BatChrg_BOWWBA1 -0.0042 MUL ADD
+GenLoad_BOWWPV1 0.0042 MUL ADD
+""BatDChg_Blacktop BESS"" 0.0047 MUL ADD
+""BatChrg_Blacktop BESS"" -0.0047 MUL ADD
+""BatDChg_Blanche BESS"" -0.0676 MUL ADD
+""BatChrg_Blanche BESS"" 0.0676 MUL ADD
+GenLoad_CATHROCK 0.0579 MUL ADD
+BatDChg_CBWWBA1 -0.0124 MUL ADD
+BatChrg_CBWWBA1 0.0124 MUL ADD
+GenLoad_CNUNDAWF -0.0676 MUL ADD
+GenLoad_DRYCGT1 -0.0013 MUL ADD
+GenLoad_DRYCGT2 -0.0013 MUL ADD
+""BatDChg_Emeroo BESS"" 0.0579 MUL ADD
+""BatChrg_Emeroo BESS"" -0.0579 MUL ADD
+BatDChg_HVWWBA1 -0.0112 MUL ADD
+BatChrg_HVWWBA1 0.0112 MUL ADD
+GenLoad_HVWWPV1 -0.0112 MUL ADD
+GenLoad_LADBROK1 -0.0619 MUL ADD
+GenLoad_LADBROK2 -0.0619 MUL ADD
+BatDChg_LBB1 -0.0677 MUL ADD
+BatChrg_LBB1 0.0677 MUL ADD
+BatDChg_LGAPBS1 0.0579 MUL ADD
+BatChrg_LGAPBS1 -0.0579 MUL ADD
+GenLoad_LGAPWF1 0.0579 MUL ADD
+GenLoad_LGAPWF2 0.0579 MUL ADD
+GenLoad_LKBONNY1 -0.0676 MUL ADD
+GenLoad_LKBONNY2 -0.0676 MUL ADD
+GenLoad_LKBONNY3 -0.0677 MUL ADD
+GenLoad_LONSDALE -0.0123 MUL ADD
+GenLoad_MANNSF2 0.0568 MUL ADD
+BatDChg_MANNUMB1 0.0568 MUL ADD
+BatChrg_MANNUMB1 -0.0568 MUL ADD
+GenLoad_MAPS2PV1 0.0568 MUL ADD
+GenLoad_MAPS3PV1 0.0624 MUL ADD
+GenLoad_MBPS2PV1 0.0118 MUL ADD
+GenLoad_MTMILLAR 0.0579 MUL ADD
+""BatDChg_NSA Battery - Coordinated CER Storages"" 0.0579 MUL ADD
+""BatChrg_NSA Battery - Coordinated CER Storages"" -0.0579 MUL ADD
+""GenLoad_NSA HLoad_F"" 0.0579 MUL ADD
+""GenLoad_NSA HLoad_G"" 0.0579 MUL ADD
+""BatDChg_NSA V2G"" 0.0579 MUL ADD
+""BatChrg_NSA V2G"" -0.0579 MUL ADD
+""BatDChg_Northern Battery"" 0.0579 MUL ADD
+""BatChrg_Northern Battery"" -0.0579 MUL ADD
+GenLoad_PAREPS1 0.0579 MUL ADD
+GenLoad_PAREPW1 0.0579 MUL ADD
+GenLoad_POR01-1 0.0579 MUL ADD
+GenLoad_POR01-2 0.0579 MUL ADD
+GenLoad_POR01-3 0.0579 MUL ADD
+GenLoad_PTSTAN1_1 -0.0124 MUL ADD
+GenLoad_PTSTAN1_2 -0.0124 MUL ADD
+""GenLoad_Palmer Wind Farm"" -0.0363 MUL ADD
+""BatDChg_Reeves Plains Power Station BESS"" 0.0222 MUL ADD
+""BatChrg_Reeves Plains Power Station BESS"" -0.0222 MUL ADD
+GenLoad_SNOWNTH1 0.0653 MUL ADD
+GenLoad_SNOWSTH1 0.0653 MUL ADD
+GenLoad_SNUG1 -0.0676 MUL ADD
+GenLoad_SNUG2 -0.0676 MUL ADD
+GenLoad_SNUG3 -0.0676 MUL ADD
+GenLoad_STARHLWF -0.0127 MUL ADD
+""BatDChg_Summerfield BESS 1"" -0.0363 MUL ADD
+""BatChrg_Summerfield BESS 1"" 0.0363 MUL ADD
+""BatDChg_Summerfield BESS 2"" -0.0363 MUL ADD
+""BatChrg_Summerfield BESS 2"" 0.0363 MUL ADD
+BatDChg_TB2B1 -0.0172 MUL ADD
+BatChrg_TB2B1 0.0172 MUL ADD
+GenLoad_TB2SF1 -0.0172 MUL ADD
+GenLoad_TBSF1 -0.0172 MUL ADD
+BatDChg_TEMPB1 0.0619 MUL ADD
+BatChrg_TEMPB1 -0.0619 MUL ADD
+""BatDChg_Tailem Bend Stage 3"" -0.0421 MUL ADD
+""BatChrg_Tailem Bend Stage 3"" 0.0421 MUL ADD
+""BatDChg_Tungkillo BESS"" -0.0363 MUL ADD
+""BatChrg_Tungkillo BESS"" 0.0363 MUL ADD
+""GenLoad_Vast Solar 1"" 0.0579 MUL ADD
+"	""	""	"NetworkConstraints"
+"Constraints"	"NEM"	"S>>S_NIL_WEWT1_LKDP1"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"NotSummer_Grp10"	"="	"1 331.9825 MUL ADD
+Var_OPGEN_CSA -0.0071 MUL ADD
+Var_OPGEN_NSA -0.0581 MUL ADD
+Var_OPGEN_SESA 0.0509 MUL ADD
+BatDChg_5BlythWest275 0.0654 MUL ADD
+BatChrg_5BlythWest275 -0.0654 MUL ADD
+""GenLoad_5BlythWest275 Solar"" 0.0654 MUL ADD
+""GenLoad_5BlythWest275 Wind"" 0.0654 MUL ADD
+BatDChg_5Davenport275 0.0581 MUL ADD
+BatChrg_5Davenport275 -0.0581 MUL ADD
+""GenLoad_5Davenport275 Solar"" 0.0581 MUL ADD
+""GenLoad_5Davenport275 Wind"" 0.0581 MUL ADD
+BatDChg_5Mobilong132 0.0141 MUL ADD
+BatChrg_5Mobilong132 -0.0141 MUL ADD
+""GenLoad_5Mobilong132 Solar"" 0.0141 MUL ADD
+""GenLoad_5Mobilong132 Wind"" 0.0141 MUL ADD
+BatDChg_5OlymDamWest275 0.0581 MUL ADD
+BatChrg_5OlymDamWest275 -0.0581 MUL ADD
+""GenLoad_5OlymDamWest275 Solar"" 0.0581 MUL ADD
+""GenLoad_5OlymDamWest275 Wind"" 0.0581 MUL ADD
+BatDChg_5Para275 0.0046 MUL ADD
+BatChrg_5Para275 -0.0046 MUL ADD
+""GenLoad_5Para275 Solar"" 0.0046 MUL ADD
+""GenLoad_5Para275 Wind"" 0.0046 MUL ADD
+BatDChg_5PortLincoln132 0.0581 MUL ADD
+BatChrg_5PortLincoln132 -0.0581 MUL ADD
+""GenLoad_5PortLincoln132 Solar"" 0.0581 MUL ADD
+""GenLoad_5PortLincoln132 Wind"" 0.0581 MUL ADD
+BatDChg_5Snuggery132 -0.0684 MUL ADD
+BatChrg_5Snuggery132 0.0684 MUL ADD
+""GenLoad_5Snuggery132 Solar"" -0.0684 MUL ADD
+""GenLoad_5Snuggery132 Wind"" -0.0684 MUL ADD
+BatDChg_5TailemBend275 -0.0424 MUL ADD
+BatChrg_5TailemBend275 0.0424 MUL ADD
+""GenLoad_5TailemBend275 Solar"" -0.0424 MUL ADD
+""GenLoad_5TailemBend275 Wind"" -0.0424 MUL ADD
+BatDChg_5TemplersWest275 0.0619 MUL ADD
+BatChrg_5TemplersWest275 -0.0619 MUL ADD
+""GenLoad_5TemplersWest275 Solar"" 0.0619 MUL ADD
+""GenLoad_5TemplersWest275 Wind"" 0.0619 MUL ADD
+BatDChg_5Tungkillo275 -0.0364 MUL ADD
+BatChrg_5Tungkillo275 0.0364 MUL ADD
+""GenLoad_5Tungkillo275 Solar"" -0.0364 MUL ADD
+""GenLoad_5Tungkillo275 Wind"" -0.0364 MUL ADD
+BatDChg_5Yadnarie132 0.0581 MUL ADD
+BatChrg_5Yadnarie132 -0.0581 MUL ADD
+""GenLoad_5Yadnarie132 Solar"" 0.0581 MUL ADD
+""GenLoad_5Yadnarie132 Wind"" 0.0581 MUL ADD
+BatDChg_ADPBA1 -0.0119 MUL ADD
+BatChrg_ADPBA1 0.0119 MUL ADD
+GenLoad_ADPPV1 -0.0119 MUL ADD
+GenLoad_ADPPV2 -0.0119 MUL ADD
+BatDChg_BLYTHB1 0.0654 MUL ADD
+BatChrg_BLYTHB1 -0.0654 MUL ADD
+GenLoad_BNGSF1 0.0581 MUL ADD
+GenLoad_BNGSF2 0.0581 MUL ADD
+GenLoad_BOLIVPS1 0.0042 MUL ADD
+BatDChg_BOWWBA1 0.0042 MUL ADD
+BatChrg_BOWWBA1 -0.0042 MUL ADD
+GenLoad_BOWWPV1 0.0042 MUL ADD
+""BatDChg_Blacktop BESS"" 0.0046 MUL ADD
+""BatChrg_Blacktop BESS"" -0.0046 MUL ADD
+""BatDChg_Blanche BESS"" -0.0684 MUL ADD
+""BatChrg_Blanche BESS"" 0.0684 MUL ADD
+GenLoad_CATHROCK 0.0581 MUL ADD
+BatDChg_CBWWBA1 -0.0124 MUL ADD
+BatChrg_CBWWBA1 0.0124 MUL ADD
+GenLoad_CNUNDAWF -0.0684 MUL ADD
+GenLoad_DRYCGT1 -0.0013 MUL ADD
+GenLoad_DRYCGT2 -0.0013 MUL ADD
+""BatDChg_Emeroo BESS"" 0.0581 MUL ADD
+""BatChrg_Emeroo BESS"" -0.0581 MUL ADD
+BatDChg_HVWWBA1 -0.0112 MUL ADD
+BatChrg_HVWWBA1 0.0112 MUL ADD
+GenLoad_HVWWPV1 -0.0112 MUL ADD
+GenLoad_LADBROK1 -0.0626 MUL ADD
+GenLoad_LADBROK2 -0.0626 MUL ADD
+BatDChg_LBB1 -0.0685 MUL ADD
+BatChrg_LBB1 0.0685 MUL ADD
+BatDChg_LGAPBS1 0.0581 MUL ADD
+BatChrg_LGAPBS1 -0.0581 MUL ADD
+GenLoad_LGAPWF1 0.0581 MUL ADD
+GenLoad_LGAPWF2 0.0581 MUL ADD
+GenLoad_LKBONNY1 -0.0684 MUL ADD
+GenLoad_LKBONNY2 -0.0684 MUL ADD
+GenLoad_LKBONNY3 -0.0685 MUL ADD
+GenLoad_LONSDALE -0.0124 MUL ADD
+GenLoad_MANNSF2 0.0567 MUL ADD
+BatDChg_MANNUMB1 0.0567 MUL ADD
+BatChrg_MANNUMB1 -0.0567 MUL ADD
+GenLoad_MAPS2PV1 0.0567 MUL ADD
+GenLoad_MAPS3PV1 0.0623 MUL ADD
+GenLoad_MBPS2PV1 0.0117 MUL ADD
+GenLoad_MTMILLAR 0.0581 MUL ADD
+""BatDChg_NSA Battery - Coordinated CER Storages"" 0.0581 MUL ADD
+""BatChrg_NSA Battery - Coordinated CER Storages"" -0.0581 MUL ADD
+""GenLoad_NSA HLoad_F"" 0.0581 MUL ADD
+""GenLoad_NSA HLoad_G"" 0.0581 MUL ADD
+""BatDChg_NSA V2G"" 0.0581 MUL ADD
+""BatChrg_NSA V2G"" -0.0581 MUL ADD
+""BatDChg_Northern Battery"" 0.0581 MUL ADD
+""BatChrg_Northern Battery"" -0.0581 MUL ADD
+GenLoad_PAREPS1 0.0581 MUL ADD
+GenLoad_PAREPW1 0.0581 MUL ADD
+GenLoad_POR01-1 0.0581 MUL ADD
+GenLoad_POR01-2 0.0581 MUL ADD
+GenLoad_POR01-3 0.0581 MUL ADD
+GenLoad_PTSTAN1_1 -0.0124 MUL ADD
+GenLoad_PTSTAN1_2 -0.0124 MUL ADD
+""GenLoad_Palmer Wind Farm"" -0.0364 MUL ADD
+""BatDChg_Reeves Plains Power Station BESS"" 0.0222 MUL ADD
+""BatChrg_Reeves Plains Power Station BESS"" -0.0222 MUL ADD
+GenLoad_SNOWNTH1 0.0654 MUL ADD
+GenLoad_SNOWSTH1 0.0654 MUL ADD
+GenLoad_SNUG1 -0.0684 MUL ADD
+GenLoad_SNUG2 -0.0684 MUL ADD
+GenLoad_SNUG3 -0.0684 MUL ADD
+GenLoad_STARHLWF -0.0127 MUL ADD
+""BatDChg_Summerfield BESS 1"" -0.0364 MUL ADD
+""BatChrg_Summerfield BESS 1"" 0.0364 MUL ADD
+""BatDChg_Summerfield BESS 2"" -0.0364 MUL ADD
+""BatChrg_Summerfield BESS 2"" 0.0364 MUL ADD
+BatDChg_TB2B1 -0.0174 MUL ADD
+BatChrg_TB2B1 0.0174 MUL ADD
+GenLoad_TB2SF1 -0.0174 MUL ADD
+GenLoad_TBSF1 -0.0174 MUL ADD
+BatDChg_TEMPB1 0.0619 MUL ADD
+BatChrg_TEMPB1 -0.0619 MUL ADD
+""BatDChg_Tailem Bend Stage 3"" -0.0424 MUL ADD
+""BatChrg_Tailem Bend Stage 3"" 0.0424 MUL ADD
+""BatDChg_Tungkillo BESS"" -0.0364 MUL ADD
+""BatChrg_Tungkillo BESS"" 0.0364 MUL ADD
+""GenLoad_Vast Solar 1"" 0.0581 MUL ADD
+"	""	""	"NetworkConstraints"
+"Constraints"	"NEM"	"S>>S_NIL_WEWT1_LKDP1"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"NotSummer_Grp11"	"="	"1 331.9633 MUL ADD
+Var_OPGEN_CSA -0.0071 MUL ADD
+Var_OPGEN_NSA -0.0581 MUL ADD
+Var_OPGEN_SESA 0.0509 MUL ADD
+BatDChg_5BlythWest275 0.0654 MUL ADD
+BatChrg_5BlythWest275 -0.0654 MUL ADD
+""GenLoad_5BlythWest275 Solar"" 0.0654 MUL ADD
+""GenLoad_5BlythWest275 Wind"" 0.0654 MUL ADD
+BatDChg_5Davenport275 0.0581 MUL ADD
+BatChrg_5Davenport275 -0.0581 MUL ADD
+""GenLoad_5Davenport275 Solar"" 0.0581 MUL ADD
+""GenLoad_5Davenport275 Wind"" 0.0581 MUL ADD
+BatDChg_5Mobilong132 0.0141 MUL ADD
+BatChrg_5Mobilong132 -0.0141 MUL ADD
+""GenLoad_5Mobilong132 Solar"" 0.0141 MUL ADD
+""GenLoad_5Mobilong132 Wind"" 0.0141 MUL ADD
+BatDChg_5OlymDamWest275 0.0581 MUL ADD
+BatChrg_5OlymDamWest275 -0.0581 MUL ADD
+""GenLoad_5OlymDamWest275 Solar"" 0.0581 MUL ADD
+""GenLoad_5OlymDamWest275 Wind"" 0.0581 MUL ADD
+BatDChg_5Para275 0.0046 MUL ADD
+BatChrg_5Para275 -0.0046 MUL ADD
+""GenLoad_5Para275 Solar"" 0.0046 MUL ADD
+""GenLoad_5Para275 Wind"" 0.0046 MUL ADD
+BatDChg_5PortLincoln132 0.0581 MUL ADD
+BatChrg_5PortLincoln132 -0.0581 MUL ADD
+""GenLoad_5PortLincoln132 Solar"" 0.0581 MUL ADD
+""GenLoad_5PortLincoln132 Wind"" 0.0581 MUL ADD
+BatDChg_5Snuggery132 -0.0684 MUL ADD
+BatChrg_5Snuggery132 0.0684 MUL ADD
+""GenLoad_5Snuggery132 Solar"" -0.0684 MUL ADD
+""GenLoad_5Snuggery132 Wind"" -0.0684 MUL ADD
+BatDChg_5TailemBend275 -0.0424 MUL ADD
+BatChrg_5TailemBend275 0.0424 MUL ADD
+""GenLoad_5TailemBend275 Solar"" -0.0424 MUL ADD
+""GenLoad_5TailemBend275 Wind"" -0.0424 MUL ADD
+BatDChg_5TemplersWest275 0.0619 MUL ADD
+BatChrg_5TemplersWest275 -0.0619 MUL ADD
+""GenLoad_5TemplersWest275 Solar"" 0.0619 MUL ADD
+""GenLoad_5TemplersWest275 Wind"" 0.0619 MUL ADD
+BatDChg_5Tungkillo275 -0.0364 MUL ADD
+BatChrg_5Tungkillo275 0.0364 MUL ADD
+""GenLoad_5Tungkillo275 Solar"" -0.0364 MUL ADD
+""GenLoad_5Tungkillo275 Wind"" -0.0364 MUL ADD
+BatDChg_5Yadnarie132 0.0581 MUL ADD
+BatChrg_5Yadnarie132 -0.0581 MUL ADD
+""GenLoad_5Yadnarie132 Solar"" 0.0581 MUL ADD
+""GenLoad_5Yadnarie132 Wind"" 0.0581 MUL ADD
+BatDChg_ADPBA1 -0.0119 MUL ADD
+BatChrg_ADPBA1 0.0119 MUL ADD
+GenLoad_ADPPV1 -0.0119 MUL ADD
+GenLoad_ADPPV2 -0.0119 MUL ADD
+BatDChg_BLYTHB1 0.0654 MUL ADD
+BatChrg_BLYTHB1 -0.0654 MUL ADD
+GenLoad_BNGSF1 0.0581 MUL ADD
+GenLoad_BNGSF2 0.0581 MUL ADD
+GenLoad_BOLIVPS1 0.0042 MUL ADD
+BatDChg_BOWWBA1 0.0042 MUL ADD
+BatChrg_BOWWBA1 -0.0042 MUL ADD
+GenLoad_BOWWPV1 0.0042 MUL ADD
+""BatDChg_Blacktop BESS"" 0.0046 MUL ADD
+""BatChrg_Blacktop BESS"" -0.0046 MUL ADD
+""BatDChg_Blanche BESS"" -0.0684 MUL ADD
+""BatChrg_Blanche BESS"" 0.0684 MUL ADD
+GenLoad_CATHROCK 0.0581 MUL ADD
+BatDChg_CBWWBA1 -0.0124 MUL ADD
+BatChrg_CBWWBA1 0.0124 MUL ADD
+GenLoad_CNUNDAWF -0.0684 MUL ADD
+GenLoad_DRYCGT1 -0.0013 MUL ADD
+GenLoad_DRYCGT2 -0.0013 MUL ADD
+""BatDChg_Emeroo BESS"" 0.0581 MUL ADD
+""BatChrg_Emeroo BESS"" -0.0581 MUL ADD
+BatDChg_HVWWBA1 -0.0112 MUL ADD
+BatChrg_HVWWBA1 0.0112 MUL ADD
+GenLoad_HVWWPV1 -0.0112 MUL ADD
+GenLoad_LADBROK1 -0.0627 MUL ADD
+GenLoad_LADBROK2 -0.0627 MUL ADD
+BatDChg_LBB1 -0.0685 MUL ADD
+BatChrg_LBB1 0.0685 MUL ADD
+BatDChg_LGAPBS1 0.0581 MUL ADD
+BatChrg_LGAPBS1 -0.0581 MUL ADD
+GenLoad_LGAPWF1 0.0581 MUL ADD
+GenLoad_LGAPWF2 0.0581 MUL ADD
+GenLoad_LKBONNY1 -0.0684 MUL ADD
+GenLoad_LKBONNY2 -0.0684 MUL ADD
+GenLoad_LKBONNY3 -0.0685 MUL ADD
+GenLoad_LONSDALE -0.0124 MUL ADD
+GenLoad_MANNSF2 0.0567 MUL ADD
+BatDChg_MANNUMB1 0.0567 MUL ADD
+BatChrg_MANNUMB1 -0.0567 MUL ADD
+GenLoad_MAPS2PV1 0.0567 MUL ADD
+GenLoad_MAPS3PV1 0.0623 MUL ADD
+GenLoad_MBPS2PV1 0.0117 MUL ADD
+GenLoad_MTMILLAR 0.0581 MUL ADD
+""BatDChg_NSA Battery - Coordinated CER Storages"" 0.0581 MUL ADD
+""BatChrg_NSA Battery - Coordinated CER Storages"" -0.0581 MUL ADD
+""GenLoad_NSA HLoad_F"" 0.0581 MUL ADD
+""GenLoad_NSA HLoad_G"" 0.0581 MUL ADD
+""BatDChg_NSA V2G"" 0.0581 MUL ADD
+""BatChrg_NSA V2G"" -0.0581 MUL ADD
+""BatDChg_Northern Battery"" 0.0581 MUL ADD
+""BatChrg_Northern Battery"" -0.0581 MUL ADD
+GenLoad_PAREPS1 0.0581 MUL ADD
+GenLoad_PAREPW1 0.0581 MUL ADD
+GenLoad_POR01-1 0.0581 MUL ADD
+GenLoad_POR01-2 0.0581 MUL ADD
+GenLoad_POR01-3 0.0581 MUL ADD
+GenLoad_PTSTAN1_1 -0.0124 MUL ADD
+GenLoad_PTSTAN1_2 -0.0124 MUL ADD
+""GenLoad_Palmer Wind Farm"" -0.0364 MUL ADD
+""BatDChg_Reeves Plains Power Station BESS"" 0.0222 MUL ADD
+""BatChrg_Reeves Plains Power Station BESS"" -0.0222 MUL ADD
+GenLoad_SNOWNTH1 0.0654 MUL ADD
+GenLoad_SNOWSTH1 0.0654 MUL ADD
+GenLoad_SNUG1 -0.0684 MUL ADD
+GenLoad_SNUG2 -0.0684 MUL ADD
+GenLoad_SNUG3 -0.0684 MUL ADD
+GenLoad_STARHLWF -0.0127 MUL ADD
+""BatDChg_Summerfield BESS 1"" -0.0364 MUL ADD
+""BatChrg_Summerfield BESS 1"" 0.0364 MUL ADD
+""BatDChg_Summerfield BESS 2"" -0.0364 MUL ADD
+""BatChrg_Summerfield BESS 2"" 0.0364 MUL ADD
+BatDChg_TB2B1 -0.0174 MUL ADD
+BatChrg_TB2B1 0.0174 MUL ADD
+GenLoad_TB2SF1 -0.0174 MUL ADD
+GenLoad_TBSF1 -0.0174 MUL ADD
+BatDChg_TEMPB1 0.0619 MUL ADD
+BatChrg_TEMPB1 -0.0619 MUL ADD
+""BatDChg_Tailem Bend Stage 3"" -0.0424 MUL ADD
+""BatChrg_Tailem Bend Stage 3"" 0.0424 MUL ADD
+""BatDChg_Tungkillo BESS"" -0.0364 MUL ADD
+""BatChrg_Tungkillo BESS"" 0.0364 MUL ADD
+""GenLoad_Vast Solar 1"" 0.0581 MUL ADD
+"	""	""	"NetworkConstraints"
+"Constraints"	"NEM"	"S>>S_NIL_WEWT1_LKDP1"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"NotSummer_Grp2"	"="	"1 330.4656 MUL ADD
+Var_OPGEN_CSA -0.0071 MUL ADD
+Var_OPGEN_NSA -0.0579 MUL ADD
+Var_OPGEN_SESA 0.0503 MUL ADD
+BatDChg_5BlythWest275 0.0653 MUL ADD
+BatChrg_5BlythWest275 -0.0653 MUL ADD
+""GenLoad_5BlythWest275 Solar"" 0.0653 MUL ADD
+""GenLoad_5BlythWest275 Wind"" 0.0653 MUL ADD
+BatDChg_5Davenport275 0.0579 MUL ADD
+BatChrg_5Davenport275 -0.0579 MUL ADD
+""GenLoad_5Davenport275 Solar"" 0.0579 MUL ADD
+""GenLoad_5Davenport275 Wind"" 0.0579 MUL ADD
+BatDChg_5Mobilong132 0.0142 MUL ADD
+BatChrg_5Mobilong132 -0.0142 MUL ADD
+""GenLoad_5Mobilong132 Solar"" 0.0142 MUL ADD
+""GenLoad_5Mobilong132 Wind"" 0.0142 MUL ADD
+BatDChg_5OlymDamWest275 0.0579 MUL ADD
+BatChrg_5OlymDamWest275 -0.0579 MUL ADD
+""GenLoad_5OlymDamWest275 Solar"" 0.0579 MUL ADD
+""GenLoad_5OlymDamWest275 Wind"" 0.0579 MUL ADD
+BatDChg_5Para275 0.0047 MUL ADD
+BatChrg_5Para275 -0.0047 MUL ADD
+""GenLoad_5Para275 Solar"" 0.0047 MUL ADD
+""GenLoad_5Para275 Wind"" 0.0047 MUL ADD
+BatDChg_5PortLincoln132 0.0579 MUL ADD
+BatChrg_5PortLincoln132 -0.0579 MUL ADD
+""GenLoad_5PortLincoln132 Solar"" 0.0579 MUL ADD
+""GenLoad_5PortLincoln132 Wind"" 0.0579 MUL ADD
+BatDChg_5Snuggery132 -0.0676 MUL ADD
+BatChrg_5Snuggery132 0.0676 MUL ADD
+""GenLoad_5Snuggery132 Solar"" -0.0676 MUL ADD
+""GenLoad_5Snuggery132 Wind"" -0.0676 MUL ADD
+BatDChg_5TailemBend275 -0.0421 MUL ADD
+BatChrg_5TailemBend275 0.0421 MUL ADD
+""GenLoad_5TailemBend275 Solar"" -0.0421 MUL ADD
+""GenLoad_5TailemBend275 Wind"" -0.0421 MUL ADD
+BatDChg_5TemplersWest275 0.0619 MUL ADD
+BatChrg_5TemplersWest275 -0.0619 MUL ADD
+""GenLoad_5TemplersWest275 Solar"" 0.0619 MUL ADD
+""GenLoad_5TemplersWest275 Wind"" 0.0619 MUL ADD
+BatDChg_5Tungkillo275 -0.0363 MUL ADD
+BatChrg_5Tungkillo275 0.0363 MUL ADD
+""GenLoad_5Tungkillo275 Solar"" -0.0363 MUL ADD
+""GenLoad_5Tungkillo275 Wind"" -0.0363 MUL ADD
+BatDChg_5Yadnarie132 0.0579 MUL ADD
+BatChrg_5Yadnarie132 -0.0579 MUL ADD
+""GenLoad_5Yadnarie132 Solar"" 0.0579 MUL ADD
+""GenLoad_5Yadnarie132 Wind"" 0.0579 MUL ADD
+BatDChg_ADPBA1 -0.0119 MUL ADD
+BatChrg_ADPBA1 0.0119 MUL ADD
+GenLoad_ADPPV1 -0.0119 MUL ADD
+GenLoad_ADPPV2 -0.0119 MUL ADD
+BatDChg_BLYTHB1 0.0653 MUL ADD
+BatChrg_BLYTHB1 -0.0653 MUL ADD
+GenLoad_BNGSF1 0.0579 MUL ADD
+GenLoad_BNGSF2 0.0579 MUL ADD
+GenLoad_BOLIVPS1 0.0042 MUL ADD
+BatDChg_BOWWBA1 0.0042 MUL ADD
+BatChrg_BOWWBA1 -0.0042 MUL ADD
+GenLoad_BOWWPV1 0.0042 MUL ADD
+""BatDChg_Blacktop BESS"" 0.0047 MUL ADD
+""BatChrg_Blacktop BESS"" -0.0047 MUL ADD
+""BatDChg_Blanche BESS"" -0.0676 MUL ADD
+""BatChrg_Blanche BESS"" 0.0676 MUL ADD
+GenLoad_CATHROCK 0.0579 MUL ADD
+BatDChg_CBWWBA1 -0.0124 MUL ADD
+BatChrg_CBWWBA1 0.0124 MUL ADD
+GenLoad_CNUNDAWF -0.0676 MUL ADD
+GenLoad_DRYCGT1 -0.0013 MUL ADD
+GenLoad_DRYCGT2 -0.0013 MUL ADD
+""BatDChg_Emeroo BESS"" 0.0579 MUL ADD
+""BatChrg_Emeroo BESS"" -0.0579 MUL ADD
+BatDChg_HVWWBA1 -0.0112 MUL ADD
+BatChrg_HVWWBA1 0.0112 MUL ADD
+GenLoad_HVWWPV1 -0.0112 MUL ADD
+GenLoad_LADBROK1 -0.0619 MUL ADD
+GenLoad_LADBROK2 -0.0619 MUL ADD
+BatDChg_LBB1 -0.0677 MUL ADD
+BatChrg_LBB1 0.0677 MUL ADD
+BatDChg_LGAPBS1 0.0579 MUL ADD
+BatChrg_LGAPBS1 -0.0579 MUL ADD
+GenLoad_LGAPWF1 0.0579 MUL ADD
+GenLoad_LGAPWF2 0.0579 MUL ADD
+GenLoad_LKBONNY1 -0.0676 MUL ADD
+GenLoad_LKBONNY2 -0.0676 MUL ADD
+GenLoad_LKBONNY3 -0.0677 MUL ADD
+GenLoad_LONSDALE -0.0123 MUL ADD
+GenLoad_MANNSF2 0.0568 MUL ADD
+BatDChg_MANNUMB1 0.0568 MUL ADD
+BatChrg_MANNUMB1 -0.0568 MUL ADD
+GenLoad_MAPS2PV1 0.0568 MUL ADD
+GenLoad_MAPS3PV1 0.0624 MUL ADD
+GenLoad_MBPS2PV1 0.0118 MUL ADD
+GenLoad_MTMILLAR 0.0579 MUL ADD
+""BatDChg_NSA Battery - Coordinated CER Storages"" 0.0579 MUL ADD
+""BatChrg_NSA Battery - Coordinated CER Storages"" -0.0579 MUL ADD
+""GenLoad_NSA HLoad_F"" 0.0579 MUL ADD
+""GenLoad_NSA HLoad_G"" 0.0579 MUL ADD
+""BatDChg_NSA V2G"" 0.0579 MUL ADD
+""BatChrg_NSA V2G"" -0.0579 MUL ADD
+""BatDChg_Northern Battery"" 0.0579 MUL ADD
+""BatChrg_Northern Battery"" -0.0579 MUL ADD
+GenLoad_PAREPS1 0.0579 MUL ADD
+GenLoad_PAREPW1 0.0579 MUL ADD
+GenLoad_POR01-1 0.0579 MUL ADD
+GenLoad_POR01-2 0.0579 MUL ADD
+GenLoad_POR01-3 0.0579 MUL ADD
+GenLoad_PTSTAN1_1 -0.0124 MUL ADD
+GenLoad_PTSTAN1_2 -0.0124 MUL ADD
+""GenLoad_Palmer Wind Farm"" -0.0363 MUL ADD
+""BatDChg_Reeves Plains Power Station BESS"" 0.0222 MUL ADD
+""BatChrg_Reeves Plains Power Station BESS"" -0.0222 MUL ADD
+GenLoad_SNOWNTH1 0.0653 MUL ADD
+GenLoad_SNOWSTH1 0.0653 MUL ADD
+GenLoad_SNUG1 -0.0676 MUL ADD
+GenLoad_SNUG2 -0.0676 MUL ADD
+GenLoad_SNUG3 -0.0676 MUL ADD
+GenLoad_STARHLWF -0.0127 MUL ADD
+""BatDChg_Summerfield BESS 1"" -0.0363 MUL ADD
+""BatChrg_Summerfield BESS 1"" 0.0363 MUL ADD
+""BatDChg_Summerfield BESS 2"" -0.0363 MUL ADD
+""BatChrg_Summerfield BESS 2"" 0.0363 MUL ADD
+BatDChg_TB2B1 -0.0172 MUL ADD
+BatChrg_TB2B1 0.0172 MUL ADD
+GenLoad_TB2SF1 -0.0172 MUL ADD
+GenLoad_TBSF1 -0.0172 MUL ADD
+BatDChg_TEMPB1 0.0619 MUL ADD
+BatChrg_TEMPB1 -0.0619 MUL ADD
+""BatDChg_Tailem Bend Stage 3"" -0.0421 MUL ADD
+""BatChrg_Tailem Bend Stage 3"" 0.0421 MUL ADD
+""BatDChg_Tungkillo BESS"" -0.0363 MUL ADD
+""BatChrg_Tungkillo BESS"" 0.0363 MUL ADD
+""GenLoad_Vast Solar 1"" 0.0579 MUL ADD
+"	""	""	"NetworkConstraints"
+"Constraints"	"NEM"	"S>>S_NIL_WEWT1_LKDP1"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"NotSummer_Grp3"	"="	"1 332.077 MUL ADD
+Var_OPGEN_CSA -0.0071 MUL ADD
+Var_OPGEN_NSA -0.058 MUL ADD
+Var_OPGEN_SESA 0.0505 MUL ADD
+BatDChg_5BlythWest275 0.0653 MUL ADD
+BatChrg_5BlythWest275 -0.0653 MUL ADD
+""GenLoad_5BlythWest275 Solar"" 0.0653 MUL ADD
+""GenLoad_5BlythWest275 Wind"" 0.0653 MUL ADD
+BatDChg_5Davenport275 0.058 MUL ADD
+BatChrg_5Davenport275 -0.058 MUL ADD
+""GenLoad_5Davenport275 Solar"" 0.058 MUL ADD
+""GenLoad_5Davenport275 Wind"" 0.058 MUL ADD
+BatDChg_5Mobilong132 0.0142 MUL ADD
+BatChrg_5Mobilong132 -0.0142 MUL ADD
+""GenLoad_5Mobilong132 Solar"" 0.0142 MUL ADD
+""GenLoad_5Mobilong132 Wind"" 0.0142 MUL ADD
+BatDChg_5OlymDamWest275 0.058 MUL ADD
+BatChrg_5OlymDamWest275 -0.058 MUL ADD
+""GenLoad_5OlymDamWest275 Solar"" 0.058 MUL ADD
+""GenLoad_5OlymDamWest275 Wind"" 0.058 MUL ADD
+BatDChg_5Para275 0.0046 MUL ADD
+BatChrg_5Para275 -0.0046 MUL ADD
+""GenLoad_5Para275 Solar"" 0.0046 MUL ADD
+""GenLoad_5Para275 Wind"" 0.0046 MUL ADD
+BatDChg_5PortLincoln132 0.058 MUL ADD
+BatChrg_5PortLincoln132 -0.058 MUL ADD
+""GenLoad_5PortLincoln132 Solar"" 0.058 MUL ADD
+""GenLoad_5PortLincoln132 Wind"" 0.058 MUL ADD
+BatDChg_5Snuggery132 -0.0679 MUL ADD
+BatChrg_5Snuggery132 0.0679 MUL ADD
+""GenLoad_5Snuggery132 Solar"" -0.0679 MUL ADD
+""GenLoad_5Snuggery132 Wind"" -0.0679 MUL ADD
+BatDChg_5TailemBend275 -0.0422 MUL ADD
+BatChrg_5TailemBend275 0.0422 MUL ADD
+""GenLoad_5TailemBend275 Solar"" -0.0422 MUL ADD
+""GenLoad_5TailemBend275 Wind"" -0.0422 MUL ADD
+BatDChg_5TemplersWest275 0.0619 MUL ADD
+BatChrg_5TemplersWest275 -0.0619 MUL ADD
+""GenLoad_5TemplersWest275 Solar"" 0.0619 MUL ADD
+""GenLoad_5TemplersWest275 Wind"" 0.0619 MUL ADD
+BatDChg_5Tungkillo275 -0.0364 MUL ADD
+BatChrg_5Tungkillo275 0.0364 MUL ADD
+""GenLoad_5Tungkillo275 Solar"" -0.0364 MUL ADD
+""GenLoad_5Tungkillo275 Wind"" -0.0364 MUL ADD
+BatDChg_5Yadnarie132 0.058 MUL ADD
+BatChrg_5Yadnarie132 -0.058 MUL ADD
+""GenLoad_5Yadnarie132 Solar"" 0.058 MUL ADD
+""GenLoad_5Yadnarie132 Wind"" 0.058 MUL ADD
+BatDChg_ADPBA1 -0.0119 MUL ADD
+BatChrg_ADPBA1 0.0119 MUL ADD
+GenLoad_ADPPV1 -0.0119 MUL ADD
+GenLoad_ADPPV2 -0.0119 MUL ADD
+BatDChg_BLYTHB1 0.0653 MUL ADD
+BatChrg_BLYTHB1 -0.0653 MUL ADD
+GenLoad_BNGSF1 0.058 MUL ADD
+GenLoad_BNGSF2 0.058 MUL ADD
+GenLoad_BOLIVPS1 0.0042 MUL ADD
+BatDChg_BOWWBA1 0.0042 MUL ADD
+BatChrg_BOWWBA1 -0.0042 MUL ADD
+GenLoad_BOWWPV1 0.0042 MUL ADD
+""BatDChg_Blacktop BESS"" 0.0046 MUL ADD
+""BatChrg_Blacktop BESS"" -0.0046 MUL ADD
+""BatDChg_Blanche BESS"" -0.0679 MUL ADD
+""BatChrg_Blanche BESS"" 0.0679 MUL ADD
+GenLoad_CATHROCK 0.058 MUL ADD
+BatDChg_CBWWBA1 -0.0124 MUL ADD
+BatChrg_CBWWBA1 0.0124 MUL ADD
+GenLoad_CNUNDAWF -0.0679 MUL ADD
+GenLoad_DRYCGT1 -0.0013 MUL ADD
+GenLoad_DRYCGT2 -0.0013 MUL ADD
+""BatDChg_Emeroo BESS"" 0.058 MUL ADD
+""BatChrg_Emeroo BESS"" -0.058 MUL ADD
+BatDChg_HVWWBA1 -0.0112 MUL ADD
+BatChrg_HVWWBA1 0.0112 MUL ADD
+GenLoad_HVWWPV1 -0.0112 MUL ADD
+GenLoad_LADBROK1 -0.0622 MUL ADD
+GenLoad_LADBROK2 -0.0622 MUL ADD
+BatDChg_LBB1 -0.068 MUL ADD
+BatChrg_LBB1 0.068 MUL ADD
+BatDChg_LGAPBS1 0.058 MUL ADD
+BatChrg_LGAPBS1 -0.058 MUL ADD
+GenLoad_LGAPWF1 0.058 MUL ADD
+GenLoad_LGAPWF2 0.058 MUL ADD
+GenLoad_LKBONNY1 -0.0679 MUL ADD
+GenLoad_LKBONNY2 -0.0679 MUL ADD
+GenLoad_LKBONNY3 -0.068 MUL ADD
+GenLoad_LONSDALE -0.0124 MUL ADD
+GenLoad_MANNSF2 0.0567 MUL ADD
+BatDChg_MANNUMB1 0.0567 MUL ADD
+BatChrg_MANNUMB1 -0.0567 MUL ADD
+GenLoad_MAPS2PV1 0.0567 MUL ADD
+GenLoad_MAPS3PV1 0.0623 MUL ADD
+GenLoad_MBPS2PV1 0.0118 MUL ADD
+GenLoad_MTMILLAR 0.058 MUL ADD
+""BatDChg_NSA Battery - Coordinated CER Storages"" 0.058 MUL ADD
+""BatChrg_NSA Battery - Coordinated CER Storages"" -0.058 MUL ADD
+""GenLoad_NSA HLoad_F"" 0.058 MUL ADD
+""GenLoad_NSA HLoad_G"" 0.058 MUL ADD
+""BatDChg_NSA V2G"" 0.058 MUL ADD
+""BatChrg_NSA V2G"" -0.058 MUL ADD
+""BatDChg_Northern Battery"" 0.058 MUL ADD
+""BatChrg_Northern Battery"" -0.058 MUL ADD
+GenLoad_PAREPS1 0.058 MUL ADD
+GenLoad_PAREPW1 0.058 MUL ADD
+GenLoad_POR01-1 0.058 MUL ADD
+GenLoad_POR01-2 0.058 MUL ADD
+GenLoad_POR01-3 0.058 MUL ADD
+GenLoad_PTSTAN1_1 -0.0124 MUL ADD
+GenLoad_PTSTAN1_2 -0.0124 MUL ADD
+""GenLoad_Palmer Wind Farm"" -0.0364 MUL ADD
+""BatDChg_Reeves Plains Power Station BESS"" 0.0222 MUL ADD
+""BatChrg_Reeves Plains Power Station BESS"" -0.0222 MUL ADD
+GenLoad_SNOWNTH1 0.0653 MUL ADD
+GenLoad_SNOWSTH1 0.0653 MUL ADD
+GenLoad_SNUG1 -0.0679 MUL ADD
+GenLoad_SNUG2 -0.0679 MUL ADD
+GenLoad_SNUG3 -0.0679 MUL ADD
+GenLoad_STARHLWF -0.0127 MUL ADD
+""BatDChg_Summerfield BESS 1"" -0.0364 MUL ADD
+""BatChrg_Summerfield BESS 1"" 0.0364 MUL ADD
+""BatDChg_Summerfield BESS 2"" -0.0364 MUL ADD
+""BatChrg_Summerfield BESS 2"" 0.0364 MUL ADD
+BatDChg_TB2B1 -0.0173 MUL ADD
+BatChrg_TB2B1 0.0173 MUL ADD
+GenLoad_TB2SF1 -0.0173 MUL ADD
+GenLoad_TBSF1 -0.0173 MUL ADD
+BatDChg_TEMPB1 0.0619 MUL ADD
+BatChrg_TEMPB1 -0.0619 MUL ADD
+""BatDChg_Tailem Bend Stage 3"" -0.0422 MUL ADD
+""BatChrg_Tailem Bend Stage 3"" 0.0422 MUL ADD
+""BatDChg_Tungkillo BESS"" -0.0364 MUL ADD
+""BatChrg_Tungkillo BESS"" 0.0364 MUL ADD
+""GenLoad_Vast Solar 1"" 0.058 MUL ADD
+"	""	""	"NetworkConstraints"
+"Constraints"	"NEM"	"S>>S_NIL_WEWT1_LKDP1"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"NotSummer_Grp4"	"="	"1 332.0769 MUL ADD
+Var_OPGEN_CSA -0.0071 MUL ADD
+Var_OPGEN_NSA -0.058 MUL ADD
+Var_OPGEN_SESA 0.0505 MUL ADD
+BatDChg_5BlythWest275 0.0653 MUL ADD
+BatChrg_5BlythWest275 -0.0653 MUL ADD
+""GenLoad_5BlythWest275 Solar"" 0.0653 MUL ADD
+""GenLoad_5BlythWest275 Wind"" 0.0653 MUL ADD
+BatDChg_5Davenport275 0.058 MUL ADD
+BatChrg_5Davenport275 -0.058 MUL ADD
+""GenLoad_5Davenport275 Solar"" 0.058 MUL ADD
+""GenLoad_5Davenport275 Wind"" 0.058 MUL ADD
+BatDChg_5Mobilong132 0.0142 MUL ADD
+BatChrg_5Mobilong132 -0.0142 MUL ADD
+""GenLoad_5Mobilong132 Solar"" 0.0142 MUL ADD
+""GenLoad_5Mobilong132 Wind"" 0.0142 MUL ADD
+BatDChg_5OlymDamWest275 0.058 MUL ADD
+BatChrg_5OlymDamWest275 -0.058 MUL ADD
+""GenLoad_5OlymDamWest275 Solar"" 0.058 MUL ADD
+""GenLoad_5OlymDamWest275 Wind"" 0.058 MUL ADD
+BatDChg_5Para275 0.0046 MUL ADD
+BatChrg_5Para275 -0.0046 MUL ADD
+""GenLoad_5Para275 Solar"" 0.0046 MUL ADD
+""GenLoad_5Para275 Wind"" 0.0046 MUL ADD
+BatDChg_5PortLincoln132 0.058 MUL ADD
+BatChrg_5PortLincoln132 -0.058 MUL ADD
+""GenLoad_5PortLincoln132 Solar"" 0.058 MUL ADD
+""GenLoad_5PortLincoln132 Wind"" 0.058 MUL ADD
+BatDChg_5Snuggery132 -0.0679 MUL ADD
+BatChrg_5Snuggery132 0.0679 MUL ADD
+""GenLoad_5Snuggery132 Solar"" -0.0679 MUL ADD
+""GenLoad_5Snuggery132 Wind"" -0.0679 MUL ADD
+BatDChg_5TailemBend275 -0.0422 MUL ADD
+BatChrg_5TailemBend275 0.0422 MUL ADD
+""GenLoad_5TailemBend275 Solar"" -0.0422 MUL ADD
+""GenLoad_5TailemBend275 Wind"" -0.0422 MUL ADD
+BatDChg_5TemplersWest275 0.0619 MUL ADD
+BatChrg_5TemplersWest275 -0.0619 MUL ADD
+""GenLoad_5TemplersWest275 Solar"" 0.0619 MUL ADD
+""GenLoad_5TemplersWest275 Wind"" 0.0619 MUL ADD
+BatDChg_5Tungkillo275 -0.0364 MUL ADD
+BatChrg_5Tungkillo275 0.0364 MUL ADD
+""GenLoad_5Tungkillo275 Solar"" -0.0364 MUL ADD
+""GenLoad_5Tungkillo275 Wind"" -0.0364 MUL ADD
+BatDChg_5Yadnarie132 0.058 MUL ADD
+BatChrg_5Yadnarie132 -0.058 MUL ADD
+""GenLoad_5Yadnarie132 Solar"" 0.058 MUL ADD
+""GenLoad_5Yadnarie132 Wind"" 0.058 MUL ADD
+BatDChg_ADPBA1 -0.0119 MUL ADD
+BatChrg_ADPBA1 0.0119 MUL ADD
+GenLoad_ADPPV1 -0.0119 MUL ADD
+GenLoad_ADPPV2 -0.0119 MUL ADD
+BatDChg_BLYTHB1 0.0653 MUL ADD
+BatChrg_BLYTHB1 -0.0653 MUL ADD
+GenLoad_BNGSF1 0.058 MUL ADD
+GenLoad_BNGSF2 0.058 MUL ADD
+GenLoad_BOLIVPS1 0.0042 MUL ADD
+BatDChg_BOWWBA1 0.0042 MUL ADD
+BatChrg_BOWWBA1 -0.0042 MUL ADD
+GenLoad_BOWWPV1 0.0042 MUL ADD
+""BatDChg_Blacktop BESS"" 0.0046 MUL ADD
+""BatChrg_Blacktop BESS"" -0.0046 MUL ADD
+""BatDChg_Blanche BESS"" -0.0679 MUL ADD
+""BatChrg_Blanche BESS"" 0.0679 MUL ADD
+GenLoad_CATHROCK 0.058 MUL ADD
+BatDChg_CBWWBA1 -0.0124 MUL ADD
+BatChrg_CBWWBA1 0.0124 MUL ADD
+GenLoad_CNUNDAWF -0.0679 MUL ADD
+GenLoad_DRYCGT1 -0.0013 MUL ADD
+GenLoad_DRYCGT2 -0.0013 MUL ADD
+""BatDChg_Emeroo BESS"" 0.058 MUL ADD
+""BatChrg_Emeroo BESS"" -0.058 MUL ADD
+BatDChg_HVWWBA1 -0.0112 MUL ADD
+BatChrg_HVWWBA1 0.0112 MUL ADD
+GenLoad_HVWWPV1 -0.0112 MUL ADD
+GenLoad_LADBROK1 -0.0622 MUL ADD
+GenLoad_LADBROK2 -0.0622 MUL ADD
+BatDChg_LBB1 -0.068 MUL ADD
+BatChrg_LBB1 0.068 MUL ADD
+BatDChg_LGAPBS1 0.058 MUL ADD
+BatChrg_LGAPBS1 -0.058 MUL ADD
+GenLoad_LGAPWF1 0.058 MUL ADD
+GenLoad_LGAPWF2 0.058 MUL ADD
+GenLoad_LKBONNY1 -0.0679 MUL ADD
+GenLoad_LKBONNY2 -0.0679 MUL ADD
+GenLoad_LKBONNY3 -0.068 MUL ADD
+GenLoad_LONSDALE -0.0124 MUL ADD
+GenLoad_MANNSF2 0.0567 MUL ADD
+BatDChg_MANNUMB1 0.0567 MUL ADD
+BatChrg_MANNUMB1 -0.0567 MUL ADD
+GenLoad_MAPS2PV1 0.0567 MUL ADD
+GenLoad_MAPS3PV1 0.0623 MUL ADD
+GenLoad_MBPS2PV1 0.0118 MUL ADD
+GenLoad_MTMILLAR 0.058 MUL ADD
+""BatDChg_NSA Battery - Coordinated CER Storages"" 0.058 MUL ADD
+""BatChrg_NSA Battery - Coordinated CER Storages"" -0.058 MUL ADD
+""GenLoad_NSA HLoad_F"" 0.058 MUL ADD
+""GenLoad_NSA HLoad_G"" 0.058 MUL ADD
+""BatDChg_NSA V2G"" 0.058 MUL ADD
+""BatChrg_NSA V2G"" -0.058 MUL ADD
+""BatDChg_Northern Battery"" 0.058 MUL ADD
+""BatChrg_Northern Battery"" -0.058 MUL ADD
+GenLoad_PAREPS1 0.058 MUL ADD
+GenLoad_PAREPW1 0.058 MUL ADD
+GenLoad_POR01-1 0.058 MUL ADD
+GenLoad_POR01-2 0.058 MUL ADD
+GenLoad_POR01-3 0.058 MUL ADD
+GenLoad_PTSTAN1_1 -0.0124 MUL ADD
+GenLoad_PTSTAN1_2 -0.0124 MUL ADD
+""GenLoad_Palmer Wind Farm"" -0.0364 MUL ADD
+""BatDChg_Reeves Plains Power Station BESS"" 0.0222 MUL ADD
+""BatChrg_Reeves Plains Power Station BESS"" -0.0222 MUL ADD
+GenLoad_SNOWNTH1 0.0653 MUL ADD
+GenLoad_SNOWSTH1 0.0653 MUL ADD
+GenLoad_SNUG1 -0.0679 MUL ADD
+GenLoad_SNUG2 -0.0679 MUL ADD
+GenLoad_SNUG3 -0.0679 MUL ADD
+GenLoad_STARHLWF -0.0127 MUL ADD
+""BatDChg_Summerfield BESS 1"" -0.0364 MUL ADD
+""BatChrg_Summerfield BESS 1"" 0.0364 MUL ADD
+""BatDChg_Summerfield BESS 2"" -0.0364 MUL ADD
+""BatChrg_Summerfield BESS 2"" 0.0364 MUL ADD
+BatDChg_TB2B1 -0.0173 MUL ADD
+BatChrg_TB2B1 0.0173 MUL ADD
+GenLoad_TB2SF1 -0.0173 MUL ADD
+GenLoad_TBSF1 -0.0173 MUL ADD
+BatDChg_TEMPB1 0.0619 MUL ADD
+BatChrg_TEMPB1 -0.0619 MUL ADD
+""BatDChg_Tailem Bend Stage 3"" -0.0422 MUL ADD
+""BatChrg_Tailem Bend Stage 3"" 0.0422 MUL ADD
+""BatDChg_Tungkillo BESS"" -0.0364 MUL ADD
+""BatChrg_Tungkillo BESS"" 0.0364 MUL ADD
+""GenLoad_Vast Solar 1"" 0.058 MUL ADD
+"	""	""	"NetworkConstraints"
+"Constraints"	"NEM"	"S>>S_NIL_WEWT1_LKDP1"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"NotSummer_Grp5"	"="	"1 332.078 MUL ADD
+Var_OPGEN_CSA -0.0071 MUL ADD
+Var_OPGEN_NSA -0.058 MUL ADD
+Var_OPGEN_SESA 0.0505 MUL ADD
+BatDChg_5BlythWest275 0.0653 MUL ADD
+BatChrg_5BlythWest275 -0.0653 MUL ADD
+""GenLoad_5BlythWest275 Solar"" 0.0653 MUL ADD
+""GenLoad_5BlythWest275 Wind"" 0.0653 MUL ADD
+BatDChg_5Davenport275 0.058 MUL ADD
+BatChrg_5Davenport275 -0.058 MUL ADD
+""GenLoad_5Davenport275 Solar"" 0.058 MUL ADD
+""GenLoad_5Davenport275 Wind"" 0.058 MUL ADD
+BatDChg_5Mobilong132 0.0142 MUL ADD
+BatChrg_5Mobilong132 -0.0142 MUL ADD
+""GenLoad_5Mobilong132 Solar"" 0.0142 MUL ADD
+""GenLoad_5Mobilong132 Wind"" 0.0142 MUL ADD
+BatDChg_5OlymDamWest275 0.058 MUL ADD
+BatChrg_5OlymDamWest275 -0.058 MUL ADD
+""GenLoad_5OlymDamWest275 Solar"" 0.058 MUL ADD
+""GenLoad_5OlymDamWest275 Wind"" 0.058 MUL ADD
+BatDChg_5Para275 0.0046 MUL ADD
+BatChrg_5Para275 -0.0046 MUL ADD
+""GenLoad_5Para275 Solar"" 0.0046 MUL ADD
+""GenLoad_5Para275 Wind"" 0.0046 MUL ADD
+BatDChg_5PortLincoln132 0.058 MUL ADD
+BatChrg_5PortLincoln132 -0.058 MUL ADD
+""GenLoad_5PortLincoln132 Solar"" 0.058 MUL ADD
+""GenLoad_5PortLincoln132 Wind"" 0.058 MUL ADD
+BatDChg_5Snuggery132 -0.0679 MUL ADD
+BatChrg_5Snuggery132 0.0679 MUL ADD
+""GenLoad_5Snuggery132 Solar"" -0.0679 MUL ADD
+""GenLoad_5Snuggery132 Wind"" -0.0679 MUL ADD
+BatDChg_5TailemBend275 -0.0422 MUL ADD
+BatChrg_5TailemBend275 0.0422 MUL ADD
+""GenLoad_5TailemBend275 Solar"" -0.0422 MUL ADD
+""GenLoad_5TailemBend275 Wind"" -0.0422 MUL ADD
+BatDChg_5TemplersWest275 0.0619 MUL ADD
+BatChrg_5TemplersWest275 -0.0619 MUL ADD
+""GenLoad_5TemplersWest275 Solar"" 0.0619 MUL ADD
+""GenLoad_5TemplersWest275 Wind"" 0.0619 MUL ADD
+BatDChg_5Tungkillo275 -0.0364 MUL ADD
+BatChrg_5Tungkillo275 0.0364 MUL ADD
+""GenLoad_5Tungkillo275 Solar"" -0.0364 MUL ADD
+""GenLoad_5Tungkillo275 Wind"" -0.0364 MUL ADD
+BatDChg_5Yadnarie132 0.058 MUL ADD
+BatChrg_5Yadnarie132 -0.058 MUL ADD
+""GenLoad_5Yadnarie132 Solar"" 0.058 MUL ADD
+""GenLoad_5Yadnarie132 Wind"" 0.058 MUL ADD
+BatDChg_ADPBA1 -0.0119 MUL ADD
+BatChrg_ADPBA1 0.0119 MUL ADD
+GenLoad_ADPPV1 -0.0119 MUL ADD
+GenLoad_ADPPV2 -0.0119 MUL ADD
+BatDChg_BLYTHB1 0.0653 MUL ADD
+BatChrg_BLYTHB1 -0.0653 MUL ADD
+GenLoad_BNGSF1 0.058 MUL ADD
+GenLoad_BNGSF2 0.058 MUL ADD
+GenLoad_BOLIVPS1 0.0042 MUL ADD
+BatDChg_BOWWBA1 0.0042 MUL ADD
+BatChrg_BOWWBA1 -0.0042 MUL ADD
+GenLoad_BOWWPV1 0.0042 MUL ADD
+""BatDChg_Blacktop BESS"" 0.0046 MUL ADD
+""BatChrg_Blacktop BESS"" -0.0046 MUL ADD
+""BatDChg_Blanche BESS"" -0.0679 MUL ADD
+""BatChrg_Blanche BESS"" 0.0679 MUL ADD
+GenLoad_CATHROCK 0.058 MUL ADD
+BatDChg_CBWWBA1 -0.0124 MUL ADD
+BatChrg_CBWWBA1 0.0124 MUL ADD
+GenLoad_CNUNDAWF -0.0679 MUL ADD
+GenLoad_DRYCGT1 -0.0013 MUL ADD
+GenLoad_DRYCGT2 -0.0013 MUL ADD
+""BatDChg_Emeroo BESS"" 0.058 MUL ADD
+""BatChrg_Emeroo BESS"" -0.058 MUL ADD
+BatDChg_HVWWBA1 -0.0112 MUL ADD
+BatChrg_HVWWBA1 0.0112 MUL ADD
+GenLoad_HVWWPV1 -0.0112 MUL ADD
+GenLoad_LADBROK1 -0.0622 MUL ADD
+GenLoad_LADBROK2 -0.0622 MUL ADD
+BatDChg_LBB1 -0.068 MUL ADD
+BatChrg_LBB1 0.068 MUL ADD
+BatDChg_LGAPBS1 0.058 MUL ADD
+BatChrg_LGAPBS1 -0.058 MUL ADD
+GenLoad_LGAPWF1 0.058 MUL ADD
+GenLoad_LGAPWF2 0.058 MUL ADD
+GenLoad_LKBONNY1 -0.0679 MUL ADD
+GenLoad_LKBONNY2 -0.0679 MUL ADD
+GenLoad_LKBONNY3 -0.068 MUL ADD
+GenLoad_LONSDALE -0.0124 MUL ADD
+GenLoad_MANNSF2 0.0567 MUL ADD
+BatDChg_MANNUMB1 0.0567 MUL ADD
+BatChrg_MANNUMB1 -0.0567 MUL ADD
+GenLoad_MAPS2PV1 0.0567 MUL ADD
+GenLoad_MAPS3PV1 0.0623 MUL ADD
+GenLoad_MBPS2PV1 0.0118 MUL ADD
+GenLoad_MTMILLAR 0.058 MUL ADD
+""BatDChg_NSA Battery - Coordinated CER Storages"" 0.058 MUL ADD
+""BatChrg_NSA Battery - Coordinated CER Storages"" -0.058 MUL ADD
+""GenLoad_NSA HLoad_F"" 0.058 MUL ADD
+""GenLoad_NSA HLoad_G"" 0.058 MUL ADD
+""BatDChg_NSA V2G"" 0.058 MUL ADD
+""BatChrg_NSA V2G"" -0.058 MUL ADD
+""BatDChg_Northern Battery"" 0.058 MUL ADD
+""BatChrg_Northern Battery"" -0.058 MUL ADD
+GenLoad_PAREPS1 0.058 MUL ADD
+GenLoad_PAREPW1 0.058 MUL ADD
+GenLoad_POR01-1 0.058 MUL ADD
+GenLoad_POR01-2 0.058 MUL ADD
+GenLoad_POR01-3 0.058 MUL ADD
+GenLoad_PTSTAN1_1 -0.0124 MUL ADD
+GenLoad_PTSTAN1_2 -0.0124 MUL ADD
+""GenLoad_Palmer Wind Farm"" -0.0364 MUL ADD
+""BatDChg_Reeves Plains Power Station BESS"" 0.0222 MUL ADD
+""BatChrg_Reeves Plains Power Station BESS"" -0.0222 MUL ADD
+GenLoad_SNOWNTH1 0.0653 MUL ADD
+GenLoad_SNOWSTH1 0.0653 MUL ADD
+GenLoad_SNUG1 -0.0679 MUL ADD
+GenLoad_SNUG2 -0.0679 MUL ADD
+GenLoad_SNUG3 -0.0679 MUL ADD
+GenLoad_STARHLWF -0.0127 MUL ADD
+""BatDChg_Summerfield BESS 1"" -0.0364 MUL ADD
+""BatChrg_Summerfield BESS 1"" 0.0364 MUL ADD
+""BatDChg_Summerfield BESS 2"" -0.0364 MUL ADD
+""BatChrg_Summerfield BESS 2"" 0.0364 MUL ADD
+BatDChg_TB2B1 -0.0173 MUL ADD
+BatChrg_TB2B1 0.0173 MUL ADD
+GenLoad_TB2SF1 -0.0173 MUL ADD
+GenLoad_TBSF1 -0.0173 MUL ADD
+BatDChg_TEMPB1 0.0619 MUL ADD
+BatChrg_TEMPB1 -0.0619 MUL ADD
+""BatDChg_Tailem Bend Stage 3"" -0.0422 MUL ADD
+""BatChrg_Tailem Bend Stage 3"" 0.0422 MUL ADD
+""BatDChg_Tungkillo BESS"" -0.0364 MUL ADD
+""BatChrg_Tungkillo BESS"" 0.0364 MUL ADD
+""GenLoad_Vast Solar 1"" 0.058 MUL ADD
+"	""	""	"NetworkConstraints"
+"Constraints"	"NEM"	"S>>S_NIL_WEWT1_LKDP1"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"NotSummer_Grp6"	"="	"1 331.7432 MUL ADD
+Var_OPGEN_CSA -0.0071 MUL ADD
+Var_OPGEN_NSA -0.0581 MUL ADD
+Var_OPGEN_SESA 0.0509 MUL ADD
+BatDChg_5BlythWest275 0.0654 MUL ADD
+BatChrg_5BlythWest275 -0.0654 MUL ADD
+""GenLoad_5BlythWest275 Solar"" 0.0654 MUL ADD
+""GenLoad_5BlythWest275 Wind"" 0.0654 MUL ADD
+BatDChg_5Davenport275 0.0581 MUL ADD
+BatChrg_5Davenport275 -0.0581 MUL ADD
+""GenLoad_5Davenport275 Solar"" 0.0581 MUL ADD
+""GenLoad_5Davenport275 Wind"" 0.0581 MUL ADD
+BatDChg_5Mobilong132 0.0141 MUL ADD
+BatChrg_5Mobilong132 -0.0141 MUL ADD
+""GenLoad_5Mobilong132 Solar"" 0.0141 MUL ADD
+""GenLoad_5Mobilong132 Wind"" 0.0141 MUL ADD
+BatDChg_5OlymDamWest275 0.0581 MUL ADD
+BatChrg_5OlymDamWest275 -0.0581 MUL ADD
+""GenLoad_5OlymDamWest275 Solar"" 0.0581 MUL ADD
+""GenLoad_5OlymDamWest275 Wind"" 0.0581 MUL ADD
+BatDChg_5Para275 0.0047 MUL ADD
+BatChrg_5Para275 -0.0047 MUL ADD
+""GenLoad_5Para275 Solar"" 0.0047 MUL ADD
+""GenLoad_5Para275 Wind"" 0.0047 MUL ADD
+BatDChg_5PortLincoln132 0.0581 MUL ADD
+BatChrg_5PortLincoln132 -0.0581 MUL ADD
+""GenLoad_5PortLincoln132 Solar"" 0.0581 MUL ADD
+""GenLoad_5PortLincoln132 Wind"" 0.0581 MUL ADD
+BatDChg_5Snuggery132 -0.0684 MUL ADD
+BatChrg_5Snuggery132 0.0684 MUL ADD
+""GenLoad_5Snuggery132 Solar"" -0.0684 MUL ADD
+""GenLoad_5Snuggery132 Wind"" -0.0684 MUL ADD
+BatDChg_5TailemBend275 -0.0424 MUL ADD
+BatChrg_5TailemBend275 0.0424 MUL ADD
+""GenLoad_5TailemBend275 Solar"" -0.0424 MUL ADD
+""GenLoad_5TailemBend275 Wind"" -0.0424 MUL ADD
+BatDChg_5TemplersWest275 0.0619 MUL ADD
+BatChrg_5TemplersWest275 -0.0619 MUL ADD
+""GenLoad_5TemplersWest275 Solar"" 0.0619 MUL ADD
+""GenLoad_5TemplersWest275 Wind"" 0.0619 MUL ADD
+BatDChg_5Tungkillo275 -0.0364 MUL ADD
+BatChrg_5Tungkillo275 0.0364 MUL ADD
+""GenLoad_5Tungkillo275 Solar"" -0.0364 MUL ADD
+""GenLoad_5Tungkillo275 Wind"" -0.0364 MUL ADD
+BatDChg_5Yadnarie132 0.0581 MUL ADD
+BatChrg_5Yadnarie132 -0.0581 MUL ADD
+""GenLoad_5Yadnarie132 Solar"" 0.0581 MUL ADD
+""GenLoad_5Yadnarie132 Wind"" 0.0581 MUL ADD
+BatDChg_ADPBA1 -0.0119 MUL ADD
+BatChrg_ADPBA1 0.0119 MUL ADD
+GenLoad_ADPPV1 -0.0119 MUL ADD
+GenLoad_ADPPV2 -0.0119 MUL ADD
+BatDChg_BLYTHB1 0.0654 MUL ADD
+BatChrg_BLYTHB1 -0.0654 MUL ADD
+GenLoad_BNGSF1 0.0581 MUL ADD
+GenLoad_BNGSF2 0.0581 MUL ADD
+GenLoad_BOLIVPS1 0.0042 MUL ADD
+BatDChg_BOWWBA1 0.0042 MUL ADD
+BatChrg_BOWWBA1 -0.0042 MUL ADD
+GenLoad_BOWWPV1 0.0042 MUL ADD
+""BatDChg_Blacktop BESS"" 0.0047 MUL ADD
+""BatChrg_Blacktop BESS"" -0.0047 MUL ADD
+""BatDChg_Blanche BESS"" -0.0684 MUL ADD
+""BatChrg_Blanche BESS"" 0.0684 MUL ADD
+GenLoad_CATHROCK 0.0581 MUL ADD
+BatDChg_CBWWBA1 -0.0124 MUL ADD
+BatChrg_CBWWBA1 0.0124 MUL ADD
+GenLoad_CNUNDAWF -0.0684 MUL ADD
+GenLoad_DRYCGT1 -0.0013 MUL ADD
+GenLoad_DRYCGT2 -0.0013 MUL ADD
+""BatDChg_Emeroo BESS"" 0.0581 MUL ADD
+""BatChrg_Emeroo BESS"" -0.0581 MUL ADD
+BatDChg_HVWWBA1 -0.0112 MUL ADD
+BatChrg_HVWWBA1 0.0112 MUL ADD
+GenLoad_HVWWPV1 -0.0112 MUL ADD
+GenLoad_LADBROK1 -0.0626 MUL ADD
+GenLoad_LADBROK2 -0.0626 MUL ADD
+BatDChg_LBB1 -0.0685 MUL ADD
+BatChrg_LBB1 0.0685 MUL ADD
+BatDChg_LGAPBS1 0.0581 MUL ADD
+BatChrg_LGAPBS1 -0.0581 MUL ADD
+GenLoad_LGAPWF1 0.0581 MUL ADD
+GenLoad_LGAPWF2 0.0581 MUL ADD
+GenLoad_LKBONNY1 -0.0684 MUL ADD
+GenLoad_LKBONNY2 -0.0684 MUL ADD
+GenLoad_LKBONNY3 -0.0685 MUL ADD
+GenLoad_LONSDALE -0.0124 MUL ADD
+GenLoad_MANNSF2 0.0567 MUL ADD
+BatDChg_MANNUMB1 0.0567 MUL ADD
+BatChrg_MANNUMB1 -0.0567 MUL ADD
+GenLoad_MAPS2PV1 0.0567 MUL ADD
+GenLoad_MAPS3PV1 0.0623 MUL ADD
+GenLoad_MBPS2PV1 0.0117 MUL ADD
+GenLoad_MTMILLAR 0.0581 MUL ADD
+""BatDChg_NSA Battery - Coordinated CER Storages"" 0.0581 MUL ADD
+""BatChrg_NSA Battery - Coordinated CER Storages"" -0.0581 MUL ADD
+""GenLoad_NSA HLoad_F"" 0.0581 MUL ADD
+""GenLoad_NSA HLoad_G"" 0.0581 MUL ADD
+""BatDChg_NSA V2G"" 0.0581 MUL ADD
+""BatChrg_NSA V2G"" -0.0581 MUL ADD
+""BatDChg_Northern Battery"" 0.0581 MUL ADD
+""BatChrg_Northern Battery"" -0.0581 MUL ADD
+GenLoad_PAREPS1 0.0581 MUL ADD
+GenLoad_PAREPW1 0.0581 MUL ADD
+GenLoad_POR01-1 0.0581 MUL ADD
+GenLoad_POR01-2 0.0581 MUL ADD
+GenLoad_POR01-3 0.0581 MUL ADD
+GenLoad_PTSTAN1_1 -0.0124 MUL ADD
+GenLoad_PTSTAN1_2 -0.0124 MUL ADD
+""GenLoad_Palmer Wind Farm"" -0.0364 MUL ADD
+""BatDChg_Reeves Plains Power Station BESS"" 0.0222 MUL ADD
+""BatChrg_Reeves Plains Power Station BESS"" -0.0222 MUL ADD
+GenLoad_SNOWNTH1 0.0654 MUL ADD
+GenLoad_SNOWSTH1 0.0654 MUL ADD
+GenLoad_SNUG1 -0.0684 MUL ADD
+GenLoad_SNUG2 -0.0684 MUL ADD
+GenLoad_SNUG3 -0.0684 MUL ADD
+GenLoad_STARHLWF -0.0127 MUL ADD
+""BatDChg_Summerfield BESS 1"" -0.0364 MUL ADD
+""BatChrg_Summerfield BESS 1"" 0.0364 MUL ADD
+""BatDChg_Summerfield BESS 2"" -0.0364 MUL ADD
+""BatChrg_Summerfield BESS 2"" 0.0364 MUL ADD
+BatDChg_TB2B1 -0.0174 MUL ADD
+BatChrg_TB2B1 0.0174 MUL ADD
+GenLoad_TB2SF1 -0.0174 MUL ADD
+GenLoad_TBSF1 -0.0174 MUL ADD
+BatDChg_TEMPB1 0.0619 MUL ADD
+BatChrg_TEMPB1 -0.0619 MUL ADD
+""BatDChg_Tailem Bend Stage 3"" -0.0424 MUL ADD
+""BatChrg_Tailem Bend Stage 3"" 0.0424 MUL ADD
+""BatDChg_Tungkillo BESS"" -0.0364 MUL ADD
+""BatChrg_Tungkillo BESS"" 0.0364 MUL ADD
+""GenLoad_Vast Solar 1"" 0.0581 MUL ADD
+"	""	""	"NetworkConstraints"
+"Constraints"	"NEM"	"S>>S_NIL_WEWT1_LKDP1"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"NotSummer_Grp7"	"="	"1 331.7407 MUL ADD
+Var_OPGEN_CSA -0.0071 MUL ADD
+Var_OPGEN_NSA -0.0581 MUL ADD
+Var_OPGEN_SESA 0.0509 MUL ADD
+BatDChg_5BlythWest275 0.0654 MUL ADD
+BatChrg_5BlythWest275 -0.0654 MUL ADD
+""GenLoad_5BlythWest275 Solar"" 0.0654 MUL ADD
+""GenLoad_5BlythWest275 Wind"" 0.0654 MUL ADD
+BatDChg_5Davenport275 0.0581 MUL ADD
+BatChrg_5Davenport275 -0.0581 MUL ADD
+""GenLoad_5Davenport275 Solar"" 0.0581 MUL ADD
+""GenLoad_5Davenport275 Wind"" 0.0581 MUL ADD
+BatDChg_5Mobilong132 0.0141 MUL ADD
+BatChrg_5Mobilong132 -0.0141 MUL ADD
+""GenLoad_5Mobilong132 Solar"" 0.0141 MUL ADD
+""GenLoad_5Mobilong132 Wind"" 0.0141 MUL ADD
+BatDChg_5OlymDamWest275 0.0581 MUL ADD
+BatChrg_5OlymDamWest275 -0.0581 MUL ADD
+""GenLoad_5OlymDamWest275 Solar"" 0.0581 MUL ADD
+""GenLoad_5OlymDamWest275 Wind"" 0.0581 MUL ADD
+BatDChg_5Para275 0.0047 MUL ADD
+BatChrg_5Para275 -0.0047 MUL ADD
+""GenLoad_5Para275 Solar"" 0.0047 MUL ADD
+""GenLoad_5Para275 Wind"" 0.0047 MUL ADD
+BatDChg_5PortLincoln132 0.0581 MUL ADD
+BatChrg_5PortLincoln132 -0.0581 MUL ADD
+""GenLoad_5PortLincoln132 Solar"" 0.0581 MUL ADD
+""GenLoad_5PortLincoln132 Wind"" 0.0581 MUL ADD
+BatDChg_5Snuggery132 -0.0684 MUL ADD
+BatChrg_5Snuggery132 0.0684 MUL ADD
+""GenLoad_5Snuggery132 Solar"" -0.0684 MUL ADD
+""GenLoad_5Snuggery132 Wind"" -0.0684 MUL ADD
+BatDChg_5TailemBend275 -0.0424 MUL ADD
+BatChrg_5TailemBend275 0.0424 MUL ADD
+""GenLoad_5TailemBend275 Solar"" -0.0424 MUL ADD
+""GenLoad_5TailemBend275 Wind"" -0.0424 MUL ADD
+BatDChg_5TemplersWest275 0.0619 MUL ADD
+BatChrg_5TemplersWest275 -0.0619 MUL ADD
+""GenLoad_5TemplersWest275 Solar"" 0.0619 MUL ADD
+""GenLoad_5TemplersWest275 Wind"" 0.0619 MUL ADD
+BatDChg_5Tungkillo275 -0.0364 MUL ADD
+BatChrg_5Tungkillo275 0.0364 MUL ADD
+""GenLoad_5Tungkillo275 Solar"" -0.0364 MUL ADD
+""GenLoad_5Tungkillo275 Wind"" -0.0364 MUL ADD
+BatDChg_5Yadnarie132 0.0581 MUL ADD
+BatChrg_5Yadnarie132 -0.0581 MUL ADD
+""GenLoad_5Yadnarie132 Solar"" 0.0581 MUL ADD
+""GenLoad_5Yadnarie132 Wind"" 0.0581 MUL ADD
+BatDChg_ADPBA1 -0.0119 MUL ADD
+BatChrg_ADPBA1 0.0119 MUL ADD
+GenLoad_ADPPV1 -0.0119 MUL ADD
+GenLoad_ADPPV2 -0.0119 MUL ADD
+BatDChg_BLYTHB1 0.0654 MUL ADD
+BatChrg_BLYTHB1 -0.0654 MUL ADD
+GenLoad_BNGSF1 0.0581 MUL ADD
+GenLoad_BNGSF2 0.0581 MUL ADD
+GenLoad_BOLIVPS1 0.0042 MUL ADD
+BatDChg_BOWWBA1 0.0042 MUL ADD
+BatChrg_BOWWBA1 -0.0042 MUL ADD
+GenLoad_BOWWPV1 0.0042 MUL ADD
+""BatDChg_Blacktop BESS"" 0.0047 MUL ADD
+""BatChrg_Blacktop BESS"" -0.0047 MUL ADD
+""BatDChg_Blanche BESS"" -0.0684 MUL ADD
+""BatChrg_Blanche BESS"" 0.0684 MUL ADD
+GenLoad_CATHROCK 0.0581 MUL ADD
+BatDChg_CBWWBA1 -0.0124 MUL ADD
+BatChrg_CBWWBA1 0.0124 MUL ADD
+GenLoad_CNUNDAWF -0.0684 MUL ADD
+GenLoad_DRYCGT1 -0.0013 MUL ADD
+GenLoad_DRYCGT2 -0.0013 MUL ADD
+""BatDChg_Emeroo BESS"" 0.0581 MUL ADD
+""BatChrg_Emeroo BESS"" -0.0581 MUL ADD
+BatDChg_HVWWBA1 -0.0112 MUL ADD
+BatChrg_HVWWBA1 0.0112 MUL ADD
+GenLoad_HVWWPV1 -0.0112 MUL ADD
+GenLoad_LADBROK1 -0.0626 MUL ADD
+GenLoad_LADBROK2 -0.0626 MUL ADD
+BatDChg_LBB1 -0.0685 MUL ADD
+BatChrg_LBB1 0.0685 MUL ADD
+BatDChg_LGAPBS1 0.0581 MUL ADD
+BatChrg_LGAPBS1 -0.0581 MUL ADD
+GenLoad_LGAPWF1 0.0581 MUL ADD
+GenLoad_LGAPWF2 0.0581 MUL ADD
+GenLoad_LKBONNY1 -0.0684 MUL ADD
+GenLoad_LKBONNY2 -0.0684 MUL ADD
+GenLoad_LKBONNY3 -0.0685 MUL ADD
+GenLoad_LONSDALE -0.0124 MUL ADD
+GenLoad_MANNSF2 0.0567 MUL ADD
+BatDChg_MANNUMB1 0.0567 MUL ADD
+BatChrg_MANNUMB1 -0.0567 MUL ADD
+GenLoad_MAPS2PV1 0.0567 MUL ADD
+GenLoad_MAPS3PV1 0.0623 MUL ADD
+GenLoad_MBPS2PV1 0.0117 MUL ADD
+GenLoad_MTMILLAR 0.0581 MUL ADD
+""BatDChg_NSA Battery - Coordinated CER Storages"" 0.0581 MUL ADD
+""BatChrg_NSA Battery - Coordinated CER Storages"" -0.0581 MUL ADD
+""GenLoad_NSA HLoad_F"" 0.0581 MUL ADD
+""GenLoad_NSA HLoad_G"" 0.0581 MUL ADD
+""BatDChg_NSA V2G"" 0.0581 MUL ADD
+""BatChrg_NSA V2G"" -0.0581 MUL ADD
+""BatDChg_Northern Battery"" 0.0581 MUL ADD
+""BatChrg_Northern Battery"" -0.0581 MUL ADD
+GenLoad_PAREPS1 0.0581 MUL ADD
+GenLoad_PAREPW1 0.0581 MUL ADD
+GenLoad_POR01-1 0.0581 MUL ADD
+GenLoad_POR01-2 0.0581 MUL ADD
+GenLoad_POR01-3 0.0581 MUL ADD
+GenLoad_PTSTAN1_1 -0.0124 MUL ADD
+GenLoad_PTSTAN1_2 -0.0124 MUL ADD
+""GenLoad_Palmer Wind Farm"" -0.0364 MUL ADD
+""BatDChg_Reeves Plains Power Station BESS"" 0.0222 MUL ADD
+""BatChrg_Reeves Plains Power Station BESS"" -0.0222 MUL ADD
+GenLoad_SNOWNTH1 0.0654 MUL ADD
+GenLoad_SNOWSTH1 0.0654 MUL ADD
+GenLoad_SNUG1 -0.0684 MUL ADD
+GenLoad_SNUG2 -0.0684 MUL ADD
+GenLoad_SNUG3 -0.0684 MUL ADD
+GenLoad_STARHLWF -0.0127 MUL ADD
+""BatDChg_Summerfield BESS 1"" -0.0364 MUL ADD
+""BatChrg_Summerfield BESS 1"" 0.0364 MUL ADD
+""BatDChg_Summerfield BESS 2"" -0.0364 MUL ADD
+""BatChrg_Summerfield BESS 2"" 0.0364 MUL ADD
+BatDChg_TB2B1 -0.0174 MUL ADD
+BatChrg_TB2B1 0.0174 MUL ADD
+GenLoad_TB2SF1 -0.0174 MUL ADD
+GenLoad_TBSF1 -0.0174 MUL ADD
+BatDChg_TEMPB1 0.0619 MUL ADD
+BatChrg_TEMPB1 -0.0619 MUL ADD
+""BatDChg_Tailem Bend Stage 3"" -0.0424 MUL ADD
+""BatChrg_Tailem Bend Stage 3"" 0.0424 MUL ADD
+""BatDChg_Tungkillo BESS"" -0.0364 MUL ADD
+""BatChrg_Tungkillo BESS"" 0.0364 MUL ADD
+""GenLoad_Vast Solar 1"" 0.0581 MUL ADD
+"	""	""	"NetworkConstraints"
+"Constraints"	"NEM"	"S>>S_NIL_WEWT1_LKDP1"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"NotSummer_Grp8"	"="	"1 331.9787 MUL ADD
+Var_OPGEN_CSA -0.0071 MUL ADD
+Var_OPGEN_NSA -0.0581 MUL ADD
+Var_OPGEN_SESA 0.0509 MUL ADD
+BatDChg_5BlythWest275 0.0654 MUL ADD
+BatChrg_5BlythWest275 -0.0654 MUL ADD
+""GenLoad_5BlythWest275 Solar"" 0.0654 MUL ADD
+""GenLoad_5BlythWest275 Wind"" 0.0654 MUL ADD
+BatDChg_5Davenport275 0.0581 MUL ADD
+BatChrg_5Davenport275 -0.0581 MUL ADD
+""GenLoad_5Davenport275 Solar"" 0.0581 MUL ADD
+""GenLoad_5Davenport275 Wind"" 0.0581 MUL ADD
+BatDChg_5Mobilong132 0.0141 MUL ADD
+BatChrg_5Mobilong132 -0.0141 MUL ADD
+""GenLoad_5Mobilong132 Solar"" 0.0141 MUL ADD
+""GenLoad_5Mobilong132 Wind"" 0.0141 MUL ADD
+BatDChg_5OlymDamWest275 0.0581 MUL ADD
+BatChrg_5OlymDamWest275 -0.0581 MUL ADD
+""GenLoad_5OlymDamWest275 Solar"" 0.0581 MUL ADD
+""GenLoad_5OlymDamWest275 Wind"" 0.0581 MUL ADD
+BatDChg_5Para275 0.0046 MUL ADD
+BatChrg_5Para275 -0.0046 MUL ADD
+""GenLoad_5Para275 Solar"" 0.0046 MUL ADD
+""GenLoad_5Para275 Wind"" 0.0046 MUL ADD
+BatDChg_5PortLincoln132 0.0581 MUL ADD
+BatChrg_5PortLincoln132 -0.0581 MUL ADD
+""GenLoad_5PortLincoln132 Solar"" 0.0581 MUL ADD
+""GenLoad_5PortLincoln132 Wind"" 0.0581 MUL ADD
+BatDChg_5Snuggery132 -0.0684 MUL ADD
+BatChrg_5Snuggery132 0.0684 MUL ADD
+""GenLoad_5Snuggery132 Solar"" -0.0684 MUL ADD
+""GenLoad_5Snuggery132 Wind"" -0.0684 MUL ADD
+BatDChg_5TailemBend275 -0.0424 MUL ADD
+BatChrg_5TailemBend275 0.0424 MUL ADD
+""GenLoad_5TailemBend275 Solar"" -0.0424 MUL ADD
+""GenLoad_5TailemBend275 Wind"" -0.0424 MUL ADD
+BatDChg_5TemplersWest275 0.0619 MUL ADD
+BatChrg_5TemplersWest275 -0.0619 MUL ADD
+""GenLoad_5TemplersWest275 Solar"" 0.0619 MUL ADD
+""GenLoad_5TemplersWest275 Wind"" 0.0619 MUL ADD
+BatDChg_5Tungkillo275 -0.0364 MUL ADD
+BatChrg_5Tungkillo275 0.0364 MUL ADD
+""GenLoad_5Tungkillo275 Solar"" -0.0364 MUL ADD
+""GenLoad_5Tungkillo275 Wind"" -0.0364 MUL ADD
+BatDChg_5Yadnarie132 0.0581 MUL ADD
+BatChrg_5Yadnarie132 -0.0581 MUL ADD
+""GenLoad_5Yadnarie132 Solar"" 0.0581 MUL ADD
+""GenLoad_5Yadnarie132 Wind"" 0.0581 MUL ADD
+BatDChg_ADPBA1 -0.0119 MUL ADD
+BatChrg_ADPBA1 0.0119 MUL ADD
+GenLoad_ADPPV1 -0.0119 MUL ADD
+GenLoad_ADPPV2 -0.0119 MUL ADD
+BatDChg_BLYTHB1 0.0654 MUL ADD
+BatChrg_BLYTHB1 -0.0654 MUL ADD
+GenLoad_BNGSF1 0.0581 MUL ADD
+GenLoad_BNGSF2 0.0581 MUL ADD
+GenLoad_BOLIVPS1 0.0042 MUL ADD
+BatDChg_BOWWBA1 0.0042 MUL ADD
+BatChrg_BOWWBA1 -0.0042 MUL ADD
+GenLoad_BOWWPV1 0.0042 MUL ADD
+""BatDChg_Blacktop BESS"" 0.0046 MUL ADD
+""BatChrg_Blacktop BESS"" -0.0046 MUL ADD
+""BatDChg_Blanche BESS"" -0.0684 MUL ADD
+""BatChrg_Blanche BESS"" 0.0684 MUL ADD
+GenLoad_CATHROCK 0.0581 MUL ADD
+BatDChg_CBWWBA1 -0.0124 MUL ADD
+BatChrg_CBWWBA1 0.0124 MUL ADD
+GenLoad_CNUNDAWF -0.0684 MUL ADD
+GenLoad_DRYCGT1 -0.0013 MUL ADD
+GenLoad_DRYCGT2 -0.0013 MUL ADD
+""BatDChg_Emeroo BESS"" 0.0581 MUL ADD
+""BatChrg_Emeroo BESS"" -0.0581 MUL ADD
+BatDChg_HVWWBA1 -0.0112 MUL ADD
+BatChrg_HVWWBA1 0.0112 MUL ADD
+GenLoad_HVWWPV1 -0.0112 MUL ADD
+GenLoad_LADBROK1 -0.0627 MUL ADD
+GenLoad_LADBROK2 -0.0627 MUL ADD
+BatDChg_LBB1 -0.0685 MUL ADD
+BatChrg_LBB1 0.0685 MUL ADD
+BatDChg_LGAPBS1 0.0581 MUL ADD
+BatChrg_LGAPBS1 -0.0581 MUL ADD
+GenLoad_LGAPWF1 0.0581 MUL ADD
+GenLoad_LGAPWF2 0.0581 MUL ADD
+GenLoad_LKBONNY1 -0.0684 MUL ADD
+GenLoad_LKBONNY2 -0.0684 MUL ADD
+GenLoad_LKBONNY3 -0.0685 MUL ADD
+GenLoad_LONSDALE -0.0124 MUL ADD
+GenLoad_MANNSF2 0.0567 MUL ADD
+BatDChg_MANNUMB1 0.0567 MUL ADD
+BatChrg_MANNUMB1 -0.0567 MUL ADD
+GenLoad_MAPS2PV1 0.0567 MUL ADD
+GenLoad_MAPS3PV1 0.0623 MUL ADD
+GenLoad_MBPS2PV1 0.0117 MUL ADD
+GenLoad_MTMILLAR 0.0581 MUL ADD
+""BatDChg_NSA Battery - Coordinated CER Storages"" 0.0581 MUL ADD
+""BatChrg_NSA Battery - Coordinated CER Storages"" -0.0581 MUL ADD
+""GenLoad_NSA HLoad_F"" 0.0581 MUL ADD
+""GenLoad_NSA HLoad_G"" 0.0581 MUL ADD
+""BatDChg_NSA V2G"" 0.0581 MUL ADD
+""BatChrg_NSA V2G"" -0.0581 MUL ADD
+""BatDChg_Northern Battery"" 0.0581 MUL ADD
+""BatChrg_Northern Battery"" -0.0581 MUL ADD
+GenLoad_PAREPS1 0.0581 MUL ADD
+GenLoad_PAREPW1 0.0581 MUL ADD
+GenLoad_POR01-1 0.0581 MUL ADD
+GenLoad_POR01-2 0.0581 MUL ADD
+GenLoad_POR01-3 0.0581 MUL ADD
+GenLoad_PTSTAN1_1 -0.0124 MUL ADD
+GenLoad_PTSTAN1_2 -0.0124 MUL ADD
+""GenLoad_Palmer Wind Farm"" -0.0364 MUL ADD
+""BatDChg_Reeves Plains Power Station BESS"" 0.0222 MUL ADD
+""BatChrg_Reeves Plains Power Station BESS"" -0.0222 MUL ADD
+GenLoad_SNOWNTH1 0.0654 MUL ADD
+GenLoad_SNOWSTH1 0.0654 MUL ADD
+GenLoad_SNUG1 -0.0684 MUL ADD
+GenLoad_SNUG2 -0.0684 MUL ADD
+GenLoad_SNUG3 -0.0684 MUL ADD
+GenLoad_STARHLWF -0.0127 MUL ADD
+""BatDChg_Summerfield BESS 1"" -0.0364 MUL ADD
+""BatChrg_Summerfield BESS 1"" 0.0364 MUL ADD
+""BatDChg_Summerfield BESS 2"" -0.0364 MUL ADD
+""BatChrg_Summerfield BESS 2"" 0.0364 MUL ADD
+BatDChg_TB2B1 -0.0174 MUL ADD
+BatChrg_TB2B1 0.0174 MUL ADD
+GenLoad_TB2SF1 -0.0174 MUL ADD
+GenLoad_TBSF1 -0.0174 MUL ADD
+BatDChg_TEMPB1 0.0619 MUL ADD
+BatChrg_TEMPB1 -0.0619 MUL ADD
+""BatDChg_Tailem Bend Stage 3"" -0.0424 MUL ADD
+""BatChrg_Tailem Bend Stage 3"" 0.0424 MUL ADD
+""BatDChg_Tungkillo BESS"" -0.0364 MUL ADD
+""BatChrg_Tungkillo BESS"" 0.0364 MUL ADD
+""GenLoad_Vast Solar 1"" 0.0581 MUL ADD
+"	""	""	"NetworkConstraints"
+"Constraints"	"NEM"	"S>>S_NIL_WEWT1_LKDP1"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"NotSummer_Grp9"	"="	"1 331.9787 MUL ADD
+Var_OPGEN_CSA -0.0071 MUL ADD
+Var_OPGEN_NSA -0.0581 MUL ADD
+Var_OPGEN_SESA 0.0509 MUL ADD
+BatDChg_5BlythWest275 0.0654 MUL ADD
+BatChrg_5BlythWest275 -0.0654 MUL ADD
+""GenLoad_5BlythWest275 Solar"" 0.0654 MUL ADD
+""GenLoad_5BlythWest275 Wind"" 0.0654 MUL ADD
+BatDChg_5Davenport275 0.0581 MUL ADD
+BatChrg_5Davenport275 -0.0581 MUL ADD
+""GenLoad_5Davenport275 Solar"" 0.0581 MUL ADD
+""GenLoad_5Davenport275 Wind"" 0.0581 MUL ADD
+BatDChg_5Mobilong132 0.0141 MUL ADD
+BatChrg_5Mobilong132 -0.0141 MUL ADD
+""GenLoad_5Mobilong132 Solar"" 0.0141 MUL ADD
+""GenLoad_5Mobilong132 Wind"" 0.0141 MUL ADD
+BatDChg_5OlymDamWest275 0.0581 MUL ADD
+BatChrg_5OlymDamWest275 -0.0581 MUL ADD
+""GenLoad_5OlymDamWest275 Solar"" 0.0581 MUL ADD
+""GenLoad_5OlymDamWest275 Wind"" 0.0581 MUL ADD
+BatDChg_5Para275 0.0046 MUL ADD
+BatChrg_5Para275 -0.0046 MUL ADD
+""GenLoad_5Para275 Solar"" 0.0046 MUL ADD
+""GenLoad_5Para275 Wind"" 0.0046 MUL ADD
+BatDChg_5PortLincoln132 0.0581 MUL ADD
+BatChrg_5PortLincoln132 -0.0581 MUL ADD
+""GenLoad_5PortLincoln132 Solar"" 0.0581 MUL ADD
+""GenLoad_5PortLincoln132 Wind"" 0.0581 MUL ADD
+BatDChg_5Snuggery132 -0.0684 MUL ADD
+BatChrg_5Snuggery132 0.0684 MUL ADD
+""GenLoad_5Snuggery132 Solar"" -0.0684 MUL ADD
+""GenLoad_5Snuggery132 Wind"" -0.0684 MUL ADD
+BatDChg_5TailemBend275 -0.0424 MUL ADD
+BatChrg_5TailemBend275 0.0424 MUL ADD
+""GenLoad_5TailemBend275 Solar"" -0.0424 MUL ADD
+""GenLoad_5TailemBend275 Wind"" -0.0424 MUL ADD
+BatDChg_5TemplersWest275 0.0619 MUL ADD
+BatChrg_5TemplersWest275 -0.0619 MUL ADD
+""GenLoad_5TemplersWest275 Solar"" 0.0619 MUL ADD
+""GenLoad_5TemplersWest275 Wind"" 0.0619 MUL ADD
+BatDChg_5Tungkillo275 -0.0364 MUL ADD
+BatChrg_5Tungkillo275 0.0364 MUL ADD
+""GenLoad_5Tungkillo275 Solar"" -0.0364 MUL ADD
+""GenLoad_5Tungkillo275 Wind"" -0.0364 MUL ADD
+BatDChg_5Yadnarie132 0.0581 MUL ADD
+BatChrg_5Yadnarie132 -0.0581 MUL ADD
+""GenLoad_5Yadnarie132 Solar"" 0.0581 MUL ADD
+""GenLoad_5Yadnarie132 Wind"" 0.0581 MUL ADD
+BatDChg_ADPBA1 -0.0119 MUL ADD
+BatChrg_ADPBA1 0.0119 MUL ADD
+GenLoad_ADPPV1 -0.0119 MUL ADD
+GenLoad_ADPPV2 -0.0119 MUL ADD
+BatDChg_BLYTHB1 0.0654 MUL ADD
+BatChrg_BLYTHB1 -0.0654 MUL ADD
+GenLoad_BNGSF1 0.0581 MUL ADD
+GenLoad_BNGSF2 0.0581 MUL ADD
+GenLoad_BOLIVPS1 0.0042 MUL ADD
+BatDChg_BOWWBA1 0.0042 MUL ADD
+BatChrg_BOWWBA1 -0.0042 MUL ADD
+GenLoad_BOWWPV1 0.0042 MUL ADD
+""BatDChg_Blacktop BESS"" 0.0046 MUL ADD
+""BatChrg_Blacktop BESS"" -0.0046 MUL ADD
+""BatDChg_Blanche BESS"" -0.0684 MUL ADD
+""BatChrg_Blanche BESS"" 0.0684 MUL ADD
+GenLoad_CATHROCK 0.0581 MUL ADD
+BatDChg_CBWWBA1 -0.0124 MUL ADD
+BatChrg_CBWWBA1 0.0124 MUL ADD
+GenLoad_CNUNDAWF -0.0684 MUL ADD
+GenLoad_DRYCGT1 -0.0013 MUL ADD
+GenLoad_DRYCGT2 -0.0013 MUL ADD
+""BatDChg_Emeroo BESS"" 0.0581 MUL ADD
+""BatChrg_Emeroo BESS"" -0.0581 MUL ADD
+BatDChg_HVWWBA1 -0.0112 MUL ADD
+BatChrg_HVWWBA1 0.0112 MUL ADD
+GenLoad_HVWWPV1 -0.0112 MUL ADD
+GenLoad_LADBROK1 -0.0627 MUL ADD
+GenLoad_LADBROK2 -0.0627 MUL ADD
+BatDChg_LBB1 -0.0685 MUL ADD
+BatChrg_LBB1 0.0685 MUL ADD
+BatDChg_LGAPBS1 0.0581 MUL ADD
+BatChrg_LGAPBS1 -0.0581 MUL ADD
+GenLoad_LGAPWF1 0.0581 MUL ADD
+GenLoad_LGAPWF2 0.0581 MUL ADD
+GenLoad_LKBONNY1 -0.0684 MUL ADD
+GenLoad_LKBONNY2 -0.0684 MUL ADD
+GenLoad_LKBONNY3 -0.0685 MUL ADD
+GenLoad_LONSDALE -0.0124 MUL ADD
+GenLoad_MANNSF2 0.0567 MUL ADD
+BatDChg_MANNUMB1 0.0567 MUL ADD
+BatChrg_MANNUMB1 -0.0567 MUL ADD
+GenLoad_MAPS2PV1 0.0567 MUL ADD
+GenLoad_MAPS3PV1 0.0623 MUL ADD
+GenLoad_MBPS2PV1 0.0117 MUL ADD
+GenLoad_MTMILLAR 0.0581 MUL ADD
+""BatDChg_NSA Battery - Coordinated CER Storages"" 0.0581 MUL ADD
+""BatChrg_NSA Battery - Coordinated CER Storages"" -0.0581 MUL ADD
+""GenLoad_NSA HLoad_F"" 0.0581 MUL ADD
+""GenLoad_NSA HLoad_G"" 0.0581 MUL ADD
+""BatDChg_NSA V2G"" 0.0581 MUL ADD
+""BatChrg_NSA V2G"" -0.0581 MUL ADD
+""BatDChg_Northern Battery"" 0.0581 MUL ADD
+""BatChrg_Northern Battery"" -0.0581 MUL ADD
+GenLoad_PAREPS1 0.0581 MUL ADD
+GenLoad_PAREPW1 0.0581 MUL ADD
+GenLoad_POR01-1 0.0581 MUL ADD
+GenLoad_POR01-2 0.0581 MUL ADD
+GenLoad_POR01-3 0.0581 MUL ADD
+GenLoad_PTSTAN1_1 -0.0124 MUL ADD
+GenLoad_PTSTAN1_2 -0.0124 MUL ADD
+""GenLoad_Palmer Wind Farm"" -0.0364 MUL ADD
+""BatDChg_Reeves Plains Power Station BESS"" 0.0222 MUL ADD
+""BatChrg_Reeves Plains Power Station BESS"" -0.0222 MUL ADD
+GenLoad_SNOWNTH1 0.0654 MUL ADD
+GenLoad_SNOWSTH1 0.0654 MUL ADD
+GenLoad_SNUG1 -0.0684 MUL ADD
+GenLoad_SNUG2 -0.0684 MUL ADD
+GenLoad_SNUG3 -0.0684 MUL ADD
+GenLoad_STARHLWF -0.0127 MUL ADD
+""BatDChg_Summerfield BESS 1"" -0.0364 MUL ADD
+""BatChrg_Summerfield BESS 1"" 0.0364 MUL ADD
+""BatDChg_Summerfield BESS 2"" -0.0364 MUL ADD
+""BatChrg_Summerfield BESS 2"" 0.0364 MUL ADD
+BatDChg_TB2B1 -0.0174 MUL ADD
+BatChrg_TB2B1 0.0174 MUL ADD
+GenLoad_TB2SF1 -0.0174 MUL ADD
+GenLoad_TBSF1 -0.0174 MUL ADD
+BatDChg_TEMPB1 0.0619 MUL ADD
+BatChrg_TEMPB1 -0.0619 MUL ADD
+""BatDChg_Tailem Bend Stage 3"" -0.0424 MUL ADD
+""BatChrg_Tailem Bend Stage 3"" 0.0424 MUL ADD
+""BatDChg_Tungkillo BESS"" -0.0364 MUL ADD
+""BatChrg_Tungkillo BESS"" 0.0364 MUL ADD
+""GenLoad_Vast Solar 1"" 0.0581 MUL ADD
+"	""	""	"NetworkConstraints"
+"Constraints"	"NEM"	"S>>S_NIL_WEWT1_LKDP1"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"Summer_Grp0"	"="	"1 351.8972 MUL ADD
+Var_OPGEN_CSA -0.0068 MUL ADD
+Var_OPGEN_NSA -0.0556 MUL ADD
+Var_OPGEN_SESA 0.0416 MUL ADD
+BatDChg_5BlythWest275 0.0642 MUL ADD
+BatChrg_5BlythWest275 -0.0642 MUL ADD
+""GenLoad_5BlythWest275 Solar"" 0.0642 MUL ADD
+""GenLoad_5BlythWest275 Wind"" 0.0642 MUL ADD
+BatDChg_5Davenport275 0.0556 MUL ADD
+BatChrg_5Davenport275 -0.0556 MUL ADD
+""GenLoad_5Davenport275 Solar"" 0.0556 MUL ADD
+""GenLoad_5Davenport275 Wind"" 0.0556 MUL ADD
+BatDChg_5Mobilong132 0.0159 MUL ADD
+BatChrg_5Mobilong132 -0.0159 MUL ADD
+""GenLoad_5Mobilong132 Solar"" 0.0159 MUL ADD
+""GenLoad_5Mobilong132 Wind"" 0.0159 MUL ADD
+BatDChg_5OlymDamWest275 0.0556 MUL ADD
+BatChrg_5OlymDamWest275 -0.0556 MUL ADD
+""GenLoad_5OlymDamWest275 Solar"" 0.0556 MUL ADD
+""GenLoad_5OlymDamWest275 Wind"" 0.0556 MUL ADD
+BatDChg_5Para275 0.0046 MUL ADD
+BatChrg_5Para275 -0.0046 MUL ADD
+""GenLoad_5Para275 Solar"" 0.0046 MUL ADD
+""GenLoad_5Para275 Wind"" 0.0046 MUL ADD
+BatDChg_5PortLincoln132 0.0556 MUL ADD
+BatChrg_5PortLincoln132 -0.0556 MUL ADD
+""GenLoad_5PortLincoln132 Solar"" 0.0556 MUL ADD
+""GenLoad_5PortLincoln132 Wind"" 0.0556 MUL ADD
+BatDChg_5Snuggery132 -0.056 MUL ADD
+BatChrg_5Snuggery132 0.056 MUL ADD
+""GenLoad_5Snuggery132 Solar"" -0.056 MUL ADD
+""GenLoad_5Snuggery132 Wind"" -0.056 MUL ADD
+BatDChg_5TailemBend275 -0.0385 MUL ADD
+BatChrg_5TailemBend275 0.0385 MUL ADD
+""GenLoad_5TailemBend275 Solar"" -0.0385 MUL ADD
+""GenLoad_5TailemBend275 Wind"" -0.0385 MUL ADD
+BatDChg_5TemplersWest275 0.0614 MUL ADD
+BatChrg_5TemplersWest275 -0.0614 MUL ADD
+""GenLoad_5TemplersWest275 Solar"" 0.0614 MUL ADD
+""GenLoad_5TemplersWest275 Wind"" 0.0614 MUL ADD
+BatDChg_5Tungkillo275 -0.0361 MUL ADD
+BatChrg_5Tungkillo275 0.0361 MUL ADD
+""GenLoad_5Tungkillo275 Solar"" -0.0361 MUL ADD
+""GenLoad_5Tungkillo275 Wind"" -0.0361 MUL ADD
+BatDChg_5Yadnarie132 0.0556 MUL ADD
+BatChrg_5Yadnarie132 -0.0556 MUL ADD
+""GenLoad_5Yadnarie132 Solar"" 0.0556 MUL ADD
+""GenLoad_5Yadnarie132 Wind"" 0.0556 MUL ADD
+BatDChg_ADPBA1 -0.0118 MUL ADD
+BatChrg_ADPBA1 0.0118 MUL ADD
+GenLoad_ADPPV1 -0.0118 MUL ADD
+GenLoad_ADPPV2 -0.0118 MUL ADD
+BatDChg_BLYTHB1 0.0642 MUL ADD
+BatChrg_BLYTHB1 -0.0642 MUL ADD
+GenLoad_BNGSF1 0.0556 MUL ADD
+GenLoad_BNGSF2 0.0556 MUL ADD
+GenLoad_BOLIVPS1 0.0042 MUL ADD
+BatDChg_BOWWBA1 0.0042 MUL ADD
+BatChrg_BOWWBA1 -0.0042 MUL ADD
+GenLoad_BOWWPV1 0.0042 MUL ADD
+""BatDChg_Blacktop BESS"" 0.0046 MUL ADD
+""BatChrg_Blacktop BESS"" -0.0046 MUL ADD
+""BatDChg_Blanche BESS"" -0.056 MUL ADD
+""BatChrg_Blanche BESS"" 0.056 MUL ADD
+GenLoad_CATHROCK 0.0556 MUL ADD
+BatDChg_CBWWBA1 -0.0123 MUL ADD
+BatChrg_CBWWBA1 0.0123 MUL ADD
+GenLoad_CNUNDAWF -0.056 MUL ADD
+GenLoad_DRYCGT1 -0.0013 MUL ADD
+GenLoad_DRYCGT2 -0.0013 MUL ADD
+""BatDChg_Emeroo BESS"" 0.0556 MUL ADD
+""BatChrg_Emeroo BESS"" -0.0556 MUL ADD
+BatDChg_HVWWBA1 -0.0111 MUL ADD
+BatChrg_HVWWBA1 0.0111 MUL ADD
+GenLoad_HVWWPV1 -0.0111 MUL ADD
+GenLoad_LADBROK1 -0.0513 MUL ADD
+GenLoad_LADBROK2 -0.0513 MUL ADD
+BatDChg_LBB1 -0.0561 MUL ADD
+BatChrg_LBB1 0.0561 MUL ADD
+BatDChg_LGAPBS1 0.0556 MUL ADD
+BatChrg_LGAPBS1 -0.0556 MUL ADD
+GenLoad_LGAPWF1 0.0556 MUL ADD
+GenLoad_LGAPWF2 0.0556 MUL ADD
+GenLoad_LKBONNY1 -0.056 MUL ADD
+GenLoad_LKBONNY2 -0.056 MUL ADD
+GenLoad_LKBONNY3 -0.0561 MUL ADD
+GenLoad_LONSDALE -0.0122 MUL ADD
+""BatDChg_Limestone Coast West BESS"" -0.0581 MUL ADD
+""BatChrg_Limestone Coast West BESS"" 0.0581 MUL ADD
+GenLoad_MANNSF2 0.0577 MUL ADD
+BatDChg_MANNUMB1 0.0577 MUL ADD
+BatChrg_MANNUMB1 -0.0577 MUL ADD
+GenLoad_MAPS2PV1 0.0577 MUL ADD
+GenLoad_MAPS3PV1 0.0632 MUL ADD
+GenLoad_MBPS2PV1 0.0134 MUL ADD
+GenLoad_MTMILLAR 0.0556 MUL ADD
+""BatDChg_NSA Battery - Coordinated CER Storages"" 0.0556 MUL ADD
+""BatChrg_NSA Battery - Coordinated CER Storages"" -0.0556 MUL ADD
+""GenLoad_NSA HLoad_F"" 0.0556 MUL ADD
+""GenLoad_NSA HLoad_G"" 0.0556 MUL ADD
+""BatDChg_NSA V2G"" 0.0556 MUL ADD
+""BatChrg_NSA V2G"" -0.0556 MUL ADD
+""BatDChg_Northern Battery"" 0.0556 MUL ADD
+""BatChrg_Northern Battery"" -0.0556 MUL ADD
+GenLoad_PAREPS1 0.0556 MUL ADD
+GenLoad_PAREPW1 0.0556 MUL ADD
+GenLoad_POR01-1 0.0556 MUL ADD
+GenLoad_POR01-2 0.0556 MUL ADD
+GenLoad_POR01-3 0.0556 MUL ADD
+GenLoad_PTSTAN1_1 -0.0123 MUL ADD
+GenLoad_PTSTAN1_2 -0.0123 MUL ADD
+""GenLoad_Palmer Wind Farm"" -0.0361 MUL ADD
+""BatDChg_Reeves Plains Power Station BESS"" 0.0219 MUL ADD
+""BatChrg_Reeves Plains Power Station BESS"" -0.0219 MUL ADD
+""BatDChg_SESA Battery - Coordinated CER Storages"" -0.0581 MUL ADD
+""BatChrg_SESA Battery - Coordinated CER Storages"" 0.0581 MUL ADD
+""GenLoad_SESA HLoad_F"" -0.0581 MUL ADD
+""GenLoad_SESA HLoad_G"" -0.0581 MUL ADD
+""BatDChg_SESA V2G"" -0.0581 MUL ADD
+""BatChrg_SESA V2G"" 0.0581 MUL ADD
+GenLoad_SNOWNTH1 0.0642 MUL ADD
+GenLoad_SNOWSTH1 0.0642 MUL ADD
+GenLoad_SNUG1 -0.056 MUL ADD
+GenLoad_SNUG2 -0.056 MUL ADD
+GenLoad_SNUG3 -0.056 MUL ADD
+GenLoad_STARHLWF -0.0125 MUL ADD
+""BatDChg_Summerfield BESS 1"" -0.0361 MUL ADD
+""BatChrg_Summerfield BESS 1"" 0.0361 MUL ADD
+""BatDChg_Summerfield BESS 2"" -0.0361 MUL ADD
+""BatChrg_Summerfield BESS 2"" 0.0361 MUL ADD
+BatDChg_TB2B1 -0.014 MUL ADD
+BatChrg_TB2B1 0.014 MUL ADD
+GenLoad_TB2SF1 -0.014 MUL ADD
+GenLoad_TBSF1 -0.014 MUL ADD
+BatDChg_TEMPB1 0.0614 MUL ADD
+BatChrg_TEMPB1 -0.0614 MUL ADD
+""BatDChg_Tailem Bend Stage 3"" -0.0385 MUL ADD
+""BatChrg_Tailem Bend Stage 3"" 0.0385 MUL ADD
+""BatDChg_Tungkillo BESS"" -0.0361 MUL ADD
+""BatChrg_Tungkillo BESS"" 0.0361 MUL ADD
+""GenLoad_Vast Solar 1"" 0.0556 MUL ADD
+"	""	""	"NetworkConstraints"
+"Constraints"	"NEM"	"S>>S_NIL_WEWT1_LKDP1"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"Summer_Grp1"	"="	"1 330.4656 MUL ADD
+Var_OPGEN_CSA -0.0071 MUL ADD
+Var_OPGEN_NSA -0.0579 MUL ADD
+Var_OPGEN_SESA 0.0503 MUL ADD
+BatDChg_5BlythWest275 0.0653 MUL ADD
+BatChrg_5BlythWest275 -0.0653 MUL ADD
+""GenLoad_5BlythWest275 Solar"" 0.0653 MUL ADD
+""GenLoad_5BlythWest275 Wind"" 0.0653 MUL ADD
+BatDChg_5Davenport275 0.0579 MUL ADD
+BatChrg_5Davenport275 -0.0579 MUL ADD
+""GenLoad_5Davenport275 Solar"" 0.0579 MUL ADD
+""GenLoad_5Davenport275 Wind"" 0.0579 MUL ADD
+BatDChg_5Mobilong132 0.0142 MUL ADD
+BatChrg_5Mobilong132 -0.0142 MUL ADD
+""GenLoad_5Mobilong132 Solar"" 0.0142 MUL ADD
+""GenLoad_5Mobilong132 Wind"" 0.0142 MUL ADD
+BatDChg_5OlymDamWest275 0.0579 MUL ADD
+BatChrg_5OlymDamWest275 -0.0579 MUL ADD
+""GenLoad_5OlymDamWest275 Solar"" 0.0579 MUL ADD
+""GenLoad_5OlymDamWest275 Wind"" 0.0579 MUL ADD
+BatDChg_5Para275 0.0047 MUL ADD
+BatChrg_5Para275 -0.0047 MUL ADD
+""GenLoad_5Para275 Solar"" 0.0047 MUL ADD
+""GenLoad_5Para275 Wind"" 0.0047 MUL ADD
+BatDChg_5PortLincoln132 0.0579 MUL ADD
+BatChrg_5PortLincoln132 -0.0579 MUL ADD
+""GenLoad_5PortLincoln132 Solar"" 0.0579 MUL ADD
+""GenLoad_5PortLincoln132 Wind"" 0.0579 MUL ADD
+BatDChg_5Snuggery132 -0.0676 MUL ADD
+BatChrg_5Snuggery132 0.0676 MUL ADD
+""GenLoad_5Snuggery132 Solar"" -0.0676 MUL ADD
+""GenLoad_5Snuggery132 Wind"" -0.0676 MUL ADD
+BatDChg_5TailemBend275 -0.0421 MUL ADD
+BatChrg_5TailemBend275 0.0421 MUL ADD
+""GenLoad_5TailemBend275 Solar"" -0.0421 MUL ADD
+""GenLoad_5TailemBend275 Wind"" -0.0421 MUL ADD
+BatDChg_5TemplersWest275 0.0619 MUL ADD
+BatChrg_5TemplersWest275 -0.0619 MUL ADD
+""GenLoad_5TemplersWest275 Solar"" 0.0619 MUL ADD
+""GenLoad_5TemplersWest275 Wind"" 0.0619 MUL ADD
+BatDChg_5Tungkillo275 -0.0363 MUL ADD
+BatChrg_5Tungkillo275 0.0363 MUL ADD
+""GenLoad_5Tungkillo275 Solar"" -0.0363 MUL ADD
+""GenLoad_5Tungkillo275 Wind"" -0.0363 MUL ADD
+BatDChg_5Yadnarie132 0.0579 MUL ADD
+BatChrg_5Yadnarie132 -0.0579 MUL ADD
+""GenLoad_5Yadnarie132 Solar"" 0.0579 MUL ADD
+""GenLoad_5Yadnarie132 Wind"" 0.0579 MUL ADD
+BatDChg_ADPBA1 -0.0119 MUL ADD
+BatChrg_ADPBA1 0.0119 MUL ADD
+GenLoad_ADPPV1 -0.0119 MUL ADD
+GenLoad_ADPPV2 -0.0119 MUL ADD
+BatDChg_BLYTHB1 0.0653 MUL ADD
+BatChrg_BLYTHB1 -0.0653 MUL ADD
+GenLoad_BNGSF1 0.0579 MUL ADD
+GenLoad_BNGSF2 0.0579 MUL ADD
+GenLoad_BOLIVPS1 0.0042 MUL ADD
+BatDChg_BOWWBA1 0.0042 MUL ADD
+BatChrg_BOWWBA1 -0.0042 MUL ADD
+GenLoad_BOWWPV1 0.0042 MUL ADD
+""BatDChg_Blacktop BESS"" 0.0047 MUL ADD
+""BatChrg_Blacktop BESS"" -0.0047 MUL ADD
+""BatDChg_Blanche BESS"" -0.0676 MUL ADD
+""BatChrg_Blanche BESS"" 0.0676 MUL ADD
+GenLoad_CATHROCK 0.0579 MUL ADD
+BatDChg_CBWWBA1 -0.0124 MUL ADD
+BatChrg_CBWWBA1 0.0124 MUL ADD
+GenLoad_CNUNDAWF -0.0676 MUL ADD
+GenLoad_DRYCGT1 -0.0013 MUL ADD
+GenLoad_DRYCGT2 -0.0013 MUL ADD
+""BatDChg_Emeroo BESS"" 0.0579 MUL ADD
+""BatChrg_Emeroo BESS"" -0.0579 MUL ADD
+BatDChg_HVWWBA1 -0.0112 MUL ADD
+BatChrg_HVWWBA1 0.0112 MUL ADD
+GenLoad_HVWWPV1 -0.0112 MUL ADD
+GenLoad_LADBROK1 -0.0619 MUL ADD
+GenLoad_LADBROK2 -0.0619 MUL ADD
+BatDChg_LBB1 -0.0677 MUL ADD
+BatChrg_LBB1 0.0677 MUL ADD
+BatDChg_LGAPBS1 0.0579 MUL ADD
+BatChrg_LGAPBS1 -0.0579 MUL ADD
+GenLoad_LGAPWF1 0.0579 MUL ADD
+GenLoad_LGAPWF2 0.0579 MUL ADD
+GenLoad_LKBONNY1 -0.0676 MUL ADD
+GenLoad_LKBONNY2 -0.0676 MUL ADD
+GenLoad_LKBONNY3 -0.0677 MUL ADD
+GenLoad_LONSDALE -0.0123 MUL ADD
+GenLoad_MANNSF2 0.0568 MUL ADD
+BatDChg_MANNUMB1 0.0568 MUL ADD
+BatChrg_MANNUMB1 -0.0568 MUL ADD
+GenLoad_MAPS2PV1 0.0568 MUL ADD
+GenLoad_MAPS3PV1 0.0624 MUL ADD
+GenLoad_MBPS2PV1 0.0118 MUL ADD
+GenLoad_MTMILLAR 0.0579 MUL ADD
+""BatDChg_NSA Battery - Coordinated CER Storages"" 0.0579 MUL ADD
+""BatChrg_NSA Battery - Coordinated CER Storages"" -0.0579 MUL ADD
+""GenLoad_NSA HLoad_F"" 0.0579 MUL ADD
+""GenLoad_NSA HLoad_G"" 0.0579 MUL ADD
+""BatDChg_NSA V2G"" 0.0579 MUL ADD
+""BatChrg_NSA V2G"" -0.0579 MUL ADD
+""BatDChg_Northern Battery"" 0.0579 MUL ADD
+""BatChrg_Northern Battery"" -0.0579 MUL ADD
+GenLoad_PAREPS1 0.0579 MUL ADD
+GenLoad_PAREPW1 0.0579 MUL ADD
+GenLoad_POR01-1 0.0579 MUL ADD
+GenLoad_POR01-2 0.0579 MUL ADD
+GenLoad_POR01-3 0.0579 MUL ADD
+GenLoad_PTSTAN1_1 -0.0124 MUL ADD
+GenLoad_PTSTAN1_2 -0.0124 MUL ADD
+""GenLoad_Palmer Wind Farm"" -0.0363 MUL ADD
+""BatDChg_Reeves Plains Power Station BESS"" 0.0222 MUL ADD
+""BatChrg_Reeves Plains Power Station BESS"" -0.0222 MUL ADD
+GenLoad_SNOWNTH1 0.0653 MUL ADD
+GenLoad_SNOWSTH1 0.0653 MUL ADD
+GenLoad_SNUG1 -0.0676 MUL ADD
+GenLoad_SNUG2 -0.0676 MUL ADD
+GenLoad_SNUG3 -0.0676 MUL ADD
+GenLoad_STARHLWF -0.0127 MUL ADD
+""BatDChg_Summerfield BESS 1"" -0.0363 MUL ADD
+""BatChrg_Summerfield BESS 1"" 0.0363 MUL ADD
+""BatDChg_Summerfield BESS 2"" -0.0363 MUL ADD
+""BatChrg_Summerfield BESS 2"" 0.0363 MUL ADD
+BatDChg_TB2B1 -0.0172 MUL ADD
+BatChrg_TB2B1 0.0172 MUL ADD
+GenLoad_TB2SF1 -0.0172 MUL ADD
+GenLoad_TBSF1 -0.0172 MUL ADD
+BatDChg_TEMPB1 0.0619 MUL ADD
+BatChrg_TEMPB1 -0.0619 MUL ADD
+""BatDChg_Tailem Bend Stage 3"" -0.0421 MUL ADD
+""BatChrg_Tailem Bend Stage 3"" 0.0421 MUL ADD
+""BatDChg_Tungkillo BESS"" -0.0363 MUL ADD
+""BatChrg_Tungkillo BESS"" 0.0363 MUL ADD
+""GenLoad_Vast Solar 1"" 0.0579 MUL ADD
+"	""	""	"NetworkConstraints"
+"Constraints"	"NEM"	"S>>S_NIL_WEWT1_LKDP1"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"Summer_Grp10"	"="	"1 331.9825 MUL ADD
+Var_OPGEN_CSA -0.0071 MUL ADD
+Var_OPGEN_NSA -0.0581 MUL ADD
+Var_OPGEN_SESA 0.0509 MUL ADD
+BatDChg_5BlythWest275 0.0654 MUL ADD
+BatChrg_5BlythWest275 -0.0654 MUL ADD
+""GenLoad_5BlythWest275 Solar"" 0.0654 MUL ADD
+""GenLoad_5BlythWest275 Wind"" 0.0654 MUL ADD
+BatDChg_5Davenport275 0.0581 MUL ADD
+BatChrg_5Davenport275 -0.0581 MUL ADD
+""GenLoad_5Davenport275 Solar"" 0.0581 MUL ADD
+""GenLoad_5Davenport275 Wind"" 0.0581 MUL ADD
+BatDChg_5Mobilong132 0.0141 MUL ADD
+BatChrg_5Mobilong132 -0.0141 MUL ADD
+""GenLoad_5Mobilong132 Solar"" 0.0141 MUL ADD
+""GenLoad_5Mobilong132 Wind"" 0.0141 MUL ADD
+BatDChg_5OlymDamWest275 0.0581 MUL ADD
+BatChrg_5OlymDamWest275 -0.0581 MUL ADD
+""GenLoad_5OlymDamWest275 Solar"" 0.0581 MUL ADD
+""GenLoad_5OlymDamWest275 Wind"" 0.0581 MUL ADD
+BatDChg_5Para275 0.0046 MUL ADD
+BatChrg_5Para275 -0.0046 MUL ADD
+""GenLoad_5Para275 Solar"" 0.0046 MUL ADD
+""GenLoad_5Para275 Wind"" 0.0046 MUL ADD
+BatDChg_5PortLincoln132 0.0581 MUL ADD
+BatChrg_5PortLincoln132 -0.0581 MUL ADD
+""GenLoad_5PortLincoln132 Solar"" 0.0581 MUL ADD
+""GenLoad_5PortLincoln132 Wind"" 0.0581 MUL ADD
+BatDChg_5Snuggery132 -0.0684 MUL ADD
+BatChrg_5Snuggery132 0.0684 MUL ADD
+""GenLoad_5Snuggery132 Solar"" -0.0684 MUL ADD
+""GenLoad_5Snuggery132 Wind"" -0.0684 MUL ADD
+BatDChg_5TailemBend275 -0.0424 MUL ADD
+BatChrg_5TailemBend275 0.0424 MUL ADD
+""GenLoad_5TailemBend275 Solar"" -0.0424 MUL ADD
+""GenLoad_5TailemBend275 Wind"" -0.0424 MUL ADD
+BatDChg_5TemplersWest275 0.0619 MUL ADD
+BatChrg_5TemplersWest275 -0.0619 MUL ADD
+""GenLoad_5TemplersWest275 Solar"" 0.0619 MUL ADD
+""GenLoad_5TemplersWest275 Wind"" 0.0619 MUL ADD
+BatDChg_5Tungkillo275 -0.0364 MUL ADD
+BatChrg_5Tungkillo275 0.0364 MUL ADD
+""GenLoad_5Tungkillo275 Solar"" -0.0364 MUL ADD
+""GenLoad_5Tungkillo275 Wind"" -0.0364 MUL ADD
+BatDChg_5Yadnarie132 0.0581 MUL ADD
+BatChrg_5Yadnarie132 -0.0581 MUL ADD
+""GenLoad_5Yadnarie132 Solar"" 0.0581 MUL ADD
+""GenLoad_5Yadnarie132 Wind"" 0.0581 MUL ADD
+BatDChg_ADPBA1 -0.0119 MUL ADD
+BatChrg_ADPBA1 0.0119 MUL ADD
+GenLoad_ADPPV1 -0.0119 MUL ADD
+GenLoad_ADPPV2 -0.0119 MUL ADD
+BatDChg_BLYTHB1 0.0654 MUL ADD
+BatChrg_BLYTHB1 -0.0654 MUL ADD
+GenLoad_BNGSF1 0.0581 MUL ADD
+GenLoad_BNGSF2 0.0581 MUL ADD
+GenLoad_BOLIVPS1 0.0042 MUL ADD
+BatDChg_BOWWBA1 0.0042 MUL ADD
+BatChrg_BOWWBA1 -0.0042 MUL ADD
+GenLoad_BOWWPV1 0.0042 MUL ADD
+""BatDChg_Blacktop BESS"" 0.0046 MUL ADD
+""BatChrg_Blacktop BESS"" -0.0046 MUL ADD
+""BatDChg_Blanche BESS"" -0.0684 MUL ADD
+""BatChrg_Blanche BESS"" 0.0684 MUL ADD
+GenLoad_CATHROCK 0.0581 MUL ADD
+BatDChg_CBWWBA1 -0.0124 MUL ADD
+BatChrg_CBWWBA1 0.0124 MUL ADD
+GenLoad_CNUNDAWF -0.0684 MUL ADD
+GenLoad_DRYCGT1 -0.0013 MUL ADD
+GenLoad_DRYCGT2 -0.0013 MUL ADD
+""BatDChg_Emeroo BESS"" 0.0581 MUL ADD
+""BatChrg_Emeroo BESS"" -0.0581 MUL ADD
+BatDChg_HVWWBA1 -0.0112 MUL ADD
+BatChrg_HVWWBA1 0.0112 MUL ADD
+GenLoad_HVWWPV1 -0.0112 MUL ADD
+GenLoad_LADBROK1 -0.0626 MUL ADD
+GenLoad_LADBROK2 -0.0626 MUL ADD
+BatDChg_LBB1 -0.0685 MUL ADD
+BatChrg_LBB1 0.0685 MUL ADD
+BatDChg_LGAPBS1 0.0581 MUL ADD
+BatChrg_LGAPBS1 -0.0581 MUL ADD
+GenLoad_LGAPWF1 0.0581 MUL ADD
+GenLoad_LGAPWF2 0.0581 MUL ADD
+GenLoad_LKBONNY1 -0.0684 MUL ADD
+GenLoad_LKBONNY2 -0.0684 MUL ADD
+GenLoad_LKBONNY3 -0.0685 MUL ADD
+GenLoad_LONSDALE -0.0124 MUL ADD
+GenLoad_MANNSF2 0.0567 MUL ADD
+BatDChg_MANNUMB1 0.0567 MUL ADD
+BatChrg_MANNUMB1 -0.0567 MUL ADD
+GenLoad_MAPS2PV1 0.0567 MUL ADD
+GenLoad_MAPS3PV1 0.0623 MUL ADD
+GenLoad_MBPS2PV1 0.0117 MUL ADD
+GenLoad_MTMILLAR 0.0581 MUL ADD
+""BatDChg_NSA Battery - Coordinated CER Storages"" 0.0581 MUL ADD
+""BatChrg_NSA Battery - Coordinated CER Storages"" -0.0581 MUL ADD
+""GenLoad_NSA HLoad_F"" 0.0581 MUL ADD
+""GenLoad_NSA HLoad_G"" 0.0581 MUL ADD
+""BatDChg_NSA V2G"" 0.0581 MUL ADD
+""BatChrg_NSA V2G"" -0.0581 MUL ADD
+""BatDChg_Northern Battery"" 0.0581 MUL ADD
+""BatChrg_Northern Battery"" -0.0581 MUL ADD
+GenLoad_PAREPS1 0.0581 MUL ADD
+GenLoad_PAREPW1 0.0581 MUL ADD
+GenLoad_POR01-1 0.0581 MUL ADD
+GenLoad_POR01-2 0.0581 MUL ADD
+GenLoad_POR01-3 0.0581 MUL ADD
+GenLoad_PTSTAN1_1 -0.0124 MUL ADD
+GenLoad_PTSTAN1_2 -0.0124 MUL ADD
+""GenLoad_Palmer Wind Farm"" -0.0364 MUL ADD
+""BatDChg_Reeves Plains Power Station BESS"" 0.0222 MUL ADD
+""BatChrg_Reeves Plains Power Station BESS"" -0.0222 MUL ADD
+GenLoad_SNOWNTH1 0.0654 MUL ADD
+GenLoad_SNOWSTH1 0.0654 MUL ADD
+GenLoad_SNUG1 -0.0684 MUL ADD
+GenLoad_SNUG2 -0.0684 MUL ADD
+GenLoad_SNUG3 -0.0684 MUL ADD
+GenLoad_STARHLWF -0.0127 MUL ADD
+""BatDChg_Summerfield BESS 1"" -0.0364 MUL ADD
+""BatChrg_Summerfield BESS 1"" 0.0364 MUL ADD
+""BatDChg_Summerfield BESS 2"" -0.0364 MUL ADD
+""BatChrg_Summerfield BESS 2"" 0.0364 MUL ADD
+BatDChg_TB2B1 -0.0174 MUL ADD
+BatChrg_TB2B1 0.0174 MUL ADD
+GenLoad_TB2SF1 -0.0174 MUL ADD
+GenLoad_TBSF1 -0.0174 MUL ADD
+BatDChg_TEMPB1 0.0619 MUL ADD
+BatChrg_TEMPB1 -0.0619 MUL ADD
+""BatDChg_Tailem Bend Stage 3"" -0.0424 MUL ADD
+""BatChrg_Tailem Bend Stage 3"" 0.0424 MUL ADD
+""BatDChg_Tungkillo BESS"" -0.0364 MUL ADD
+""BatChrg_Tungkillo BESS"" 0.0364 MUL ADD
+""GenLoad_Vast Solar 1"" 0.0581 MUL ADD
+"	""	""	"NetworkConstraints"
+"Constraints"	"NEM"	"S>>S_NIL_WEWT1_LKDP1"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"Summer_Grp11"	"="	"1 331.9633 MUL ADD
+Var_OPGEN_CSA -0.0071 MUL ADD
+Var_OPGEN_NSA -0.0581 MUL ADD
+Var_OPGEN_SESA 0.0509 MUL ADD
+BatDChg_5BlythWest275 0.0654 MUL ADD
+BatChrg_5BlythWest275 -0.0654 MUL ADD
+""GenLoad_5BlythWest275 Solar"" 0.0654 MUL ADD
+""GenLoad_5BlythWest275 Wind"" 0.0654 MUL ADD
+BatDChg_5Davenport275 0.0581 MUL ADD
+BatChrg_5Davenport275 -0.0581 MUL ADD
+""GenLoad_5Davenport275 Solar"" 0.0581 MUL ADD
+""GenLoad_5Davenport275 Wind"" 0.0581 MUL ADD
+BatDChg_5Mobilong132 0.0141 MUL ADD
+BatChrg_5Mobilong132 -0.0141 MUL ADD
+""GenLoad_5Mobilong132 Solar"" 0.0141 MUL ADD
+""GenLoad_5Mobilong132 Wind"" 0.0141 MUL ADD
+BatDChg_5OlymDamWest275 0.0581 MUL ADD
+BatChrg_5OlymDamWest275 -0.0581 MUL ADD
+""GenLoad_5OlymDamWest275 Solar"" 0.0581 MUL ADD
+""GenLoad_5OlymDamWest275 Wind"" 0.0581 MUL ADD
+BatDChg_5Para275 0.0046 MUL ADD
+BatChrg_5Para275 -0.0046 MUL ADD
+""GenLoad_5Para275 Solar"" 0.0046 MUL ADD
+""GenLoad_5Para275 Wind"" 0.0046 MUL ADD
+BatDChg_5PortLincoln132 0.0581 MUL ADD
+BatChrg_5PortLincoln132 -0.0581 MUL ADD
+""GenLoad_5PortLincoln132 Solar"" 0.0581 MUL ADD
+""GenLoad_5PortLincoln132 Wind"" 0.0581 MUL ADD
+BatDChg_5Snuggery132 -0.0684 MUL ADD
+BatChrg_5Snuggery132 0.0684 MUL ADD
+""GenLoad_5Snuggery132 Solar"" -0.0684 MUL ADD
+""GenLoad_5Snuggery132 Wind"" -0.0684 MUL ADD
+BatDChg_5TailemBend275 -0.0424 MUL ADD
+BatChrg_5TailemBend275 0.0424 MUL ADD
+""GenLoad_5TailemBend275 Solar"" -0.0424 MUL ADD
+""GenLoad_5TailemBend275 Wind"" -0.0424 MUL ADD
+BatDChg_5TemplersWest275 0.0619 MUL ADD
+BatChrg_5TemplersWest275 -0.0619 MUL ADD
+""GenLoad_5TemplersWest275 Solar"" 0.0619 MUL ADD
+""GenLoad_5TemplersWest275 Wind"" 0.0619 MUL ADD
+BatDChg_5Tungkillo275 -0.0364 MUL ADD
+BatChrg_5Tungkillo275 0.0364 MUL ADD
+""GenLoad_5Tungkillo275 Solar"" -0.0364 MUL ADD
+""GenLoad_5Tungkillo275 Wind"" -0.0364 MUL ADD
+BatDChg_5Yadnarie132 0.0581 MUL ADD
+BatChrg_5Yadnarie132 -0.0581 MUL ADD
+""GenLoad_5Yadnarie132 Solar"" 0.0581 MUL ADD
+""GenLoad_5Yadnarie132 Wind"" 0.0581 MUL ADD
+BatDChg_ADPBA1 -0.0119 MUL ADD
+BatChrg_ADPBA1 0.0119 MUL ADD
+GenLoad_ADPPV1 -0.0119 MUL ADD
+GenLoad_ADPPV2 -0.0119 MUL ADD
+BatDChg_BLYTHB1 0.0654 MUL ADD
+BatChrg_BLYTHB1 -0.0654 MUL ADD
+GenLoad_BNGSF1 0.0581 MUL ADD
+GenLoad_BNGSF2 0.0581 MUL ADD
+GenLoad_BOLIVPS1 0.0042 MUL ADD
+BatDChg_BOWWBA1 0.0042 MUL ADD
+BatChrg_BOWWBA1 -0.0042 MUL ADD
+GenLoad_BOWWPV1 0.0042 MUL ADD
+""BatDChg_Blacktop BESS"" 0.0046 MUL ADD
+""BatChrg_Blacktop BESS"" -0.0046 MUL ADD
+""BatDChg_Blanche BESS"" -0.0684 MUL ADD
+""BatChrg_Blanche BESS"" 0.0684 MUL ADD
+GenLoad_CATHROCK 0.0581 MUL ADD
+BatDChg_CBWWBA1 -0.0124 MUL ADD
+BatChrg_CBWWBA1 0.0124 MUL ADD
+GenLoad_CNUNDAWF -0.0684 MUL ADD
+GenLoad_DRYCGT1 -0.0013 MUL ADD
+GenLoad_DRYCGT2 -0.0013 MUL ADD
+""BatDChg_Emeroo BESS"" 0.0581 MUL ADD
+""BatChrg_Emeroo BESS"" -0.0581 MUL ADD
+BatDChg_HVWWBA1 -0.0112 MUL ADD
+BatChrg_HVWWBA1 0.0112 MUL ADD
+GenLoad_HVWWPV1 -0.0112 MUL ADD
+GenLoad_LADBROK1 -0.0627 MUL ADD
+GenLoad_LADBROK2 -0.0627 MUL ADD
+BatDChg_LBB1 -0.0685 MUL ADD
+BatChrg_LBB1 0.0685 MUL ADD
+BatDChg_LGAPBS1 0.0581 MUL ADD
+BatChrg_LGAPBS1 -0.0581 MUL ADD
+GenLoad_LGAPWF1 0.0581 MUL ADD
+GenLoad_LGAPWF2 0.0581 MUL ADD
+GenLoad_LKBONNY1 -0.0684 MUL ADD
+GenLoad_LKBONNY2 -0.0684 MUL ADD
+GenLoad_LKBONNY3 -0.0685 MUL ADD
+GenLoad_LONSDALE -0.0124 MUL ADD
+GenLoad_MANNSF2 0.0567 MUL ADD
+BatDChg_MANNUMB1 0.0567 MUL ADD
+BatChrg_MANNUMB1 -0.0567 MUL ADD
+GenLoad_MAPS2PV1 0.0567 MUL ADD
+GenLoad_MAPS3PV1 0.0623 MUL ADD
+GenLoad_MBPS2PV1 0.0117 MUL ADD
+GenLoad_MTMILLAR 0.0581 MUL ADD
+""BatDChg_NSA Battery - Coordinated CER Storages"" 0.0581 MUL ADD
+""BatChrg_NSA Battery - Coordinated CER Storages"" -0.0581 MUL ADD
+""GenLoad_NSA HLoad_F"" 0.0581 MUL ADD
+""GenLoad_NSA HLoad_G"" 0.0581 MUL ADD
+""BatDChg_NSA V2G"" 0.0581 MUL ADD
+""BatChrg_NSA V2G"" -0.0581 MUL ADD
+""BatDChg_Northern Battery"" 0.0581 MUL ADD
+""BatChrg_Northern Battery"" -0.0581 MUL ADD
+GenLoad_PAREPS1 0.0581 MUL ADD
+GenLoad_PAREPW1 0.0581 MUL ADD
+GenLoad_POR01-1 0.0581 MUL ADD
+GenLoad_POR01-2 0.0581 MUL ADD
+GenLoad_POR01-3 0.0581 MUL ADD
+GenLoad_PTSTAN1_1 -0.0124 MUL ADD
+GenLoad_PTSTAN1_2 -0.0124 MUL ADD
+""GenLoad_Palmer Wind Farm"" -0.0364 MUL ADD
+""BatDChg_Reeves Plains Power Station BESS"" 0.0222 MUL ADD
+""BatChrg_Reeves Plains Power Station BESS"" -0.0222 MUL ADD
+GenLoad_SNOWNTH1 0.0654 MUL ADD
+GenLoad_SNOWSTH1 0.0654 MUL ADD
+GenLoad_SNUG1 -0.0684 MUL ADD
+GenLoad_SNUG2 -0.0684 MUL ADD
+GenLoad_SNUG3 -0.0684 MUL ADD
+GenLoad_STARHLWF -0.0127 MUL ADD
+""BatDChg_Summerfield BESS 1"" -0.0364 MUL ADD
+""BatChrg_Summerfield BESS 1"" 0.0364 MUL ADD
+""BatDChg_Summerfield BESS 2"" -0.0364 MUL ADD
+""BatChrg_Summerfield BESS 2"" 0.0364 MUL ADD
+BatDChg_TB2B1 -0.0174 MUL ADD
+BatChrg_TB2B1 0.0174 MUL ADD
+GenLoad_TB2SF1 -0.0174 MUL ADD
+GenLoad_TBSF1 -0.0174 MUL ADD
+BatDChg_TEMPB1 0.0619 MUL ADD
+BatChrg_TEMPB1 -0.0619 MUL ADD
+""BatDChg_Tailem Bend Stage 3"" -0.0424 MUL ADD
+""BatChrg_Tailem Bend Stage 3"" 0.0424 MUL ADD
+""BatDChg_Tungkillo BESS"" -0.0364 MUL ADD
+""BatChrg_Tungkillo BESS"" 0.0364 MUL ADD
+""GenLoad_Vast Solar 1"" 0.0581 MUL ADD
+"	""	""	"NetworkConstraints"
+"Constraints"	"NEM"	"S>>S_NIL_WEWT1_LKDP1"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"Summer_Grp2"	"="	"1 330.4656 MUL ADD
+Var_OPGEN_CSA -0.0071 MUL ADD
+Var_OPGEN_NSA -0.0579 MUL ADD
+Var_OPGEN_SESA 0.0503 MUL ADD
+BatDChg_5BlythWest275 0.0653 MUL ADD
+BatChrg_5BlythWest275 -0.0653 MUL ADD
+""GenLoad_5BlythWest275 Solar"" 0.0653 MUL ADD
+""GenLoad_5BlythWest275 Wind"" 0.0653 MUL ADD
+BatDChg_5Davenport275 0.0579 MUL ADD
+BatChrg_5Davenport275 -0.0579 MUL ADD
+""GenLoad_5Davenport275 Solar"" 0.0579 MUL ADD
+""GenLoad_5Davenport275 Wind"" 0.0579 MUL ADD
+BatDChg_5Mobilong132 0.0142 MUL ADD
+BatChrg_5Mobilong132 -0.0142 MUL ADD
+""GenLoad_5Mobilong132 Solar"" 0.0142 MUL ADD
+""GenLoad_5Mobilong132 Wind"" 0.0142 MUL ADD
+BatDChg_5OlymDamWest275 0.0579 MUL ADD
+BatChrg_5OlymDamWest275 -0.0579 MUL ADD
+""GenLoad_5OlymDamWest275 Solar"" 0.0579 MUL ADD
+""GenLoad_5OlymDamWest275 Wind"" 0.0579 MUL ADD
+BatDChg_5Para275 0.0047 MUL ADD
+BatChrg_5Para275 -0.0047 MUL ADD
+""GenLoad_5Para275 Solar"" 0.0047 MUL ADD
+""GenLoad_5Para275 Wind"" 0.0047 MUL ADD
+BatDChg_5PortLincoln132 0.0579 MUL ADD
+BatChrg_5PortLincoln132 -0.0579 MUL ADD
+""GenLoad_5PortLincoln132 Solar"" 0.0579 MUL ADD
+""GenLoad_5PortLincoln132 Wind"" 0.0579 MUL ADD
+BatDChg_5Snuggery132 -0.0676 MUL ADD
+BatChrg_5Snuggery132 0.0676 MUL ADD
+""GenLoad_5Snuggery132 Solar"" -0.0676 MUL ADD
+""GenLoad_5Snuggery132 Wind"" -0.0676 MUL ADD
+BatDChg_5TailemBend275 -0.0421 MUL ADD
+BatChrg_5TailemBend275 0.0421 MUL ADD
+""GenLoad_5TailemBend275 Solar"" -0.0421 MUL ADD
+""GenLoad_5TailemBend275 Wind"" -0.0421 MUL ADD
+BatDChg_5TemplersWest275 0.0619 MUL ADD
+BatChrg_5TemplersWest275 -0.0619 MUL ADD
+""GenLoad_5TemplersWest275 Solar"" 0.0619 MUL ADD
+""GenLoad_5TemplersWest275 Wind"" 0.0619 MUL ADD
+BatDChg_5Tungkillo275 -0.0363 MUL ADD
+BatChrg_5Tungkillo275 0.0363 MUL ADD
+""GenLoad_5Tungkillo275 Solar"" -0.0363 MUL ADD
+""GenLoad_5Tungkillo275 Wind"" -0.0363 MUL ADD
+BatDChg_5Yadnarie132 0.0579 MUL ADD
+BatChrg_5Yadnarie132 -0.0579 MUL ADD
+""GenLoad_5Yadnarie132 Solar"" 0.0579 MUL ADD
+""GenLoad_5Yadnarie132 Wind"" 0.0579 MUL ADD
+BatDChg_ADPBA1 -0.0119 MUL ADD
+BatChrg_ADPBA1 0.0119 MUL ADD
+GenLoad_ADPPV1 -0.0119 MUL ADD
+GenLoad_ADPPV2 -0.0119 MUL ADD
+BatDChg_BLYTHB1 0.0653 MUL ADD
+BatChrg_BLYTHB1 -0.0653 MUL ADD
+GenLoad_BNGSF1 0.0579 MUL ADD
+GenLoad_BNGSF2 0.0579 MUL ADD
+GenLoad_BOLIVPS1 0.0042 MUL ADD
+BatDChg_BOWWBA1 0.0042 MUL ADD
+BatChrg_BOWWBA1 -0.0042 MUL ADD
+GenLoad_BOWWPV1 0.0042 MUL ADD
+""BatDChg_Blacktop BESS"" 0.0047 MUL ADD
+""BatChrg_Blacktop BESS"" -0.0047 MUL ADD
+""BatDChg_Blanche BESS"" -0.0676 MUL ADD
+""BatChrg_Blanche BESS"" 0.0676 MUL ADD
+GenLoad_CATHROCK 0.0579 MUL ADD
+BatDChg_CBWWBA1 -0.0124 MUL ADD
+BatChrg_CBWWBA1 0.0124 MUL ADD
+GenLoad_CNUNDAWF -0.0676 MUL ADD
+GenLoad_DRYCGT1 -0.0013 MUL ADD
+GenLoad_DRYCGT2 -0.0013 MUL ADD
+""BatDChg_Emeroo BESS"" 0.0579 MUL ADD
+""BatChrg_Emeroo BESS"" -0.0579 MUL ADD
+BatDChg_HVWWBA1 -0.0112 MUL ADD
+BatChrg_HVWWBA1 0.0112 MUL ADD
+GenLoad_HVWWPV1 -0.0112 MUL ADD
+GenLoad_LADBROK1 -0.0619 MUL ADD
+GenLoad_LADBROK2 -0.0619 MUL ADD
+BatDChg_LBB1 -0.0677 MUL ADD
+BatChrg_LBB1 0.0677 MUL ADD
+BatDChg_LGAPBS1 0.0579 MUL ADD
+BatChrg_LGAPBS1 -0.0579 MUL ADD
+GenLoad_LGAPWF1 0.0579 MUL ADD
+GenLoad_LGAPWF2 0.0579 MUL ADD
+GenLoad_LKBONNY1 -0.0676 MUL ADD
+GenLoad_LKBONNY2 -0.0676 MUL ADD
+GenLoad_LKBONNY3 -0.0677 MUL ADD
+GenLoad_LONSDALE -0.0123 MUL ADD
+GenLoad_MANNSF2 0.0568 MUL ADD
+BatDChg_MANNUMB1 0.0568 MUL ADD
+BatChrg_MANNUMB1 -0.0568 MUL ADD
+GenLoad_MAPS2PV1 0.0568 MUL ADD
+GenLoad_MAPS3PV1 0.0624 MUL ADD
+GenLoad_MBPS2PV1 0.0118 MUL ADD
+GenLoad_MTMILLAR 0.0579 MUL ADD
+""BatDChg_NSA Battery - Coordinated CER Storages"" 0.0579 MUL ADD
+""BatChrg_NSA Battery - Coordinated CER Storages"" -0.0579 MUL ADD
+""GenLoad_NSA HLoad_F"" 0.0579 MUL ADD
+""GenLoad_NSA HLoad_G"" 0.0579 MUL ADD
+""BatDChg_NSA V2G"" 0.0579 MUL ADD
+""BatChrg_NSA V2G"" -0.0579 MUL ADD
+""BatDChg_Northern Battery"" 0.0579 MUL ADD
+""BatChrg_Northern Battery"" -0.0579 MUL ADD
+GenLoad_PAREPS1 0.0579 MUL ADD
+GenLoad_PAREPW1 0.0579 MUL ADD
+GenLoad_POR01-1 0.0579 MUL ADD
+GenLoad_POR01-2 0.0579 MUL ADD
+GenLoad_POR01-3 0.0579 MUL ADD
+GenLoad_PTSTAN1_1 -0.0124 MUL ADD
+GenLoad_PTSTAN1_2 -0.0124 MUL ADD
+""GenLoad_Palmer Wind Farm"" -0.0363 MUL ADD
+""BatDChg_Reeves Plains Power Station BESS"" 0.0222 MUL ADD
+""BatChrg_Reeves Plains Power Station BESS"" -0.0222 MUL ADD
+GenLoad_SNOWNTH1 0.0653 MUL ADD
+GenLoad_SNOWSTH1 0.0653 MUL ADD
+GenLoad_SNUG1 -0.0676 MUL ADD
+GenLoad_SNUG2 -0.0676 MUL ADD
+GenLoad_SNUG3 -0.0676 MUL ADD
+GenLoad_STARHLWF -0.0127 MUL ADD
+""BatDChg_Summerfield BESS 1"" -0.0363 MUL ADD
+""BatChrg_Summerfield BESS 1"" 0.0363 MUL ADD
+""BatDChg_Summerfield BESS 2"" -0.0363 MUL ADD
+""BatChrg_Summerfield BESS 2"" 0.0363 MUL ADD
+BatDChg_TB2B1 -0.0172 MUL ADD
+BatChrg_TB2B1 0.0172 MUL ADD
+GenLoad_TB2SF1 -0.0172 MUL ADD
+GenLoad_TBSF1 -0.0172 MUL ADD
+BatDChg_TEMPB1 0.0619 MUL ADD
+BatChrg_TEMPB1 -0.0619 MUL ADD
+""BatDChg_Tailem Bend Stage 3"" -0.0421 MUL ADD
+""BatChrg_Tailem Bend Stage 3"" 0.0421 MUL ADD
+""BatDChg_Tungkillo BESS"" -0.0363 MUL ADD
+""BatChrg_Tungkillo BESS"" 0.0363 MUL ADD
+""GenLoad_Vast Solar 1"" 0.0579 MUL ADD
+"	""	""	"NetworkConstraints"
+"Constraints"	"NEM"	"S>>S_NIL_WEWT1_LKDP1"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"Summer_Grp3"	"="	"1 332.077 MUL ADD
+Var_OPGEN_CSA -0.0071 MUL ADD
+Var_OPGEN_NSA -0.058 MUL ADD
+Var_OPGEN_SESA 0.0505 MUL ADD
+BatDChg_5BlythWest275 0.0653 MUL ADD
+BatChrg_5BlythWest275 -0.0653 MUL ADD
+""GenLoad_5BlythWest275 Solar"" 0.0653 MUL ADD
+""GenLoad_5BlythWest275 Wind"" 0.0653 MUL ADD
+BatDChg_5Davenport275 0.058 MUL ADD
+BatChrg_5Davenport275 -0.058 MUL ADD
+""GenLoad_5Davenport275 Solar"" 0.058 MUL ADD
+""GenLoad_5Davenport275 Wind"" 0.058 MUL ADD
+BatDChg_5Mobilong132 0.0142 MUL ADD
+BatChrg_5Mobilong132 -0.0142 MUL ADD
+""GenLoad_5Mobilong132 Solar"" 0.0142 MUL ADD
+""GenLoad_5Mobilong132 Wind"" 0.0142 MUL ADD
+BatDChg_5OlymDamWest275 0.058 MUL ADD
+BatChrg_5OlymDamWest275 -0.058 MUL ADD
+""GenLoad_5OlymDamWest275 Solar"" 0.058 MUL ADD
+""GenLoad_5OlymDamWest275 Wind"" 0.058 MUL ADD
+BatDChg_5Para275 0.0046 MUL ADD
+BatChrg_5Para275 -0.0046 MUL ADD
+""GenLoad_5Para275 Solar"" 0.0046 MUL ADD
+""GenLoad_5Para275 Wind"" 0.0046 MUL ADD
+BatDChg_5PortLincoln132 0.058 MUL ADD
+BatChrg_5PortLincoln132 -0.058 MUL ADD
+""GenLoad_5PortLincoln132 Solar"" 0.058 MUL ADD
+""GenLoad_5PortLincoln132 Wind"" 0.058 MUL ADD
+BatDChg_5Snuggery132 -0.0679 MUL ADD
+BatChrg_5Snuggery132 0.0679 MUL ADD
+""GenLoad_5Snuggery132 Solar"" -0.0679 MUL ADD
+""GenLoad_5Snuggery132 Wind"" -0.0679 MUL ADD
+BatDChg_5TailemBend275 -0.0422 MUL ADD
+BatChrg_5TailemBend275 0.0422 MUL ADD
+""GenLoad_5TailemBend275 Solar"" -0.0422 MUL ADD
+""GenLoad_5TailemBend275 Wind"" -0.0422 MUL ADD
+BatDChg_5TemplersWest275 0.0619 MUL ADD
+BatChrg_5TemplersWest275 -0.0619 MUL ADD
+""GenLoad_5TemplersWest275 Solar"" 0.0619 MUL ADD
+""GenLoad_5TemplersWest275 Wind"" 0.0619 MUL ADD
+BatDChg_5Tungkillo275 -0.0364 MUL ADD
+BatChrg_5Tungkillo275 0.0364 MUL ADD
+""GenLoad_5Tungkillo275 Solar"" -0.0364 MUL ADD
+""GenLoad_5Tungkillo275 Wind"" -0.0364 MUL ADD
+BatDChg_5Yadnarie132 0.058 MUL ADD
+BatChrg_5Yadnarie132 -0.058 MUL ADD
+""GenLoad_5Yadnarie132 Solar"" 0.058 MUL ADD
+""GenLoad_5Yadnarie132 Wind"" 0.058 MUL ADD
+BatDChg_ADPBA1 -0.0119 MUL ADD
+BatChrg_ADPBA1 0.0119 MUL ADD
+GenLoad_ADPPV1 -0.0119 MUL ADD
+GenLoad_ADPPV2 -0.0119 MUL ADD
+BatDChg_BLYTHB1 0.0653 MUL ADD
+BatChrg_BLYTHB1 -0.0653 MUL ADD
+GenLoad_BNGSF1 0.058 MUL ADD
+GenLoad_BNGSF2 0.058 MUL ADD
+GenLoad_BOLIVPS1 0.0042 MUL ADD
+BatDChg_BOWWBA1 0.0042 MUL ADD
+BatChrg_BOWWBA1 -0.0042 MUL ADD
+GenLoad_BOWWPV1 0.0042 MUL ADD
+""BatDChg_Blacktop BESS"" 0.0046 MUL ADD
+""BatChrg_Blacktop BESS"" -0.0046 MUL ADD
+""BatDChg_Blanche BESS"" -0.0679 MUL ADD
+""BatChrg_Blanche BESS"" 0.0679 MUL ADD
+GenLoad_CATHROCK 0.058 MUL ADD
+BatDChg_CBWWBA1 -0.0124 MUL ADD
+BatChrg_CBWWBA1 0.0124 MUL ADD
+GenLoad_CNUNDAWF -0.0679 MUL ADD
+GenLoad_DRYCGT1 -0.0013 MUL ADD
+GenLoad_DRYCGT2 -0.0013 MUL ADD
+""BatDChg_Emeroo BESS"" 0.058 MUL ADD
+""BatChrg_Emeroo BESS"" -0.058 MUL ADD
+BatDChg_HVWWBA1 -0.0112 MUL ADD
+BatChrg_HVWWBA1 0.0112 MUL ADD
+GenLoad_HVWWPV1 -0.0112 MUL ADD
+GenLoad_LADBROK1 -0.0622 MUL ADD
+GenLoad_LADBROK2 -0.0622 MUL ADD
+BatDChg_LBB1 -0.068 MUL ADD
+BatChrg_LBB1 0.068 MUL ADD
+BatDChg_LGAPBS1 0.058 MUL ADD
+BatChrg_LGAPBS1 -0.058 MUL ADD
+GenLoad_LGAPWF1 0.058 MUL ADD
+GenLoad_LGAPWF2 0.058 MUL ADD
+GenLoad_LKBONNY1 -0.0679 MUL ADD
+GenLoad_LKBONNY2 -0.0679 MUL ADD
+GenLoad_LKBONNY3 -0.068 MUL ADD
+GenLoad_LONSDALE -0.0124 MUL ADD
+GenLoad_MANNSF2 0.0567 MUL ADD
+BatDChg_MANNUMB1 0.0567 MUL ADD
+BatChrg_MANNUMB1 -0.0567 MUL ADD
+GenLoad_MAPS2PV1 0.0567 MUL ADD
+GenLoad_MAPS3PV1 0.0623 MUL ADD
+GenLoad_MBPS2PV1 0.0118 MUL ADD
+GenLoad_MTMILLAR 0.058 MUL ADD
+""BatDChg_NSA Battery - Coordinated CER Storages"" 0.058 MUL ADD
+""BatChrg_NSA Battery - Coordinated CER Storages"" -0.058 MUL ADD
+""GenLoad_NSA HLoad_F"" 0.058 MUL ADD
+""GenLoad_NSA HLoad_G"" 0.058 MUL ADD
+""BatDChg_NSA V2G"" 0.058 MUL ADD
+""BatChrg_NSA V2G"" -0.058 MUL ADD
+""BatDChg_Northern Battery"" 0.058 MUL ADD
+""BatChrg_Northern Battery"" -0.058 MUL ADD
+GenLoad_PAREPS1 0.058 MUL ADD
+GenLoad_PAREPW1 0.058 MUL ADD
+GenLoad_POR01-1 0.058 MUL ADD
+GenLoad_POR01-2 0.058 MUL ADD
+GenLoad_POR01-3 0.058 MUL ADD
+GenLoad_PTSTAN1_1 -0.0124 MUL ADD
+GenLoad_PTSTAN1_2 -0.0124 MUL ADD
+""GenLoad_Palmer Wind Farm"" -0.0364 MUL ADD
+""BatDChg_Reeves Plains Power Station BESS"" 0.0222 MUL ADD
+""BatChrg_Reeves Plains Power Station BESS"" -0.0222 MUL ADD
+GenLoad_SNOWNTH1 0.0653 MUL ADD
+GenLoad_SNOWSTH1 0.0653 MUL ADD
+GenLoad_SNUG1 -0.0679 MUL ADD
+GenLoad_SNUG2 -0.0679 MUL ADD
+GenLoad_SNUG3 -0.0679 MUL ADD
+GenLoad_STARHLWF -0.0127 MUL ADD
+""BatDChg_Summerfield BESS 1"" -0.0364 MUL ADD
+""BatChrg_Summerfield BESS 1"" 0.0364 MUL ADD
+""BatDChg_Summerfield BESS 2"" -0.0364 MUL ADD
+""BatChrg_Summerfield BESS 2"" 0.0364 MUL ADD
+BatDChg_TB2B1 -0.0173 MUL ADD
+BatChrg_TB2B1 0.0173 MUL ADD
+GenLoad_TB2SF1 -0.0173 MUL ADD
+GenLoad_TBSF1 -0.0173 MUL ADD
+BatDChg_TEMPB1 0.0619 MUL ADD
+BatChrg_TEMPB1 -0.0619 MUL ADD
+""BatDChg_Tailem Bend Stage 3"" -0.0422 MUL ADD
+""BatChrg_Tailem Bend Stage 3"" 0.0422 MUL ADD
+""BatDChg_Tungkillo BESS"" -0.0364 MUL ADD
+""BatChrg_Tungkillo BESS"" 0.0364 MUL ADD
+""GenLoad_Vast Solar 1"" 0.058 MUL ADD
+"	""	""	"NetworkConstraints"
+"Constraints"	"NEM"	"S>>S_NIL_WEWT1_LKDP1"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"Summer_Grp4"	"="	"1 332.0769 MUL ADD
+Var_OPGEN_CSA -0.0071 MUL ADD
+Var_OPGEN_NSA -0.058 MUL ADD
+Var_OPGEN_SESA 0.0505 MUL ADD
+BatDChg_5BlythWest275 0.0653 MUL ADD
+BatChrg_5BlythWest275 -0.0653 MUL ADD
+""GenLoad_5BlythWest275 Solar"" 0.0653 MUL ADD
+""GenLoad_5BlythWest275 Wind"" 0.0653 MUL ADD
+BatDChg_5Davenport275 0.058 MUL ADD
+BatChrg_5Davenport275 -0.058 MUL ADD
+""GenLoad_5Davenport275 Solar"" 0.058 MUL ADD
+""GenLoad_5Davenport275 Wind"" 0.058 MUL ADD
+BatDChg_5Mobilong132 0.0142 MUL ADD
+BatChrg_5Mobilong132 -0.0142 MUL ADD
+""GenLoad_5Mobilong132 Solar"" 0.0142 MUL ADD
+""GenLoad_5Mobilong132 Wind"" 0.0142 MUL ADD
+BatDChg_5OlymDamWest275 0.058 MUL ADD
+BatChrg_5OlymDamWest275 -0.058 MUL ADD
+""GenLoad_5OlymDamWest275 Solar"" 0.058 MUL ADD
+""GenLoad_5OlymDamWest275 Wind"" 0.058 MUL ADD
+BatDChg_5Para275 0.0046 MUL ADD
+BatChrg_5Para275 -0.0046 MUL ADD
+""GenLoad_5Para275 Solar"" 0.0046 MUL ADD
+""GenLoad_5Para275 Wind"" 0.0046 MUL ADD
+BatDChg_5PortLincoln132 0.058 MUL ADD
+BatChrg_5PortLincoln132 -0.058 MUL ADD
+""GenLoad_5PortLincoln132 Solar"" 0.058 MUL ADD
+""GenLoad_5PortLincoln132 Wind"" 0.058 MUL ADD
+BatDChg_5Snuggery132 -0.0679 MUL ADD
+BatChrg_5Snuggery132 0.0679 MUL ADD
+""GenLoad_5Snuggery132 Solar"" -0.0679 MUL ADD
+""GenLoad_5Snuggery132 Wind"" -0.0679 MUL ADD
+BatDChg_5TailemBend275 -0.0422 MUL ADD
+BatChrg_5TailemBend275 0.0422 MUL ADD
+""GenLoad_5TailemBend275 Solar"" -0.0422 MUL ADD
+""GenLoad_5TailemBend275 Wind"" -0.0422 MUL ADD
+BatDChg_5TemplersWest275 0.0619 MUL ADD
+BatChrg_5TemplersWest275 -0.0619 MUL ADD
+""GenLoad_5TemplersWest275 Solar"" 0.0619 MUL ADD
+""GenLoad_5TemplersWest275 Wind"" 0.0619 MUL ADD
+BatDChg_5Tungkillo275 -0.0364 MUL ADD
+BatChrg_5Tungkillo275 0.0364 MUL ADD
+""GenLoad_5Tungkillo275 Solar"" -0.0364 MUL ADD
+""GenLoad_5Tungkillo275 Wind"" -0.0364 MUL ADD
+BatDChg_5Yadnarie132 0.058 MUL ADD
+BatChrg_5Yadnarie132 -0.058 MUL ADD
+""GenLoad_5Yadnarie132 Solar"" 0.058 MUL ADD
+""GenLoad_5Yadnarie132 Wind"" 0.058 MUL ADD
+BatDChg_ADPBA1 -0.0119 MUL ADD
+BatChrg_ADPBA1 0.0119 MUL ADD
+GenLoad_ADPPV1 -0.0119 MUL ADD
+GenLoad_ADPPV2 -0.0119 MUL ADD
+BatDChg_BLYTHB1 0.0653 MUL ADD
+BatChrg_BLYTHB1 -0.0653 MUL ADD
+GenLoad_BNGSF1 0.058 MUL ADD
+GenLoad_BNGSF2 0.058 MUL ADD
+GenLoad_BOLIVPS1 0.0042 MUL ADD
+BatDChg_BOWWBA1 0.0042 MUL ADD
+BatChrg_BOWWBA1 -0.0042 MUL ADD
+GenLoad_BOWWPV1 0.0042 MUL ADD
+""BatDChg_Blacktop BESS"" 0.0046 MUL ADD
+""BatChrg_Blacktop BESS"" -0.0046 MUL ADD
+""BatDChg_Blanche BESS"" -0.0679 MUL ADD
+""BatChrg_Blanche BESS"" 0.0679 MUL ADD
+GenLoad_CATHROCK 0.058 MUL ADD
+BatDChg_CBWWBA1 -0.0124 MUL ADD
+BatChrg_CBWWBA1 0.0124 MUL ADD
+GenLoad_CNUNDAWF -0.0679 MUL ADD
+GenLoad_DRYCGT1 -0.0013 MUL ADD
+GenLoad_DRYCGT2 -0.0013 MUL ADD
+""BatDChg_Emeroo BESS"" 0.058 MUL ADD
+""BatChrg_Emeroo BESS"" -0.058 MUL ADD
+BatDChg_HVWWBA1 -0.0112 MUL ADD
+BatChrg_HVWWBA1 0.0112 MUL ADD
+GenLoad_HVWWPV1 -0.0112 MUL ADD
+GenLoad_LADBROK1 -0.0622 MUL ADD
+GenLoad_LADBROK2 -0.0622 MUL ADD
+BatDChg_LBB1 -0.068 MUL ADD
+BatChrg_LBB1 0.068 MUL ADD
+BatDChg_LGAPBS1 0.058 MUL ADD
+BatChrg_LGAPBS1 -0.058 MUL ADD
+GenLoad_LGAPWF1 0.058 MUL ADD
+GenLoad_LGAPWF2 0.058 MUL ADD
+GenLoad_LKBONNY1 -0.0679 MUL ADD
+GenLoad_LKBONNY2 -0.0679 MUL ADD
+GenLoad_LKBONNY3 -0.068 MUL ADD
+GenLoad_LONSDALE -0.0124 MUL ADD
+GenLoad_MANNSF2 0.0567 MUL ADD
+BatDChg_MANNUMB1 0.0567 MUL ADD
+BatChrg_MANNUMB1 -0.0567 MUL ADD
+GenLoad_MAPS2PV1 0.0567 MUL ADD
+GenLoad_MAPS3PV1 0.0623 MUL ADD
+GenLoad_MBPS2PV1 0.0118 MUL ADD
+GenLoad_MTMILLAR 0.058 MUL ADD
+""BatDChg_NSA Battery - Coordinated CER Storages"" 0.058 MUL ADD
+""BatChrg_NSA Battery - Coordinated CER Storages"" -0.058 MUL ADD
+""GenLoad_NSA HLoad_F"" 0.058 MUL ADD
+""GenLoad_NSA HLoad_G"" 0.058 MUL ADD
+""BatDChg_NSA V2G"" 0.058 MUL ADD
+""BatChrg_NSA V2G"" -0.058 MUL ADD
+""BatDChg_Northern Battery"" 0.058 MUL ADD
+""BatChrg_Northern Battery"" -0.058 MUL ADD
+GenLoad_PAREPS1 0.058 MUL ADD
+GenLoad_PAREPW1 0.058 MUL ADD
+GenLoad_POR01-1 0.058 MUL ADD
+GenLoad_POR01-2 0.058 MUL ADD
+GenLoad_POR01-3 0.058 MUL ADD
+GenLoad_PTSTAN1_1 -0.0124 MUL ADD
+GenLoad_PTSTAN1_2 -0.0124 MUL ADD
+""GenLoad_Palmer Wind Farm"" -0.0364 MUL ADD
+""BatDChg_Reeves Plains Power Station BESS"" 0.0222 MUL ADD
+""BatChrg_Reeves Plains Power Station BESS"" -0.0222 MUL ADD
+GenLoad_SNOWNTH1 0.0653 MUL ADD
+GenLoad_SNOWSTH1 0.0653 MUL ADD
+GenLoad_SNUG1 -0.0679 MUL ADD
+GenLoad_SNUG2 -0.0679 MUL ADD
+GenLoad_SNUG3 -0.0679 MUL ADD
+GenLoad_STARHLWF -0.0127 MUL ADD
+""BatDChg_Summerfield BESS 1"" -0.0364 MUL ADD
+""BatChrg_Summerfield BESS 1"" 0.0364 MUL ADD
+""BatDChg_Summerfield BESS 2"" -0.0364 MUL ADD
+""BatChrg_Summerfield BESS 2"" 0.0364 MUL ADD
+BatDChg_TB2B1 -0.0173 MUL ADD
+BatChrg_TB2B1 0.0173 MUL ADD
+GenLoad_TB2SF1 -0.0173 MUL ADD
+GenLoad_TBSF1 -0.0173 MUL ADD
+BatDChg_TEMPB1 0.0619 MUL ADD
+BatChrg_TEMPB1 -0.0619 MUL ADD
+""BatDChg_Tailem Bend Stage 3"" -0.0422 MUL ADD
+""BatChrg_Tailem Bend Stage 3"" 0.0422 MUL ADD
+""BatDChg_Tungkillo BESS"" -0.0364 MUL ADD
+""BatChrg_Tungkillo BESS"" 0.0364 MUL ADD
+""GenLoad_Vast Solar 1"" 0.058 MUL ADD
+"	""	""	"NetworkConstraints"
+"Constraints"	"NEM"	"S>>S_NIL_WEWT1_LKDP1"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"Summer_Grp6"	"="	"1 331.7432 MUL ADD
+Var_OPGEN_CSA -0.0071 MUL ADD
+Var_OPGEN_NSA -0.0581 MUL ADD
+Var_OPGEN_SESA 0.0509 MUL ADD
+BatDChg_5BlythWest275 0.0654 MUL ADD
+BatChrg_5BlythWest275 -0.0654 MUL ADD
+""GenLoad_5BlythWest275 Solar"" 0.0654 MUL ADD
+""GenLoad_5BlythWest275 Wind"" 0.0654 MUL ADD
+BatDChg_5Davenport275 0.0581 MUL ADD
+BatChrg_5Davenport275 -0.0581 MUL ADD
+""GenLoad_5Davenport275 Solar"" 0.0581 MUL ADD
+""GenLoad_5Davenport275 Wind"" 0.0581 MUL ADD
+BatDChg_5Mobilong132 0.0141 MUL ADD
+BatChrg_5Mobilong132 -0.0141 MUL ADD
+""GenLoad_5Mobilong132 Solar"" 0.0141 MUL ADD
+""GenLoad_5Mobilong132 Wind"" 0.0141 MUL ADD
+BatDChg_5OlymDamWest275 0.0581 MUL ADD
+BatChrg_5OlymDamWest275 -0.0581 MUL ADD
+""GenLoad_5OlymDamWest275 Solar"" 0.0581 MUL ADD
+""GenLoad_5OlymDamWest275 Wind"" 0.0581 MUL ADD
+BatDChg_5Para275 0.0047 MUL ADD
+BatChrg_5Para275 -0.0047 MUL ADD
+""GenLoad_5Para275 Solar"" 0.0047 MUL ADD
+""GenLoad_5Para275 Wind"" 0.0047 MUL ADD
+BatDChg_5PortLincoln132 0.0581 MUL ADD
+BatChrg_5PortLincoln132 -0.0581 MUL ADD
+""GenLoad_5PortLincoln132 Solar"" 0.0581 MUL ADD
+""GenLoad_5PortLincoln132 Wind"" 0.0581 MUL ADD
+BatDChg_5Snuggery132 -0.0684 MUL ADD
+BatChrg_5Snuggery132 0.0684 MUL ADD
+""GenLoad_5Snuggery132 Solar"" -0.0684 MUL ADD
+""GenLoad_5Snuggery132 Wind"" -0.0684 MUL ADD
+BatDChg_5TailemBend275 -0.0424 MUL ADD
+BatChrg_5TailemBend275 0.0424 MUL ADD
+""GenLoad_5TailemBend275 Solar"" -0.0424 MUL ADD
+""GenLoad_5TailemBend275 Wind"" -0.0424 MUL ADD
+BatDChg_5TemplersWest275 0.0619 MUL ADD
+BatChrg_5TemplersWest275 -0.0619 MUL ADD
+""GenLoad_5TemplersWest275 Solar"" 0.0619 MUL ADD
+""GenLoad_5TemplersWest275 Wind"" 0.0619 MUL ADD
+BatDChg_5Tungkillo275 -0.0364 MUL ADD
+BatChrg_5Tungkillo275 0.0364 MUL ADD
+""GenLoad_5Tungkillo275 Solar"" -0.0364 MUL ADD
+""GenLoad_5Tungkillo275 Wind"" -0.0364 MUL ADD
+BatDChg_5Yadnarie132 0.0581 MUL ADD
+BatChrg_5Yadnarie132 -0.0581 MUL ADD
+""GenLoad_5Yadnarie132 Solar"" 0.0581 MUL ADD
+""GenLoad_5Yadnarie132 Wind"" 0.0581 MUL ADD
+BatDChg_ADPBA1 -0.0119 MUL ADD
+BatChrg_ADPBA1 0.0119 MUL ADD
+GenLoad_ADPPV1 -0.0119 MUL ADD
+GenLoad_ADPPV2 -0.0119 MUL ADD
+BatDChg_BLYTHB1 0.0654 MUL ADD
+BatChrg_BLYTHB1 -0.0654 MUL ADD
+GenLoad_BNGSF1 0.0581 MUL ADD
+GenLoad_BNGSF2 0.0581 MUL ADD
+GenLoad_BOLIVPS1 0.0042 MUL ADD
+BatDChg_BOWWBA1 0.0042 MUL ADD
+BatChrg_BOWWBA1 -0.0042 MUL ADD
+GenLoad_BOWWPV1 0.0042 MUL ADD
+""BatDChg_Blacktop BESS"" 0.0047 MUL ADD
+""BatChrg_Blacktop BESS"" -0.0047 MUL ADD
+""BatDChg_Blanche BESS"" -0.0684 MUL ADD
+""BatChrg_Blanche BESS"" 0.0684 MUL ADD
+GenLoad_CATHROCK 0.0581 MUL ADD
+BatDChg_CBWWBA1 -0.0124 MUL ADD
+BatChrg_CBWWBA1 0.0124 MUL ADD
+GenLoad_CNUNDAWF -0.0684 MUL ADD
+GenLoad_DRYCGT1 -0.0013 MUL ADD
+GenLoad_DRYCGT2 -0.0013 MUL ADD
+""BatDChg_Emeroo BESS"" 0.0581 MUL ADD
+""BatChrg_Emeroo BESS"" -0.0581 MUL ADD
+BatDChg_HVWWBA1 -0.0112 MUL ADD
+BatChrg_HVWWBA1 0.0112 MUL ADD
+GenLoad_HVWWPV1 -0.0112 MUL ADD
+GenLoad_LADBROK1 -0.0626 MUL ADD
+GenLoad_LADBROK2 -0.0626 MUL ADD
+BatDChg_LBB1 -0.0685 MUL ADD
+BatChrg_LBB1 0.0685 MUL ADD
+BatDChg_LGAPBS1 0.0581 MUL ADD
+BatChrg_LGAPBS1 -0.0581 MUL ADD
+GenLoad_LGAPWF1 0.0581 MUL ADD
+GenLoad_LGAPWF2 0.0581 MUL ADD
+GenLoad_LKBONNY1 -0.0684 MUL ADD
+GenLoad_LKBONNY2 -0.0684 MUL ADD
+GenLoad_LKBONNY3 -0.0685 MUL ADD
+GenLoad_LONSDALE -0.0124 MUL ADD
+GenLoad_MANNSF2 0.0567 MUL ADD
+BatDChg_MANNUMB1 0.0567 MUL ADD
+BatChrg_MANNUMB1 -0.0567 MUL ADD
+GenLoad_MAPS2PV1 0.0567 MUL ADD
+GenLoad_MAPS3PV1 0.0623 MUL ADD
+GenLoad_MBPS2PV1 0.0117 MUL ADD
+GenLoad_MTMILLAR 0.0581 MUL ADD
+""BatDChg_NSA Battery - Coordinated CER Storages"" 0.0581 MUL ADD
+""BatChrg_NSA Battery - Coordinated CER Storages"" -0.0581 MUL ADD
+""GenLoad_NSA HLoad_F"" 0.0581 MUL ADD
+""GenLoad_NSA HLoad_G"" 0.0581 MUL ADD
+""BatDChg_NSA V2G"" 0.0581 MUL ADD
+""BatChrg_NSA V2G"" -0.0581 MUL ADD
+""BatDChg_Northern Battery"" 0.0581 MUL ADD
+""BatChrg_Northern Battery"" -0.0581 MUL ADD
+GenLoad_PAREPS1 0.0581 MUL ADD
+GenLoad_PAREPW1 0.0581 MUL ADD
+GenLoad_POR01-1 0.0581 MUL ADD
+GenLoad_POR01-2 0.0581 MUL ADD
+GenLoad_POR01-3 0.0581 MUL ADD
+GenLoad_PTSTAN1_1 -0.0124 MUL ADD
+GenLoad_PTSTAN1_2 -0.0124 MUL ADD
+""GenLoad_Palmer Wind Farm"" -0.0364 MUL ADD
+""BatDChg_Reeves Plains Power Station BESS"" 0.0222 MUL ADD
+""BatChrg_Reeves Plains Power Station BESS"" -0.0222 MUL ADD
+GenLoad_SNOWNTH1 0.0654 MUL ADD
+GenLoad_SNOWSTH1 0.0654 MUL ADD
+GenLoad_SNUG1 -0.0684 MUL ADD
+GenLoad_SNUG2 -0.0684 MUL ADD
+GenLoad_SNUG3 -0.0684 MUL ADD
+GenLoad_STARHLWF -0.0127 MUL ADD
+""BatDChg_Summerfield BESS 1"" -0.0364 MUL ADD
+""BatChrg_Summerfield BESS 1"" 0.0364 MUL ADD
+""BatDChg_Summerfield BESS 2"" -0.0364 MUL ADD
+""BatChrg_Summerfield BESS 2"" 0.0364 MUL ADD
+BatDChg_TB2B1 -0.0174 MUL ADD
+BatChrg_TB2B1 0.0174 MUL ADD
+GenLoad_TB2SF1 -0.0174 MUL ADD
+GenLoad_TBSF1 -0.0174 MUL ADD
+BatDChg_TEMPB1 0.0619 MUL ADD
+BatChrg_TEMPB1 -0.0619 MUL ADD
+""BatDChg_Tailem Bend Stage 3"" -0.0424 MUL ADD
+""BatChrg_Tailem Bend Stage 3"" 0.0424 MUL ADD
+""BatDChg_Tungkillo BESS"" -0.0364 MUL ADD
+""BatChrg_Tungkillo BESS"" 0.0364 MUL ADD
+""GenLoad_Vast Solar 1"" 0.0581 MUL ADD
+"	""	""	"NetworkConstraints"
+"Constraints"	"NEM"	"S>>S_NIL_WEWT1_LKDP1"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"Summer_Grp8"	"="	"1 331.9787 MUL ADD
+Var_OPGEN_CSA -0.0071 MUL ADD
+Var_OPGEN_NSA -0.0581 MUL ADD
+Var_OPGEN_SESA 0.0509 MUL ADD
+BatDChg_5BlythWest275 0.0654 MUL ADD
+BatChrg_5BlythWest275 -0.0654 MUL ADD
+""GenLoad_5BlythWest275 Solar"" 0.0654 MUL ADD
+""GenLoad_5BlythWest275 Wind"" 0.0654 MUL ADD
+BatDChg_5Davenport275 0.0581 MUL ADD
+BatChrg_5Davenport275 -0.0581 MUL ADD
+""GenLoad_5Davenport275 Solar"" 0.0581 MUL ADD
+""GenLoad_5Davenport275 Wind"" 0.0581 MUL ADD
+BatDChg_5Mobilong132 0.0141 MUL ADD
+BatChrg_5Mobilong132 -0.0141 MUL ADD
+""GenLoad_5Mobilong132 Solar"" 0.0141 MUL ADD
+""GenLoad_5Mobilong132 Wind"" 0.0141 MUL ADD
+BatDChg_5OlymDamWest275 0.0581 MUL ADD
+BatChrg_5OlymDamWest275 -0.0581 MUL ADD
+""GenLoad_5OlymDamWest275 Solar"" 0.0581 MUL ADD
+""GenLoad_5OlymDamWest275 Wind"" 0.0581 MUL ADD
+BatDChg_5Para275 0.0046 MUL ADD
+BatChrg_5Para275 -0.0046 MUL ADD
+""GenLoad_5Para275 Solar"" 0.0046 MUL ADD
+""GenLoad_5Para275 Wind"" 0.0046 MUL ADD
+BatDChg_5PortLincoln132 0.0581 MUL ADD
+BatChrg_5PortLincoln132 -0.0581 MUL ADD
+""GenLoad_5PortLincoln132 Solar"" 0.0581 MUL ADD
+""GenLoad_5PortLincoln132 Wind"" 0.0581 MUL ADD
+BatDChg_5Snuggery132 -0.0684 MUL ADD
+BatChrg_5Snuggery132 0.0684 MUL ADD
+""GenLoad_5Snuggery132 Solar"" -0.0684 MUL ADD
+""GenLoad_5Snuggery132 Wind"" -0.0684 MUL ADD
+BatDChg_5TailemBend275 -0.0424 MUL ADD
+BatChrg_5TailemBend275 0.0424 MUL ADD
+""GenLoad_5TailemBend275 Solar"" -0.0424 MUL ADD
+""GenLoad_5TailemBend275 Wind"" -0.0424 MUL ADD
+BatDChg_5TemplersWest275 0.0619 MUL ADD
+BatChrg_5TemplersWest275 -0.0619 MUL ADD
+""GenLoad_5TemplersWest275 Solar"" 0.0619 MUL ADD
+""GenLoad_5TemplersWest275 Wind"" 0.0619 MUL ADD
+BatDChg_5Tungkillo275 -0.0364 MUL ADD
+BatChrg_5Tungkillo275 0.0364 MUL ADD
+""GenLoad_5Tungkillo275 Solar"" -0.0364 MUL ADD
+""GenLoad_5Tungkillo275 Wind"" -0.0364 MUL ADD
+BatDChg_5Yadnarie132 0.0581 MUL ADD
+BatChrg_5Yadnarie132 -0.0581 MUL ADD
+""GenLoad_5Yadnarie132 Solar"" 0.0581 MUL ADD
+""GenLoad_5Yadnarie132 Wind"" 0.0581 MUL ADD
+BatDChg_ADPBA1 -0.0119 MUL ADD
+BatChrg_ADPBA1 0.0119 MUL ADD
+GenLoad_ADPPV1 -0.0119 MUL ADD
+GenLoad_ADPPV2 -0.0119 MUL ADD
+BatDChg_BLYTHB1 0.0654 MUL ADD
+BatChrg_BLYTHB1 -0.0654 MUL ADD
+GenLoad_BNGSF1 0.0581 MUL ADD
+GenLoad_BNGSF2 0.0581 MUL ADD
+GenLoad_BOLIVPS1 0.0042 MUL ADD
+BatDChg_BOWWBA1 0.0042 MUL ADD
+BatChrg_BOWWBA1 -0.0042 MUL ADD
+GenLoad_BOWWPV1 0.0042 MUL ADD
+""BatDChg_Blacktop BESS"" 0.0046 MUL ADD
+""BatChrg_Blacktop BESS"" -0.0046 MUL ADD
+""BatDChg_Blanche BESS"" -0.0684 MUL ADD
+""BatChrg_Blanche BESS"" 0.0684 MUL ADD
+GenLoad_CATHROCK 0.0581 MUL ADD
+BatDChg_CBWWBA1 -0.0124 MUL ADD
+BatChrg_CBWWBA1 0.0124 MUL ADD
+GenLoad_CNUNDAWF -0.0684 MUL ADD
+GenLoad_DRYCGT1 -0.0013 MUL ADD
+GenLoad_DRYCGT2 -0.0013 MUL ADD
+""BatDChg_Emeroo BESS"" 0.0581 MUL ADD
+""BatChrg_Emeroo BESS"" -0.0581 MUL ADD
+BatDChg_HVWWBA1 -0.0112 MUL ADD
+BatChrg_HVWWBA1 0.0112 MUL ADD
+GenLoad_HVWWPV1 -0.0112 MUL ADD
+GenLoad_LADBROK1 -0.0627 MUL ADD
+GenLoad_LADBROK2 -0.0627 MUL ADD
+BatDChg_LBB1 -0.0685 MUL ADD
+BatChrg_LBB1 0.0685 MUL ADD
+BatDChg_LGAPBS1 0.0581 MUL ADD
+BatChrg_LGAPBS1 -0.0581 MUL ADD
+GenLoad_LGAPWF1 0.0581 MUL ADD
+GenLoad_LGAPWF2 0.0581 MUL ADD
+GenLoad_LKBONNY1 -0.0684 MUL ADD
+GenLoad_LKBONNY2 -0.0684 MUL ADD
+GenLoad_LKBONNY3 -0.0685 MUL ADD
+GenLoad_LONSDALE -0.0124 MUL ADD
+GenLoad_MANNSF2 0.0567 MUL ADD
+BatDChg_MANNUMB1 0.0567 MUL ADD
+BatChrg_MANNUMB1 -0.0567 MUL ADD
+GenLoad_MAPS2PV1 0.0567 MUL ADD
+GenLoad_MAPS3PV1 0.0623 MUL ADD
+GenLoad_MBPS2PV1 0.0117 MUL ADD
+GenLoad_MTMILLAR 0.0581 MUL ADD
+""BatDChg_NSA Battery - Coordinated CER Storages"" 0.0581 MUL ADD
+""BatChrg_NSA Battery - Coordinated CER Storages"" -0.0581 MUL ADD
+""GenLoad_NSA HLoad_F"" 0.0581 MUL ADD
+""GenLoad_NSA HLoad_G"" 0.0581 MUL ADD
+""BatDChg_NSA V2G"" 0.0581 MUL ADD
+""BatChrg_NSA V2G"" -0.0581 MUL ADD
+""BatDChg_Northern Battery"" 0.0581 MUL ADD
+""BatChrg_Northern Battery"" -0.0581 MUL ADD
+GenLoad_PAREPS1 0.0581 MUL ADD
+GenLoad_PAREPW1 0.0581 MUL ADD
+GenLoad_POR01-1 0.0581 MUL ADD
+GenLoad_POR01-2 0.0581 MUL ADD
+GenLoad_POR01-3 0.0581 MUL ADD
+GenLoad_PTSTAN1_1 -0.0124 MUL ADD
+GenLoad_PTSTAN1_2 -0.0124 MUL ADD
+""GenLoad_Palmer Wind Farm"" -0.0364 MUL ADD
+""BatDChg_Reeves Plains Power Station BESS"" 0.0222 MUL ADD
+""BatChrg_Reeves Plains Power Station BESS"" -0.0222 MUL ADD
+GenLoad_SNOWNTH1 0.0654 MUL ADD
+GenLoad_SNOWSTH1 0.0654 MUL ADD
+GenLoad_SNUG1 -0.0684 MUL ADD
+GenLoad_SNUG2 -0.0684 MUL ADD
+GenLoad_SNUG3 -0.0684 MUL ADD
+GenLoad_STARHLWF -0.0127 MUL ADD
+""BatDChg_Summerfield BESS 1"" -0.0364 MUL ADD
+""BatChrg_Summerfield BESS 1"" 0.0364 MUL ADD
+""BatDChg_Summerfield BESS 2"" -0.0364 MUL ADD
+""BatChrg_Summerfield BESS 2"" 0.0364 MUL ADD
+BatDChg_TB2B1 -0.0174 MUL ADD
+BatChrg_TB2B1 0.0174 MUL ADD
+GenLoad_TB2SF1 -0.0174 MUL ADD
+GenLoad_TBSF1 -0.0174 MUL ADD
+BatDChg_TEMPB1 0.0619 MUL ADD
+BatChrg_TEMPB1 -0.0619 MUL ADD
+""BatDChg_Tailem Bend Stage 3"" -0.0424 MUL ADD
+""BatChrg_Tailem Bend Stage 3"" 0.0424 MUL ADD
+""BatDChg_Tungkillo BESS"" -0.0364 MUL ADD
+""BatChrg_Tungkillo BESS"" 0.0364 MUL ADD
+""GenLoad_Vast Solar 1"" 0.0581 MUL ADD
+"	""	""	"NetworkConstraints"
+"Constraints"	"NEM"	"S>>S_NIL_WEWT1_LKDP1"	"RHS Constant"	"0"	""	"-"	"1"	""	""	"Summer_Grp9"	"="	"1 331.9787 MUL ADD
+Var_OPGEN_CSA -0.0071 MUL ADD
+Var_OPGEN_NSA -0.0581 MUL ADD
+Var_OPGEN_SESA 0.0509 MUL ADD
+BatDChg_5BlythWest275 0.0654 MUL ADD
+BatChrg_5BlythWest275 -0.0654 MUL ADD
+""GenLoad_5BlythWest275 Solar"" 0.0654 MUL ADD
+""GenLoad_5BlythWest275 Wind"" 0.0654 MUL ADD
+BatDChg_5Davenport275 0.0581 MUL ADD
+BatChrg_5Davenport275 -0.0581 MUL ADD
+""GenLoad_5Davenport275 Solar"" 0.0581 MUL ADD
+""GenLoad_5Davenport275 Wind"" 0.0581 MUL ADD
+BatDChg_5Mobilong132 0.0141 MUL ADD
+BatChrg_5Mobilong132 -0.0141 MUL ADD
+""GenLoad_5Mobilong132 Solar"" 0.0141 MUL ADD
+""GenLoad_5Mobilong132 Wind"" 0.0141 MUL ADD
+BatDChg_5OlymDamWest275 0.0581 MUL ADD
+BatChrg_5OlymDamWest275 -0.0581 MUL ADD
+""GenLoad_5OlymDamWest275 Solar"" 0.0581 MUL ADD
+""GenLoad_5OlymDamWest275 Wind"" 0.0581 MUL ADD
+BatDChg_5Para275 0.0046 MUL ADD
+BatChrg_5Para275 -0.0046 MUL ADD
+""GenLoad_5Para275 Solar"" 0.0046 MUL ADD
+""GenLoad_5Para275 Wind"" 0.0046 MUL ADD
+BatDChg_5PortLincoln132 0.0581 MUL ADD
+BatChrg_5PortLincoln132 -0.0581 MUL ADD
+""GenLoad_5PortLincoln132 Solar"" 0.0581 MUL ADD
+""GenLoad_5PortLincoln132 Wind"" 0.0581 MUL ADD
+BatDChg_5Snuggery132 -0.0684 MUL ADD
+BatChrg_5Snuggery132 0.0684 MUL ADD
+""GenLoad_5Snuggery132 Solar"" -0.0684 MUL ADD
+""GenLoad_5Snuggery132 Wind"" -0.0684 MUL ADD
+BatDChg_5TailemBend275 -0.0424 MUL ADD
+BatChrg_5TailemBend275 0.0424 MUL ADD
+""GenLoad_5TailemBend275 Solar"" -0.0424 MUL ADD
+""GenLoad_5TailemBend275 Wind"" -0.0424 MUL ADD
+BatDChg_5TemplersWest275 0.0619 MUL ADD
+BatChrg_5TemplersWest275 -0.0619 MUL ADD
+""GenLoad_5TemplersWest275 Solar"" 0.0619 MUL ADD
+""GenLoad_5TemplersWest275 Wind"" 0.0619 MUL ADD
+BatDChg_5Tungkillo275 -0.0364 MUL ADD
+BatChrg_5Tungkillo275 0.0364 MUL ADD
+""GenLoad_5Tungkillo275 Solar"" -0.0364 MUL ADD
+""GenLoad_5Tungkillo275 Wind"" -0.0364 MUL ADD
+BatDChg_5Yadnarie132 0.0581 MUL ADD
+BatChrg_5Yadnarie132 -0.0581 MUL ADD
+""GenLoad_5Yadnarie132 Solar"" 0.0581 MUL ADD
+""GenLoad_5Yadnarie132 Wind"" 0.0581 MUL ADD
+BatDChg_ADPBA1 -0.0119 MUL ADD
+BatChrg_ADPBA1 0.0119 MUL ADD
+GenLoad_ADPPV1 -0.0119 MUL ADD
+GenLoad_ADPPV2 -0.0119 MUL ADD
+BatDChg_BLYTHB1 0.0654 MUL ADD
+BatChrg_BLYTHB1 -0.0654 MUL ADD
+GenLoad_BNGSF1 0.0581 MUL ADD
+GenLoad_BNGSF2 0.0581 MUL ADD
+GenLoad_BOLIVPS1 0.0042 MUL ADD
+BatDChg_BOWWBA1 0.0042 MUL ADD
+BatChrg_BOWWBA1 -0.0042 MUL ADD
+GenLoad_BOWWPV1 0.0042 MUL ADD
+""BatDChg_Blacktop BESS"" 0.0046 MUL ADD
+""BatChrg_Blacktop BESS"" -0.0046 MUL ADD
+""BatDChg_Blanche BESS"" -0.0684 MUL ADD
+""BatChrg_Blanche BESS"" 0.0684 MUL ADD
+GenLoad_CATHROCK 0.0581 MUL ADD
+BatDChg_CBWWBA1 -0.0124 MUL ADD
+BatChrg_CBWWBA1 0.0124 MUL ADD
+GenLoad_CNUNDAWF -0.0684 MUL ADD
+GenLoad_DRYCGT1 -0.0013 MUL ADD
+GenLoad_DRYCGT2 -0.0013 MUL ADD
+""BatDChg_Emeroo BESS"" 0.0581 MUL ADD
+""BatChrg_Emeroo BESS"" -0.0581 MUL ADD
+BatDChg_HVWWBA1 -0.0112 MUL ADD
+BatChrg_HVWWBA1 0.0112 MUL ADD
+GenLoad_HVWWPV1 -0.0112 MUL ADD
+GenLoad_LADBROK1 -0.0627 MUL ADD
+GenLoad_LADBROK2 -0.0627 MUL ADD
+BatDChg_LBB1 -0.0685 MUL ADD
+BatChrg_LBB1 0.0685 MUL ADD
+BatDChg_LGAPBS1 0.0581 MUL ADD
+BatChrg_LGAPBS1 -0.0581 MUL ADD
+GenLoad_LGAPWF1 0.0581 MUL ADD
+GenLoad_LGAPWF2 0.0581 MUL ADD
+GenLoad_LKBONNY1 -0.0684 MUL ADD
+GenLoad_LKBONNY2 -0.0684 MUL ADD
+GenLoad_LKBONNY3 -0.0685 MUL ADD
+GenLoad_LONSDALE -0.0124 MUL ADD
+GenLoad_MANNSF2 0.0567 MUL ADD
+BatDChg_MANNUMB1 0.0567 MUL ADD
+BatChrg_MANNUMB1 -0.0567 MUL ADD
+GenLoad_MAPS2PV1 0.0567 MUL ADD
+GenLoad_MAPS3PV1 0.0623 MUL ADD
+GenLoad_MBPS2PV1 0.0117 MUL ADD
+GenLoad_MTMILLAR 0.0581 MUL ADD
+""BatDChg_NSA Battery - Coordinated CER Storages"" 0.0581 MUL ADD
+""BatChrg_NSA Battery - Coordinated CER Storages"" -0.0581 MUL ADD
+""GenLoad_NSA HLoad_F"" 0.0581 MUL ADD
+""GenLoad_NSA HLoad_G"" 0.0581 MUL ADD
+""BatDChg_NSA V2G"" 0.0581 MUL ADD
+""BatChrg_NSA V2G"" -0.0581 MUL ADD
+""BatDChg_Northern Battery"" 0.0581 MUL ADD
+""BatChrg_Northern Battery"" -0.0581 MUL ADD
+GenLoad_PAREPS1 0.0581 MUL ADD
+GenLoad_PAREPW1 0.0581 MUL ADD
+GenLoad_POR01-1 0.0581 MUL ADD
+GenLoad_POR01-2 0.0581 MUL ADD
+GenLoad_POR01-3 0.0581 MUL ADD
+GenLoad_PTSTAN1_1 -0.0124 MUL ADD
+GenLoad_PTSTAN1_2 -0.0124 MUL ADD
+""GenLoad_Palmer Wind Farm"" -0.0364 MUL ADD
+""BatDChg_Reeves Plains Power Station BESS"" 0.0222 MUL ADD
+""BatChrg_Reeves Plains Power Station BESS"" -0.0222 MUL ADD
+GenLoad_SNOWNTH1 0.0654 MUL ADD
+GenLoad_SNOWSTH1 0.0654 MUL ADD
+GenLoad_SNUG1 -0.0684 MUL ADD
+GenLoad_SNUG2 -0.0684 MUL ADD
+GenLoad_SNUG3 -0.0684 MUL ADD
+GenLoad_STARHLWF -0.0127 MUL ADD
+""BatDChg_Summerfield BESS 1"" -0.0364 MUL ADD
+""BatChrg_Summerfield BESS 1"" 0.0364 MUL ADD
+""BatDChg_Summerfield BESS 2"" -0.0364 MUL ADD
+""BatChrg_Summerfield BESS 2"" 0.0364 MUL ADD
+BatDChg_TB2B1 -0.0174 MUL ADD
+BatChrg_TB2B1 0.0174 MUL ADD
+GenLoad_TB2SF1 -0.0174 MUL ADD
+GenLoad_TBSF1 -0.0174 MUL ADD
+BatDChg_TEMPB1 0.0619 MUL ADD
+BatChrg_TEMPB1 -0.0619 MUL ADD
+""BatDChg_Tailem Bend Stage 3"" -0.0424 MUL ADD
+""BatChrg_Tailem Bend Stage 3"" 0.0424 MUL ADD
+""BatDChg_Tungkillo BESS"" -0.0364 MUL ADD
+""BatChrg_Tungkillo BESS"" 0.0364 MUL ADD
+""GenLoad_Vast Solar 1"" 0.0581 MUL ADD
+"	""	""	"NetworkConstraints"

@@ -1,0 +1,5 @@
+obj,esoo_coef,mms_factor,kind,ratio,presence
+Port Latta Wind Farm,1.0,,GEN,,ESOO only
+MUSSELR1,1.0,1.0,GEN,1.0,both
+GRANWF1,0.243,0.243,GEN,1.0,both
+T-V-MNSP1,-0.8577,-0.8577,IC,1.0,both

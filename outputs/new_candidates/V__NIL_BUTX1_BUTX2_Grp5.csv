@@ -1,0 +1,293 @@
+term,coef,source_timeslice
+RHS constant,1027.627,NotSummer_Grp5
+Var_OPGEN_CNSW,-0.0002,NotSummer_Grp5
+Var_OPGEN_NNSW,-0.0002,NotSummer_Grp5
+Var_OPGEN_SNSW,0.0492,NotSummer_Grp5
+Var_OPGEN_SNW,0.0,NotSummer_Grp5
+BatDChg_2ANM132,-0.0181,NotSummer_Grp5
+BatChrg_2ANM132,0.0181,NotSummer_Grp5
+GenLoad_2ANM132 Solar,-0.0181,NotSummer_Grp5
+GenLoad_2ANM132 Wind,-0.0181,NotSummer_Grp5
+BatDChg_2Canberaa330,-0.0036,NotSummer_Grp5
+BatChrg_2Canberaa330,0.0036,NotSummer_Grp5
+GenLoad_2Canberaa330 Solar,-0.0036,NotSummer_Grp5
+GenLoad_2Canberaa330 Wind,-0.0036,NotSummer_Grp5
+BatDChg_2Deniliquin132,-0.046,NotSummer_Grp5
+BatChrg_2Deniliquin132,0.046,NotSummer_Grp5
+GenLoad_2Deniliquin132 Solar,-0.046,NotSummer_Grp5
+GenLoad_2Deniliquin132 Wind,-0.046,NotSummer_Grp5
+BatDChg_2UpperTumut330,-0.0075,NotSummer_Grp5
+BatChrg_2UpperTumut330,0.0075,NotSummer_Grp5
+GenLoad_2UpperTumut330 Solar,-0.0075,NotSummer_Grp5
+GenLoad_2UpperTumut330 Wind,-0.0075,NotSummer_Grp5
+BatDChg_2Wagga330,0.0165,NotSummer_Grp5
+BatChrg_2Wagga330,-0.0165,NotSummer_Grp5
+GenLoad_2Wagga330 Solar,0.0165,NotSummer_Grp5
+GenLoad_2Wagga330 Wind,0.0165,NotSummer_Grp5
+BatDChg_3Altona220,-0.0106,NotSummer_Grp5
+BatChrg_3Altona220,0.0106,NotSummer_Grp5
+GenLoad_3Altona220 Solar,-0.0106,NotSummer_Grp5
+GenLoad_3Altona220 Wind,-0.0106,NotSummer_Grp5
+BatDChg_3Dederang220,0.0271,NotSummer_Grp5
+BatChrg_3Dederang220,-0.0271,NotSummer_Grp5
+GenLoad_3Dederang220 Solar,0.0271,NotSummer_Grp5
+GenLoad_3Dederang220 Wind,0.0271,NotSummer_Grp5
+BatDChg_3DeerPark220,-0.0148,NotSummer_Grp5
+BatChrg_3DeerPark220,0.0148,NotSummer_Grp5
+GenLoad_3DeerPark220 Solar,-0.0148,NotSummer_Grp5
+GenLoad_3DeerPark220 Wind,-0.0148,NotSummer_Grp5
+BatDChg_3Elaine220,-0.0685,NotSummer_Grp5
+BatChrg_3Elaine220,0.0685,NotSummer_Grp5
+GenLoad_3Elaine220 Solar,-0.0685,NotSummer_Grp5
+GenLoad_3Elaine220 Wind,-0.0685,NotSummer_Grp5
+BatDChg_3Geelong220,-0.0295,NotSummer_Grp5
+BatChrg_3Geelong220,0.0295,NotSummer_Grp5
+GenLoad_3Geelong220 Solar,-0.0295,NotSummer_Grp5
+GenLoad_3Geelong220 Wind,-0.0295,NotSummer_Grp5
+BatDChg_3Heywood500,0.0342,NotSummer_Grp5
+BatChrg_3Heywood500,-0.0342,NotSummer_Grp5
+GenLoad_3Heywood500 Solar,0.0342,NotSummer_Grp5
+GenLoad_3Heywood500 Wind,0.0342,NotSummer_Grp5
+BatDChg_3Moorabool220,-0.0315,NotSummer_Grp5
+BatChrg_3Moorabool220,0.0315,NotSummer_Grp5
+GenLoad_3Moorabool220 Solar,-0.0315,NotSummer_Grp5
+GenLoad_3Moorabool220 Wind,-0.0315,NotSummer_Grp5
+BatDChg_3Mortlake500,0.0198,NotSummer_Grp5
+BatChrg_3Mortlake500,-0.0198,NotSummer_Grp5
+GenLoad_3Mortlake500 Solar,0.0198,NotSummer_Grp5
+GenLoad_3Mortlake500 Wind,0.0198,NotSummer_Grp5
+BatDChg_3MtBeauty220,0.0085,NotSummer_Grp5
+BatChrg_3MtBeauty220,-0.0085,NotSummer_Grp5
+GenLoad_3MtBeauty220 Solar,0.0085,NotSummer_Grp5
+GenLoad_3MtBeauty220 Wind,0.0085,NotSummer_Grp5
+BatDChg_3Shepparton220,-0.0452,NotSummer_Grp5
+BatChrg_3Shepparton220,0.0452,NotSummer_Grp5
+GenLoad_3Shepparton220 Solar,-0.0452,NotSummer_Grp5
+GenLoad_3Shepparton220 Wind,-0.0452,NotSummer_Grp5
+BatDChg_3Sydenham500,-0.0017,NotSummer_Grp5
+BatChrg_3Sydenham500,0.0017,NotSummer_Grp5
+GenLoad_3Sydenham500 Solar,-0.0017,NotSummer_Grp5
+GenLoad_3Sydenham500 Wind,-0.0017,NotSummer_Grp5
+BatDChg_3Terang220,-0.0638,NotSummer_Grp5
+BatChrg_3Terang220,0.0638,NotSummer_Grp5
+GenLoad_3Terang220 Solar,-0.0638,NotSummer_Grp5
+GenLoad_3Terang220 Wind,-0.0638,NotSummer_Grp5
+BatDChg_3Wodonga330,0.0424,NotSummer_Grp5
+BatChrg_3Wodonga330,-0.0424,NotSummer_Grp5
+GenLoad_3Wodonga330 Solar,0.0424,NotSummer_Grp5
+GenLoad_3Wodonga330 Wind,0.0424,NotSummer_Grp5
+GenLoad_AVLSF1,-0.0396,NotSummer_Grp5
+GenLoad_BOCORWF1,-0.0037,NotSummer_Grp5
+GenLoad_BOGONG1,0.0085,NotSummer_Grp5
+GenLoad_BOGONG2,0.0085,NotSummer_Grp5
+GenLoad_BOMENSF1,0.0036,NotSummer_Grp5
+BatDChg_Baranduda Electrical Energy Reserve,0.0424,NotSummer_Grp5
+BatChrg_Baranduda Electrical Energy Reserve,-0.0424,NotSummer_Grp5
+BatDChg_Barnawartha BESS,0.0424,NotSummer_Grp5
+BatChrg_Barnawartha BESS,-0.0424,NotSummer_Grp5
+GenLoad_Barnawartha Solar,0.0424,NotSummer_Grp5
+GenLoad_Barwon Solar Farm,-0.0231,NotSummer_Grp5
+BatDChg_Barwon Solar Farm BESS,-0.0231,NotSummer_Grp5
+BatChrg_Barwon Solar Farm BESS,0.0231,NotSummer_Grp5
+GenLoad_Blind Creek Solar Farm,-0.0028,NotSummer_Grp5
+BatDChg_Blind Creek Solar Farm BESS,-0.0028,NotSummer_Grp5
+BatChrg_Blind Creek Solar Farm BESS,0.0028,NotSummer_Grp5
+BatDChg_CAPBES1,-0.0036,NotSummer_Grp5
+BatChrg_CAPBES1,0.0036,NotSummer_Grp5
+GenLoad_CAPTL_WF,-0.0028,NotSummer_Grp5
+GenLoad_CRWASF1,-0.0245,NotSummer_Grp5
+GenLoad_CUSF1,-0.0106,NotSummer_Grp5
+GenLoad_Coppabella Hybrid Generator,-0.0025,NotSummer_Grp5
+BatDChg_Culcairn BESS,-0.0106,NotSummer_Grp5
+BatChrg_Culcairn BESS,0.0106,NotSummer_Grp5
+GenLoad_DARTM1,0.0085,NotSummer_Grp5
+GenLoad_DUNDWF1,0.0198,NotSummer_Grp5
+GenLoad_DUNDWF2,0.0198,NotSummer_Grp5
+GenLoad_DUNDWF3,0.0198,NotSummer_Grp5
+BatDChg_Deer Park BESS - Akaysha,-0.0148,NotSummer_Grp5
+BatChrg_Deer Park BESS - Akaysha,0.0148,NotSummer_Grp5
+GenLoad_EILDON1,0.0033,NotSummer_Grp5
+GenLoad_EILDON2,0.0033,NotSummer_Grp5
+GenLoad_ELAINWF1,-0.0685,NotSummer_Grp5
+BatDChg_Elaine BESS,-0.0685,NotSummer_Grp5
+BatChrg_Elaine BESS,0.0685,NotSummer_Grp5
+GenLoad_Elaine Solar Farm,-0.0685,NotSummer_Grp5
+BatDChg_Elaine Solar Farm BESS,-0.0685,NotSummer_Grp5
+BatChrg_Elaine Solar Farm BESS,0.0685,NotSummer_Grp5
+GenLoad_FINLYSF1,-0.0332,NotSummer_Grp5
+GenLoad_GESF1,-0.0193,NotSummer_Grp5
+GenLoad_GIRGSF,-0.0452,NotSummer_Grp5
+GenLoad_GLENSF1,-0.0192,NotSummer_Grp5
+GenLoad_GLRWNSF1,-0.0178,NotSummer_Grp5
+GenLoad_GOESF1,-0.0297,NotSummer_Grp5
+GenLoad_GPWFEST1,0.0049,NotSummer_Grp5
+GenLoad_GPWFEST2,0.0049,NotSummer_Grp5
+GenLoad_GPWFEST3,0.0049,NotSummer_Grp5
+GenLoad_GPWFWST1,0.0049,NotSummer_Grp5
+GenLoad_GPWFWST2,0.0049,NotSummer_Grp5
+GenLoad_GUTHEGA1,-0.0218,NotSummer_Grp5
+GenLoad_GUTHEGA2,-0.0218,NotSummer_Grp5
+BatDChg_Gnarwarre BESS,-0.0359,NotSummer_Grp5
+BatChrg_Gnarwarre BESS,0.0359,NotSummer_Grp5
+BatDChg_Golden Plains BESS,0.0049,NotSummer_Grp5
+BatChrg_Golden Plains BESS,-0.0049,NotSummer_Grp5
+BatDChg_Gundary BESS,-0.0025,NotSummer_Grp5
+BatChrg_Gundary BESS,0.0025,NotSummer_Grp5
+GenLoad_Gundary Solar Farm,-0.0025,NotSummer_Grp5
+GenLoad_HD1WF1,0.0266,NotSummer_Grp5
+GenLoad_HUMENSW,-0.0191,NotSummer_Grp5
+GenLoad_HUMEV,-0.0366,NotSummer_Grp5
+GenLoad_Hexham Wind Farm Wind,0.0221,NotSummer_Grp5
+GenLoad_Inverleigh Wind Farm,-0.0295,NotSummer_Grp5
+GenLoad_JUNEESF1,0.0036,NotSummer_Grp5
+GenLoad_Kentbruck Green Power Hub,0.0342,NotSummer_Grp5
+GenLoad_LANCSF1,-0.0452,NotSummer_Grp5
+GenLoad_LNGS1,-0.0106,NotSummer_Grp5
+GenLoad_LNGS2,-0.0106,NotSummer_Grp5
+BatDChg_Little River BESS,-0.0251,NotSummer_Grp5
+BatChrg_Little River BESS,0.0251,NotSummer_Grp5
+BatDChg_Lockhart Hybrid Facility - Battery,-0.0026,NotSummer_Grp5
+BatChrg_Lockhart Hybrid Facility - Battery,0.0026,NotSummer_Grp5
+GenLoad_Lockhart Hybrid Facility - Solar,-0.0026,NotSummer_Grp5
+GenLoad_MACARTH1,0.0266,NotSummer_Grp5
+GenLoad_MCKAY11,0.0085,NotSummer_Grp5
+GenLoad_MCKAY12,0.0085,NotSummer_Grp5
+GenLoad_MCKAY13,0.0085,NotSummer_Grp5
+GenLoad_MCKAY14,0.0085,NotSummer_Grp5
+GenLoad_MCKAY15,0.0085,NotSummer_Grp5
+GenLoad_MCKAY16,0.0085,NotSummer_Grp5
+GenLoad_MERCER01,-0.0685,NotSummer_Grp5
+BatDChg_MLB01,-0.0638,NotSummer_Grp5
+BatChrg_MLB01,0.0638,NotSummer_Grp5
+GenLoad_MLWF1,-0.0622,NotSummer_Grp5
+GenLoad_MOKOSF1,-0.0192,NotSummer_Grp5
+GenLoad_MOORAWF1,-0.0685,NotSummer_Grp5
+GenLoad_MORTLK11,0.0198,NotSummer_Grp5
+GenLoad_MORTLK12,0.0198,NotSummer_Grp5
+BatDChg_MREHA1,-0.0017,NotSummer_Grp5
+BatChrg_MREHA1,0.0017,NotSummer_Grp5
+BatDChg_MREHA2,-0.0017,NotSummer_Grp5
+BatChrg_MREHA2,0.0017,NotSummer_Grp5
+BatDChg_MREHA3,-0.0017,NotSummer_Grp5
+BatChrg_MREHA3,0.0017,NotSummer_Grp5
+GenLoad_MRTLSWF1,-0.0638,NotSummer_Grp5
+GenLoad_MTGELWF1,-0.0455,NotSummer_Grp5
+BatDChg_MUGGALB1,-0.0036,NotSummer_Grp5
+BatChrg_MUGGALB1,0.0036,NotSummer_Grp5
+BatDChg_MUGGALB2,-0.0036,NotSummer_Grp5
+BatChrg_MUGGALB2,0.0036,NotSummer_Grp5
+GenLoad_MULWASF1,-0.028,NotSummer_Grp5
+GenLoad_MURRAY01,0.0573,NotSummer_Grp5
+GenLoad_MURRAY02,0.0573,NotSummer_Grp5
+GenLoad_MURRAY03,0.0573,NotSummer_Grp5
+GenLoad_MURRAY04,0.0573,NotSummer_Grp5
+GenLoad_MURRAY05,0.0573,NotSummer_Grp5
+GenLoad_MURRAY06,0.0573,NotSummer_Grp5
+GenLoad_MURRAY07,0.0573,NotSummer_Grp5
+GenLoad_MURRAY08,0.0573,NotSummer_Grp5
+GenLoad_MURRAY09,0.0573,NotSummer_Grp5
+GenLoad_MURRAY10,0.0573,NotSummer_Grp5
+GenLoad_MURRAY11,0.0573,NotSummer_Grp5
+GenLoad_MURRAY12,0.0573,NotSummer_Grp5
+GenLoad_MURRAY13,0.0573,NotSummer_Grp5
+GenLoad_MURRAY14,0.0573,NotSummer_Grp5
+BatDChg_Melbourne Renewable Energy Hub Side B,-0.0017,NotSummer_Grp5
+BatChrg_Melbourne Renewable Energy Hub Side B,0.0017,NotSummer_Grp5
+GenLoad_Moama Solar Farm 1_5,-0.046,NotSummer_Grp5
+GenLoad_Moama Solar Farm 6_10,-0.046,NotSummer_Grp5
+BatDChg_Moorabool BESS,-0.0315,NotSummer_Grp5
+BatChrg_Moorabool BESS,0.0315,NotSummer_Grp5
+BatDChg_Mortlake Energy Hub BESS,0.0198,NotSummer_Grp5
+BatChrg_Mortlake Energy Hub BESS,-0.0198,NotSummer_Grp5
+GenLoad_Mortlake Energy Hub Solar,0.0198,NotSummer_Grp5
+GenLoad_NPS,-0.0039,NotSummer_Grp5
+GenLoad_NUMURSF1,-0.0452,NotSummer_Grp5
+GenLoad_OAKLAND1,-0.0622,NotSummer_Grp5
+GenLoad_PORTWF,0.0342,NotSummer_Grp5
+BatDChg_Pine Lodge BESS,-0.04,NotSummer_Grp5
+BatChrg_Pine Lodge BESS,0.04,NotSummer_Grp5
+BatDChg_QBYNB1,-0.0036,NotSummer_Grp5
+BatChrg_QBYNB1,0.0036,NotSummer_Grp5
+GenLoad_RYANCWF1,0.0266,NotSummer_Grp5
+GenLoad_RYEPARK1,-0.0027,NotSummer_Grp5
+GenLoad_SALTCRK1,-0.0622,NotSummer_Grp5
+GenLoad_SEBSF1,0.0036,NotSummer_Grp5
+GenLoad_SNO2PH01,-0.0033,NotSummer_Grp5
+GenPump_SNO2PH01,0.0033,NotSummer_Grp5
+GenLoad_SNO2PH02,-0.0033,NotSummer_Grp5
+GenPump_SNO2PH02,0.0033,NotSummer_Grp5
+GenLoad_SNO2PH03,-0.0033,NotSummer_Grp5
+GenPump_SNO2PH03,0.0033,NotSummer_Grp5
+GenLoad_SNO2PH04,-0.0033,NotSummer_Grp5
+GenPump_SNO2PH04,0.0033,NotSummer_Grp5
+GenLoad_SNO2PH05,-0.0033,NotSummer_Grp5
+GenPump_SNO2PH05,0.0033,NotSummer_Grp5
+GenLoad_SNO2PH06,-0.0033,NotSummer_Grp5
+GenPump_SNO2PH06,0.0033,NotSummer_Grp5
+BatDChg_SNSW Battery - Coordinated CER Storages,-0.0036,NotSummer_Grp5
+BatChrg_SNSW Battery - Coordinated CER Storages,0.0036,NotSummer_Grp5
+GenLoad_SNSW HLoad_F,-0.0036,NotSummer_Grp5
+GenLoad_SNSW HLoad_G,-0.0036,NotSummer_Grp5
+BatDChg_SNSW V2G,-0.0036,NotSummer_Grp5
+BatChrg_SNSW V2G,0.0036,NotSummer_Grp5
+GenLoad_STOCKYD1,0.0112,NotSummer_Grp5
+BatDChg_TRGBESS1,-0.0638,NotSummer_Grp5
+BatChrg_TRGBESS1,0.0638,NotSummer_Grp5
+GenLoad_TUMUT1_01,-0.0075,NotSummer_Grp5
+GenLoad_TUMUT1_02,-0.0075,NotSummer_Grp5
+GenLoad_TUMUT1_03,-0.0075,NotSummer_Grp5
+GenLoad_TUMUT1_04,-0.0075,NotSummer_Grp5
+GenLoad_TUMUT2_01,-0.0075,NotSummer_Grp5
+GenLoad_TUMUT2_02,-0.0075,NotSummer_Grp5
+GenLoad_TUMUT2_03,-0.0075,NotSummer_Grp5
+GenLoad_TUMUT2_04,-0.0075,NotSummer_Grp5
+GenLoad_TUMUT3_01,-0.0039,NotSummer_Grp5
+GenLoad_TUMUT3_02,-0.0039,NotSummer_Grp5
+GenLoad_TUMUT3_03,-0.0039,NotSummer_Grp5
+GenLoad_TUMUT3_04,-0.0039,NotSummer_Grp5
+GenPump_TUMUT3_04,0.0039,NotSummer_Grp5
+GenLoad_TUMUT3_05,-0.0039,NotSummer_Grp5
+GenPump_TUMUT3_05,0.0039,NotSummer_Grp5
+GenLoad_TUMUT3_06,-0.0039,NotSummer_Grp5
+GenPump_TUMUT3_06,0.0039,NotSummer_Grp5
+BatDChg_Talbingo BESS,-0.0039,NotSummer_Grp5
+BatChrg_Talbingo BESS,0.0039,NotSummer_Grp5
+GenLoad_URANQ11,-0.0026,NotSummer_Grp5
+GenLoad_URANQ12,-0.0026,NotSummer_Grp5
+GenLoad_URANQ13,-0.0026,NotSummer_Grp5
+GenLoad_URANQ14,-0.0026,NotSummer_Grp5
+BatDChg_VBB1,-0.0315,NotSummer_Grp5
+BatChrg_VBB1,0.0315,NotSummer_Grp5
+GenLoad_WAGGNSF1,0.0036,NotSummer_Grp5
+GenLoad_WINTSF1,-0.0178,NotSummer_Grp5
+GenLoad_WKIEWA1_1,0.0085,NotSummer_Grp5
+GenLoad_WKIEWA1_2,0.0085,NotSummer_Grp5
+GenLoad_WKIEWA2_1,0.0085,NotSummer_Grp5
+GenLoad_WKIEWA2_2,0.0085,NotSummer_Grp5
+GenLoad_WLWLSF1,-0.0124,NotSummer_Grp5
+GenLoad_WLWLSF2,-0.0124,NotSummer_Grp5
+GenLoad_WNSF1,-0.0178,NotSummer_Grp5
+BatDChg_WNV Battery - Coordinated CER Storages,-0.0315,NotSummer_Grp5
+BatChrg_WNV Battery - Coordinated CER Storages,0.0315,NotSummer_Grp5
+GenLoad_WNV HLoad_F,-0.0315,NotSummer_Grp5
+GenLoad_WNV HLoad_G,-0.0315,NotSummer_Grp5
+BatDChg_WNV V2G,-0.0315,NotSummer_Grp5
+BatChrg_WNV V2G,0.0315,NotSummer_Grp5
+GenLoad_WOODLWN1,-0.0028,NotSummer_Grp5
+GenLoad_WSTWYSF1,0.0036,NotSummer_Grp5
+GenLoad_WUNUSF1,-0.0452,NotSummer_Grp5
+GenLoad_WYASF1,0.0036,NotSummer_Grp5
+BatDChg_Wagga North BESS - KCI,0.0165,NotSummer_Grp5
+BatChrg_Wagga North BESS - KCI,-0.0165,NotSummer_Grp5
+BatDChg_West Mokoan BESS,-0.0178,NotSummer_Grp5
+BatChrg_West Mokoan BESS,0.0178,NotSummer_Grp5
+GenLoad_West Mokoan Solar Farm,-0.0178,NotSummer_Grp5
+GenLoad_Willatook Wind Farm,0.0266,NotSummer_Grp5
+BatDChg_Williamsdale BESS,-0.0037,NotSummer_Grp5
+BatChrg_Williamsdale BESS,0.0037,NotSummer_Grp5
+GenLoad_Winton North Solar Farm,-0.0192,NotSummer_Grp5
+GenLoad_Woolsthorpe Wind Farm,-0.0638,NotSummer_Grp5
+GenLoad_YAMBUKWF,-0.0622,NotSummer_Grp5
+GenLoad_YSWF1,-0.0666,NotSummer_Grp5
+BatDChg_Yanco BESS,-0.0627,NotSummer_Grp5
+BatChrg_Yanco BESS,0.0627,NotSummer_Grp5

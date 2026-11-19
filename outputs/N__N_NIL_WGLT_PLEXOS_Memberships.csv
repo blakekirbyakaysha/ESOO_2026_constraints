@@ -1,0 +1,54 @@
+Collection,Parent Name,Parent Category,Child Name,Child Category
+Generator.Constraints,HILLSTN1,Solar NSW,N^^N_NIL_WGLT,AE Network Constraints
+Battery.Constraints,Darlington Point BESS,Unused Battery Objects NEM,N^^N_NIL_WGLT,AE Network Constraints
+Battery.Constraints,RESS1,BESS NSW,N^^N_NIL_WGLT,AE Network Constraints
+Battery.Constraints,RIVNB2,BESS NSW,N^^N_NIL_WGLT,AE Network Constraints
+Generator.Constraints,DARLSF1,Solar NSW,N^^N_NIL_WGLT,AE Network Constraints
+Generator.Constraints,COLEASF1,Solar NSW,N^^N_NIL_WGLT,AE Network Constraints
+Generator.Constraints,AVLSF1,Solar NSW,N^^N_NIL_WGLT,AE Network Constraints
+Generator.Constraints,URANQ11,Natural Gas NSW,N^^N_NIL_WGLT,AE Network Constraints
+Generator.Constraints,URANQ14,Natural Gas NSW,N^^N_NIL_WGLT,AE Network Constraints
+Generator.Constraints,URANQ13,Natural Gas NSW,N^^N_NIL_WGLT,AE Network Constraints
+Generator.Constraints,URANQ12,Natural Gas NSW,N^^N_NIL_WGLT,AE Network Constraints
+Generator.Constraints,SEBSF1,Solar NSW,N^^N_NIL_WGLT,AE Network Constraints
+Generator.Constraints,WSTWYSF1,Solar NSW,N^^N_NIL_WGLT,AE Network Constraints
+Generator.Constraints,JUNEESF1,Solar NSW,N^^N_NIL_WGLT,AE Network Constraints
+Generator.Constraints,WAGGNSF1,Solar NSW,N^^N_NIL_WGLT,AE Network Constraints
+Generator.Constraints,WYASF1,Solar NSW,N^^N_NIL_WGLT,AE Network Constraints
+Generator.Constraints,BOMENSF1,Solar NSW,N^^N_NIL_WGLT,AE Network Constraints
+Generator.Constraints,SUNRSF1,Solar NSW,N^^N_NIL_WGLT,AE Network Constraints
+Generator.Constraints,LIMOSF11,Solar NSW,N^^N_NIL_WGLT,AE Network Constraints
+Battery.Constraints,LIMBESS1,BESS NSW,N^^N_NIL_WGLT,AE Network Constraints
+Generator.Constraints,LIMOSF21,Solar NSW,N^^N_NIL_WGLT,AE Network Constraints
+Generator.Constraints,FINLYSF1,Solar NSW,N^^N_NIL_WGLT,AE Network Constraints
+Generator.Constraints,STWF1,Wind NSW,N^^N_NIL_WGLT,AE Network Constraints
+Battery.Constraints,BHB1,BESS NSW,N^^N_NIL_WGLT,AE Network Constraints
+Generator.Constraints,BROKENH1,Solar NSW,N^^N_NIL_WGLT,AE Network Constraints
+Generator.Constraints,Mulwala Solar Farm,Solar NSW,N^^N_NIL_WGLT,AE Network Constraints
+Generator.Constraints,CRWASF1,Solar NSW,N^^N_NIL_WGLT,AE Network Constraints
+Generator.Constraints,CUSF1,Solar NSW,N^^N_NIL_WGLT,AE Network Constraints
+Generator.Constraints,WLWLSF,Solar NSW,N^^N_NIL_WGLT,AE Network Constraints
+Generator.Constraints,WLWLSF,Solar NSW,N^^N_NIL_WGLT,AE Network Constraints
+Generator.Constraints,HUMENSW,Hydro NSW,N^^N_NIL_WGLT,AE Network Constraints
+Generator.Constraints,GESF1,Solar NSW,N^^N_NIL_WGLT,AE Network Constraints
+Generator.Constraints,BLOWERNG,Hydro NSW,N^^N_NIL_WGLT,AE Network Constraints
+Generator.Constraints,YATSF1,Solar VIC,N^^N_NIL_WGLT,AE Network Constraints
+Generator.Constraints,KARSF1,Solar VIC,N^^N_NIL_WGLT,AE Network Constraints
+Generator.Constraints,WEMENSF1,Solar VIC,N^^N_NIL_WGLT,AE Network Constraints
+Generator.Constraints,BANN1,Solar VIC,N^^N_NIL_WGLT,AE Network Constraints
+Generator.Constraints,KIAMSF1,Solar VIC,N^^N_NIL_WGLT,AE Network Constraints
+Generator.Constraints,MUWAWF2,Wind VIC,N^^N_NIL_WGLT,AE Network Constraints
+Generator.Constraints,MUWAWF1,Wind VIC,N^^N_NIL_WGLT,AE Network Constraints
+Battery.Constraints,KESSB1,BESS VIC,N^^N_NIL_WGLT,AE Network Constraints
+Generator.Constraints,GUNNING1,Wind NSW,N^^N_NIL_WGLT,AE Network Constraints
+Battery.Constraints,GANNB1,BESS VIC,N^^N_NIL_WGLT,AE Network Constraints
+Generator.Constraints,COHUNSF1,Solar VIC,N^^N_NIL_WGLT,AE Network Constraints
+Generator.Constraints,GANNSF1,Solar VIC,N^^N_NIL_WGLT,AE Network Constraints
+Generator.Constraints,KERNGSP1,Solar VIC,N^^N_NIL_WGLT,AE Network Constraints
+Generator.Constraints,BANGOWF1,Wind NSW,N^^N_NIL_WGLT,AE Network Constraints
+Generator.Constraints,BANGOWF2,Wind NSW,N^^N_NIL_WGLT,AE Network Constraints
+Generator.Constraints,KIATAWF1,Wind VIC,N^^N_NIL_WGLT,AE Network Constraints
+Generator.Constraints,MURRAY01,Hydro VIC,N^^N_NIL_WGLT,AE Network Constraints
+Line.Constraints,VIC1-NSW1,IC,N^^N_NIL_WGLT,AE Network Constraints
+Line.Constraints,V-S-MNSP1,IC,N^^N_NIL_WGLT,AE Network Constraints
+Line.Constraints,NSW1-SA1,IC,N^^N_NIL_WGLT,AE Network Constraints

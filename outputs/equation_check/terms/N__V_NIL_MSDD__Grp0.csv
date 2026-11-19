@@ -1,0 +1,19 @@
+obj,esoo_coef,mms_factor,kind,ratio,presence
+URANQ14,-0.1752,-0.1752,GEN,1.0,both
+LIMOSF11,-0.5,-0.5,GEN,1.0,both
+Junction Rivers BESS,-0.5,,GEN,,ESOO only
+Baldon Wind Farm BESS,-0.5,,GEN,,ESOO only
+Junction Rivers Wind,-0.5,,GEN,,ESOO only
+Bullawah Wind Farm Stage 1,-0.5,,GEN,,ESOO only
+STWF1,-0.58,-0.58,GEN,1.0,both
+URANQ12,-0.1752,-0.1752,GEN,1.0,both
+LIMOSF21,-0.5,-0.5,GEN,1.0,both
+URANQ13,-0.1752,-0.1752,GEN,1.0,both
+Baldon Wind Farm,-0.5,,GEN,,ESOO only
+URANQ11,-0.1752,-0.1752,GEN,1.0,both
+SUNRSF1,-0.5,-0.5,GEN,1.0,both
+BROKENH1,-0.58,-0.58,GEN,1.0,both
+BHB1,,-0.58,GEN,,MMS only
+SNOWYP,,-0.36,GEN,,MMS only
+LIMBESS1,,-0.5,GEN,,MMS only
+VIC1-NSW1,-1.0,-1.0,IC,1.0,both

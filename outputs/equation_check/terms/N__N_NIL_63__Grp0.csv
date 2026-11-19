@@ -1,0 +1,46 @@
+obj,esoo_coef,mms_factor,kind,ratio,presence
+Barnawartha Solar,0.218,,GEN,,ESOO only
+BHB1,0.35,0.35,GEN,1.0,both
+Nowingi BESS (KCI),0.261,,GEN,,ESOO only
+LIMBESS1,0.616,0.616,GEN,1.0,both
+West Mokoan BESS,0.218,,GEN,,ESOO only
+RESS1,1.0,1.0,GEN,1.0,both
+West Mokoan Solar Farm,0.218,,GEN,,ESOO only
+AVLSF1,0.474,0.474,GEN,1.0,both
+WEMENSF1,0.225,0.225,GEN,1.0,both
+MULWASF1,0.22,0.22,GEN,1.0,both
+LIMOSF21,0.616,0.616,GEN,1.0,both
+SUNRSF1,0.616,0.616,GEN,1.0,both
+Hay Sun Farm,1.0,,GEN,,ESOO only
+Silver City Energy Storage,0.35,,GEN,,ESOO only
+Nowingi Solar Farm (KCI),0.261,,GEN,,ESOO only
+Yanco Delta Wind Farm,1.0,,GEN,,ESOO only
+Coleambally BESS,0.957,,GEN,,ESOO only
+KIAMSF1,0.218,0.218,GEN,1.0,both
+Junction Rivers Wind,0.616,,GEN,,ESOO only
+BANN1,0.225,0.225,GEN,1.0,both
+Moama Solar Farm 1_5,0.324,,GEN,,ESOO only
+Ravenswood BESS,0.218,,GEN,,ESOO only
+Barnawartha BESS,0.218,,GEN,,ESOO only
+RIVNB2,1.0,1.0,GEN,1.0,both
+Kiamal BESS,0.218,,GEN,,ESOO only
+HILLSTN1,1.0,1.0,GEN,1.0,both
+Baldon Wind Farm,0.616,,GEN,,ESOO only
+Ravenswood Solar,0.218,,GEN,,ESOO only
+FINLYSF1,0.324,0.324,GEN,1.0,both
+Campbells Forest Solar Farm,0.218,,GEN,,ESOO only
+DPNTB1,1.0,1.0,GEN,1.0,both
+Junction Rivers BESS,0.616,,GEN,,ESOO only
+DARLSF1,1.0,1.0,GEN,1.0,both
+KARSF1,0.261,0.261,GEN,1.0,both
+Bullawah Wind Farm Stage 1,0.616,,GEN,,ESOO only
+Moama Solar Farm 6_10,0.324,,GEN,,ESOO only
+Baldon Wind Farm BESS,0.616,,GEN,,ESOO only
+YATSF1,0.261,0.261,GEN,1.0,both
+Yanco BESS,1.0,,GEN,,ESOO only
+LIMOSF11,0.616,0.616,GEN,1.0,both
+Griffith BESS,0.957,,GEN,,ESOO only
+BROKENH1,0.35,0.35,GEN,1.0,both
+STWF1,0.35,0.35,GEN,1.0,both
+COLEASF1,0.957,0.957,GEN,1.0,both
+V-S-MNSP1,-0.261,-0.261,IC,1.0,both
