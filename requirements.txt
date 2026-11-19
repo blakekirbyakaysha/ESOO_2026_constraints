@@ -1,0 +1,10 @@
+# Python 3.13.14. Create the env with:  python -m venv .venv  then  .venv\Scripts\pip install -r requirements.txt
+polars==2.0.0
+pyarrow==26.0.0
+openpyxl==3.1.5
+fastexcel==0.21.0
+matplotlib==3.11.2
+numpy==2.5.4
+
+# scripts/mapping_tools/* and scripts/equation_check/fetch_* run on the global Python and also need:
+#   pandas, requests, urllib3, openpyxl

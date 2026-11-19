@@ -1,0 +1,708 @@
+column,issue,first,last,hours
+N::N_NIL_63,single missing hour interpolated,2026-07-01T23,2026-07-01T23,1.0
+N::N_NIL_63,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+N::N_NIL_63,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+N::N_NIL_63,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+N::N_NIL_63,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+N::N_NIL_63,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+N::N_NIL_63,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+N::N_NIL_63,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+N::N_NIL_63,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+N::N_NIL_63,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+N::N_NIL_63,"adjustment applied (add 65, Dec-Feb adder beyond the +45 in the equation)",2026-12-01T00,2036-02-29T23,21672.0
+N::V_NIL_MSDD,single missing hour interpolated,2026-07-01T23,2026-07-01T23,1.0
+N::V_NIL_MSDD,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+N::V_NIL_MSDD,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+N::V_NIL_MSDD,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+N::V_NIL_MSDD,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+N::V_NIL_MSDD,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+N::V_NIL_MSDD,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+N::V_NIL_MSDD,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+N::V_NIL_MSDD,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+N::V_NIL_MSDD,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+N^^N_NIL_WGLT,single missing hour interpolated,2026-07-01T23,2026-07-01T23,1.0
+N^^N_NIL_WGLT,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+N^^N_NIL_WGLT,no source data for these periods: filled 1e30,2028-07-01T00:30,2036-06-30T23:30,70127.5
+N^^V_NIL_1,single missing hour interpolated,2026-07-01T23,2026-07-01T23,1.0
+N^^V_NIL_1,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+N^^V_NIL_1,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+N^^V_NIL_1,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+N^^V_NIL_1,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+N^^V_NIL_1,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+N^^V_NIL_1,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+N^^V_NIL_1,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+N^^V_NIL_1,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+N^^V_NIL_1,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+N>>_N_NIL_UTMR1_LTWG1_no WRL,single missing hour interpolated,2026-07-01T23,2026-07-01T23,1.0
+N>>_N_NIL_UTMR1_LTWG1_no WRL,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+N>>_N_NIL_UTMR1_LTWG1_no WRL,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+N>>_N_NIL_UTMR1_LTWG1_no WRL,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+N>>_N_NIL_UTMR1_LTWG1_no WRL,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+N>>_N_NIL_UTMR1_LTWG1_no WRL,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+N>>_N_NIL_UTMR1_LTWG1_no WRL,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+N>>_N_NIL_UTMR1_LTWG1_no WRL,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+N>>_N_NIL_UTMR1_LTWG1_no WRL,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+N>>_N_NIL_UTMR1_LTWG1_no WRL,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+N>>_N_NIL_UTMR1_LTWG1_with WRL,single missing hour interpolated,2026-07-01T23,2026-07-01T23,1.0
+N>>_N_NIL_UTMR1_LTWG1_with WRL,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+N>>_N_NIL_UTMR1_LTWG1_with WRL,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+N>>_N_NIL_UTMR1_LTWG1_with WRL,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+N>>_N_NIL_UTMR1_LTWG1_with WRL,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+N>>_N_NIL_UTMR1_LTWG1_with WRL,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+N>>_N_NIL_UTMR1_LTWG1_with WRL,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+N>>_N_NIL_UTMR1_LTWG1_with WRL,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+N>>_N_NIL_UTMR1_LTWG1_with WRL,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+N>>_N_NIL_UTMR1_LTWG1_with WRL,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+N>>Hume_UTMG1_BAMG1_R_no WRL,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+N>>Hume_UTMG1_BAMG1_R_no WRL,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+N>>Hume_UTMG1_BAMG1_R_no WRL,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+N>>Hume_UTMG1_BAMG1_R_no WRL,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+N>>Hume_UTMG1_BAMG1_R_no WRL,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+N>>Hume_UTMG1_BAMG1_R_no WRL,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+N>>Hume_UTMG1_BAMG1_R_no WRL,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+N>>Hume_UTMG1_BAMG1_R_no WRL,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+N>>Hume_UTMG1_BAMG1_R_no WRL,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+N>>Hume_UTMG1_BAMG1_R_no WRL,no source data for these periods: filled 1e30,2026-07-01T00:00,2027-06-30T23:30,8760.0
+N>>Hume_UTMG1_BAMG1_R_with WRL,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+N>>Hume_UTMG1_BAMG1_R_with WRL,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+N>>Hume_UTMG1_BAMG1_R_with WRL,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+N>>Hume_UTMG1_BAMG1_R_with WRL,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+N>>Hume_UTMG1_BAMG1_R_with WRL,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+N>>Hume_UTMG1_BAMG1_R_with WRL,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+N>>Hume_UTMG1_BAMG1_R_with WRL,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+N>>Hume_UTMG1_BAMG1_R_with WRL,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+N>>Hume_UTMG1_BAMG1_R_with WRL,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+N>>Hume_UTMG1_BAMG1_R_with WRL,no source data for these periods: filled 1e30,2026-07-01T00:00,2027-06-30T23:30,8760.0
+N>>N_NIL_BASW1,single missing hour interpolated,2026-07-01T23,2026-07-01T23,1.0
+N>>N_NIL_BASW1,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+N>>N_NIL_BASW1,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+N>>N_NIL_BASW1,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+N>>N_NIL_BASW1,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+N>>N_NIL_BASW1,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+N>>N_NIL_BASW1,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+N>>N_NIL_BASW1,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+N>>N_NIL_BASW1,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+N>>N_NIL_BASW1,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+N>>N_NIL_DPTX3_DPTX4_no WRL,no source data in any folder: filled 1e30,"","",87672.0
+N>>N_NIL_DPTX3_DPTX4_with WRL,no source data in any folder: filled 1e30,"","",87672.0
+N>>N_NIL_MGLT1_MGUT1_no WRL,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+N>>N_NIL_MGLT1_MGUT1_no WRL,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+N>>N_NIL_MGLT1_MGUT1_no WRL,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+N>>N_NIL_MGLT1_MGUT1_no WRL,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+N>>N_NIL_MGLT1_MGUT1_no WRL,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+N>>N_NIL_MGLT1_MGUT1_no WRL,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+N>>N_NIL_MGLT1_MGUT1_no WRL,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+N>>N_NIL_MGLT1_MGUT1_no WRL,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+N>>N_NIL_MGLT1_MGUT1_no WRL,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+N>>N_NIL_MGLT1_MGUT1_no WRL,no source data for these periods: filled 1e30,2026-07-01T00:00,2027-06-30T23:30,8760.0
+N>>N_NIL_MGLT1_MGUT1_R_no WRL,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+N>>N_NIL_MGLT1_MGUT1_R_no WRL,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+N>>N_NIL_MGLT1_MGUT1_R_no WRL,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+N>>N_NIL_MGLT1_MGUT1_R_no WRL,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+N>>N_NIL_MGLT1_MGUT1_R_no WRL,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+N>>N_NIL_MGLT1_MGUT1_R_no WRL,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+N>>N_NIL_MGLT1_MGUT1_R_no WRL,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+N>>N_NIL_MGLT1_MGUT1_R_no WRL,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+N>>N_NIL_MGLT1_MGUT1_R_no WRL,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+N>>N_NIL_MGLT1_MGUT1_R_no WRL,no source data for these periods: filled 1e30,2026-07-01T00:00,2027-06-30T23:30,8760.0
+N>>N_NIL_MGLT1_MGUT1_R_with WRL,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+N>>N_NIL_MGLT1_MGUT1_R_with WRL,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+N>>N_NIL_MGLT1_MGUT1_R_with WRL,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+N>>N_NIL_MGLT1_MGUT1_R_with WRL,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+N>>N_NIL_MGLT1_MGUT1_R_with WRL,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+N>>N_NIL_MGLT1_MGUT1_R_with WRL,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+N>>N_NIL_MGLT1_MGUT1_R_with WRL,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+N>>N_NIL_MGLT1_MGUT1_R_with WRL,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+N>>N_NIL_MGLT1_MGUT1_R_with WRL,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+N>>N_NIL_MGLT1_MGUT1_R_with WRL,no source data for these periods: filled 1e30,2026-07-01T00:00,2027-06-30T23:30,8760.0
+N>>N_NIL_MGLT1_MGUT1_with WRL,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+N>>N_NIL_MGLT1_MGUT1_with WRL,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+N>>N_NIL_MGLT1_MGUT1_with WRL,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+N>>N_NIL_MGLT1_MGUT1_with WRL,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+N>>N_NIL_MGLT1_MGUT1_with WRL,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+N>>N_NIL_MGLT1_MGUT1_with WRL,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+N>>N_NIL_MGLT1_MGUT1_with WRL,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+N>>N_NIL_MGLT1_MGUT1_with WRL,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+N>>N_NIL_MGLT1_MGUT1_with WRL,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+N>>N_NIL_MGLT1_MGUT1_with WRL,no source data for these periods: filled 1e30,2026-07-01T00:00,2027-06-30T23:30,8760.0
+N>>N_NIL_MGUT1_LTMG1_no WRL,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+N>>N_NIL_MGUT1_LTMG1_no WRL,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+N>>N_NIL_MGUT1_LTMG1_no WRL,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+N>>N_NIL_MGUT1_LTMG1_no WRL,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+N>>N_NIL_MGUT1_LTMG1_no WRL,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+N>>N_NIL_MGUT1_LTMG1_no WRL,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+N>>N_NIL_MGUT1_LTMG1_no WRL,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+N>>N_NIL_MGUT1_LTMG1_no WRL,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+N>>N_NIL_MGUT1_LTMG1_no WRL,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+N>>N_NIL_MGUT1_LTMG1_no WRL,no source data for these periods: filled 1e30,2026-07-01T00:00,2027-06-30T23:30,8760.0
+N>>N_NIL_MGUT1_LTMG1_R_no WRL,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+N>>N_NIL_MGUT1_LTMG1_R_no WRL,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+N>>N_NIL_MGUT1_LTMG1_R_no WRL,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+N>>N_NIL_MGUT1_LTMG1_R_no WRL,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+N>>N_NIL_MGUT1_LTMG1_R_no WRL,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+N>>N_NIL_MGUT1_LTMG1_R_no WRL,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+N>>N_NIL_MGUT1_LTMG1_R_no WRL,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+N>>N_NIL_MGUT1_LTMG1_R_no WRL,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+N>>N_NIL_MGUT1_LTMG1_R_no WRL,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+N>>N_NIL_MGUT1_LTMG1_R_no WRL,no source data for these periods: filled 1e30,2026-07-01T00:00,2027-06-30T23:30,8760.0
+N>>N_NIL_MGUT1_LTMG1_R_with WRL,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+N>>N_NIL_MGUT1_LTMG1_R_with WRL,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+N>>N_NIL_MGUT1_LTMG1_R_with WRL,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+N>>N_NIL_MGUT1_LTMG1_R_with WRL,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+N>>N_NIL_MGUT1_LTMG1_R_with WRL,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+N>>N_NIL_MGUT1_LTMG1_R_with WRL,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+N>>N_NIL_MGUT1_LTMG1_R_with WRL,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+N>>N_NIL_MGUT1_LTMG1_R_with WRL,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+N>>N_NIL_MGUT1_LTMG1_R_with WRL,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+N>>N_NIL_MGUT1_LTMG1_R_with WRL,no source data for these periods: filled 1e30,2026-07-01T00:00,2027-06-30T23:30,8760.0
+N>>N_NIL_MGUT1_LTMG1_with WRL,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+N>>N_NIL_MGUT1_LTMG1_with WRL,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+N>>N_NIL_MGUT1_LTMG1_with WRL,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+N>>N_NIL_MGUT1_LTMG1_with WRL,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+N>>N_NIL_MGUT1_LTMG1_with WRL,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+N>>N_NIL_MGUT1_LTMG1_with WRL,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+N>>N_NIL_MGUT1_LTMG1_with WRL,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+N>>N_NIL_MGUT1_LTMG1_with WRL,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+N>>N_NIL_MGUT1_LTMG1_with WRL,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+N>>N_NIL_MGUT1_LTMG1_with WRL,no source data for these periods: filled 1e30,2026-07-01T00:00,2027-06-30T23:30,8760.0
+N>>N_NIL_UTMR1_LTMR1_no WRL,single missing hour interpolated,2026-07-01T23,2026-07-01T23,1.0
+N>>N_NIL_UTMR1_LTMR1_no WRL,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+N>>N_NIL_UTMR1_LTMR1_no WRL,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+N>>N_NIL_UTMR1_LTMR1_no WRL,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+N>>N_NIL_UTMR1_LTMR1_no WRL,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+N>>N_NIL_UTMR1_LTMR1_no WRL,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+N>>N_NIL_UTMR1_LTMR1_no WRL,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+N>>N_NIL_UTMR1_LTMR1_no WRL,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+N>>N_NIL_UTMR1_LTMR1_no WRL,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+N>>N_NIL_UTMR1_LTMR1_no WRL,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+N>>N_NIL_UTMR1_LTMR1_R_no WRL,single missing hour interpolated,2026-07-01T23,2026-07-01T23,1.0
+N>>N_NIL_UTMR1_LTMR1_R_no WRL,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+N>>N_NIL_UTMR1_LTMR1_R_no WRL,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+N>>N_NIL_UTMR1_LTMR1_R_no WRL,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+N>>N_NIL_UTMR1_LTMR1_R_no WRL,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+N>>N_NIL_UTMR1_LTMR1_R_no WRL,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+N>>N_NIL_UTMR1_LTMR1_R_no WRL,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+N>>N_NIL_UTMR1_LTMR1_R_no WRL,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+N>>N_NIL_UTMR1_LTMR1_R_no WRL,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+N>>N_NIL_UTMR1_LTMR1_R_no WRL,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+N>>N_NIL_UTMR1_LTMR1_R_with WRL,single missing hour interpolated,2026-07-01T23,2026-07-01T23,1.0
+N>>N_NIL_UTMR1_LTMR1_R_with WRL,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+N>>N_NIL_UTMR1_LTMR1_R_with WRL,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+N>>N_NIL_UTMR1_LTMR1_R_with WRL,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+N>>N_NIL_UTMR1_LTMR1_R_with WRL,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+N>>N_NIL_UTMR1_LTMR1_R_with WRL,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+N>>N_NIL_UTMR1_LTMR1_R_with WRL,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+N>>N_NIL_UTMR1_LTMR1_R_with WRL,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+N>>N_NIL_UTMR1_LTMR1_R_with WRL,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+N>>N_NIL_UTMR1_LTMR1_R_with WRL,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+N>>N_NIL_UTMR1_LTMR1_with WRL,single missing hour interpolated,2026-07-01T23,2026-07-01T23,1.0
+N>>N_NIL_UTMR1_LTMR1_with WRL,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+N>>N_NIL_UTMR1_LTMR1_with WRL,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+N>>N_NIL_UTMR1_LTMR1_with WRL,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+N>>N_NIL_UTMR1_LTMR1_with WRL,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+N>>N_NIL_UTMR1_LTMR1_with WRL,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+N>>N_NIL_UTMR1_LTMR1_with WRL,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+N>>N_NIL_UTMR1_LTMR1_with WRL,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+N>>N_NIL_UTMR1_LTMR1_with WRL,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+N>>N_NIL_UTMR1_LTMR1_with WRL,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+N>>N_NIL_WASS1_WAIN1,single missing hour interpolated,2026-07-01T23,2026-07-01T23,1.0
+N>>N_NIL_WASS1_WAIN1,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+N>>N_NIL_WASS1_WAIN1,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+N>>N_NIL_WASS1_WAIN1,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+N>>N_NIL_WASS1_WAIN1,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+N>>N_NIL_WASS1_WAIN1,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+N>>N_NIL_WASS1_WAIN1,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+N>>N_NIL_WASS1_WAIN1,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+N>>N_NIL_WASS1_WAIN1,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+N>>N_NIL_WASS1_WAIN1,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+N>>N_NIL_WGANM1_WLJI1_no WRL,single missing hour interpolated,2026-07-01T23,2026-07-01T23,1.0
+N>>N_NIL_WGANM1_WLJI1_no WRL,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+N>>N_NIL_WGANM1_WLJI1_no WRL,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+N>>N_NIL_WGANM1_WLJI1_no WRL,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+N>>N_NIL_WGANM1_WLJI1_no WRL,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+N>>N_NIL_WGANM1_WLJI1_no WRL,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+N>>N_NIL_WGANM1_WLJI1_no WRL,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+N>>N_NIL_WGANM1_WLJI1_no WRL,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+N>>N_NIL_WGANM1_WLJI1_no WRL,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+N>>N_NIL_WGANM1_WLJI1_no WRL,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+N>>N_NIL_WGANM1_WLJI1_with WRL,single missing hour interpolated,2026-07-01T23,2026-07-01T23,1.0
+N>>N_NIL_WGANM1_WLJI1_with WRL,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+N>>N_NIL_WGANM1_WLJI1_with WRL,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+N>>N_NIL_WGANM1_WLJI1_with WRL,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+N>>N_NIL_WGANM1_WLJI1_with WRL,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+N>>N_NIL_WGANM1_WLJI1_with WRL,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+N>>N_NIL_WGANM1_WLJI1_with WRL,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+N>>N_NIL_WGANM1_WLJI1_with WRL,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+N>>N_NIL_WGANM1_WLJI1_with WRL,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+N>>N_NIL_WGANM1_WLJI1_with WRL,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+N>>NIL_LINC1_LITO1,no source data in any folder: filled 1e30,"","",87672.0
+N>>NIL_MGLT1_MRUT1_no WRL,single missing hour interpolated,2026-07-01T23,2026-07-01T23,1.0
+N>>NIL_MGLT1_MRUT1_no WRL,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+N>>NIL_MGLT1_MRUT1_no WRL,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+N>>NIL_MGLT1_MRUT1_no WRL,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+N>>NIL_MGLT1_MRUT1_no WRL,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+N>>NIL_MGLT1_MRUT1_no WRL,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+N>>NIL_MGLT1_MRUT1_no WRL,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+N>>NIL_MGLT1_MRUT1_no WRL,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+N>>NIL_MGLT1_MRUT1_no WRL,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+N>>NIL_MGLT1_MRUT1_no WRL,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+N>>NIL_MGLT1_MRUT1_with WRL,single missing hour interpolated,2026-07-01T23,2026-07-01T23,1.0
+N>>NIL_MGLT1_MRUT1_with WRL,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+N>>NIL_MGLT1_MRUT1_with WRL,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+N>>NIL_MGLT1_MRUT1_with WRL,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+N>>NIL_MGLT1_MRUT1_with WRL,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+N>>NIL_MGLT1_MRUT1_with WRL,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+N>>NIL_MGLT1_MRUT1_with WRL,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+N>>NIL_MGLT1_MRUT1_with WRL,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+N>>NIL_MGLT1_MRUT1_with WRL,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+N>>NIL_MGLT1_MRUT1_with WRL,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+S_V_NIL_ROCOF,single missing hour interpolated,2026-07-01T23,2026-07-01T23,1.0
+S_V_NIL_ROCOF,no source data for these periods: filled 1e30,2027-07-01T00:30,2036-06-30T23:30,78911.5
+S:VS_800,single missing hour interpolated,2026-07-01T23,2026-07-01T23,1.0
+S:VS_800,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+S:VS_800,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+S:VS_800,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+S:VS_800,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+S:VS_800,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+S:VS_800,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+S:VS_800,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+S:VS_800,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+S:VS_800,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+S>>S_NIL_RBTX1_RBTX2,single missing hour interpolated,2026-07-01T23,2026-07-01T23,1.0
+S>>S_NIL_RBTX1_RBTX2,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+S>>S_NIL_RBTX1_RBTX2,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+S>>S_NIL_RBTX1_RBTX2,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+S>>S_NIL_RBTX1_RBTX2,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+S>>S_NIL_RBTX1_RBTX2,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+S>>S_NIL_RBTX1_RBTX2,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+S>>S_NIL_RBTX1_RBTX2,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+S>>S_NIL_RBTX1_RBTX2,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+S>>S_NIL_RBTX1_RBTX2,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+S>>S_NIL_WEWT1_LKDP1,single missing hour interpolated,2026-07-01T23,2026-07-01T23,1.0
+S>>S_NIL_WEWT1_LKDP1,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+S>>S_NIL_WEWT1_LKDP1,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+S>>S_NIL_WEWT1_LKDP1,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+S>>S_NIL_WEWT1_LKDP1,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+S>>S_NIL_WEWT1_LKDP1,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+S>>S_NIL_WEWT1_LKDP1,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+S>>S_NIL_WEWT1_LKDP1,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+S>>S_NIL_WEWT1_LKDP1,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+S>>S_NIL_WEWT1_LKDP1,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+T_ROCOF_1,single missing hour interpolated,2026-07-01T23,2026-07-01T23,1.0
+T_ROCOF_1,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+T_ROCOF_1,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+T_ROCOF_1,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+T_ROCOF_1,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+T_ROCOF_1,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+T_ROCOF_1,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+T_ROCOF_1,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+T_ROCOF_1,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+T_ROCOF_1,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+T_ROCOF_3_2,single missing hour interpolated,2026-07-01T23,2026-07-01T23,1.0
+T_ROCOF_3_2,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+T_ROCOF_3_2,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+T_ROCOF_3_2,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+T_ROCOF_3_2,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+T_ROCOF_3_2,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+T_ROCOF_3_2,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+T_ROCOF_3_2,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+T_ROCOF_3_2,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+T_ROCOF_3_2,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+T>>T_NIL_HAGT2_R,single missing hour interpolated,2026-07-01T23,2026-07-01T23,1.0
+T>>T_NIL_HAGT2_R,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+T>>T_NIL_HAGT2_R,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+T>>T_NIL_HAGT2_R,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+T>>T_NIL_HAGT2_R,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+T>>T_NIL_HAGT2_R,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+T>>T_NIL_HAGT2_R,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+T>>T_NIL_HAGT2_R,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+T>>T_NIL_HAGT2_R,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+T>>T_NIL_HAGT2_R,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+T>>T_NIL_SHGT2_R,single missing hour interpolated,2026-07-01T23,2026-07-01T23,1.0
+T>>T_NIL_SHGT2_R,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+T>>T_NIL_SHGT2_R,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+T>>T_NIL_SHGT2_R,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+T>>T_NIL_SHGT2_R,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+T>>T_NIL_SHGT2_R,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+T>>T_NIL_SHGT2_R,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+T>>T_NIL_SHGT2_R,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+T>>T_NIL_SHGT2_R,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+T>>T_NIL_SHGT2_R,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+V_NWVIC_GFT1_750,single missing hour interpolated,2026-07-01T23,2026-07-01T23,1.0
+V_NWVIC_GFT1_750,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+V_NWVIC_GFT1_750,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+V_NWVIC_GFT1_750,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+V_NWVIC_GFT1_750,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+V_NWVIC_GFT1_750,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+V_NWVIC_GFT1_750,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+V_NWVIC_GFT1_750,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+V_NWVIC_GFT1_750,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+V_NWVIC_GFT1_750,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+V_S_NIL_ROCOF,single missing hour interpolated,2026-07-01T23,2026-07-01T23,1.0
+V_S_NIL_ROCOF,no source data for these periods: filled 1e30,2027-07-01T00:30,2036-06-30T23:30,78911.5
+V::V_1900,single missing hour interpolated,2026-07-01T23,2026-07-01T23,1.0
+V::V_1900,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+V::V_1900,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+V::V_1900,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+V::V_1900,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+V::V_1900,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+V::V_1900,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+V::V_1900,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+V::V_1900,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+V::V_1900,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+V^^N_NIL_1,single missing hour interpolated,2026-07-01T23,2026-07-01T23,1.0
+V^^N_NIL_1,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+V^^N_NIL_1,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+V^^N_NIL_1,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+V^^N_NIL_1,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+V^^N_NIL_1,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+V^^N_NIL_1,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+V^^N_NIL_1,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+V^^N_NIL_1,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+V^^N_NIL_1,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+V>>NIL_BABE1_no WRL,single missing hour interpolated,2026-07-01T23,2026-07-01T23,1.0
+V>>NIL_BABE1_no WRL,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+V>>NIL_BABE1_no WRL,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+V>>NIL_BABE1_no WRL,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+V>>NIL_BABE1_no WRL,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+V>>NIL_BABE1_no WRL,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+V>>NIL_BABE1_no WRL,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+V>>NIL_BABE1_no WRL,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+V>>NIL_BABE1_no WRL,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+V>>NIL_BABE1_no WRL,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+V>>NIL_BABE1_R_no WRL,single missing hour interpolated,2026-07-01T23,2026-07-01T23,1.0
+V>>NIL_BABE1_R_no WRL,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+V>>NIL_BABE1_R_no WRL,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+V>>NIL_BABE1_R_no WRL,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+V>>NIL_BABE1_R_no WRL,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+V>>NIL_BABE1_R_no WRL,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+V>>NIL_BABE1_R_no WRL,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+V>>NIL_BABE1_R_no WRL,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+V>>NIL_BABE1_R_no WRL,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+V>>NIL_BABE1_R_no WRL,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+V>>NIL_BABE1_R_with WRL,single missing hour interpolated,2026-07-01T23,2026-07-01T23,1.0
+V>>NIL_BABE1_R_with WRL,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+V>>NIL_BABE1_R_with WRL,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+V>>NIL_BABE1_R_with WRL,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+V>>NIL_BABE1_R_with WRL,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+V>>NIL_BABE1_R_with WRL,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+V>>NIL_BABE1_R_with WRL,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+V>>NIL_BABE1_R_with WRL,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+V>>NIL_BABE1_R_with WRL,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+V>>NIL_BABE1_R_with WRL,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+V>>NIL_BABE1_with WRL,single missing hour interpolated,2026-07-01T23,2026-07-01T23,1.0
+V>>NIL_BABE1_with WRL,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+V>>NIL_BABE1_with WRL,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+V>>NIL_BABE1_with WRL,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+V>>NIL_BABE1_with WRL,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+V>>NIL_BABE1_with WRL,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+V>>NIL_BABE1_with WRL,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+V>>NIL_BABE1_with WRL,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+V>>NIL_BABE1_with WRL,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+V>>NIL_BABE1_with WRL,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+V>>NIL_BUTX1_BUTX2_no WRL,single missing hour interpolated,2026-07-01T23,2026-07-01T23,1.0
+V>>NIL_BUTX1_BUTX2_no WRL,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+V>>NIL_BUTX1_BUTX2_no WRL,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+V>>NIL_BUTX1_BUTX2_no WRL,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+V>>NIL_BUTX1_BUTX2_no WRL,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+V>>NIL_BUTX1_BUTX2_no WRL,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+V>>NIL_BUTX1_BUTX2_no WRL,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+V>>NIL_BUTX1_BUTX2_no WRL,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+V>>NIL_BUTX1_BUTX2_no WRL,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+V>>NIL_BUTX1_BUTX2_no WRL,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+V>>NIL_BUTX1_BUTX2_with WRL,single missing hour interpolated,2026-07-01T23,2026-07-01T23,1.0
+V>>NIL_BUTX1_BUTX2_with WRL,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+V>>NIL_BUTX1_BUTX2_with WRL,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+V>>NIL_BUTX1_BUTX2_with WRL,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+V>>NIL_BUTX1_BUTX2_with WRL,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+V>>NIL_BUTX1_BUTX2_with WRL,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+V>>NIL_BUTX1_BUTX2_with WRL,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+V>>NIL_BUTX1_BUTX2_with WRL,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+V>>NIL_BUTX1_BUTX2_with WRL,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+V>>NIL_BUTX1_BUTX2_with WRL,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+V>>NIL_MLGL1_MLGL2_no WRL,single missing hour interpolated,2026-07-01T23,2026-07-01T23,1.0
+V>>NIL_MLGL1_MLGL2_no WRL,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+V>>NIL_MLGL1_MLGL2_no WRL,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+V>>NIL_MLGL1_MLGL2_no WRL,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+V>>NIL_MLGL1_MLGL2_no WRL,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+V>>NIL_MLGL1_MLGL2_no WRL,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+V>>NIL_MLGL1_MLGL2_no WRL,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+V>>NIL_MLGL1_MLGL2_no WRL,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+V>>NIL_MLGL1_MLGL2_no WRL,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+V>>NIL_MLGL1_MLGL2_no WRL,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+V>>NIL_MLGL1_MLGL2_with WRL,single missing hour interpolated,2026-07-01T23,2026-07-01T23,1.0
+V>>NIL_MLGL1_MLGL2_with WRL,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+V>>NIL_MLGL1_MLGL2_with WRL,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+V>>NIL_MLGL1_MLGL2_with WRL,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+V>>NIL_MLGL1_MLGL2_with WRL,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+V>>NIL_MLGL1_MLGL2_with WRL,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+V>>NIL_MLGL1_MLGL2_with WRL,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+V>>NIL_MLGL1_MLGL2_with WRL,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+V>>NIL_MLGL1_MLGL2_with WRL,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+V>>NIL_MLGL1_MLGL2_with WRL,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+V>>NIL_SMTX2_SMTX1_R_no WRL,no source data in any folder: filled 1e30,"","",87672.0
+V>>NIL_SMTX2_SMTX1_R_with WRL,no source data in any folder: filled 1e30,"","",87672.0
+V>>NIL_SMTX5,single missing hour interpolated,2026-07-01T23,2026-07-01T23,1.0
+V>>NIL_SMTX5,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+V>>NIL_SMTX5,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+V>>NIL_SMTX5,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+V>>NIL_SMTX5,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+V>>NIL_SMTX5,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+V>>NIL_SMTX5,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+V>>NIL_SMTX5,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+V>>NIL_SMTX5,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+V>>NIL_SMTX5,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+V>>NIL_WBBA_KGBE_no WRL,single missing hour interpolated,2026-07-01T23,2026-07-01T23,1.0
+V>>NIL_WBBA_KGBE_no WRL,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+V>>NIL_WBBA_KGBE_no WRL,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+V>>NIL_WBBA_KGBE_no WRL,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+V>>NIL_WBBA_KGBE_no WRL,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+V>>NIL_WBBA_KGBE_no WRL,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+V>>NIL_WBBA_KGBE_no WRL,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+V>>NIL_WBBA_KGBE_no WRL,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+V>>NIL_WBBA_KGBE_no WRL,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+V>>NIL_WBBA_KGBE_no WRL,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+V>>NIL_WBBA_KGBE_with WRL,single missing hour interpolated,2026-07-01T23,2026-07-01T23,1.0
+V>>NIL_WBBA_KGBE_with WRL,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+V>>NIL_WBBA_KGBE_with WRL,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+V>>NIL_WBBA_KGBE_with WRL,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+V>>NIL_WBBA_KGBE_with WRL,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+V>>NIL_WBBA_KGBE_with WRL,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+V>>NIL_WBBA_KGBE_with WRL,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+V>>NIL_WBBA_KGBE_with WRL,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+V>>NIL_WBBA_KGBE_with WRL,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+V>>NIL_WBBA_KGBE_with WRL,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+V>>NIL_WBBA_RCWEKG_no WRL,single missing hour interpolated,2026-07-01T23,2026-07-01T23,1.0
+V>>NIL_WBBA_RCWEKG_no WRL,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+V>>NIL_WBBA_RCWEKG_no WRL,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+V>>NIL_WBBA_RCWEKG_no WRL,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+V>>NIL_WBBA_RCWEKG_no WRL,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+V>>NIL_WBBA_RCWEKG_no WRL,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+V>>NIL_WBBA_RCWEKG_no WRL,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+V>>NIL_WBBA_RCWEKG_no WRL,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+V>>NIL_WBBA_RCWEKG_no WRL,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+V>>NIL_WBBA_RCWEKG_no WRL,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+V>>NIL_WBBA_RCWEKG_with WRL,single missing hour interpolated,2026-07-01T23,2026-07-01T23,1.0
+V>>NIL_WBBA_RCWEKG_with WRL,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+V>>NIL_WBBA_RCWEKG_with WRL,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+V>>NIL_WBBA_RCWEKG_with WRL,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+V>>NIL_WBBA_RCWEKG_with WRL,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+V>>NIL_WBBA_RCWEKG_with WRL,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+V>>NIL_WBBA_RCWEKG_with WRL,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+V>>NIL_WBBA_RCWEKG_with WRL,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+V>>NIL_WBBA_RCWEKG_with WRL,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+V>>NIL_WBBA_RCWEKG_with WRL,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+V>>NIL_WBBA1_no WRL,single missing hour interpolated,2026-07-01T23,2026-07-01T23,1.0
+V>>NIL_WBBA1_no WRL,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+V>>NIL_WBBA1_no WRL,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+V>>NIL_WBBA1_no WRL,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+V>>NIL_WBBA1_no WRL,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+V>>NIL_WBBA1_no WRL,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+V>>NIL_WBBA1_no WRL,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+V>>NIL_WBBA1_no WRL,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+V>>NIL_WBBA1_no WRL,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+V>>NIL_WBBA1_no WRL,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+V>>NIL_WBBA1_with WRL,single missing hour interpolated,2026-07-01T23,2026-07-01T23,1.0
+V>>NIL_WBBA1_with WRL,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+V>>NIL_WBBA1_with WRL,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+V>>NIL_WBBA1_with WRL,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+V>>NIL_WBBA1_with WRL,no source data for these periods: filled 1e30,2030-07-01T00:30,2036-06-30T23:30,52607.5
+V>>S_NIL_MHNW1_MHNW2_NO_MLRB,single missing hour interpolated,2026-07-01T23,2026-07-01T23,1.0
+V>>S_NIL_MHNW1_MHNW2_NO_MLRB,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+V>>S_NIL_MHNW1_MHNW2_NO_MLRB,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+V>>S_NIL_MHNW1_MHNW2_NO_MLRB,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+V>>S_NIL_MHNW1_MHNW2_NO_MLRB,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+V>>S_NIL_MHNW1_MHNW2_NO_MLRB,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+V>>S_NIL_MHNW1_MHNW2_NO_MLRB,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+V>>S_NIL_MHNW1_MHNW2_NO_MLRB,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+V>>S_NIL_MHNW1_MHNW2_NO_MLRB,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+V>>S_NIL_MHNW1_MHNW2_NO_MLRB,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+V>>V_NIL_BAML1_ELML1_no WRL,single missing hour interpolated,2026-07-01T23,2026-07-01T23,1.0
+V>>V_NIL_BAML1_ELML1_no WRL,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+V>>V_NIL_BAML1_ELML1_no WRL,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+V>>V_NIL_BAML1_ELML1_no WRL,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+V>>V_NIL_BAML1_ELML1_no WRL,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+V>>V_NIL_BAML1_ELML1_no WRL,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+V>>V_NIL_BAML1_ELML1_no WRL,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+V>>V_NIL_BAML1_ELML1_no WRL,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+V>>V_NIL_BAML1_ELML1_no WRL,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+V>>V_NIL_BAML1_ELML1_no WRL,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+V>>V_NIL_BAML1_ELML1_with WRL,single missing hour interpolated,2026-07-01T23,2026-07-01T23,1.0
+V>>V_NIL_BAML1_ELML1_with WRL,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+V>>V_NIL_BAML1_ELML1_with WRL,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+V>>V_NIL_BAML1_ELML1_with WRL,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+V>>V_NIL_BAML1_ELML1_with WRL,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+V>>V_NIL_BAML1_ELML1_with WRL,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+V>>V_NIL_BAML1_ELML1_with WRL,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+V>>V_NIL_BAML1_ELML1_with WRL,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+V>>V_NIL_BAML1_ELML1_with WRL,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+V>>V_NIL_BAML1_ELML1_with WRL,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+V>>V_NIL_DDSM1_DDSM2_no WRL,single missing hour interpolated,2026-07-01T23,2026-07-01T23,1.0
+V>>V_NIL_DDSM1_DDSM2_no WRL,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+V>>V_NIL_DDSM1_DDSM2_no WRL,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+V>>V_NIL_DDSM1_DDSM2_no WRL,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+V>>V_NIL_DDSM1_DDSM2_no WRL,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+V>>V_NIL_DDSM1_DDSM2_no WRL,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+V>>V_NIL_DDSM1_DDSM2_no WRL,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+V>>V_NIL_DDSM1_DDSM2_no WRL,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+V>>V_NIL_DDSM1_DDSM2_no WRL,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+V>>V_NIL_DDSM1_DDSM2_no WRL,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+V>>V_NIL_DDSM1_DDSM2_no WRL,"adjustment applied (set 10000, SIPS)",2026-11-01T00,2032-03-31T23,21792.0
+V>>V_NIL_DDSM1_DDSM2_with WRL,single missing hour interpolated,2026-07-01T23,2026-07-01T23,1.0
+V>>V_NIL_DDSM1_DDSM2_with WRL,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+V>>V_NIL_DDSM1_DDSM2_with WRL,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+V>>V_NIL_DDSM1_DDSM2_with WRL,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+V>>V_NIL_DDSM1_DDSM2_with WRL,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+V>>V_NIL_DDSM1_DDSM2_with WRL,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+V>>V_NIL_DDSM1_DDSM2_with WRL,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+V>>V_NIL_DDSM1_DDSM2_with WRL,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+V>>V_NIL_DDSM1_DDSM2_with WRL,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+V>>V_NIL_DDSM1_DDSM2_with WRL,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+V>>V_NIL_DDSM1_DDSM2_with WRL,"adjustment applied (set 10000, SIPS)",2026-11-01T00,2032-03-31T23,21792.0
+V>>V_NIL_GLLR1_no WRL,single missing hour interpolated,2026-07-01T23,2026-07-01T23,1.0
+V>>V_NIL_GLLR1_no WRL,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+V>>V_NIL_GLLR1_no WRL,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+V>>V_NIL_GLLR1_no WRL,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+V>>V_NIL_GLLR1_no WRL,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+V>>V_NIL_GLLR1_no WRL,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+V>>V_NIL_GLLR1_no WRL,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+V>>V_NIL_GLLR1_no WRL,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+V>>V_NIL_GLLR1_no WRL,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+V>>V_NIL_GLLR1_no WRL,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+V>>V_NIL_GLLR1_with WRL,single missing hour interpolated,2026-07-01T23,2026-07-01T23,1.0
+V>>V_NIL_GLLR1_with WRL,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+V>>V_NIL_GLLR1_with WRL,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+V>>V_NIL_GLLR1_with WRL,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+V>>V_NIL_GLLR1_with WRL,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+V>>V_NIL_GLLR1_with WRL,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+V>>V_NIL_GLLR1_with WRL,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+V>>V_NIL_GLLR1_with WRL,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+V>>V_NIL_GLLR1_with WRL,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+V>>V_NIL_GLLR1_with WRL,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+V>>V_NIL_GNTX1_GNTX2_R,single missing hour interpolated,2026-07-01T23,2026-07-01T23,1.0
+V>>V_NIL_GNTX1_GNTX2_R,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+V>>V_NIL_GNTX1_GNTX2_R,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+V>>V_NIL_GNTX1_GNTX2_R,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+V>>V_NIL_GNTX1_GNTX2_R,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+V>>V_NIL_GNTX1_GNTX2_R,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+V>>V_NIL_GNTX1_GNTX2_R,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+V>>V_NIL_GNTX1_GNTX2_R,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+V>>V_NIL_GNTX1_GNTX2_R,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+V>>V_NIL_GNTX1_GNTX2_R,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+V>>V_NIL_LRDP1_no WRL,single missing hour interpolated,2026-07-01T23,2026-07-01T23,1.0
+V>>V_NIL_LRDP1_no WRL,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+V>>V_NIL_LRDP1_no WRL,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+V>>V_NIL_LRDP1_no WRL,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+V>>V_NIL_LRDP1_no WRL,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+V>>V_NIL_LRDP1_no WRL,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+V>>V_NIL_LRDP1_no WRL,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+V>>V_NIL_LRDP1_no WRL,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+V>>V_NIL_LRDP1_no WRL,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+V>>V_NIL_LRDP1_no WRL,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+V>>V_NIL_LRDP1_with WRL,single missing hour interpolated,2026-07-01T23,2026-07-01T23,1.0
+V>>V_NIL_LRDP1_with WRL,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+V>>V_NIL_LRDP1_with WRL,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+V>>V_NIL_LRDP1_with WRL,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+V>>V_NIL_LRDP1_with WRL,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+V>>V_NIL_LRDP1_with WRL,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+V>>V_NIL_LRDP1_with WRL,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+V>>V_NIL_LRDP1_with WRL,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+V>>V_NIL_LRDP1_with WRL,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+V>>V_NIL_LRDP1_with WRL,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+V>>V_NIL_MLGR1_BABB1_R,single missing hour interpolated,2026-07-01T23,2026-07-01T23,1.0
+V>>V_NIL_MLGR1_BABB1_R,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+V>>V_NIL_MLGR1_BABB1_R,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+V>>V_NIL_MLGR1_BABB1_R,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+V>>V_NIL_MLGR1_BABB1_R,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+V>>V_NIL_MLGR1_BABB1_R,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+V>>V_NIL_MLGR1_BABB1_R,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+V>>V_NIL_MLGR1_BABB1_R,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+V>>V_NIL_MLGR1_BABB1_R,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+V>>V_NIL_MLGR1_BABB1_R,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+V>>V_NIL_MRDD1_MRDB2_no WRL,single missing hour interpolated,2026-07-01T23,2026-07-01T23,1.0
+V>>V_NIL_MRDD1_MRDB2_no WRL,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+V>>V_NIL_MRDD1_MRDB2_no WRL,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+V>>V_NIL_MRDD1_MRDB2_no WRL,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+V>>V_NIL_MRDD1_MRDB2_no WRL,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+V>>V_NIL_MRDD1_MRDB2_no WRL,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+V>>V_NIL_MRDD1_MRDB2_no WRL,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+V>>V_NIL_MRDD1_MRDB2_no WRL,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+V>>V_NIL_MRDD1_MRDB2_no WRL,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+V>>V_NIL_MRDD1_MRDB2_no WRL,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+V>>V_NIL_MRDD1_MRDB2_no WRL,"adjustment applied (set 10000, SIPS)",2026-11-01T00,2032-03-31T23,21792.0
+V>>V_NIL_MRDD1_MRDB2_with WRL,single missing hour interpolated,2026-07-01T23,2026-07-01T23,1.0
+V>>V_NIL_MRDD1_MRDB2_with WRL,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+V>>V_NIL_MRDD1_MRDB2_with WRL,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+V>>V_NIL_MRDD1_MRDB2_with WRL,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+V>>V_NIL_MRDD1_MRDB2_with WRL,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+V>>V_NIL_MRDD1_MRDB2_with WRL,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+V>>V_NIL_MRDD1_MRDB2_with WRL,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+V>>V_NIL_MRDD1_MRDB2_with WRL,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+V>>V_NIL_MRDD1_MRDB2_with WRL,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+V>>V_NIL_MRDD1_MRDB2_with WRL,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+V>>V_NIL_MRDD1_MRDB2_with WRL,"adjustment applied (set 10000, SIPS)",2026-11-01T00,2032-03-31T23,21792.0
+V>>V_NIL_WBBA1_RCKESS1_no WRL,single missing hour interpolated,2026-07-01T23,2026-07-01T23,1.0
+V>>V_NIL_WBBA1_RCKESS1_no WRL,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+V>>V_NIL_WBBA1_RCKESS1_no WRL,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+V>>V_NIL_WBBA1_RCKESS1_no WRL,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+V>>V_NIL_WBBA1_RCKESS1_no WRL,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+V>>V_NIL_WBBA1_RCKESS1_no WRL,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+V>>V_NIL_WBBA1_RCKESS1_no WRL,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+V>>V_NIL_WBBA1_RCKESS1_no WRL,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+V>>V_NIL_WBBA1_RCKESS1_no WRL,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+V>>V_NIL_WBBA1_RCKESS1_no WRL,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+V>>V_NIL_WBBA1_RCKESS1_with WRL,single missing hour interpolated,2026-07-01T23,2026-07-01T23,1.0
+V>>V_NIL_WBBA1_RCKESS1_with WRL,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+V>>V_NIL_WBBA1_RCKESS1_with WRL,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+V>>V_NIL_WBBA1_RCKESS1_with WRL,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+V>>V_NIL_WBBA1_RCKESS1_with WRL,no source data for these periods: filled 1e30,2030-07-01T00:30,2036-06-30T23:30,52607.5
+V>>V_NIL_WETX1_R,single missing hour interpolated,2026-07-01T23,2026-07-01T23,1.0
+V>>V_NIL_WETX1_R,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+V>>V_NIL_WETX1_R,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+V>>V_NIL_WETX1_R,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+V>>V_NIL_WETX1_R,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+V>>V_NIL_WETX1_R,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+V>>V_NIL_WETX1_R,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+V>>V_NIL_WETX1_R,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+V>>V_NIL_WETX1_R,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+V>>V_NIL_WETX1_R,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+V>>V_NIL_YPAHWC1_YPCHWG2_R,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+V>>V_NIL_YPAHWC1_YPCHWG2_R,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+V>>V_NIL_YPAHWC1_YPCHWG2_R,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+V>>V_NIL_YPAHWC1_YPCHWG2_R,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+V>>V_NIL_YPAHWC1_YPCHWG2_R,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+V>>V_NIL_YPAHWC1_YPCHWG2_R,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+V>>V_NIL_YPAHWC1_YPCHWG2_R,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+V>>V_NIL_YPAHWC1_YPCHWG2_R,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+V>>V_NIL_YPAHWC1_YPCHWG2_R,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+V>>V_NIL_YPAHWC1_YPCHWG2_R,no source data for these periods: filled 1e30,2026-07-01T00:00,2027-06-30T23:30,8760.0
+V>V_NIL_MLGL2_MLGL1_no WRL,single missing hour interpolated,2026-07-01T23,2026-07-01T23,1.0
+V>V_NIL_MLGL2_MLGL1_no WRL,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+V>V_NIL_MLGL2_MLGL1_no WRL,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+V>V_NIL_MLGL2_MLGL1_no WRL,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+V>V_NIL_MLGL2_MLGL1_no WRL,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+V>V_NIL_MLGL2_MLGL1_no WRL,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+V>V_NIL_MLGL2_MLGL1_no WRL,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+V>V_NIL_MLGL2_MLGL1_no WRL,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+V>V_NIL_MLGL2_MLGL1_no WRL,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+V>V_NIL_MLGL2_MLGL1_no WRL,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+V>V_NIL_MLGL2_MLGL1_with WRL,single missing hour interpolated,2026-07-01T23,2026-07-01T23,1.0
+V>V_NIL_MLGL2_MLGL1_with WRL,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+V>V_NIL_MLGL2_MLGL1_with WRL,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+V>V_NIL_MLGL2_MLGL1_with WRL,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+V>V_NIL_MLGL2_MLGL1_with WRL,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+V>V_NIL_MLGL2_MLGL1_with WRL,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+V>V_NIL_MLGL2_MLGL1_with WRL,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+V>V_NIL_MLGL2_MLGL1_with WRL,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+V>V_NIL_MLGL2_MLGL1_with WRL,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+V>V_NIL_MLGL2_MLGL1_with WRL,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+VN:S_HIC+PEC,single missing hour interpolated,2027-07-01T23,2027-07-01T23,1.0
+VN:S_HIC+PEC,single missing hour interpolated,2028-07-01T23,2028-07-01T23,1.0
+VN:S_HIC+PEC,single missing hour interpolated,2029-07-01T23,2029-07-01T23,1.0
+VN:S_HIC+PEC,single missing hour interpolated,2030-07-01T23,2030-07-01T23,1.0
+VN:S_HIC+PEC,single missing hour interpolated,2031-07-01T23,2031-07-01T23,1.0
+VN:S_HIC+PEC,single missing hour interpolated,2032-07-01T23,2032-07-01T23,1.0
+VN:S_HIC+PEC,single missing hour interpolated,2033-07-01T23,2033-07-01T23,1.0
+VN:S_HIC+PEC,single missing hour interpolated,2034-07-01T23,2034-07-01T23,1.0
+VN:S_HIC+PEC,single missing hour interpolated,2035-07-01T23,2035-07-01T23,1.0
+VN:S_HIC+PEC,no source data for these periods: filled 1e30,2026-07-01T00:00,2027-06-30T23:30,8760.0
