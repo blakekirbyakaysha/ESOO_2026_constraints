@@ -21,12 +21,17 @@ desktop.ini
 .DS_Store
 
 # ---- Project-specific large data ----
+# Small hand-made files inside these folders are re-included with "!" lines.
 cache/
-inputs/raw/
-inputs/compare_to_MMS/
+inputs/raw/*
+!inputs/raw/ESOO_2026_constraint_RHS.csv
+!inputs/raw/ESOO_subequations.xlsx
+inputs/compare_to_MMS/*
+!inputs/compare_to_MMS/Equation_mapping_populated_BK_manual.xlsx
 inputs/ESOO_results/
 inputs/ESOO_results_no_WRL/
 inputs/ESOO_results_no_WRL_v1/
-outputs/FINAL/rhs_30min/
+outputs/FINAL/rhs_30min/*
+!outputs/FINAL/rhs_30min/ESOO_2026_constraint_RHS_30min_report.csv
 inputs/final_rhs/
 inputs/ESOO2026 Constraints Details.xlsx
